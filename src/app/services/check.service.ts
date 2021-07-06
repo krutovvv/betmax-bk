@@ -3,7 +3,7 @@ import { Injectable } from '@angular/core';
 @Injectable({
   providedIn: 'root'
 })
-export class RegexpService {
+export class CheckService {
   public types = [
     {
       name: 'WIN_HALF_MATCH',
@@ -17,6 +17,7 @@ export class RegexpService {
         /^(?:(?<period_name>SET|HALF)_(?<period_no>\d\d)__)?(?<basis>CORRECT_SCORE)(?:_(?<ot_rt>OT|RT|ET))?\((?<pivot>[0-9]+:[0-9]+|ANY_OTHER|ANY_P[12])\)$/
       ]
     },
+
     {
       name: 'TEAMS_TO_SCORE',
       patterns: [
@@ -47,13 +48,25 @@ export class RegexpService {
     {
       name: 'TOTALS_ODD',
       patterns: [
-        /^(?:(?<period_name>SET|HALF)_(?<period_no>\d\d)__)?(?:(?<plr>P[12])__)?(?<basis>TOTALS)(?:_(?<ot_rt>OT|RT|ET|CT))?__(?<dst>ODD|EVEN)$/
+        /^(?:(?<period_name>SET|HALF)_(?<period_no>\d\d)__)?(?:(?<plr>P[12])__)?(?<basis>TOTALS)(?:_(?<ot_rt>OT|RT|ET|CT))?__(?<dst>ODD)$/
+      ]
+    },
+    {
+      name: 'TOTALS_EVEN',
+      patterns: [
+        /^(?:(?<period_name>SET|HALF)_(?<period_no>\d\d)__)?(?:(?<plr>P[12])__)?(?<basis>TOTALS)(?:_(?<ot_rt>OT|RT|ET|CT))?__(?<dst>EVEN)$/
       ]
     },
     {
       name: 'TOTALS_CORNERS_ODD',
       patterns: [
-        /^(?:(?<period_name>SET|HALF)_(?<period_no>\d\d)__)?(?:(?<plr>P[12])__)?(?<basis>TOTALS_CORNERS)(?:_(?<ot_rt>OT|RT|ET|CT))?__(?<dst>ODD|EVEN)$/
+        /^(?:(?<period_name>SET|HALF)_(?<period_no>\d\d)__)?(?:(?<plr>P[12])__)?(?<basis>TOTALS_CORNERS)(?:_(?<ot_rt>OT|RT|ET|CT))?__(?<dst>ODD)$/
+      ]
+    },
+    {
+      name: 'TOTALS_CORNERS_EVEN',
+      patterns: [
+        /^(?:(?<period_name>SET|HALF)_(?<period_no>\d\d)__)?(?:(?<plr>P[12])__)?(?<basis>TOTALS_CORNERS)(?:_(?<ot_rt>OT|RT|ET|CT))?__(?<dst>EVEN)$/
       ]
     },
     {

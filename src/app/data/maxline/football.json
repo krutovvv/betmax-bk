@@ -4,286 +4,319 @@
     "team2": "Уэльс",
     "type": "Победа первой команды",
     "coff": "1.55",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Победа первой команды</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.55<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Победа первой команды</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.55<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "WIN__P1"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "Ничья",
     "coff": "3.8",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Ничья</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->3.8<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Ничья</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->3.8<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "WIN__PX"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "Победа второй команды",
     "coff": "8",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Победа второй команды</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->8<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Победа второй команды</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->8<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "WIN__P2"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "Победа 1-й команды или ничья",
     "coff": "1.1",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Победа 1-й команды или ничья</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.1<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Победа 1-й команды или ничья</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.1<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "WIN__1X"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "Победа любой из команд",
     "coff": "1.29",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Победа любой из команд</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.29<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Победа любой из команд</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.29<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "WIN__12"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "Победа 2-й команды или ничья",
     "coff": "2.55",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Победа 2-й команды или ничья</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->2.55<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
-  },
-  {
-    "team1": "Италия",
-    "team2": "Уэльс",
-    "type": "Победа 2-й команды или ничья",
-    "coff": "2.55",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Победа 2-й команды или ничья</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->2.55<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Победа 2-й команды или ничья</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->2.55<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "WIN__2X"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "Фора: 1 (-1)",
     "coff": "2.05",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Фора:  1 (-1)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->2.05<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Фора:  1 (-1)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->2.05<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "HANDICAP__P1(-1)"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "Фора: 2 (+1)",
     "coff": "1.82",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Фора:  2 (+1)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.82<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Фора:  2 (+1)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.82<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "HANDICAP__P2(1)"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "Тотал: Меньше (2.5)",
     "coff": "1.66",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Тотал: Меньше (2.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.66<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Тотал: Меньше (2.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.66<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "TOTALS__UNDER(2.5)"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "Тотал: Больше (2.5)",
     "coff": "2.3",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Тотал: Больше (2.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->2.3<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Тотал: Больше (2.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->2.3<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "TOTALS__OVER(2.5)"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "1-й тайм: Победа первой команды",
     "coff": "2.2",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">1-й тайм: Победа первой команды</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->2.2<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">1-й тайм: Победа первой команды</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->2.2<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "HALF_01__WIN__P1"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "1-й тайм: Ничья",
     "coff": "2.15",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">1-й тайм: Ничья</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->2.15<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">1-й тайм: Ничья</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->2.15<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "HALF_01__WIN__PX"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "1-й тайм: Победа второй команды",
     "coff": "6.5",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">1-й тайм: Победа второй команды</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->6.5<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">1-й тайм: Победа второй команды</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->6.5<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "HALF_01__WIN__P2"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "1-й тайм: Победа 1-й команды или ничья",
     "coff": "1.1",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">1-й тайм: Победа 1-й команды или ничья</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.1<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">1-й тайм: Победа 1-й команды или ничья</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.1<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "HALF_01__WIN__1X"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "1-й тайм: Победа любой из команд",
     "coff": "1.67",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">1-й тайм: Победа любой из команд</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.67<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">1-й тайм: Победа любой из команд</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.67<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "HALF_01__WIN__12"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "1-й тайм: Победа 2-й команды или ничья",
     "coff": "1.64",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">1-й тайм: Победа 2-й команды или ничья</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.64<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">1-й тайм: Победа 2-й команды или ничья</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.64<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "HALF_01__WIN__2X"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "1-й тайм: Фора: 1 (0)",
     "coff": "1.24",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">1-й тайм: Фора:  1 (0)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.24<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">1-й тайм: Фора:  1 (0)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.24<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "HALF_01__HANDICAP__P1(0)"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "1-й тайм: Фора: 2 (0)",
     "coff": "3.9",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">1-й тайм: Фора:  2 (0)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->3.9<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">1-й тайм: Фора:  2 (0)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->3.9<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "HALF_01__HANDICAP__P2(0)"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "1-й тайм: Тотал: Меньше (1.5)",
     "coff": "1.33",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">1-й тайм: Тотал: Меньше (1.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.33<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">1-й тайм: Тотал: Меньше (1.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.33<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "HALF_01__TOTALS__UNDER(1.5)"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "1-й тайм: Тотал: Больше (1.5)",
     "coff": "3.2",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">1-й тайм: Тотал: Больше (1.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->3.2<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">1-й тайм: Тотал: Больше (1.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->3.2<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "HALF_01__TOTALS__OVER(1.5)"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "2-й тайм: Победа первой команды",
     "coff": "1.92",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">2-й тайм: Победа первой команды</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.92<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">2-й тайм: Победа первой команды</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.92<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "HALF_02__WIN__P1"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "2-й тайм: Ничья",
     "coff": "2.55",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">2-й тайм: Ничья</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->2.55<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">2-й тайм: Ничья</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->2.55<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "HALF_02__WIN__PX"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "2-й тайм: Победа второй команды",
     "coff": "6.1",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">2-й тайм: Победа второй команды</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->6.1<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">2-й тайм: Победа второй команды</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->6.1<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "HALF_02__WIN__P2"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "2-й тайм: Победа 1-й команды или ничья",
     "coff": "1.11",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">2-й тайм: Победа 1-й команды или ничья</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.11<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">2-й тайм: Победа 1-й команды или ничья</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.11<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "HALF_02__WIN__1X"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "2-й тайм: Победа любой из команд",
     "coff": "1.49",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">2-й тайм: Победа любой из команд</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.49<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">2-й тайм: Победа любой из команд</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.49<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "HALF_02__WIN__12"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "2-й тайм: Победа 2-й команды или ничья",
     "coff": "1.84",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">2-й тайм: Победа 2-й команды или ничья</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.84<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">2-й тайм: Победа 2-й команды или ничья</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.84<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "HALF_02__WIN__2X"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "2-й тайм: Фора: 1 (0)",
     "coff": "3.3",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">2-й тайм: Фора:  1 (0)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->3.3<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">2-й тайм: Фора:  1 (0)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->3.3<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "HALF_02__HANDICAP__P1(0)"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "2-й тайм: Фора: 2 (0)",
     "coff": "1.31",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">2-й тайм: Фора:  2 (0)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.31<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">2-й тайм: Фора:  2 (0)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.31<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "HALF_02__HANDICAP__P2(0)"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "2-й тайм: Тотал: Меньше (1.5)",
     "coff": "1.55",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">2-й тайм: Тотал: Меньше (1.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.55<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">2-й тайм: Тотал: Меньше (1.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.55<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "HALF_02__TOTALS__UNDER(1.5)"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "2-й тайм: Тотал: Больше (1.5)",
     "coff": "2.4",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">2-й тайм: Тотал: Больше (1.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->2.4<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">2-й тайм: Тотал: Больше (1.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->2.4<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "HALF_02__TOTALS__OVER(1.5)"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "Азиатская фора: 1 (-2.75)",
     "coff": "7.2",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Азиатская фора:  1 (-2.75)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->7.2<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Азиатская фора:  1 (-2.75)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->7.2<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "HANDICAP__P1(-2.75)"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "Азиатская фора: 2 (+2.75)",
     "coff": "1.08",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Азиатская фора:  2 (+2.75)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.08<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Азиатская фора:  2 (+2.75)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.08<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "HANDICAP__P2(2.75)"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "Азиатский тотал: Меньше (1.25)",
     "coff": "3.8",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Азиатский тотал: Меньше (1.25)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->3.8<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Азиатский тотал: Меньше (1.25)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->3.8<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "TOTALS__UNDER(1.25)"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "Азиатский тотал: Больше (1.25)",
     "coff": "1.25",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Азиатский тотал: Больше (1.25)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.25<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Азиатский тотал: Больше (1.25)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.25<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "TOTALS__OVER(1.25)"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "Точное кол-во голов (0): Да",
     "coff": "9.1",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Точное кол-во голов (0): Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->9.1<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Точное кол-во голов (0): Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->9.1<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "TOTALS__EXACT(0)"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "Кол-во голов в матче (2-3): Да",
     "coff": "1.9",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Кол-во голов в матче (2-3): Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.9<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Кол-во голов в матче (2-3): Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.9<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "TOTALS__EXACT(2-3)"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "Чётный тотал: Да",
     "coff": "1.84",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Чётный тотал: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.84<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Чётный тотал: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.84<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "TOTALS__EVEN"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "1-й тайм: Тотал: Меньше (1)",
     "coff": "1.7",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">1-й тайм: Тотал: Меньше (1)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.7<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">1-й тайм: Тотал: Меньше (1)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.7<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "HALF_01__TOTALS__UNDER(1)"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "Первый тайм/матч: П1П1",
     "coff": "2.34",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Первый тайм/матч: П1П1</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->2.34<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Первый тайм/матч: П1П1</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->2.34<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "WIN_HALF_MATCH__P1_P1"
   },
   {
     "team1": "Италия",
     "team2": "Уэльс",
     "type": "Первый тайм/матч: П2П1",
     "coff": "27",
-    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Первый тайм/матч: П2П1</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->27<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Первый тайм/матч: П2П1</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->27<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
+    "test": "WIN_HALF_MATCH__P2_P1"
   }
 ]

@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "betmax-maxline": {
+    "betmax-bk": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -17,7 +17,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/betmax-maxline",
+            "outputPath": "dist/betmax-bk",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -66,18 +66,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "betmax-maxline:build"
+            "browserTarget": "betmax-bk:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "betmax-maxline:build:production"
+              "browserTarget": "betmax-bk:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "betmax-maxline:build"
+            "browserTarget": "betmax-bk:build"
           }
         },
         "test": {
@@ -114,15 +114,19 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "e2e/protractor.conf.js",
-            "devServerTarget": "betmax-maxline:serve"
+            "devServerTarget": "betmax-bk:serve"
           },
           "configurations": {
             "production": {
-              "devServerTarget": "betmax-maxline:serve:production"
+              "devServerTarget": "betmax-bk:serve:production"
             }
           }
         }
       }
-    }},
-  "defaultProject": "betmax-maxline"
+    }
+  },
+  "defaultProject": "betmax-bk",
+  "cli": {
+    "analytics": "c2d375bd-2871-4624-a0e4-2fea9fdceaca"
+  }
 }

@@ -4,34 +4,39 @@
     "team2": "Сербия",
     "type": "Победа первой команды",
     "coff": "15.5",
-    "html": "<li class=\"\"><div class=\"eventName\">Австралия - Сербия</div><div class=\"labels\"><div class=\"betName\">Победа первой команды</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 46921 -->15.5<!-- /react-text --><!-- react-text: 46922 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Австралия - Сербия</div><div class=\"labels\"><div class=\"betName\">Победа первой команды</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 46921 -->15.5<!-- /react-text --><!-- react-text: 46922 --> <!-- /react-text --></div></div></li>",
+    "test": "WIN__P1"
   },
   {
     "team1": "Австралия",
     "team2": "Сербия",
     "type": "Чётный тотал: Да",
     "coff": "1.86",
-    "html": "<li class=\"\"><div class=\"eventName\">Австралия - Сербия</div><div class=\"labels\"><div class=\"betName\">Чётный тотал: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 46921 -->1.86<!-- /react-text --><!-- react-text: 46922 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Австралия - Сербия</div><div class=\"labels\"><div class=\"betName\">Чётный тотал: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 46921 -->1.86<!-- /react-text --><!-- react-text: 46922 --> <!-- /react-text --></div></div></li>",
+    "test": "TOTALS__EVEN"
   },
   {
     "team1": "Австралия",
     "team2": "Сербия",
     "type": "1-я партия: Победа первой команды",
     "coff": "4.83",
-    "html": "<li class=\"\"><div class=\"eventName\">Австралия - Сербия</div><div class=\"labels\"><div class=\"betName\">1-я партия: Победа первой команды</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 46921 -->4.83<!-- /react-text --><!-- react-text: 46922 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Австралия - Сербия</div><div class=\"labels\"><div class=\"betName\">1-я партия: Победа первой команды</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 46921 -->4.83<!-- /react-text --><!-- react-text: 46922 --> <!-- /react-text --></div></div></li>",
+    "test": "SET_01__WIN__P1"
   },
   {
     "team1": "Австралия",
     "team2": "Сербия",
     "type": "1-я партия: Тотал: Меньше (43.5)",
     "coff": "2.08",
-    "html": "<li class=\"\"><div class=\"eventName\">Австралия - Сербия</div><div class=\"labels\"><div class=\"betName\">1-я партия: Тотал: Меньше (43.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 46921 -->2.08<!-- /react-text --><!-- react-text: 46922 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Австралия - Сербия</div><div class=\"labels\"><div class=\"betName\">1-я партия: Тотал: Меньше (43.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 46921 -->2.08<!-- /react-text --><!-- react-text: 46922 --> <!-- /react-text --></div></div></li>",
+    "test": "SET_01__TOTALS__UNDER(43.5)"
   },
   {
     "team1": "Австралия",
     "team2": "Сербия",
     "type": "Тотал по партиям: Больше (3.5)",
     "coff": "2.8",
-    "html": "<li class=\"\"><div class=\"eventName\">Австралия - Сербия</div><div class=\"labels\"><div class=\"betName\">Тотал по партиям: Больше (3.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 46921 -->2.8<!-- /react-text --><!-- react-text: 46922 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Австралия - Сербия</div><div class=\"labels\"><div class=\"betName\">Тотал по партиям: Больше (3.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 46921 -->2.8<!-- /react-text --><!-- react-text: 46922 --> <!-- /react-text --></div></div></li>",
+    "test": "SETS_TOTALS__OVER(3.5)"
   }
 ]

@@ -4,27 +4,415 @@
     "team2": "Умбер У.",
     "type": "1-й сет: Победа первой команды",
     "coff": "1.49",
-    "html": "<li class=\"\"><div class=\"eventName\">Рублев А. - Умбер У.</div><div class=\"labels\"><div class=\"betName\">1-й сет: Победа первой команды</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 47551 -->1.49<!-- /react-text --><!-- react-text: 47552 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Рублев А. - Умбер У.</div><div class=\"labels\"><div class=\"betName\">1-й сет: Победа первой команды</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 47551 -->1.49<!-- /react-text --><!-- react-text: 47552 --> <!-- /react-text --></div></div></li>",
+    "test": "SET_01__WIN__P1"
   },
   {
     "team1": "Рублев А.",
     "team2": "Умбер У.",
     "type": "1-й сет: Тотал: Меньше (8.5)",
     "coff": "6.1",
-    "html": "<li class=\"\"><div class=\"eventName\">Рублев А. - Умбер У.</div><div class=\"labels\"><div class=\"betName\">1-й сет: Тотал: Меньше (8.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 47551 -->6.1<!-- /react-text --><!-- react-text: 47552 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Рублев А. - Умбер У.</div><div class=\"labels\"><div class=\"betName\">1-й сет: Тотал: Меньше (8.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 47551 -->6.1<!-- /react-text --><!-- react-text: 47552 --> <!-- /react-text --></div></div></li>",
+    "test": "SET_01__TOTALS__UNDER(8.5)"
   },
   {
     "team1": "Рублев А.",
     "team2": "Умбер У.",
     "type": "Фора по сетам: 2 (-1.5)",
     "coff": "4.8",
-    "html": "<li class=\"\"><div class=\"eventName\">Рублев А. - Умбер У.</div><div class=\"labels\"><div class=\"betName\">Фора по сетам:  2 (-1.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 47551 -->4.8<!-- /react-text --><!-- react-text: 47552 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Рублев А. - Умбер У.</div><div class=\"labels\"><div class=\"betName\">Фора по сетам:  2 (-1.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 47551 -->4.8<!-- /react-text --><!-- react-text: 47552 --> <!-- /react-text --></div></div></li>",
+    "test": "SETS_HANDICAP__P2(-1.5)"
   },
   {
     "team1": "Рублев А.",
     "team2": "Умбер У.",
     "type": "Фора по сетам: 2 (-1.5)",
     "coff": "4.8",
-    "html": "<li class=\"\"><div class=\"eventName\">Рублев А. - Умбер У.</div><div class=\"labels\"><div class=\"betName\">Фора по сетам:  2 (-1.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 47551 -->4.8<!-- /react-text --><!-- react-text: 47552 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Рублев А. - Умбер У.</div><div class=\"labels\"><div class=\"betName\">Фора по сетам:  2 (-1.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 47551 -->4.8<!-- /react-text --><!-- react-text: 47552 --> <!-- /react-text --></div></div></li>",
+    "test": "SETS_HANDICAP__P2(-1.5)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "Фора:  1 (-5)",
+    "coff": "2.1",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">Фора:  1 (-5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->2.1<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP__P1(-5)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "Фора:  2 (+5)",
+    "coff": "1.69",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">Фора:  2 (+5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->1.69<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP__P2(5)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "Фора:  1 (-4)",
+    "coff": "1.8",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">Фора:  1 (-4)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->1.8<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP__P1(-4)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "Фора:  2 (+4)",
+    "coff": "1.95",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">Фора:  2 (+4)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->1.95<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP__P2(4)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "Фора:  1 (-3.5)",
+    "coff": "1.7",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">Фора:  1 (-3.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->1.7<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP__P1(-3.5)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "Фора:  1 (-3)",
+    "coff": "1.62",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">Фора:  1 (-3)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->1.62<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP__P1(-3)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "Фора:  2 (+3)",
+    "coff": "2.22",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">Фора:  2 (+3)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->2.22<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP__P2(3)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "Фора по сетам:  1 (-2.5)",
+    "coff": "2.9",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">Фора по сетам:  1 (-2.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->2.9<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "SETS_HANDICAP__P1(-2.5)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "Фора по сетам:  2 (+2.5)",
+    "coff": "1.38",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">Фора по сетам:  2 (+2.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->1.38<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "SETS_HANDICAP__P2(2.5)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "Фора по сетам:  1 (-1.5)",
+    "coff": "1.87",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">Фора по сетам:  1 (-1.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->1.87<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "SETS_HANDICAP__P1(-1.5)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "Фора по сетам:  1 (+1.5)",
+    "coff": "1.19",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">Фора по сетам:  1 (+1.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->1.19<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "SETS_HANDICAP__P1(1.5)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "Фора по сетам:  2 (-1.5)",
+    "coff": "4.4",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">Фора по сетам:  2 (-1.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->4.4<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "SETS_HANDICAP__P2(-1.5)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "Фора по сетам:  1 (+2.5)",
+    "coff": "1.06",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">Фора по сетам:  1 (+2.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->1.06<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "SETS_HANDICAP__P1(2.5)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "Фора по сетам:  2 (-2.5)",
+    "coff": "8.2",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">Фора по сетам:  2 (-2.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->8.2<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "SETS_HANDICAP__P2(-2.5)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "Тотал: Меньше (34.5)",
+    "coff": "2.22",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">Тотал: Меньше (34.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->2.22<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS__UNDER(34.5)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "Тотал: Больше (34.5)",
+    "coff": "1.62",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">Тотал: Больше (34.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->1.62<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS__OVER(34.5)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "Тотал: Меньше (35.5)",
+    "coff": "2.03",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">Тотал: Меньше (35.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->2.03<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS__UNDER(35.5)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "Тотал: Меньше (37.5)",
+    "coff": "1.81",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">Тотал: Меньше (37.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->1.81<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS__UNDER(37.5)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "Тотал: Больше (37.5)",
+    "coff": "1.93",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">Тотал: Больше (37.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->1.93<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS__OVER(37.5)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "Тотал: Больше (38.5)",
+    "coff": "2.06",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">Тотал: Больше (38.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->2.06<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS__OVER(38.5)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "Тотал по сетам: Меньше (3.5)",
+    "coff": "2.37",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">Тотал по сетам: Меньше (3.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->2.37<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "SETS_TOTALS__UNDER(3.5)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "Тотал по сетам: Меньше (4.5)",
+    "coff": "1.3",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">Тотал по сетам: Меньше (4.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->1.3<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "SETS_TOTALS__UNDER(4.5)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "Тотал по сетам: Больше (4.5)",
+    "coff": "3.3",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">Тотал по сетам: Больше (4.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->3.3<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "SETS_TOTALS__OVER(4.5)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "Тай-брейк в матче: Да",
+    "coff": "1.78",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">Тай-брейк в матче: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->1.78<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "WILL_BE_OT__YES"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "Тай-брейк в матче: Нет",
+    "coff": "1.97",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">Тай-брейк в матче: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->1.97<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "WILL_BE_OT__NO"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "Результативность сетов: 2 &gt; 1",
+    "coff": "2.5",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">Результативность сетов: 2 &gt; 1</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->2.5<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "Результативность сетов: 1 = 2",
+    "coff": "3.5",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">Результативность сетов: 1 = 2</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->3.5<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "Первый сет/матч: П1П1",
+    "coff": "1.68",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">Первый сет/матч: П1П1</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->1.68<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "WIN_HALF_MATCH__P1_P1"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "Первый сет/матч: П1П2",
+    "coff": "7.4",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">Первый сет/матч: П1П2</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->7.4<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "WIN_HALF_MATCH__P1_P2"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "Первый сет/матч: П2П1",
+    "coff": "5.3",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">Первый сет/матч: П2П1</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->5.3<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "WIN_HALF_MATCH__P2_P1"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "Первый сет/матч: П2П2",
+    "coff": "4.2",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">Первый сет/матч: П2П2</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->4.2<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "WIN_HALF_MATCH__P2_P2"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "1-й сет: Тотал: Меньше (7.5)",
+    "coff": "10.5",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">1-й сет: Тотал: Меньше (7.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->10.5<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__TOTALS__UNDER(7.5)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "1-й сет: Тотал: Больше (7.5)",
+    "coff": "1.03",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">1-й сет: Тотал: Больше (7.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->1.03<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__TOTALS__OVER(7.5)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "1-й сет: Тотал: Меньше (9.5)",
+    "coff": "2.25",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">1-й сет: Тотал: Меньше (9.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->2.25<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__TOTALS__UNDER(9.5)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "1-й сет: Тотал: Больше (9.5)",
+    "coff": "1.6",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">1-й сет: Тотал: Больше (9.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->1.6<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__TOTALS__OVER(9.5)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "1-й сет: Счет: 0:6",
+    "coff": "60",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">1-й сет: Счет: 0:6</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->60<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__CORRECT_SCORE(0:6)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "1-й сет: Счет: 1:6",
+    "coff": "25",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">1-й сет: Счет: 1:6</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->25<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__CORRECT_SCORE(1:6)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "1-й сет: Счет: 2:6",
+    "coff": "23",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">1-й сет: Счет: 2:6</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->23<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__CORRECT_SCORE(2:6)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "1-й сет: Счет: 3:6",
+    "coff": "8.6",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">1-й сет: Счет: 3:6</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->8.6<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__CORRECT_SCORE(3:6)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "1-й сет: Счет: 4:6",
+    "coff": "7.2",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">1-й сет: Счет: 4:6</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->7.2<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__CORRECT_SCORE(4:6)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "1-й сет: Счет: 5:7",
+    "coff": "18",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">1-й сет: Счет: 5:7</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->18<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__CORRECT_SCORE(5:7)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "1-й сет: Счет: 6:0",
+    "coff": "20",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">1-й сет: Счет: 6:0</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->20<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__CORRECT_SCORE(6:0)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "1-й сет: Счет: 6:1",
+    "coff": "17",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">1-й сет: Счет: 6:1</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->17<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__CORRECT_SCORE(6:1)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "1-й сет: Счет: 6:2",
+    "coff": "8.8",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">1-й сет: Счет: 6:2</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->8.8<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__CORRECT_SCORE(6:2)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "1-й сет: Счет: 6:3",
+    "coff": "5.3",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">1-й сет: Счет: 6:3</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->5.3<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__CORRECT_SCORE(6:3)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "1-й сет: Счет: 6:7",
+    "coff": "9.1",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">1-й сет: Счет: 6:7</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->9.1<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__CORRECT_SCORE(6:7)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "1-й сет: Счет: 7:5",
+    "coff": "11.5",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">1-й сет: Счет: 7:5</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->11.5<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__CORRECT_SCORE(7:5)"
+  },
+  {
+    "team1": "Герасимов Е.",
+    "team2": "Кларк Дж.",
+    "type": "1-й сет: Счет: 7:6",
+    "coff": "4.9",
+    "html": "<div class=\"eventName\">Герасимов Е. - Кларк Дж.</div><div class=\"labels\"><div class=\"betName\">1-й сет: Счет: 7:6</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 9583 -->4.9<!-- /react-text --><!-- react-text: 9584 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__CORRECT_SCORE(7:6)"
   }
 ]

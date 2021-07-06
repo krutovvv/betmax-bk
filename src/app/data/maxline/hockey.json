@@ -4,27 +4,2647 @@
     "team2": "Нью-Йорк Айлендерс",
     "type": "1-й период: Победа второй команды",
     "coff": "3.5",
-    "html": "<li class=\"\"><div class=\"eventName\">Тампа-Бэй Лайтнинг - Нью-Йорк Айлендерс</div><div class=\"labels\"><div class=\"betName\">1-й период: Победа второй команды</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 50625 -->3.5<!-- /react-text --><!-- react-text: 50626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Тампа-Бэй Лайтнинг - Нью-Йорк Айлендерс</div><div class=\"labels\"><div class=\"betName\">1-й период: Победа второй команды</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 50625 -->3.5<!-- /react-text --><!-- react-text: 50626 --> <!-- /react-text --></div></div></li>",
+    "test": "SET_01__WIN__P2"
   },
   {
     "team1": "Тампа-Бэй Лайтнинг",
     "team2": "Нью-Йорк Айлендерс",
     "type": "2-й период: Фора: 1 (-1.5)",
     "coff": "5.1",
-    "html": "<li class=\"\"><div class=\"eventName\">Тампа-Бэй Лайтнинг - Нью-Йорк Айлендерс</div><div class=\"labels\"><div class=\"betName\">2-й период: Фора:  1 (-1.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 50625 -->5.1<!-- /react-text --><!-- react-text: 50626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Тампа-Бэй Лайтнинг - Нью-Йорк Айлендерс</div><div class=\"labels\"><div class=\"betName\">2-й период: Фора:  1 (-1.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 50625 -->5.1<!-- /react-text --><!-- react-text: 50626 --> <!-- /react-text --></div></div></li>",
+    "test": "SET_02__HANDICAP__P1(-1.5)"
   },
   {
     "team1": "Тампа-Бэй Лайтнинг",
     "team2": "Нью-Йорк Айлендерс",
     "type": "Чётный тотал: Нет",
     "coff": "2",
-    "html": "<li class=\"\"><div class=\"eventName\">Тампа-Бэй Лайтнинг - Нью-Йорк Айлендерс</div><div class=\"labels\"><div class=\"betName\">Чётный тотал: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 50625 -->2<!-- /react-text --><!-- react-text: 50626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Тампа-Бэй Лайтнинг - Нью-Йорк Айлендерс</div><div class=\"labels\"><div class=\"betName\">Чётный тотал: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 50625 -->2<!-- /react-text --><!-- react-text: 50626 --> <!-- /react-text --></div></div></li>",
+    "test": "TOTALS_RT__ODD"
   },
   {
     "team1": "Тампа-Бэй Лайтнинг",
     "team2": "Нью-Йорк Айлендерс",
     "type": "3-й период: Тотал: Больше (2.5)",
     "coff": "3.3",
-    "html": "<li class=\"\"><div class=\"eventName\">Тампа-Бэй Лайтнинг - Нью-Йорк Айлендерс</div><div class=\"labels\"><div class=\"betName\">3-й период: Тотал: Больше (2.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 50625 -->3.3<!-- /react-text --><!-- react-text: 50626 --> <!-- /react-text --></div></div></li>"
+    "html": "<li class=\"\"><div class=\"eventName\">Тампа-Бэй Лайтнинг - Нью-Йорк Айлендерс</div><div class=\"labels\"><div class=\"betName\">3-й период: Тотал: Больше (2.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 50625 -->3.3<!-- /react-text --><!-- react-text: 50626 --> <!-- /react-text --></div></div></li>",
+    "test": "SET_03__TOTALS__OVER(2.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победа в матче: Тампа-Бэй Лайтнинг",
+    "coff": "1.47",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победа в матче: Тампа-Бэй Лайтнинг</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.47<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "WIN_RT__P1"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победа в матче: Монреаль Канадиенс",
+    "coff": "2.6",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победа в матче: Монреаль Канадиенс</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.6<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "WIN_RT__P2"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Фора:  1 (-4.5)",
+    "coff": "12",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Фора:  1 (-4.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->12<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P1(-4.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Фора:  2 (+4.5)",
+    "coff": "1.02",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Фора:  2 (+4.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.02<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P2(4.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Фора:  1 (-4)",
+    "coff": "11.5",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Фора:  1 (-4)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->11.5<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P1(-4)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Фора:  2 (+4)",
+    "coff": "1.02",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Фора:  2 (+4)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.02<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P2(4)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Фора:  1 (-3.5)",
+    "coff": "7",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Фора:  1 (-3.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->7<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P1(-3.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Фора:  2 (+3.5)",
+    "coff": "1.09",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Фора:  2 (+3.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.09<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P2(3.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Фора:  1 (-3)",
+    "coff": "6.3",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Фора:  1 (-3)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->6.3<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P1(-3)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Фора:  2 (+3)",
+    "coff": "1.1",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Фора:  2 (+3)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.1<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P2(3)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Фора:  1 (-2.5)",
+    "coff": "4",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Фора:  1 (-2.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->4<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P1(-2.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Фора:  2 (+2.5)",
+    "coff": "1.23",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Фора:  2 (+2.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.23<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P2(2.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Фора:  1 (-2)",
+    "coff": "3.4",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Фора:  1 (-2)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->3.4<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P1(-2)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Фора:  2 (+2)",
+    "coff": "1.3",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Фора:  2 (+2)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.3<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P2(2)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Фора:  1 (-1.5)",
+    "coff": "2.46",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Фора:  1 (-1.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.46<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P1(-1.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Фора:  2 (+1.5)",
+    "coff": "1.52",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Фора:  2 (+1.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.52<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P2(1.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Фора:  1 (-1)",
+    "coff": "2.2",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Фора:  1 (-1)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.2<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P1(-1)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Фора:  2 (+1)",
+    "coff": "1.64",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Фора:  2 (+1)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.64<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P2(1)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Фора:  1 (+1)",
+    "coff": "1.18",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Фора:  1 (+1)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.18<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P1(1)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Фора:  2 (-1)",
+    "coff": "4.7",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Фора:  2 (-1)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->4.7<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P2(-1)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Фора:  1 (+1.5)",
+    "coff": "1.15",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Фора:  1 (+1.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.15<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P1(1.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Фора:  2 (-1.5)",
+    "coff": "5.2",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Фора:  2 (-1.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->5.2<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P2(-1.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Фора:  1 (+2)",
+    "coff": "1.05",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Фора:  1 (+2)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.05<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P1(2)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Фора:  2 (-2)",
+    "coff": "9",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Фора:  2 (-2)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->9<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P2(-2)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Фора:  1 (+2.5)",
+    "coff": "1.04",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Фора:  1 (+2.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.04<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P1(2.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Фора:  2 (-2.5)",
+    "coff": "9.8",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Фора:  2 (-2.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->9.8<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P2(-2.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Тотал: Меньше (2.5)",
+    "coff": "6.6",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Тотал: Меньше (2.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->6.6<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__UNDER(2.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Тотал: Больше (2.5)",
+    "coff": "1.1",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Тотал: Больше (2.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.1<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__OVER(2.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Тотал: Меньше (3)",
+    "coff": "5.8",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Тотал: Меньше (3)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->5.8<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__UNDER(3)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Тотал: Больше (3)",
+    "coff": "1.12",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Тотал: Больше (3)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.12<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__OVER(3)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Тотал: Меньше (3.5)",
+    "coff": "3.4",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Тотал: Меньше (3.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->3.4<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__UNDER(3.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Тотал: Больше (3.5)",
+    "coff": "1.3",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Тотал: Больше (3.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.3<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__OVER(3.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Тотал: Меньше (4)",
+    "coff": "2.9",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Тотал: Меньше (4)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.9<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__UNDER(4)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Тотал: Больше (4)",
+    "coff": "1.39",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Тотал: Больше (4)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.39<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__OVER(4)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Тотал: Меньше (4.5)",
+    "coff": "2.17",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Тотал: Меньше (4.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.17<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__UNDER(4.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Тотал: Больше (4.5)",
+    "coff": "1.66",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Тотал: Больше (4.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.66<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__OVER(4.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Тотал: Меньше (5)",
+    "coff": "1.77",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Тотал: Меньше (5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.77<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__UNDER(5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Тотал: Больше (5)",
+    "coff": "2",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Тотал: Больше (5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__OVER(5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Тотал: Меньше (6)",
+    "coff": "1.35",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Тотал: Меньше (6)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.35<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__UNDER(6)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Тотал: Больше (6)",
+    "coff": "3.1",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Тотал: Больше (6)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->3.1<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__OVER(6)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Тотал: Меньше (6.5)",
+    "coff": "1.27",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Тотал: Меньше (6.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.27<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__UNDER(6.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Тотал: Больше (6.5)",
+    "coff": "3.6",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Тотал: Больше (6.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->3.6<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__OVER(6.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Тотал: Меньше (7)",
+    "coff": "1.14",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Тотал: Меньше (7)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.14<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__UNDER(7)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Тотал: Больше (7)",
+    "coff": "5.3",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Тотал: Больше (7)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->5.3<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__OVER(7)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Тотал: Меньше (7.5)",
+    "coff": "1.12",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Тотал: Меньше (7.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.12<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__UNDER(7.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Тотал: Больше (7.5)",
+    "coff": "5.9",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Тотал: Больше (7.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->5.9<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__OVER(7.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Тотал: Меньше (8)",
+    "coff": "1.05",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Тотал: Меньше (8)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.05<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__UNDER(8)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Тотал: Больше (8)",
+    "coff": "9.3",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Тотал: Больше (8)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->9.3<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__OVER(8)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Тотал: Меньше (8.5)",
+    "coff": "1.04",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Тотал: Меньше (8.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.04<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__UNDER(8.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Тотал: Больше (8.5)",
+    "coff": "10",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Тотал: Больше (8.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->10<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__OVER(8.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Тотал самого результативного периода: Меньше (2.5)",
+    "coff": "2.1",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Тотал самого результативного периода: Меньше (2.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.1<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Тотал самого результативного периода: Больше (2.5)",
+    "coff": "1.7",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Тотал самого результативного периода: Больше (2.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.7<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Тотал самого нерезультативного периода: Меньше (0.5)",
+    "coff": "1.99",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Тотал самого нерезультативного периода: Меньше (0.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.99<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Тотал самого нерезультативного периода: Больше (0.5)",
+    "coff": "1.78",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Тотал самого нерезультативного периода: Больше (0.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.78<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал — Хедман В. - Уэбер Ши: Меньше (1.5)",
+    "coff": "1.66",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Хедман В. - Уэбер Ши: Меньше (1.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.66<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал — Хедман В. - Уэбер Ши: Больше (1.5)",
+    "coff": "2.16",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Хедман В. - Уэбер Ши: Больше (1.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.16<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал — Хедман В.: Меньше (0.5)",
+    "coff": "2.3",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Хедман В.: Меньше (0.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.3<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал — Хедман В.: Больше (0.5)",
+    "coff": "1.59",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Хедман В.: Больше (0.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.59<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Монреаль Канадиенс: Меньше (0.5)",
+    "coff": "8.1",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Монреаль Канадиенс: Меньше (0.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->8.1<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P2__TOTALS_RT__UNDER(0.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Монреаль Канадиенс: Больше (0.5)",
+    "coff": "1.06",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Монреаль Канадиенс: Больше (0.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.06<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P2__TOTALS_RT__OVER(0.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Монреаль Канадиенс: Меньше (1)",
+    "coff": "6",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Монреаль Канадиенс: Меньше (1)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->6<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P2__TOTALS_RT__UNDER(1)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Монреаль Канадиенс: Больше (1)",
+    "coff": "1.11",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Монреаль Канадиенс: Больше (1)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.11<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P2__TOTALS_RT__OVER(1)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Тампа-Бэй Лайтнинг: Меньше (1.5)",
+    "coff": "4.1",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Тампа-Бэй Лайтнинг: Меньше (1.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->4.1<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P1__TOTALS_RT__UNDER(1.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Тампа-Бэй Лайтнинг: Больше (1.5)",
+    "coff": "1.22",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Тампа-Бэй Лайтнинг: Больше (1.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.22<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P1__TOTALS_RT__OVER(1.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Монреаль Канадиенс: Меньше (1.5)",
+    "coff": "2.5",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Монреаль Канадиенс: Меньше (1.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.5<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P2__TOTALS_RT__UNDER(1.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Монреаль Канадиенс: Больше (1.5)",
+    "coff": "1.51",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Монреаль Канадиенс: Больше (1.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.51<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P2__TOTALS_RT__OVER(1.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Тампа-Бэй Лайтнинг: Меньше (2)",
+    "coff": "3.2",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Тампа-Бэй Лайтнинг: Меньше (2)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->3.2<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P1__TOTALS_RT__UNDER(2)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Тампа-Бэй Лайтнинг: Больше (2)",
+    "coff": "1.33",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Тампа-Бэй Лайтнинг: Больше (2)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.33<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P1__TOTALS_RT__OVER(2)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Монреаль Канадиенс: Меньше (2)",
+    "coff": "1.84",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Монреаль Канадиенс: Меньше (2)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.84<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P2__TOTALS_RT__UNDER(2)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Монреаль Канадиенс: Больше (2)",
+    "coff": "1.92",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Монреаль Канадиенс: Больше (2)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.92<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P2__TOTALS_RT__OVER(2)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Тампа-Бэй Лайтнинг: Меньше (2.5)",
+    "coff": "2.12",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Тампа-Бэй Лайтнинг: Меньше (2.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.12<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P1__TOTALS_RT__UNDER(2.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Тампа-Бэй Лайтнинг: Больше (2.5)",
+    "coff": "1.69",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Тампа-Бэй Лайтнинг: Больше (2.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.69<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P1__TOTALS_RT__OVER(2.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Монреаль Канадиенс: Меньше (2.5)",
+    "coff": "1.49",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Монреаль Канадиенс: Меньше (2.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.49<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P2__TOTALS_RT__UNDER(2.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Монреаль Канадиенс: Больше (2.5)",
+    "coff": "2.55",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Монреаль Канадиенс: Больше (2.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.55<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P2__TOTALS_RT__OVER(2.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Тампа-Бэй Лайтнинг: Меньше (3)",
+    "coff": "1.65",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Тампа-Бэй Лайтнинг: Меньше (3)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.65<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P1__TOTALS_RT__UNDER(3)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Тампа-Бэй Лайтнинг: Больше (3)",
+    "coff": "2.18",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Тампа-Бэй Лайтнинг: Больше (3)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.18<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P1__TOTALS_RT__OVER(3)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Монреаль Канадиенс: Меньше (3)",
+    "coff": "1.22",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Монреаль Канадиенс: Меньше (3)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.22<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P2__TOTALS_RT__UNDER(3)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Монреаль Канадиенс: Больше (3)",
+    "coff": "4.1",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Монреаль Канадиенс: Больше (3)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->4.1<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P2__TOTALS_RT__OVER(3)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Тампа-Бэй Лайтнинг: Меньше (3.5)",
+    "coff": "1.43",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Тампа-Бэй Лайтнинг: Меньше (3.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.43<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P1__TOTALS_RT__UNDER(3.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Тампа-Бэй Лайтнинг: Больше (3.5)",
+    "coff": "2.75",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Тампа-Бэй Лайтнинг: Больше (3.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.75<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P1__TOTALS_RT__OVER(3.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Монреаль Канадиенс: Меньше (3.5)",
+    "coff": "1.16",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Монреаль Канадиенс: Меньше (3.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.16<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P2__TOTALS_RT__UNDER(3.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Монреаль Канадиенс: Больше (3.5)",
+    "coff": "5",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Монреаль Канадиенс: Больше (3.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->5<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P2__TOTALS_RT__OVER(3.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Тампа-Бэй Лайтнинг: Меньше (4)",
+    "coff": "1.21",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Тампа-Бэй Лайтнинг: Меньше (4)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.21<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P1__TOTALS_RT__UNDER(4)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Тампа-Бэй Лайтнинг: Больше (4)",
+    "coff": "4.2",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Тампа-Бэй Лайтнинг: Больше (4)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->4.2<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P1__TOTALS_RT__OVER(4)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Монреаль Канадиенс: Меньше (4)",
+    "coff": "1.04",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Монреаль Канадиенс: Меньше (4)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.04<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P2__TOTALS_RT__UNDER(4)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Монреаль Канадиенс: Больше (4)",
+    "coff": "9.5",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Монреаль Канадиенс: Больше (4)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->9.5<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P2__TOTALS_RT__OVER(4)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Тампа-Бэй Лайтнинг: Меньше (4.5)",
+    "coff": "1.16",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Тампа-Бэй Лайтнинг: Меньше (4.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.16<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P1__TOTALS_RT__UNDER(4.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Тампа-Бэй Лайтнинг: Больше (4.5)",
+    "coff": "5",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Тампа-Бэй Лайтнинг: Больше (4.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->5<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P1__TOTALS_RT__OVER(4.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Монреаль Канадиенс: Меньше (4.5)",
+    "coff": "1.03",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Монреаль Канадиенс: Меньше (4.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.03<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P2__TOTALS_RT__UNDER(4.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Монреаль Канадиенс: Больше (4.5)",
+    "coff": "10.5",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Монреаль Канадиенс: Больше (4.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->10.5<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P2__TOTALS_RT__OVER(4.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Тампа-Бэй Лайтнинг: Меньше (5)",
+    "coff": "1.05",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Тампа-Бэй Лайтнинг: Меньше (5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.05<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P1__TOTALS_RT__UNDER(5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Тампа-Бэй Лайтнинг: Больше (5)",
+    "coff": "8.7",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Тампа-Бэй Лайтнинг: Больше (5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->8.7<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P1__TOTALS_RT__OVER(5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Тампа-Бэй Лайтнинг: Меньше (5.5)",
+    "coff": "1.04",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Тампа-Бэй Лайтнинг: Меньше (5.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.04<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P1__TOTALS_RT__UNDER(5.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Инд. тотал: Тампа-Бэй Лайтнинг: Больше (5.5)",
+    "coff": "9.6",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Тампа-Бэй Лайтнинг: Больше (5.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->9.6<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "P1__TOTALS_RT__OVER(5.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Первый гол: Тампа-Бэй Лайтнинг",
+    "coff": "1.62",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Первый гол: Тампа-Бэй Лайтнинг</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.62<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "WHO_SCORE_3W__01__P1"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Первый гол: Никто",
+    "coff": "47",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Первый гол: Никто</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->47<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "WHO_SCORE_3W__01__NO"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Первый гол: Монреаль Канадиенс",
+    "coff": "2.24",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Первый гол: Монреаль Канадиенс</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.24<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "WHO_SCORE_3W__01__P2"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Последний гол: Тампа-Бэй Лайтнинг",
+    "coff": "1.62",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Последний гол: Тампа-Бэй Лайтнинг</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.62<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "LAST_TEAM_TO_SCORE__P1"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Последний гол: Никто",
+    "coff": "47",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Последний гол: Никто</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->47<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "LAST_TEAM_TO_SCORE__NO"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Последний гол: Монреаль Канадиенс",
+    "coff": "2.24",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Последний гол: Монреаль Канадиенс</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.24<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "LAST_TEAM_TO_SCORE__P2"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Кто выиграет больше периодов: Тампа-Бэй Лайтнинг",
+    "coff": "1.29",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Кто выиграет больше периодов: Тампа-Бэй Лайтнинг</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.29<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Кто выиграет больше периодов: Никто",
+    "coff": "3.6",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Кто выиграет больше периодов: Никто</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->3.6<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Кто выиграет больше периодов: Монреаль Канадиенс",
+    "coff": "3.5",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Кто выиграет больше периодов: Монреаль Канадиенс</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->3.5<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Чётный тотал: Да",
+    "coff": "1.77",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Чётный тотал: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.77<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__EVEN"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Чётный тотал: Нет",
+    "coff": "2",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Чётный тотал: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__ODD"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Каждая команда забьет больше (1.5): Да",
+    "coff": "1.93",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Каждая команда забьет больше (1.5): Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.93<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Каждая команда забьет больше (1.5): Нет",
+    "coff": "1.83",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Каждая команда забьет больше (1.5): Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.83<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Каждая команда забьет больше (2.5): Да",
+    "coff": "4.6",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Каждая команда забьет больше (2.5): Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->4.6<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Каждая команда забьет больше (2.5): Нет",
+    "coff": "1.18",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Каждая команда забьет больше (2.5): Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.18<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Каждая команда забьет больше (3.5): Да",
+    "coff": "15",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Каждая команда забьет больше (3.5): Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->15<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Все периоды ИТБ1 (0.5): Да",
+    "coff": "3.8",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Все периоды ИТБ1 (0.5): Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->3.8<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Все периоды ИТБ1 (0.5): Нет",
+    "coff": "1.25",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Все периоды ИТБ1 (0.5): Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.25<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Все периоды ИТБ1 (1.5): Да",
+    "coff": "24",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Все периоды ИТБ1 (1.5): Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->24<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Все периоды ИТБ1 (2.5): Да",
+    "coff": "37",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Все периоды ИТБ1 (2.5): Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->37<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Все периоды ИТБ2 (0.5): Да",
+    "coff": "6.4",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Все периоды ИТБ2 (0.5): Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->6.4<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Все периоды ИТБ2 (0.5): Нет",
+    "coff": "1.1",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Все периоды ИТБ2 (0.5): Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.1<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Все периоды ИТБ2 (1.5): Да",
+    "coff": "32",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Все периоды ИТБ2 (1.5): Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->32<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Все периоды ИТБ2 (2.5): Да",
+    "coff": "37",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Все периоды ИТБ2 (2.5): Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->37<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Все периоды ИТМ1 (0.5): Да",
+    "coff": "11.5",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Все периоды ИТМ1 (0.5): Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->11.5<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Все периоды ИТМ1 (0.5): Нет",
+    "coff": "1.02",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Все периоды ИТМ1 (0.5): Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.02<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Все периоды ИТМ1 (1.5): Да",
+    "coff": "2.2",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Все периоды ИТМ1 (1.5): Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.2<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Все периоды ИТМ1 (1.5): Нет",
+    "coff": "1.64",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Все периоды ИТМ1 (1.5): Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.64<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Все периоды ИТМ1 (2.5): Да",
+    "coff": "1.19",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Все периоды ИТМ1 (2.5): Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.19<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Все периоды ИТМ1 (2.5): Нет",
+    "coff": "4.5",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Все периоды ИТМ1 (2.5): Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->4.5<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Все периоды ИТМ2 (0.5): Да",
+    "coff": "8.1",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Все периоды ИТМ2 (0.5): Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->8.1<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Все периоды ИТМ2 (0.5): Нет",
+    "coff": "1.06",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Все периоды ИТМ2 (0.5): Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.06<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Все периоды ИТМ2 (1.5): Да",
+    "coff": "1.57",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Все периоды ИТМ2 (1.5): Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.57<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Все периоды ИТМ2 (1.5): Нет",
+    "coff": "2.34",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Все периоды ИТМ2 (1.5): Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.34<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Все периоды ИТМ2 (2.5): Да",
+    "coff": "1.05",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Все периоды ИТМ2 (2.5): Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.05<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Все периоды ИТМ2 (2.5): Нет",
+    "coff": "8.9",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Все периоды ИТМ2 (2.5): Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->8.9<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Обе забьют: Да",
+    "coff": "1.14",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Обе забьют: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.14<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "BOTH_TEAMS_TO_SCORE__YES"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Обе забьют: Нет",
+    "coff": "5.3",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Обе забьют: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->5.3<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "BOTH_TEAMS_TO_SCORE__NO"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Забитый гол в меньшинстве: Да",
+    "coff": "6.5",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Забитый гол в меньшинстве: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->6.5<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Забитый гол в меньшинстве: Нет",
+    "coff": "1.1",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Забитый гол в меньшинстве: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.1<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "1-й период гол с 1 по 7 мин.: Да",
+    "coff": "2.64",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">1-й период гол с 1 по 7 мин.: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.64<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "1-й период гол с 1 по 7 мин.: Нет",
+    "coff": "1.46",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">1-й период гол с 1 по 7 мин.: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.46<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "1-й период гол с 16 по 20 мин.: Да",
+    "coff": "3.04",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">1-й период гол с 16 по 20 мин.: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->3.04<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "1-й период гол с 16 по 20 мин.: Нет",
+    "coff": "1.36",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">1-й период гол с 16 по 20 мин.: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.36<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "1-й период гол с 8 по 15 мин.: Да",
+    "coff": "2.06",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">1-й период гол с 8 по 15 мин.: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.06<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "1-й период гол с 8 по 15 мин.: Нет",
+    "coff": "1.73",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">1-й период гол с 8 по 15 мин.: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.73<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "3-й период гол с 16 по 20 мин.: Да",
+    "coff": "1.74",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">3-й период гол с 16 по 20 мин.: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.74<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "3-й период гол с 16 по 20 мин.: Нет",
+    "coff": "2.05",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">3-й период гол с 16 по 20 мин.: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.05<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Гол на первой минуте: Да",
+    "coff": "13.5",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Гол на первой минуте: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->13.5<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Гол на первой минуте: Нет",
+    "coff": "1.01",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Гол на первой минуте: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.01<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Ничья хотя бы в одном из трех периодов: Да",
+    "coff": "1.29",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Ничья хотя бы в одном из трех периодов: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.29<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Ничья хотя бы в одном из трех периодов: Нет",
+    "coff": "3.5",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Ничья хотя бы в одном из трех периодов: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->3.5<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Ничья во всех периодах: Да",
+    "coff": "13.5",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Ничья во всех периодах: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->13.5<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Ничья во всех периодах: Нет",
+    "coff": "1.01",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Ничья во всех периодах: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.01<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Вратарь забьёт гол: Да",
+    "coff": "999",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Вратарь забьёт гол: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->999<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Гол раньше 2-х минутного удаления: Да",
+    "coff": "1.91",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Гол раньше 2-х минутного удаления: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.91<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Гол раньше 2-х минутного удаления: Нет",
+    "coff": "1.85",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Гол раньше 2-х минутного удаления: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.85<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Будет видеопросмотр: Да",
+    "coff": "2.55",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Будет видеопросмотр: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.55<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Будет видеопросмотр: Нет",
+    "coff": "1.49",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Будет видеопросмотр: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.49<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Каждая команда забьет во всех периодах: Да",
+    "coff": "17",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Каждая команда забьет во всех периодах: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->17<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Все периоды ТМ (1.5): Да",
+    "coff": "6.2",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Все периоды ТМ (1.5): Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->6.2<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Все периоды ТМ (1.5): Нет",
+    "coff": "1.11",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Все периоды ТМ (1.5): Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.11<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Все периоды ТМ (3.5): Да",
+    "coff": "1.25",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Все периоды ТМ (3.5): Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.25<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Все периоды ТМ (3.5): Нет",
+    "coff": "3.8",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Все периоды ТМ (3.5): Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->3.8<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Все периоды ТМ (4.5): Да",
+    "coff": "1.03",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Все периоды ТМ (4.5): Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.03<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Все периоды ТМ (4.5): Нет",
+    "coff": "11",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Все периоды ТМ (4.5): Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->11<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Все периоды ТБ (1.5): Да",
+    "coff": "6.8",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Все периоды ТБ (1.5): Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->6.8<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Все периоды ТБ (1.5): Нет",
+    "coff": "1.09",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Все периоды ТБ (1.5): Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.09<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Все периоды ТБ (2.5): Да",
+    "coff": "26",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Все периоды ТБ (2.5): Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->26<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Все периоды ТБ (3.5): Да",
+    "coff": "36",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Все периоды ТБ (3.5): Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->36<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победит и не пропустит: Тампа-Бэй Лайтнинг: Да",
+    "coff": "7",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победит и не пропустит: Тампа-Бэй Лайтнинг: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->7<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "CLEAN_SHEET__P1__YES"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победит и не пропустит: Тампа-Бэй Лайтнинг: Нет",
+    "coff": "1.09",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победит и не пропустит: Тампа-Бэй Лайтнинг: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.09<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "CLEAN_SHEET__P1__NO"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победит и не пропустит: Монреаль Канадиенс: Да",
+    "coff": "14",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победит и не пропустит: Монреаль Канадиенс: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->14<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "CLEAN_SHEET__P2__YES"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победит и не пропустит: Монреаль Канадиенс: Нет",
+    "coff": "1.01",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победит и не пропустит: Монреаль Канадиенс: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.01<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "CLEAN_SHEET__P2__NO"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победа в овертайме: Тампа-Бэй Лайтнинг: Да",
+    "coff": "6.4",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победа в овертайме: Тампа-Бэй Лайтнинг: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->6.4<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "WIN_OT__P1"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победа в овертайме: Тампа-Бэй Лайтнинг: Нет",
+    "coff": "1.1",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победа в овертайме: Тампа-Бэй Лайтнинг: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.1<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победа в овертайме: Монреаль Канадиенс: Да",
+    "coff": "8.7",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победа в овертайме: Монреаль Канадиенс: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->8.7<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "WIN_OT__P2"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победа в овертайме: Монреаль Канадиенс: Нет",
+    "coff": "1.05",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победа в овертайме: Монреаль Канадиенс: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.05<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победа ровно в 1 шайбу: Тампа-Бэй Лайтнинг: Да",
+    "coff": "7.6",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победа ровно в 1 шайбу: Тампа-Бэй Лайтнинг: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->7.6<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победа ровно в 1 шайбу: Тампа-Бэй Лайтнинг: Нет",
+    "coff": "1.07",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победа ровно в 1 шайбу: Тампа-Бэй Лайтнинг: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.07<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победа ровно в 1 шайбу: Монреаль Канадиенс: Да",
+    "coff": "9.7",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победа ровно в 1 шайбу: Монреаль Канадиенс: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->9.7<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победа ровно в 1 шайбу: Монреаль Канадиенс: Нет",
+    "coff": "1.04",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победа ровно в 1 шайбу: Монреаль Канадиенс: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.04<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победа ровно в 2 шайбы: Тампа-Бэй Лайтнинг: Да",
+    "coff": "5.8",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победа ровно в 2 шайбы: Тампа-Бэй Лайтнинг: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->5.8<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победа ровно в 2 шайбы: Тампа-Бэй Лайтнинг: Нет",
+    "coff": "1.12",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победа ровно в 2 шайбы: Тампа-Бэй Лайтнинг: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.12<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победа ровно в 2 шайбы: Монреаль Канадиенс: Да",
+    "coff": "9.9",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победа ровно в 2 шайбы: Монреаль Канадиенс: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->9.9<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победа ровно в 2 шайбы: Монреаль Канадиенс: Нет",
+    "coff": "1.04",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победа ровно в 2 шайбы: Монреаль Канадиенс: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.04<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победа ровно в 3 шайбы: Тампа-Бэй Лайтнинг: Да",
+    "coff": "6.9",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победа ровно в 3 шайбы: Тампа-Бэй Лайтнинг: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->6.9<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победа ровно в 3 шайбы: Тампа-Бэй Лайтнинг: Нет",
+    "coff": "1.09",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победа ровно в 3 шайбы: Тампа-Бэй Лайтнинг: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.09<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победа ровно в 3 шайбы: Монреаль Канадиенс: Да",
+    "coff": "15",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победа ровно в 3 шайбы: Монреаль Канадиенс: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->15<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Забьёт первой и выиграет в осн. время: Тампа-Бэй Лайтнинг: Да",
+    "coff": "2.32",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Забьёт первой и выиграет в осн. время: Тампа-Бэй Лайтнинг: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.32<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Забьёт первой и выиграет в осн. время: Тампа-Бэй Лайтнинг: Нет",
+    "coff": "1.58",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Забьёт первой и выиграет в осн. время: Тампа-Бэй Лайтнинг: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.58<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Забьёт первой и выиграет в осн. время: Монреаль Канадиенс: Да",
+    "coff": "4.4",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Забьёт первой и выиграет в осн. время: Монреаль Канадиенс: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->4.4<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Забьёт первой и выиграет в осн. время: Монреаль Канадиенс: Нет",
+    "coff": "1.2",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Забьёт первой и выиграет в осн. время: Монреаль Канадиенс: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.2<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Не проиграет во всех периодах: Тампа-Бэй Лайтнинг: Да",
+    "coff": "2.12",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Не проиграет во всех периодах: Тампа-Бэй Лайтнинг: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.12<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Не проиграет во всех периодах: Тампа-Бэй Лайтнинг: Нет",
+    "coff": "1.69",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Не проиграет во всех периодах: Тампа-Бэй Лайтнинг: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.69<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Не проиграет во всех периодах: Монреаль Канадиенс: Да",
+    "coff": "3.5",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Не проиграет во всех периодах: Монреаль Канадиенс: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->3.5<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Не проиграет во всех периодах: Монреаль Канадиенс: Нет",
+    "coff": "1.29",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Не проиграет во всех периодах: Монреаль Канадиенс: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.29<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Выиграет хотя бы один из трех периодов: Тампа-Бэй Лайтнинг: Нет",
+    "coff": "3.5",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Выиграет хотя бы один из трех периодов: Тампа-Бэй Лайтнинг: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->3.5<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Выиграет хотя бы один из трех периодов: Монреаль Канадиенс: Да",
+    "coff": "1.69",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Выиграет хотя бы один из трех периодов: Монреаль Канадиенс: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.69<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Выиграет хотя бы один из трех периодов: Монреаль Канадиенс: Нет",
+    "coff": "2.12",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Выиграет хотя бы один из трех периодов: Монреаль Канадиенс: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.12<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Не проиграет и ТМ (4.5): Тампа-Бэй Лайтнинг: Да",
+    "coff": "2.9",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Не проиграет и ТМ (4.5): Тампа-Бэй Лайтнинг: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.9<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Не проиграет и ТМ (4.5): Тампа-Бэй Лайтнинг: Нет",
+    "coff": "1.39",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Не проиграет и ТМ (4.5): Тампа-Бэй Лайтнинг: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.39<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Не проиграет и ТМ (4.5): Монреаль Канадиенс: Да",
+    "coff": "4",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Не проиграет и ТМ (4.5): Монреаль Канадиенс: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->4<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Не проиграет и ТМ (4.5): Монреаль Канадиенс: Нет",
+    "coff": "1.23",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Не проиграет и ТМ (4.5): Монреаль Канадиенс: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.23<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Не проиграет и ТМ (5.5): Тампа-Бэй Лайтнинг: Да",
+    "coff": "2.13",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Не проиграет и ТМ (5.5): Тампа-Бэй Лайтнинг: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.13<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Не проиграет и ТМ (5.5): Тампа-Бэй Лайтнинг: Нет",
+    "coff": "1.68",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Не проиграет и ТМ (5.5): Тампа-Бэй Лайтнинг: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.68<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Не проиграет и ТМ (5.5): Монреаль Канадиенс: Да",
+    "coff": "3.1",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Не проиграет и ТМ (5.5): Монреаль Канадиенс: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->3.1<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Не проиграет и ТМ (5.5): Монреаль Канадиенс: Нет",
+    "coff": "1.35",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Не проиграет и ТМ (5.5): Монреаль Канадиенс: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.35<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Не проиграет и ТМ (6.5): Тампа-Бэй Лайтнинг: Да",
+    "coff": "1.64",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Не проиграет и ТМ (6.5): Тампа-Бэй Лайтнинг: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.64<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Не проиграет и ТМ (6.5): Тампа-Бэй Лайтнинг: Нет",
+    "coff": "2.2",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Не проиграет и ТМ (6.5): Тампа-Бэй Лайтнинг: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.2<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Не проиграет и ТМ (6.5): Монреаль Канадиенс: Да",
+    "coff": "2.5",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Не проиграет и ТМ (6.5): Монреаль Канадиенс: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.5<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Не проиграет и ТМ (6.5): Монреаль Канадиенс: Нет",
+    "coff": "1.51",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Не проиграет и ТМ (6.5): Монреаль Канадиенс: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.51<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Не проиграет и ТБ (4.5): Тампа-Бэй Лайтнинг: Да",
+    "coff": "2.26",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Не проиграет и ТБ (4.5): Тампа-Бэй Лайтнинг: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.26<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Не проиграет и ТБ (4.5): Тампа-Бэй Лайтнинг: Нет",
+    "coff": "1.61",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Не проиграет и ТБ (4.5): Тампа-Бэй Лайтнинг: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.61<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Не проиграет и ТБ (4.5): Монреаль Канадиенс: Да",
+    "coff": "4",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Не проиграет и ТБ (4.5): Монреаль Канадиенс: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->4<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Не проиграет и ТБ (4.5): Монреаль Канадиенс: Нет",
+    "coff": "1.23",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Не проиграет и ТБ (4.5): Монреаль Канадиенс: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.23<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Не проиграет и ТБ (5.5): Тампа-Бэй Лайтнинг: Да",
+    "coff": "3.1",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Не проиграет и ТБ (5.5): Тампа-Бэй Лайтнинг: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->3.1<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Не проиграет и ТБ (5.5): Тампа-Бэй Лайтнинг: Нет",
+    "coff": "1.35",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Не проиграет и ТБ (5.5): Тампа-Бэй Лайтнинг: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.35<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Не проиграет и ТБ (5.5): Монреаль Канадиенс: Да",
+    "coff": "5.5",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Не проиграет и ТБ (5.5): Монреаль Канадиенс: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->5.5<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Не проиграет и ТБ (5.5): Монреаль Канадиенс: Нет",
+    "coff": "1.13",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Не проиграет и ТБ (5.5): Монреаль Канадиенс: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.13<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Не проиграет и ТБ (6.5): Тампа-Бэй Лайтнинг: Да",
+    "coff": "5.2",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Не проиграет и ТБ (6.5): Тампа-Бэй Лайтнинг: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->5.2<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Не проиграет и ТБ (6.5): Тампа-Бэй Лайтнинг: Нет",
+    "coff": "1.15",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Не проиграет и ТБ (6.5): Тампа-Бэй Лайтнинг: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.15<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Не проиграет и ТБ (6.5): Монреаль Канадиенс: Да",
+    "coff": "9.9",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Не проиграет и ТБ (6.5): Монреаль Канадиенс: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->9.9<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Не проиграет и ТБ (6.5): Монреаль Канадиенс: Нет",
+    "coff": "1.04",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Не проиграет и ТБ (6.5): Монреаль Канадиенс: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.04<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победит и ТБ (4.5): Тампа-Бэй Лайтнинг: Да",
+    "coff": "2.65",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победит и ТБ (4.5): Тампа-Бэй Лайтнинг: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.65<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победит и ТБ (4.5): Тампа-Бэй Лайтнинг: Нет",
+    "coff": "1.46",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победит и ТБ (4.5): Тампа-Бэй Лайтнинг: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.46<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победит и ТБ (4.5): Монреаль Канадиенс: Да",
+    "coff": "5.3",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победит и ТБ (4.5): Монреаль Канадиенс: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->5.3<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победит и ТБ (4.5): Монреаль Канадиенс: Нет",
+    "coff": "1.14",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победит и ТБ (4.5): Монреаль Канадиенс: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.14<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победит и ТБ (5.5): Тампа-Бэй Лайтнинг: Да",
+    "coff": "3.9",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победит и ТБ (5.5): Тампа-Бэй Лайтнинг: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->3.9<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победит и ТБ (5.5): Тампа-Бэй Лайтнинг: Нет",
+    "coff": "1.24",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победит и ТБ (5.5): Тампа-Бэй Лайтнинг: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.24<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победит и ТБ (5.5): Монреаль Канадиенс: Да",
+    "coff": "8.2",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победит и ТБ (5.5): Монреаль Канадиенс: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->8.2<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победит и ТБ (5.5): Монреаль Канадиенс: Нет",
+    "coff": "1.06",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победит и ТБ (5.5): Монреаль Канадиенс: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.06<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победит и ТБ (6.5): Тампа-Бэй Лайтнинг: Да",
+    "coff": "5.6",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победит и ТБ (6.5): Тампа-Бэй Лайтнинг: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->5.6<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победит и ТБ (6.5): Тампа-Бэй Лайтнинг: Нет",
+    "coff": "1.13",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победит и ТБ (6.5): Тампа-Бэй Лайтнинг: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.13<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победит и ТБ (6.5): Монреаль Канадиенс: Да",
+    "coff": "11.5",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победит и ТБ (6.5): Монреаль Канадиенс: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->11.5<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победит и ТБ (6.5): Монреаль Канадиенс: Нет",
+    "coff": "1.02",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победит и ТБ (6.5): Монреаль Канадиенс: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.02<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победит и ТМ (4.5): Тампа-Бэй Лайтнинг: Да",
+    "coff": "4.3",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победит и ТМ (4.5): Тампа-Бэй Лайтнинг: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->4.3<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победит и ТМ (4.5): Тампа-Бэй Лайтнинг: Нет",
+    "coff": "1.2",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победит и ТМ (4.5): Тампа-Бэй Лайтнинг: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.2<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победит и ТМ (4.5): Монреаль Канадиенс: Да",
+    "coff": "7.2",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победит и ТМ (4.5): Монреаль Канадиенс: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->7.2<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победит и ТМ (4.5): Монреаль Канадиенс: Нет",
+    "coff": "1.08",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победит и ТМ (4.5): Монреаль Канадиенс: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.08<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победит и ТМ (5.5): Тампа-Бэй Лайтнинг: Да",
+    "coff": "2.8",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победит и ТМ (5.5): Тампа-Бэй Лайтнинг: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.8<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победит и ТМ (5.5): Тампа-Бэй Лайтнинг: Нет",
+    "coff": "1.42",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победит и ТМ (5.5): Тампа-Бэй Лайтнинг: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.42<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победит и ТМ (5.5): Монреаль Канадиенс: Да",
+    "coff": "4.8",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победит и ТМ (5.5): Монреаль Канадиенс: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->4.8<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победит и ТМ (5.5): Монреаль Канадиенс: Нет",
+    "coff": "1.17",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победит и ТМ (5.5): Монреаль Канадиенс: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.17<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победит и ТМ (6.5): Тампа-Бэй Лайтнинг: Да",
+    "coff": "2.3",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победит и ТМ (6.5): Тампа-Бэй Лайтнинг: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.3<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победит и ТМ (6.5): Тампа-Бэй Лайтнинг: Нет",
+    "coff": "1.59",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победит и ТМ (6.5): Тампа-Бэй Лайтнинг: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.59<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победит и ТМ (6.5): Монреаль Канадиенс: Да",
+    "coff": "4.1",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победит и ТМ (6.5): Монреаль Канадиенс: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->4.1<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Победит и ТМ (6.5): Монреаль Канадиенс: Нет",
+    "coff": "1.22",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Победит и ТМ (6.5): Монреаль Канадиенс: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.22<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Счет: 0:0",
+    "coff": "47",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Счет: 0:0</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->47<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "CORRECT_SCORE_RT(0:0)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Счет: 1:0",
+    "coff": "36",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Счет: 1:0</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->36<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "CORRECT_SCORE_RT(1:0)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Счет: 1:1",
+    "coff": "11.5",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Счет: 1:1</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->11.5<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "CORRECT_SCORE_RT(1:1)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Счет: 1:2",
+    "coff": "21",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Счет: 1:2</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->21<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "CORRECT_SCORE_RT(1:2)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Счет: 1:3",
+    "coff": "24",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Счет: 1:3</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->24<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "CORRECT_SCORE_RT(1:3)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Счет: 1:4",
+    "coff": "34",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Счет: 1:4</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->34<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "CORRECT_SCORE_RT(1:4)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Счет: 2:0",
+    "coff": "26",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Счет: 2:0</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->26<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "CORRECT_SCORE_RT(2:0)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Счет: 2:1",
+    "coff": "15.5",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Счет: 2:1</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->15.5<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "CORRECT_SCORE_RT(2:1)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Счет: 2:2",
+    "coff": "7.5",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Счет: 2:2</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->7.5<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "CORRECT_SCORE_RT(2:2)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Счет: 2:3",
+    "coff": "17",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Счет: 2:3</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->17<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "CORRECT_SCORE_RT(2:3)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Счет: 2:4",
+    "coff": "24",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Счет: 2:4</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->24<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "CORRECT_SCORE_RT(2:4)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Счет: 2:5",
+    "coff": "26",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Счет: 2:5</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->26<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "CORRECT_SCORE_RT(2:5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Счет: 3:0",
+    "coff": "22",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Счет: 3:0</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->22<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "CORRECT_SCORE_RT(3:0)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Счет: 3:1",
+    "coff": "13.5",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Счет: 3:1</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->13.5<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "CORRECT_SCORE_RT(3:1)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Счет: 3:2",
+    "coff": "12.5",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Счет: 3:2</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->12.5<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "CORRECT_SCORE_RT(3:2)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Счет: 3:3",
+    "coff": "10.5",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Счет: 3:3</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->10.5<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "CORRECT_SCORE_RT(3:3)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Счет: 3:4",
+    "coff": "30",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Счет: 3:4</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->30<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "CORRECT_SCORE_RT(3:4)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Счет: 3:5",
+    "coff": "40",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Счет: 3:5</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->40<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "CORRECT_SCORE_RT(3:5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Счет: 4:0",
+    "coff": "29",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Счет: 4:0</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->29<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "CORRECT_SCORE_RT(4:0)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Счет: 4:1",
+    "coff": "14.5",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Счет: 4:1</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->14.5<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "CORRECT_SCORE_RT(4:1)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Счет: 4:2",
+    "coff": "14",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Счет: 4:2</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->14<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "CORRECT_SCORE_RT(4:2)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Счет: 4:3",
+    "coff": "23",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Счет: 4:3</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->23<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "CORRECT_SCORE_RT(4:3)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Счет: 4:4",
+    "coff": "26",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Счет: 4:4</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->26<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "CORRECT_SCORE_RT(4:4)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Счет: 4:5",
+    "coff": "52",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Счет: 4:5</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->52<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "CORRECT_SCORE_RT(4:5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Счет: 5:1",
+    "coff": "24",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Счет: 5:1</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->24<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "CORRECT_SCORE_RT(5:1)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Счет: 5:2",
+    "coff": "15.5",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Счет: 5:2</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->15.5<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "CORRECT_SCORE_RT(5:2)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Счет: 5:3",
+    "coff": "24",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Счет: 5:3</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->24<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "CORRECT_SCORE_RT(5:3)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Счет: 5:4",
+    "coff": "41",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Счет: 5:4</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->41<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "CORRECT_SCORE_RT(5:4)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Первый период-матч: НП1",
+    "coff": "4.3",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Первый период-матч: НП1</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->4.3<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "WIN_HALF_MATCH__PX_P1"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Первый период-матч: НН",
+    "coff": "6.5",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Первый период-матч: НН</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->6.5<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "WIN_HALF_MATCH__PX_PX"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Первый период-матч: НП2",
+    "coff": "7.6",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Первый период-матч: НП2</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->7.6<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "WIN_HALF_MATCH__PX_P2"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Первый период-матч: П1Н",
+    "coff": "11",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Первый период-матч: П1Н</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->11<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "WIN_HALF_MATCH__P1_PX"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Первый период-матч: П1П1",
+    "coff": "3.2",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Первый период-матч: П1П1</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->3.2<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "WIN_HALF_MATCH__P1_P1"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Первый период-матч: П1П2",
+    "coff": "16.5",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Первый период-матч: П1П2</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->16.5<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "WIN_HALF_MATCH__P1_P2"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Первый период-матч: П2Н",
+    "coff": "11",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Первый период-матч: П2Н</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->11<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "WIN_HALF_MATCH__P2_PX"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Первый период-матч: П2П1",
+    "coff": "10",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Первый период-матч: П2П1</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->10<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "WIN_HALF_MATCH__P2_P1"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Первый период-матч: П2П2",
+    "coff": "6.8",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Первый период-матч: П2П2</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->6.8<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "WIN_HALF_MATCH__P2_P2"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "1-й период: Тотал: Меньше (0.5)",
+    "coff": "3.7",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">1-й период: Тотал: Меньше (0.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->3.7<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__TOTALS__UNDER(0.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "1-й период: Тотал: Больше (0.5)",
+    "coff": "1.26",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">1-й период: Тотал: Больше (0.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.26<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__TOTALS__OVER(0.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "1-й период: Тотал: Меньше (2.5)",
+    "coff": "1.17",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">1-й период: Тотал: Меньше (2.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.17<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__TOTALS__UNDER(2.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "1-й период: Тотал: Больше (2.5)",
+    "coff": "4.8",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">1-й период: Тотал: Больше (2.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->4.8<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__TOTALS__OVER(2.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "1-й период: Обе забьют: Да",
+    "coff": "3.7",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">1-й период: Обе забьют: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->3.7<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__BOTH_TEAMS_TO_SCORE__YES"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "1-й период: Обе забьют: Нет",
+    "coff": "1.26",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">1-й период: Обе забьют: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.26<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__BOTH_TEAMS_TO_SCORE__NO"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "1-й период: Счет 1-го периода: 0:0",
+    "coff": "3.7",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">1-й период: Счет 1-го периода: 0:0</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->3.7<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__CORRECT_SCORE(0:0)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "1-й период: Счет 1-го периода: 0:1",
+    "coff": "5.4",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">1-й период: Счет 1-го периода: 0:1</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->5.4<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__CORRECT_SCORE(0:1)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "1-й период: Счет 1-го периода: 0:2",
+    "coff": "17",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">1-й период: Счет 1-го периода: 0:2</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->17<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__CORRECT_SCORE(0:2)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "1-й период: Счет 1-го периода: 1:0",
+    "coff": "4",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">1-й период: Счет 1-го периода: 1:0</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->4<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__CORRECT_SCORE(1:0)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "1-й период: Счет 1-го периода: 1:1",
+    "coff": "6.5",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">1-й период: Счет 1-го периода: 1:1</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->6.5<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__CORRECT_SCORE(1:1)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "1-й период: Счет 1-го периода: 1:2",
+    "coff": "20",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">1-й период: Счет 1-го периода: 1:2</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->20<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__CORRECT_SCORE(1:2)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "1-й период: Счет 1-го периода: 2:0",
+    "coff": "9.4",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">1-й период: Счет 1-го периода: 2:0</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->9.4<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__CORRECT_SCORE(2:0)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "1-й период: Счет 1-го периода: 2:1",
+    "coff": "15",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">1-й период: Счет 1-го периода: 2:1</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->15<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__CORRECT_SCORE(2:1)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "1-й период: Счет 1-го периода: 2:2",
+    "coff": "38",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">1-й период: Счет 1-го периода: 2:2</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->38<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__CORRECT_SCORE(2:2)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "2-й период: Тотал: Меньше (0.5)",
+    "coff": "5.1",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">2-й период: Тотал: Меньше (0.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->5.1<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "SET_02__TOTALS__UNDER(0.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "2-й период: Тотал: Больше (0.5)",
+    "coff": "1.15",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">2-й период: Тотал: Больше (0.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.15<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "SET_02__TOTALS__OVER(0.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "2-й период: Тотал: Меньше (2.5)",
+    "coff": "1.31",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">2-й период: Тотал: Меньше (2.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.31<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "SET_02__TOTALS__UNDER(2.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "2-й период: Тотал: Больше (2.5)",
+    "coff": "3.3",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">2-й период: Тотал: Больше (2.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->3.3<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "SET_02__TOTALS__OVER(2.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "2-й период: Обе забьют: Да",
+    "coff": "2.75",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">2-й период: Обе забьют: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.75<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "SET_02__BOTH_TEAMS_TO_SCORE__YES"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "3-й период: Тотал: Меньше (0.5)",
+    "coff": "4.8",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">3-й период: Тотал: Меньше (0.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->4.8<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "SET_03__TOTALS__UNDER(0.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "3-й период: Тотал: Больше (0.5)",
+    "coff": "1.17",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">3-й период: Тотал: Больше (0.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.17<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "SET_03__TOTALS__OVER(0.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "3-й период: Тотал: Меньше (2.5)",
+    "coff": "1.29",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">3-й период: Тотал: Меньше (2.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.29<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "SET_03__TOTALS__UNDER(2.5)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "3-й период: Обе забьют: Да",
+    "coff": "2.9",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">3-й период: Обе забьют: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.9<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "SET_03__BOTH_TEAMS_TO_SCORE__YES"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "3-й период: Обе забьют: Нет",
+    "coff": "1.39",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">3-й период: Обе забьют: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.39<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "SET_03__BOTH_TEAMS_TO_SCORE__NO"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Азиатский тотал: Меньше (3.75)",
+    "coff": "3.1",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатский тотал: Меньше (3.75)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->3.1<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__UNDER(3.75)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Азиатский тотал: Больше (3.75)",
+    "coff": "1.35",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатский тотал: Больше (3.75)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.35<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__OVER(3.75)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Азиатский тотал: Меньше (4.25)",
+    "coff": "2.44",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатский тотал: Меньше (4.25)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.44<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__UNDER(4.25)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Азиатский тотал: Больше (4.25)",
+    "coff": "1.53",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатский тотал: Больше (4.25)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.53<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__OVER(4.25)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Азиатский тотал: Меньше (4.75)",
+    "coff": "2",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатский тотал: Меньше (4.75)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__UNDER(4.75)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Азиатский тотал: Больше (4.75)",
+    "coff": "1.77",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатский тотал: Больше (4.75)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.77<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__OVER(4.75)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Азиатский тотал: Меньше (5.25)",
+    "coff": "1.64",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатский тотал: Меньше (5.25)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.64<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__UNDER(5.25)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Азиатский тотал: Больше (5.25)",
+    "coff": "2.2",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатский тотал: Больше (5.25)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.2<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__OVER(5.25)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Азиатский тотал: Меньше (5.75)",
+    "coff": "1.46",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатский тотал: Меньше (5.75)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.46<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__UNDER(5.75)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Азиатский тотал: Больше (5.75)",
+    "coff": "2.65",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатский тотал: Больше (5.75)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.65<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__OVER(5.75)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Азиатский тотал: Меньше (6.25)",
+    "coff": "1.3",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатский тотал: Меньше (6.25)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.3<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__UNDER(6.25)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Азиатский тотал: Больше (6.25)",
+    "coff": "3.4",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатский тотал: Больше (6.25)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->3.4<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_RT__OVER(6.25)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Азиатская фора:  1 (-2.25)",
+    "coff": "3.7",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатская фора:  1 (-2.25)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->3.7<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P1(-2.25)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Азиатская фора:  2 (+2.25)",
+    "coff": "1.26",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатская фора:  2 (+2.25)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.26<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P2(2.25)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Азиатская фора:  1 (-1.75)",
+    "coff": "2.8",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатская фора:  1 (-1.75)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.8<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P1(-1.75)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Азиатская фора:  2 (+1.75)",
+    "coff": "1.42",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатская фора:  2 (+1.75)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.42<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P2(1.75)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Азиатская фора:  1 (-1.25)",
+    "coff": "2.33",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатская фора:  1 (-1.25)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.33<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P1(-1.25)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Азиатская фора:  2 (+1.25)",
+    "coff": "1.58",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатская фора:  2 (+1.25)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.58<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P2(1.25)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Азиатская фора:  1 (-0.75)",
+    "coff": "2.05",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатская фора:  1 (-0.75)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.05<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P1(-0.75)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Азиатская фора:  2 (+0.75)",
+    "coff": "1.74",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатская фора:  2 (+0.75)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.74<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P2(0.75)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Азиатская фора:  2 (+0.25)",
+    "coff": "2.15",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатская фора:  2 (+0.25)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.15<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P2(0.25)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Азиатская фора:  1 (+0.25)",
+    "coff": "1.33",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатская фора:  1 (+0.25)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.33<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P1(0.25)"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Монреаль Канадиенс",
+    "type": "Азиатская фора:  2 (-0.25)",
+    "coff": "3.2",
+    "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатская фора:  2 (-0.25)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->3.2<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_RT__P2(-0.25)"
   }
 ]

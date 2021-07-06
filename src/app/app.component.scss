@@ -1,0 +1,18 @@
+table {
+  border: 1px solid black;
+  width: 100%;
+  border-collapse: collapse;
+  td, th {
+    padding: 5px;
+    border: inherit;
+  }
+  tbody, thead, tr {
+    border: inherit;
+  }
+  td.green {
+    background-color: #b8fbb8;
+  }
+  td.red {
+    background-color: #fbb8b8;
+  }
+}

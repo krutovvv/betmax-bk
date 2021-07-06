@@ -1,0 +1,258 @@
+[
+  {
+    "team1": "Bad News Bears",
+    "team2": "mousesports",
+    "type": "1-я карта: Тотал раундов: Меньше (19.5)",
+    "coff": "9.22",
+    "html": "<div class=\"eventName\">Bad News Bears - mousesports</div><div class=\"labels\"><div class=\"betName\">1-я карта: Тотал раундов: Меньше (19.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6629 -->9.22<!-- /react-text --><!-- react-text: 6630 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS__UNDER(19.5)"
+  },
+  {
+    "team1": "Bad News Bears",
+    "team2": "mousesports",
+    "type": "1-я карта: Тотал раундов: Меньше (20.5)",
+    "coff": "6.94",
+    "html": "<div class=\"eventName\">Bad News Bears - mousesports</div><div class=\"labels\"><div class=\"betName\">1-я карта: Тотал раундов: Меньше (20.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6629 -->6.94<!-- /react-text --><!-- react-text: 6630 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS__UNDER(20.5)"
+  },
+  {
+    "team1": "Bad News Bears",
+    "team2": "mousesports",
+    "type": "1-я карта: Тотал раундов: Больше (20.5)",
+    "coff": "1.08",
+    "html": "<div class=\"eventName\">Bad News Bears - mousesports</div><div class=\"labels\"><div class=\"betName\">1-я карта: Тотал раундов: Больше (20.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6629 -->1.08<!-- /react-text --><!-- react-text: 6630 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS__OVER(20.5)"
+  },
+  {
+    "team1": "Bad News Bears",
+    "team2": "mousesports",
+    "type": "1-я карта: Тотал раундов: Меньше (21.5)",
+    "coff": "4.81",
+    "html": "<div class=\"eventName\">Bad News Bears - mousesports</div><div class=\"labels\"><div class=\"betName\">1-я карта: Тотал раундов: Меньше (21.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6629 -->4.81<!-- /react-text --><!-- react-text: 6630 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS__UNDER(21.5)"
+  },
+  {
+    "team1": "Bad News Bears",
+    "team2": "mousesports",
+    "type": "1-я карта: Тотал раундов: Больше (21.5)",
+    "coff": "1.16",
+    "html": "<div class=\"eventName\">Bad News Bears - mousesports</div><div class=\"labels\"><div class=\"betName\">1-я карта: Тотал раундов: Больше (21.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6629 -->1.16<!-- /react-text --><!-- react-text: 6630 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS__OVER(21.5)"
+  },
+  {
+    "team1": "Bad News Bears",
+    "team2": "mousesports",
+    "type": "1-я карта: Тотал раундов: Меньше (22.5)",
+    "coff": "3.62",
+    "html": "<div class=\"eventName\">Bad News Bears - mousesports</div><div class=\"labels\"><div class=\"betName\">1-я карта: Тотал раундов: Меньше (22.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6629 -->3.62<!-- /react-text --><!-- react-text: 6630 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS__UNDER(22.5)"
+  },
+  {
+    "team1": "Bad News Bears",
+    "team2": "mousesports",
+    "type": "1-я карта: Тотал раундов: Больше (22.5)",
+    "coff": "1.26",
+    "html": "<div class=\"eventName\">Bad News Bears - mousesports</div><div class=\"labels\"><div class=\"betName\">1-я карта: Тотал раундов: Больше (22.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6629 -->1.26<!-- /react-text --><!-- react-text: 6630 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS__OVER(22.5)"
+  },
+  {
+    "team1": "Bad News Bears",
+    "team2": "mousesports",
+    "type": "1-я карта: Тотал раундов: Меньше (23.5)",
+    "coff": "2.85",
+    "html": "<div class=\"eventName\">Bad News Bears - mousesports</div><div class=\"labels\"><div class=\"betName\">1-я карта: Тотал раундов: Меньше (23.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6629 -->2.85<!-- /react-text --><!-- react-text: 6630 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS__UNDER(23.5)"
+  },
+  {
+    "team1": "Bad News Bears",
+    "team2": "mousesports",
+    "type": "1-я карта: Тотал раундов: Больше (23.5)",
+    "coff": "1.39",
+    "html": "<div class=\"eventName\">Bad News Bears - mousesports</div><div class=\"labels\"><div class=\"betName\">1-я карта: Тотал раундов: Больше (23.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6629 -->1.39<!-- /react-text --><!-- react-text: 6630 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS__OVER(23.5)"
+  },
+  {
+    "team1": "Bad News Bears",
+    "team2": "mousesports",
+    "type": "1-я карта: Тотал раундов: Меньше (24.5)",
+    "coff": "2.31",
+    "html": "<div class=\"eventName\">Bad News Bears - mousesports</div><div class=\"labels\"><div class=\"betName\">1-я карта: Тотал раундов: Меньше (24.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6629 -->2.31<!-- /react-text --><!-- react-text: 6630 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS__UNDER(24.5)"
+  },
+  {
+    "team1": "Bad News Bears",
+    "team2": "mousesports",
+    "type": "1-я карта: Тотал раундов: Больше (24.5)",
+    "coff": "1.57",
+    "html": "<div class=\"eventName\">Bad News Bears - mousesports</div><div class=\"labels\"><div class=\"betName\">1-я карта: Тотал раундов: Больше (24.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6629 -->1.57<!-- /react-text --><!-- react-text: 6630 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS__OVER(24.5)"
+  },
+  {
+    "team1": "Bad News Bears",
+    "team2": "mousesports",
+    "type": "1-я карта: Тотал раундов: Меньше (25.5)",
+    "coff": "1.91",
+    "html": "<div class=\"eventName\">Bad News Bears - mousesports</div><div class=\"labels\"><div class=\"betName\">1-я карта: Тотал раундов: Меньше (25.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6629 -->1.91<!-- /react-text --><!-- react-text: 6630 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS__UNDER(25.5)"
+  },
+  {
+    "team1": "Bad News Bears",
+    "team2": "mousesports",
+    "type": "1-я карта: Тотал раундов: Больше (25.5)",
+    "coff": "1.83",
+    "html": "<div class=\"eventName\">Bad News Bears - mousesports</div><div class=\"labels\"><div class=\"betName\">1-я карта: Тотал раундов: Больше (25.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6629 -->1.83<!-- /react-text --><!-- react-text: 6630 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS__OVER(25.5)"
+  },
+  {
+    "team1": "Bad News Bears",
+    "team2": "mousesports",
+    "type": "1-я карта: Тотал раундов: Меньше (26.5)",
+    "coff": "1.63",
+    "html": "<div class=\"eventName\">Bad News Bears - mousesports</div><div class=\"labels\"><div class=\"betName\">1-я карта: Тотал раундов: Меньше (26.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6629 -->1.63<!-- /react-text --><!-- react-text: 6630 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS__UNDER(26.5)"
+  },
+  {
+    "team1": "Bad News Bears",
+    "team2": "mousesports",
+    "type": "1-я карта: Тотал раундов: Больше (26.5)",
+    "coff": "2.19",
+    "html": "<div class=\"eventName\">Bad News Bears - mousesports</div><div class=\"labels\"><div class=\"betName\">1-я карта: Тотал раундов: Больше (26.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6629 -->2.19<!-- /react-text --><!-- react-text: 6630 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS__OVER(26.5)"
+  },
+  {
+    "team1": "Bad News Bears",
+    "team2": "mousesports",
+    "type": "1-я карта: Тотал раундов: Меньше (27.5)",
+    "coff": "1.43",
+    "html": "<div class=\"eventName\">Bad News Bears - mousesports</div><div class=\"labels\"><div class=\"betName\">1-я карта: Тотал раундов: Меньше (27.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6629 -->1.43<!-- /react-text --><!-- react-text: 6630 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS__UNDER(27.5)"
+  },
+  {
+    "team1": "Bad News Bears",
+    "team2": "mousesports",
+    "type": "1-я карта: Тотал раундов: Больше (27.5)",
+    "coff": "2.7",
+    "html": "<div class=\"eventName\">Bad News Bears - mousesports</div><div class=\"labels\"><div class=\"betName\">1-я карта: Тотал раундов: Больше (27.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6629 -->2.7<!-- /react-text --><!-- react-text: 6630 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS__OVER(27.5)"
+  },
+  {
+    "team1": "Bad News Bears",
+    "team2": "mousesports",
+    "type": "1-я карта: Тотал раундов: Меньше (28.5)",
+    "coff": "1.27",
+    "html": "<div class=\"eventName\">Bad News Bears - mousesports</div><div class=\"labels\"><div class=\"betName\">1-я карта: Тотал раундов: Меньше (28.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6629 -->1.27<!-- /react-text --><!-- react-text: 6630 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS__UNDER(28.5)"
+  },
+  {
+    "team1": "Bad News Bears",
+    "team2": "mousesports",
+    "type": "1-я карта: Тотал раундов: Больше (28.5)",
+    "coff": "3.54",
+    "html": "<div class=\"eventName\">Bad News Bears - mousesports</div><div class=\"labels\"><div class=\"betName\">1-я карта: Тотал раундов: Больше (28.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6629 -->3.54<!-- /react-text --><!-- react-text: 6630 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS__OVER(28.5)"
+  },
+  {
+    "team1": "Bad News Bears",
+    "team2": "mousesports",
+    "type": "1-я карта: Тотал раундов: Меньше (29.5)",
+    "coff": "1.15",
+    "html": "<div class=\"eventName\">Bad News Bears - mousesports</div><div class=\"labels\"><div class=\"betName\">1-я карта: Тотал раундов: Меньше (29.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6629 -->1.15<!-- /react-text --><!-- react-text: 6630 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS__UNDER(29.5)"
+  },
+  {
+    "team1": "Bad News Bears",
+    "team2": "mousesports",
+    "type": "1-я карта: Тотал раундов: Больше (29.5)",
+    "coff": "4.99",
+    "html": "<div class=\"eventName\">Bad News Bears - mousesports</div><div class=\"labels\"><div class=\"betName\">1-я карта: Тотал раундов: Больше (29.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6629 -->4.99<!-- /react-text --><!-- react-text: 6630 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS__OVER(29.5)"
+  },
+  {
+    "team1": "Bad News Bears",
+    "team2": "mousesports",
+    "type": "1-я карта: Кто выиграет 1 раунд на пистолетах: Bad News Bears",
+    "coff": "2.16",
+    "html": "<div class=\"eventName\">Bad News Bears - mousesports</div><div class=\"labels\"><div class=\"betName\">1-я карта: Кто выиграет 1 раунд на пистолетах: Bad News Bears</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6629 -->2.16<!-- /react-text --><!-- react-text: 6630 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Bad News Bears",
+    "team2": "mousesports",
+    "type": "1-я карта: Кто выиграет 1 раунд на пистолетах: mousesports",
+    "coff": "1.65",
+    "html": "<div class=\"eventName\">Bad News Bears - mousesports</div><div class=\"labels\"><div class=\"betName\">1-я карта: Кто выиграет 1 раунд на пистолетах: mousesports</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6629 -->1.65<!-- /react-text --><!-- react-text: 6630 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Bad News Bears",
+    "team2": "mousesports",
+    "type": "1-я карта: Кто выиграет 2 раунд на пистолетах: Bad News Bears",
+    "coff": "2.16",
+    "html": "<div class=\"eventName\">Bad News Bears - mousesports</div><div class=\"labels\"><div class=\"betName\">1-я карта: Кто выиграет 2 раунд на пистолетах: Bad News Bears</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6629 -->2.16<!-- /react-text --><!-- react-text: 6630 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Bad News Bears",
+    "team2": "mousesports",
+    "type": "1-я карта: Кто выиграет 2 раунд на пистолетах: mousesports",
+    "coff": "1.65",
+    "html": "<div class=\"eventName\">Bad News Bears - mousesports</div><div class=\"labels\"><div class=\"betName\">1-я карта: Кто выиграет 2 раунд на пистолетах: mousesports</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6629 -->1.65<!-- /react-text --><!-- react-text: 6630 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Bad News Bears",
+    "team2": "mousesports",
+    "type": "1-я карта: Гонка до 3 раундов: Bad News Bears",
+    "coff": "2.51",
+    "html": "<div class=\"eventName\">Bad News Bears - mousesports</div><div class=\"labels\"><div class=\"betName\">1-я карта: Гонка до 3 раундов: Bad News Bears</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6629 -->2.51<!-- /react-text --><!-- react-text: 6630 --> <!-- /react-text --></div></div>",
+    "test": "FIRST_TO_SCORE__P1(3)"
+  },
+  {
+    "team1": "Bad News Bears",
+    "team2": "mousesports",
+    "type": "1-я карта: Гонка до 3 раундов: mousesports",
+    "coff": "1.49",
+    "html": "<div class=\"eventName\">Bad News Bears - mousesports</div><div class=\"labels\"><div class=\"betName\">1-я карта: Гонка до 3 раундов: mousesports</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6629 -->1.49<!-- /react-text --><!-- react-text: 6630 --> <!-- /react-text --></div></div>",
+    "test": "FIRST_TO_SCORE__P2(3)"
+  },
+  {
+    "team1": "Bad News Bears",
+    "team2": "mousesports",
+    "type": "1-я карта: Гонка до 6 раундов: mousesports",
+    "coff": "1.38",
+    "html": "<div class=\"eventName\">Bad News Bears - mousesports</div><div class=\"labels\"><div class=\"betName\">1-я карта: Гонка до 6 раундов: mousesports</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6629 -->1.38<!-- /react-text --><!-- react-text: 6630 --> <!-- /react-text --></div></div>",
+    "test": "FIRST_TO_SCORE__P2(6)"
+  },
+  {
+    "team1": "Bad News Bears",
+    "team2": "mousesports",
+    "type": "1-я карта: Гонка до 9 раундов: Bad News Bears",
+    "coff": "3.26",
+    "html": "<div class=\"eventName\">Bad News Bears - mousesports</div><div class=\"labels\"><div class=\"betName\">1-я карта: Гонка до 9 раундов: Bad News Bears</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6629 -->3.26<!-- /react-text --><!-- react-text: 6630 --> <!-- /react-text --></div></div>",
+    "test": "FIRST_TO_SCORE__P1(9)"
+  },
+  {
+    "team1": "Bad News Bears",
+    "team2": "mousesports",
+    "type": "1-я карта: Гонка до 9 раундов: mousesports",
+    "coff": "1.31",
+    "html": "<div class=\"eventName\">Bad News Bears - mousesports</div><div class=\"labels\"><div class=\"betName\">1-я карта: Гонка до 9 раундов: mousesports</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6629 -->1.31<!-- /react-text --><!-- react-text: 6630 --> <!-- /react-text --></div></div>",
+    "test": "FIRST_TO_SCORE__P2(9)"
+  },
+  {
+    "team1": "Bad News Bears",
+    "team2": "mousesports",
+    "type": "1-я карта: Гонка до 12 раундов: Bad News Bears",
+    "coff": "3.62",
+    "html": "<div class=\"eventName\">Bad News Bears - mousesports</div><div class=\"labels\"><div class=\"betName\">1-я карта: Гонка до 12 раундов: Bad News Bears</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6629 -->3.62<!-- /react-text --><!-- react-text: 6630 --> <!-- /react-text --></div></div>",
+    "test": "FIRST_TO_SCORE__P1(12)"
+  },
+  {
+    "team1": "Bad News Bears",
+    "team2": "mousesports",
+    "type": "1-я карта: Гонка до 12 раундов: mousesports",
+    "coff": "1.26",
+    "html": "<div class=\"eventName\">Bad News Bears - mousesports</div><div class=\"labels\"><div class=\"betName\">1-я карта: Гонка до 12 раундов: mousesports</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6629 -->1.26<!-- /react-text --><!-- react-text: 6630 --> <!-- /react-text --></div></div>",
+    "test": "FIRST_TO_SCORE__P2(12)"
+  }
+]

@@ -1,0 +1,1226 @@
+[
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Фора:  2 (+7.5)",
+    "coff": "1.67",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Фора:  2 (+7.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.67<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_OT__P2(7.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Фора:  2 (+4.5)",
+    "coff": "2.02",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Фора:  2 (+4.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.02<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_OT__P2(4.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Фора:  1 (-3.5)",
+    "coff": "1.67",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Фора:  1 (-3.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.67<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_OT__P1(-3.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Фора:  2 (+3.5)",
+    "coff": "2.15",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Фора:  2 (+3.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.15<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_OT__P2(3.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Фора:  1 (-2.5)",
+    "coff": "1.59",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Фора:  1 (-2.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.59<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_OT__P1(-2.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Фора:  2 (+2.5)",
+    "coff": "2.3",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Фора:  2 (+2.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.3<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_OT__P2(2.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Фора:  1 (-1.5)",
+    "coff": "1.53",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Фора:  1 (-1.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.53<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_OT__P1(-1.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Фора:  2 (+1.5)",
+    "coff": "2.45",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Фора:  2 (+1.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.45<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_OT__P2(1.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Фора:  1 (+1.5)",
+    "coff": "1.39",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Фора:  1 (+1.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.39<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_OT__P1(1.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Фора:  2 (-1.5)",
+    "coff": "2.9",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Фора:  2 (-1.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.9<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "HANDICAP_OT__P2(-1.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Тотал: Меньше (209.5)",
+    "coff": "2.45",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Тотал: Меньше (209.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.45<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_OT__UNDER(209.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Тотал: Больше (209.5)",
+    "coff": "1.53",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Тотал: Больше (209.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.53<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_OT__OVER(209.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Тотал: Меньше (210.5)",
+    "coff": "2.3",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Тотал: Меньше (210.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.3<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_OT__UNDER(210.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Тотал: Больше (210.5)",
+    "coff": "1.59",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Тотал: Больше (210.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.59<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_OT__OVER(210.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Тотал: Меньше (211.5)",
+    "coff": "2.15",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Тотал: Меньше (211.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.15<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_OT__UNDER(211.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Тотал: Больше (211.5)",
+    "coff": "1.67",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Тотал: Больше (211.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.67<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_OT__OVER(211.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Тотал: Меньше (212.5)",
+    "coff": "2.08",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Тотал: Меньше (212.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.08<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_OT__UNDER(212.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Тотал: Больше (212.5)",
+    "coff": "1.72",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Тотал: Больше (212.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.72<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_OT__OVER(212.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Тотал: Меньше (213.5)",
+    "coff": "1.97",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Тотал: Меньше (213.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.97<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_OT__UNDER(213.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Тотал: Больше (213.5)",
+    "coff": "1.8",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Тотал: Больше (213.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.8<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_OT__OVER(213.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Тотал: Меньше (215.5)",
+    "coff": "1.75",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Тотал: Меньше (215.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.75<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_OT__UNDER(215.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Тотал: Больше (215.5)",
+    "coff": "2.03",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Тотал: Больше (215.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.03<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_OT__OVER(215.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Тотал: Меньше (216.5)",
+    "coff": "1.7",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Тотал: Меньше (216.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.7<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_OT__UNDER(216.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Тотал: Больше (216.5)",
+    "coff": "2.1",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Тотал: Больше (216.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.1<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_OT__OVER(216.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Тотал: Меньше (217.5)",
+    "coff": "1.61",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Тотал: Меньше (217.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.61<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_OT__UNDER(217.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Тотал: Больше (217.5)",
+    "coff": "2.25",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Тотал: Больше (217.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.25<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_OT__OVER(217.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Тотал: Меньше (218.5)",
+    "coff": "1.57",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Тотал: Меньше (218.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.57<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_OT__UNDER(218.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Тотал: Больше (218.5)",
+    "coff": "2.35",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Тотал: Больше (218.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.35<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_OT__OVER(218.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Тотал: Меньше (219.5)",
+    "coff": "1.51",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Тотал: Меньше (219.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.51<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_OT__UNDER(219.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Тотал: Больше (219.5)",
+    "coff": "2.5",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Тотал: Больше (219.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.5<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_OT__OVER(219.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал — Беверли П.: Меньше (7.5)",
+    "coff": "1.86",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Беверли П.: Меньше (7.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.86<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал — Беверли П.: Больше (7.5)",
+    "coff": "1.9",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Беверли П.: Больше (7.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.9<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал — Букер Д. - Джексон Р.: Меньше (46.5)",
+    "coff": "1.86",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Букер Д. - Джексон Р.: Меньше (46.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.86<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал — Букер Д. - Джексон Р.: Больше (46.5)",
+    "coff": "1.9",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Букер Д. - Джексон Р.: Больше (46.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.9<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал — Букер Д. - Джордж П.: Меньше (56.5)",
+    "coff": "1.84",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Букер Д. - Джордж П.: Меньше (56.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.84<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал — Букер Д. - Джордж П.: Больше (56.5)",
+    "coff": "1.92",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Букер Д. - Джордж П.: Больше (56.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.92<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал — Букер Д.: Меньше (26.5)",
+    "coff": "1.9",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Букер Д.: Меньше (26.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.9<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал — Букер Д.: Больше (26.5)",
+    "coff": "1.86",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Букер Д.: Больше (26.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.86<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал — Джексон Р.: Меньше (19.5)",
+    "coff": "1.9",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Джексон Р.: Меньше (19.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.9<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал — Джексон Р.: Больше (19.5)",
+    "coff": "1.86",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Джексон Р.: Больше (19.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.86<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал — Джордж П.: Меньше (29.5)",
+    "coff": "1.87",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Джордж П.: Меньше (29.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.87<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал — Джордж П.: Больше (29.5)",
+    "coff": "1.89",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Джордж П.: Больше (29.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.89<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал — Зубац И.: Меньше (12.5)",
+    "coff": "1.9",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Зубац И.: Меньше (12.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.9<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал — Зубац И.: Больше (12.5)",
+    "coff": "1.86",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Зубац И.: Больше (12.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.86<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал — Краудер Дж. - Джордж П.: Меньше (39.5)",
+    "coff": "1.85",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Краудер Дж. - Джордж П.: Меньше (39.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.85<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал — Краудер Дж. - Джордж П.: Больше (39.5)",
+    "coff": "1.91",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Краудер Дж. - Джордж П.: Больше (39.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.91<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал — Краудер Дж.: Меньше (9.5)",
+    "coff": "1.95",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Краудер Дж.: Меньше (9.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.95<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал — Краудер Дж.: Больше (9.5)",
+    "coff": "1.81",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Краудер Дж.: Больше (9.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.81<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал — Микал Бриджес - Мэнн Т.: Меньше (23.5)",
+    "coff": "1.79",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Микал Бриджес - Мэнн Т.: Меньше (23.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.79<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал — Микал Бриджес - Мэнн Т.: Больше (23.5)",
+    "coff": "1.98",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Микал Бриджес - Мэнн Т.: Больше (23.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.98<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал — Микал Бриджес: Меньше (11.5)",
+    "coff": "1.87",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Микал Бриджес: Меньше (11.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.87<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал — Микал Бриджес: Больше (11.5)",
+    "coff": "1.89",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Микал Бриджес: Больше (11.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.89<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал — Мэнн Т.: Меньше (11.5)",
+    "coff": "1.87",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Мэнн Т.: Меньше (11.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.87<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал — Мэнн Т.: Больше (11.5)",
+    "coff": "1.89",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Мэнн Т.: Больше (11.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.89<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал — Пол К. - Джексон Р.: Меньше (37.5)",
+    "coff": "1.85",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Пол К. - Джексон Р.: Меньше (37.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.85<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал — Пол К. - Джексон Р.: Больше (37.5)",
+    "coff": "1.91",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Пол К. - Джексон Р.: Больше (37.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.91<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал — Пол К.: Меньше (17.5)",
+    "coff": "1.9",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Пол К.: Меньше (17.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.9<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал — Пол К.: Больше (17.5)",
+    "coff": "1.86",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Пол К.: Больше (17.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.86<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал — Эйтон Д. - Зубац И.: Меньше (29.5)",
+    "coff": "2",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Эйтон Д. - Зубац И.: Меньше (29.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал — Эйтон Д. - Зубац И.: Больше (29.5)",
+    "coff": "1.77",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Эйтон Д. - Зубац И.: Больше (29.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.77<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал — Эйтон Д.: Меньше (17.5)",
+    "coff": "1.79",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Эйтон Д.: Меньше (17.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.79<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал — Эйтон Д.: Больше (17.5)",
+    "coff": "1.98",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал — Эйтон Д.: Больше (17.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.98<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Тотал самой результативной четверти: Меньше (61.5)",
+    "coff": "1.9",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Тотал самой результативной четверти: Меньше (61.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.9<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Тотал самой результативной четверти: Больше (61.5)",
+    "coff": "1.86",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Тотал самой результативной четверти: Больше (61.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.86<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Тотал самой нерезультативной четверти: Меньше (44.5)",
+    "coff": "1.9",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Тотал самой нерезультативной четверти: Меньше (44.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.9<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Тотал самой нерезультативной четверти: Больше (44.5)",
+    "coff": "1.86",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Тотал самой нерезультативной четверти: Больше (44.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.86<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал: Лос-Анджелес Клипперс: Меньше (103.5)",
+    "coff": "2.01",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Лос-Анджелес Клипперс: Меньше (103.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.01<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "P2__TOTALS_OT__UNDER(103.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал: Лос-Анджелес Клипперс: Больше (103.5)",
+    "coff": "1.77",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Лос-Анджелес Клипперс: Больше (103.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.77<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "P2__TOTALS_OT__OVER(103.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал: Лос-Анджелес Клипперс: Меньше (104.5)",
+    "coff": "1.85",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Лос-Анджелес Клипперс: Меньше (104.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.85<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "P2__TOTALS_OT__UNDER(104.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал: Лос-Анджелес Клипперс: Больше (104.5)",
+    "coff": "1.91",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Лос-Анджелес Клипперс: Больше (104.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.91<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "P2__TOTALS_OT__OVER(104.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал: Лос-Анджелес Клипперс: Меньше (105.5)",
+    "coff": "1.74",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Лос-Анджелес Клипперс: Меньше (105.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.74<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "P2__TOTALS_OT__UNDER(105.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал: Лос-Анджелес Клипперс: Больше (105.5)",
+    "coff": "2.05",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Лос-Анджелес Клипперс: Больше (105.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.05<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "P2__TOTALS_OT__OVER(105.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал: Финикс Санз: Меньше (108.5)",
+    "coff": "2.01",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Финикс Санз: Меньше (108.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.01<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "P1__TOTALS_OT__UNDER(108.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал: Финикс Санз: Больше (108.5)",
+    "coff": "1.77",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Финикс Санз: Больше (108.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.77<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "P1__TOTALS_OT__OVER(108.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал: Финикс Санз: Меньше (109.5)",
+    "coff": "1.95",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Финикс Санз: Меньше (109.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.95<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "P1__TOTALS_OT__UNDER(109.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал: Финикс Санз: Больше (109.5)",
+    "coff": "1.81",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Финикс Санз: Больше (109.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.81<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "P1__TOTALS_OT__OVER(109.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал: Финикс Санз: Меньше (110.5)",
+    "coff": "1.79",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Финикс Санз: Меньше (110.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.79<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "P1__TOTALS_OT__UNDER(110.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Инд. тотал: Финикс Санз: Больше (110.5)",
+    "coff": "1.98",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Инд. тотал: Финикс Санз: Больше (110.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.98<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "P1__TOTALS_OT__OVER(110.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Первый фол: Финикс Санз",
+    "coff": "1.86",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Первый фол: Финикс Санз</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.86<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Первый фол: Лос-Анджелес Клипперс",
+    "coff": "1.9",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Первый фол: Лос-Анджелес Клипперс</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.9<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Первый подбор: Финикс Санз",
+    "coff": "1.86",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Первый подбор: Финикс Санз</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.86<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Первый подбор: Лос-Анджелес Клипперс",
+    "coff": "1.9",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Первый подбор: Лос-Анджелес Клипперс</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.9<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Какая команда наберет очки первой: Финикс Санз",
+    "coff": "1.77",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Какая команда наберет очки первой: Финикс Санз</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.77<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "WHO_SCORE__01__P1"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Какая команда наберет очки первой: Лос-Анджелес Клипперс",
+    "coff": "2",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Какая команда наберет очки первой: Лос-Анджелес Клипперс</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "WHO_SCORE__01__P2"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Наберет очки последней: Финикс Санз",
+    "coff": "1.86",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Наберет очки последней: Финикс Санз</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.86<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "LAST_TEAM_TO_SCORE__P1"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Наберет очки последней: Лос-Анджелес Клипперс",
+    "coff": "1.9",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Наберет очки последней: Лос-Анджелес Клипперс</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.9<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "LAST_TEAM_TO_SCORE__P2"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Последний фол: Финикс Санз",
+    "coff": "2",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Последний фол: Финикс Санз</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Последний фол: Лос-Анджелес Клипперс",
+    "coff": "1.77",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Последний фол: Лос-Анджелес Клипперс</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.77<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Первый реализованный штрафной: Финикс Санз",
+    "coff": "1.81",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Первый реализованный штрафной: Финикс Санз</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.81<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Первый реализованный штрафной: Лос-Анджелес Клипперс",
+    "coff": "1.95",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Первый реализованный штрафной: Лос-Анджелес Клипперс</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.95<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Последний реализованный штрафной: Финикс Санз",
+    "coff": "1.77",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Последний реализованный штрафной: Финикс Санз</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.77<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Последний реализованный штрафной: Лос-Анджелес Клипперс",
+    "coff": "2",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Последний реализованный штрафной: Лос-Анджелес Клипперс</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Последний тайм-аут: Лос-Анджелес Клипперс",
+    "coff": "1.77",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Последний тайм-аут: Лос-Анджелес Клипперс</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.77<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Гонка до 5 очков: Финикс Санз",
+    "coff": "1.74",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Гонка до 5 очков: Финикс Санз</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.74<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "FIRST_TO_SCORE__P1(5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Гонка до 5 очков: Лос-Анджелес Клипперс",
+    "coff": "2.05",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Гонка до 5 очков: Лос-Анджелес Клипперс</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.05<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "FIRST_TO_SCORE__P2(5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Гонка до 10 очков: Финикс Санз",
+    "coff": "1.7",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Гонка до 10 очков: Финикс Санз</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.7<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "FIRST_TO_SCORE__P1(10)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Гонка до 10 очков: Лос-Анджелес Клипперс",
+    "coff": "2.1",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Гонка до 10 очков: Лос-Анджелес Клипперс</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.1<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "FIRST_TO_SCORE__P2(10)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Гонка до 20 очков: Финикс Санз",
+    "coff": "1.66",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Гонка до 20 очков: Финикс Санз</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.66<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "FIRST_TO_SCORE__P1(20)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Гонка до 20 очков: Лос-Анджелес Клипперс",
+    "coff": "2.17",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Гонка до 20 очков: Лос-Анджелес Клипперс</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.17<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "FIRST_TO_SCORE__P2(20)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Гонка до 30 очков: Финикс Санз",
+    "coff": "1.61",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Гонка до 30 очков: Финикс Санз</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.61<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "FIRST_TO_SCORE__P1(30)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Гонка до 30 очков: Лос-Анджелес Клипперс",
+    "coff": "2.25",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Гонка до 30 очков: Лос-Анджелес Клипперс</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.25<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "FIRST_TO_SCORE__P2(30)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Гонка до 40 очков: Финикс Санз",
+    "coff": "1.58",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Гонка до 40 очков: Финикс Санз</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.58<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "FIRST_TO_SCORE__P1(40)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Гонка до 40 очков: Лос-Анджелес Клипперс",
+    "coff": "2.33",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Гонка до 40 очков: Лос-Анджелес Клипперс</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.33<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "FIRST_TO_SCORE__P2(40)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Гонка до 50 очков: Финикс Санз",
+    "coff": "1.55",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Гонка до 50 очков: Финикс Санз</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.55<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "FIRST_TO_SCORE__P1(50)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Гонка до 50 очков: Лос-Анджелес Клипперс",
+    "coff": "2.4",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Гонка до 50 очков: Лос-Анджелес Клипперс</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.4<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "FIRST_TO_SCORE__P2(50)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Выход в финал: Финикс Санз",
+    "coff": "1.03",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Выход в финал: Финикс Санз</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.03<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "WIN_OT__P1"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Выход в финал: Лос-Анджелес Клипперс",
+    "coff": "10.98",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Выход в финал: Лос-Анджелес Клипперс</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->10.98<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "WIN_OT__P2"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Последний реализованный 2-х очк.: Финикс Санз",
+    "coff": "1.86",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Последний реализованный 2-х очк.: Финикс Санз</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.86<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Последний реализованный 2-х очк.: Лос-Анджелес Клипперс",
+    "coff": "1.9",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Последний реализованный 2-х очк.: Лос-Анджелес Клипперс</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.9<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Первый реализованный 2-х очк.: Финикс Санз",
+    "coff": "1.81",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Первый реализованный 2-х очк.: Финикс Санз</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.81<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Первый реализованный 2-х очк.: Лос-Анджелес Клипперс",
+    "coff": "1.95",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Первый реализованный 2-х очк.: Лос-Анджелес Клипперс</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.95<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Первый реализованный 3-х очк.: Финикс Санз",
+    "coff": "1.77",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Первый реализованный 3-х очк.: Финикс Санз</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.77<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Первый реализованный 3-х очк.: Лос-Анджелес Клипперс",
+    "coff": "2",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Первый реализованный 3-х очк.: Лос-Анджелес Клипперс</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Последний реализованный 3-х очк.: Финикс Санз",
+    "coff": "1.86",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Последний реализованный 3-х очк.: Финикс Санз</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.86<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Последний реализованный 3-х очк.: Лос-Анджелес Клипперс",
+    "coff": "1.9",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Последний реализованный 3-х очк.: Лос-Анджелес Клипперс</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.9<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Наибольшее кол-во очков в четверти: Финикс Санз",
+    "coff": "1.49",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Наибольшее кол-во очков в четверти: Финикс Санз</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.49<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__WIN__P1"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Наибольшее кол-во очков в четверти: Никто",
+    "coff": "10",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Наибольшее кол-во очков в четверти: Никто</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->10<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__WIN__PX"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Наибольшее кол-во очков в четверти: Лос-Анджелес Клипперс",
+    "coff": "2.55",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Наибольшее кол-во очков в четверти: Лос-Анджелес Клипперс</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.55<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__WIN__P2"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Чётный тотал: Да",
+    "coff": "1.84",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Чётный тотал: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.84<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_OT__EVEN"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Чётный тотал: Нет",
+    "coff": "1.92",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Чётный тотал: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.92<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "TOTALS_OT__ODD"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Выиграет первую четверть и матч: Финикс Санз: Да",
+    "coff": "2",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Выиграет первую четверть и матч: Финикс Санз: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Выиграет первую четверть и матч: Финикс Санз: Нет",
+    "coff": "1.77",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Выиграет первую четверть и матч: Финикс Санз: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.77<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Выиграет первую четверть и матч: Лос-Анджелес Клипперс: Да",
+    "coff": "4.25",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Выиграет первую четверть и матч: Лос-Анджелес Клипперс: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->4.25<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Выиграет первую четверть и матч: Лос-Анджелес Клипперс: Нет",
+    "coff": "1.21",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Выиграет первую четверть и матч: Лос-Анджелес Клипперс: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.21<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Выиграет первую половину и матч: Финикс Санз: Да",
+    "coff": "1.91",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Выиграет первую половину и матч: Финикс Санз: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.91<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Выиграет первую половину и матч: Финикс Санз: Нет",
+    "coff": "1.85",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Выиграет первую половину и матч: Финикс Санз: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.85<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Выиграет первую половину и матч: Лос-Анджелес Клипперс: Да",
+    "coff": "4",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Выиграет первую половину и матч: Лос-Анджелес Клипперс: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->4<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Выиграет первую половину и матч: Лос-Анджелес Клипперс: Нет",
+    "coff": "1.23",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Выиграет первую половину и матч: Лос-Анджелес Клипперс: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.23<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Выиграет обе половины: Финикс Санз: Да",
+    "coff": "2.65",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Выиграет обе половины: Финикс Санз: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.65<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Выиграет обе половины: Финикс Санз: Нет",
+    "coff": "1.46",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Выиграет обе половины: Финикс Санз: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.46<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Выиграет обе половины: Лос-Анджелес Клипперс: Да",
+    "coff": "7.4",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Выиграет обе половины: Лос-Анджелес Клипперс: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->7.4<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Выиграет обе половины: Лос-Анджелес Клипперс: Нет",
+    "coff": "1.08",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Выиграет обе половины: Лос-Анджелес Клипперс: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.08<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Выиграет все четверти: Финикс Санз: Да",
+    "coff": "12",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Выиграет все четверти: Финикс Санз: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->12<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "Выиграет все четверти: Лос-Анджелес Клипперс: Да",
+    "coff": "33",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Выиграет все четверти: Лос-Анджелес Клипперс: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->33<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "1-я четверть: Тотал: Меньше (51.5)",
+    "coff": "2.04",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">1-я четверть: Тотал: Меньше (51.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.04<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__TOTALS__UNDER(51.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "1-я четверть: Тотал: Больше (51.5)",
+    "coff": "1.74",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">1-я четверть: Тотал: Больше (51.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.74<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__TOTALS__OVER(51.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "1-я четверть: Тотал: Больше (53.5)",
+    "coff": "2.04",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">1-я четверть: Тотал: Больше (53.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.04<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__TOTALS__OVER(53.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "1-я четверть: Чётный тотал: Да",
+    "coff": "1.84",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">1-я четверть: Чётный тотал: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.84<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__TOTALS__EVEN"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "1-я четверть: Чётный тотал: Нет",
+    "coff": "1.92",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">1-я четверть: Чётный тотал: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.92<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "SET_01__TOTALS__ODD"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "2-я четверть: Тотал: Меньше (52.5)",
+    "coff": "2.04",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">2-я четверть: Тотал: Меньше (52.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.04<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "SET_02__TOTALS__UNDER(52.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "2-я четверть: Тотал: Больше (52.5)",
+    "coff": "1.74",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">2-я четверть: Тотал: Больше (52.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.74<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "SET_02__TOTALS__OVER(52.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "2-я четверть: Тотал: Больше (54.5)",
+    "coff": "2.04",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">2-я четверть: Тотал: Больше (54.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.04<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "SET_02__TOTALS__OVER(54.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "2-я четверть: Чётный тотал: Да",
+    "coff": "1.84",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">2-я четверть: Чётный тотал: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.84<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "SET_02__TOTALS__EVEN"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "3-я четверть: Тотал: Меньше (52.5)",
+    "coff": "2.04",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">3-я четверть: Тотал: Меньше (52.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.04<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "SET_03__TOTALS__UNDER(52.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "3-я четверть: Тотал: Больше (52.5)",
+    "coff": "1.74",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">3-я четверть: Тотал: Больше (52.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.74<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "SET_03__TOTALS__OVER(52.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "3-я четверть: Тотал: Больше (54.5)",
+    "coff": "2.04",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">3-я четверть: Тотал: Больше (54.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.04<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "SET_03__TOTALS__OVER(54.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "3-я четверть: Чётный тотал: Да",
+    "coff": "1.84",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">3-я четверть: Чётный тотал: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.84<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "SET_03__TOTALS__EVEN"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "3-я четверть: Чётный тотал: Нет",
+    "coff": "1.92",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">3-я четверть: Чётный тотал: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.92<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "SET_03__TOTALS__ODD"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "4-я четверть: Тотал: Меньше (51.5)",
+    "coff": "2.04",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">4-я четверть: Тотал: Меньше (51.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.04<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "SET_04__TOTALS__UNDER(51.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "4-я четверть: Тотал: Больше (51.5)",
+    "coff": "1.74",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">4-я четверть: Тотал: Больше (51.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.74<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "SET_04__TOTALS__OVER(51.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "4-я четверть: Тотал: Больше (53.5)",
+    "coff": "2.03",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">4-я четверть: Тотал: Больше (53.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.03<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "SET_04__TOTALS__OVER(53.5)"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "4-я четверть: Чётный тотал: Да",
+    "coff": "1.84",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">4-я четверть: Чётный тотал: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.84<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "SET_04__TOTALS__EVEN"
+  },
+  {
+    "team1": "Финикс Санз",
+    "team2": "Лос-Анджелес Клипперс",
+    "type": "4-я четверть: Чётный тотал: Нет",
+    "coff": "1.92",
+    "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">4-я четверть: Чётный тотал: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.92<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
+    "test": "SET_04__TOTALS__ODD"
+  }
+]

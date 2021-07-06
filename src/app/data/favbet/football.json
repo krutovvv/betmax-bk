@@ -1,0 +1,911 @@
+[
+  {
+    "params": {
+      "type": "Победа",
+      "time": "Основное время",
+      "value": "Арсенал Лондон"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Победа / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Арсенал Лондон</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.88</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "WIN__P1"
+  },
+  {
+    "params": {
+      "type": "Победа",
+      "time": "Основное время",
+      "value": "Ничья"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Победа / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Ничья</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">3.80</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "WIN__PX"
+  },
+  {
+    "params": {
+      "type": "Победа",
+      "time": "Основное время",
+      "value": "Вильярреал"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Победа / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Вильярреал</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">4.20</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "WIN__P2"
+  },
+  {
+    "params": {
+      "type": "Победа",
+      "time": "1 Тайм",
+      "value": "Арсенал Лондон"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Победа / 1 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">Арсенал Лондон</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">2.43</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_01__WIN__P1"
+  },
+  {
+    "params": {
+      "type": "Победа",
+      "time": "1 Тайм",
+      "value": "Ничья"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Победа / 1 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">Ничья</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">2.30</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_01__WIN__PX"
+  },
+  {
+    "params": {
+      "type": "Победа",
+      "time": "1 Тайм",
+      "value": "Вильярреал"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Победа / 1 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">Вильярреал</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">4.45</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_01__WIN__P2"
+  },
+  {
+    "params": {
+      "type": "Победа",
+      "time": "2 Тайм",
+      "value": "Арсенал Лондон"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Победа / 2 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">Арсенал Лондон</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">2.15</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_02__WIN__P1"
+  },
+  {
+    "params": {
+      "type": "Победа",
+      "time": "2 Тайм",
+      "value": "Ничья"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Победа / 2 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">Ничья</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">2.76</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_02__WIN__PX"
+  },
+  {
+    "params": {
+      "type": "Победа",
+      "time": "2 Тайм",
+      "value": "Вильярреал"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Победа / 2 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">Вильярреал</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">4.10</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_02__WIN__P2"
+  },
+  {
+    "params": {
+      "type": "Проход",
+      "time": "Арсенал Лондон",
+      "value": ""
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Проход / Основной</div><div class=\"SingleBet_outcomeName__14oJ1\">Арсенал Лондон</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">2.24</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "WIN__P1"
+  },
+  {
+    "params": {
+      "type": "Проход",
+      "time": "Вильярреал",
+      "value": ""
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Проход / Основной</div><div class=\"SingleBet_outcomeName__14oJ1\">Вильярреал</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.72</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "WIN__P2"
+  },
+  {
+    "params": {
+      "type": "Двойной исход",
+      "time": "Основное время",
+      "value": "1x"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Двойной исход / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">1X</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.21</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "WIN__1X"
+  },
+  {
+    "params": {
+      "type": "Двойной исход",
+      "time": "Основное время",
+      "value": "12"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Двойной исход / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">12</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.25</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "WIN__12"
+  },
+  {
+    "params": {
+      "type": "Двойной исход",
+      "time": "Основное время",
+      "value": "x2"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Двойной исход / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">X2</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.94</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "WIN__X2"
+  },
+  {
+    "params": {
+      "type": "Двойной исход",
+      "time": "1 Тайм",
+      "value": "1x"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Двойной исход / 1 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">1X</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.18</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_01__WIN__1X"
+  },
+  {
+    "params": {
+      "type": "Двойной исход",
+      "time": "1 Тайм",
+      "value": "12"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Двойной исход / 1 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">12</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.58</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_01__WIN__12"
+  },
+  {
+    "params": {
+      "type": "Двойной исход",
+      "time": "1 Тайм",
+      "value": "2x"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Двойной исход / 1 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">12</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.58</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_01__WIN__12"
+  },
+  {
+    "params": {
+      "type": "Двойной исход",
+      "time": "2 Тайм",
+      "value": "1x"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Двойной исход / 2 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">1X</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.20</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_02__WIN__1X"
+  },
+  {
+    "params": {
+      "type": "Двойной исход",
+      "time": "2 Тайм",
+      "value": "12"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Двойной исход / 2 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">12</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.41</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_02__WIN__12"
+  },
+  {
+    "params": {
+      "type": "Двойной исход",
+      "time": "2 Тайм",
+      "value": "2x"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Двойной исход / 2 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">X2</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.67</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_02__WIN__X2"
+  },
+  {
+    "params": {
+      "type": "Фора",
+      "time": "Основное время",
+      "value": "Арсенал Лондон (-2.5)"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Фора / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Арсенал Лондон (-2.5)</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">6.3</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HANDICAP__P1(-2.5)"
+  },
+  {
+    "params": {
+      "type": "Фора",
+      "time": "Основное время",
+      "value": "Вильярреал"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Фора / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Вильярреал (+2.5)</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.11</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HANDICAP__P2(2.5)"
+  },
+  {
+    "params": {
+      "type": "Фора",
+      "time": "1 Тайм",
+      "value": "Арсенал Лондон (-1.5)"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Фора / 1 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">Арсенал Лондон (-1.5)</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">6.7</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_01__HANDICAP__P1(-1.5)"
+  },
+  {
+    "params": {
+      "type": "Фора",
+      "time": "1 Тайм",
+      "value": "Вильярреал (+1.5)"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Фора / 1 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">Вильярреал (+1.5)</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.08</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_01__HANDICAP__P2(1.5)"
+  },
+  {
+    "params": {
+      "type": "Фора",
+      "time": "2 Тайм",
+      "value": "Арсенал Лондон (-1.5)"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Фора / 2 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">Арсенал Лондон (-1.5)</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">5.3</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_02__HANDICAP__P1(-1.5)"
+  },
+  {
+    "params": {
+      "type": "Фора",
+      "time": "2 Тайм",
+      "value": "Вильярреал (+1.5)"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Фора / 2 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">Вильярреал (+1.5)</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.13</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_02__HANDICAP__P2(1.5)"
+  },
+  {
+    "params": {
+      "type": "Азиатская фора",
+      "time": "Основное время",
+      "value": "Арсенал Лондон (-1.25)"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Азиатская фора / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Арсенал Лондон (-1.25)</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">2.86</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HANDICAP__P1(-1.25)"
+  },
+  {
+    "params": {
+      "type": "Азиатская фора",
+      "time": "Основное время",
+      "value": "Вильярреал (+1.25)"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Азиатская фора / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Вильярреал (+1.25)</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.43</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HANDICAP__P2(1.25)"
+  },
+  {
+    "params": {
+      "type": "Тотал",
+      "time": "Основное время",
+      "value": "Больше (0.5)"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Тотал / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Больше (0.5)</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.03</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "TOTALS__OVER(0.5)"
+  },
+  {
+    "params": {
+      "type": "Тотал",
+      "time": "Основное время",
+      "value": "Меньше (0.5)"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Тотал / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Меньше (0.5)</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">10</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "TOTALS__UNDER(0.5)"
+  },
+  {
+    "params": {
+      "type": "Тотал",
+      "time": "1 Тайм",
+      "value": "Больше (0.5)"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Тотал / 1 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">Больше (0.5)</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.36</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_01__TOTALS__OVER(0.5)"
+  },
+  {
+    "params": {
+      "type": "Тотал",
+      "time": "1 Тайм",
+      "value": "Меньше (0.5)"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Тотал / 1 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">Меньше (0.5)</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">3</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_01__TOTALS__UNDER(0.5)"
+  },
+  {
+    "params": {
+      "type": "Тотал",
+      "time": "2 Тайм",
+      "value": "Больше (0.5)"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Тотал / 2 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">Больше (0.5)</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.19</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_02__TOTALS__OVER(0.5)"
+  },
+  {
+    "params": {
+      "type": "Тотал",
+      "time": "2 Тайм",
+      "value": "Меньше (0.5)"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Тотал / 2 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">Меньше (0.5)</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">4.3</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_02__TOTALS__UNDER(0.5)"
+  },
+  {
+    "params": {
+      "type": "Азиатский тотал",
+      "time": "Основное время",
+      "value": "Больше (2.25)"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Азиатский тотал / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Больше (2.25)</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.55</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "TOTALS__OVER(2.25)"
+  },
+  {
+    "params": {
+      "type": "Азиатский тотал",
+      "time": "Основное время",
+      "value": "Меньше (2.25)"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Азиатский тотал / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Меньше (2.25)</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">2.46</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "TOTALS__UNDER(2.25)"
+  },
+  {
+    "params": {
+      "type": "Трехисходный Тотал",
+      "time": "Основное время",
+      "value": "Больше (2)"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Трехисходный Тотал / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Больше (2) </div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.79</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "TOTALS__OVER(2.5)"
+  },
+  {
+    "params": {
+      "type": "Трехисходный Тотал",
+      "time": "Основное время",
+      "value": "Меньше (2)"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Трехисходный Тотал / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Меньше (2) </div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">4.00</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "TOTALS__UNDER(1.5)"
+  },
+  {
+    "params": {
+      "type": "Трехисходный Тотал",
+      "time": "Основное время",
+      "value": "Ровно (2)"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Трехисходный Тотал / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Ровно (2) </div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">3.15</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "TOTALS__EXACT(2)"
+  },
+  {
+    "params": {
+      "type": "Индивидуальный тотал",
+      "time": "Арсенал Лондон",
+      "value": "Основное время"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Индивидуальный тотал Арсенал Лондон / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Больше (0.5)</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.14</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "P1__TOTALS__OVER(0.5)"
+  },
+  {
+    "params": {
+      "type": "Индивидуальный тотал",
+      "time": "Арсенал Лондон",
+      "value": "Основное время"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Индивидуальный тотал Арсенал Лондон / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Меньше (0.5)</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">5.5</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "P1__TOTALS__UNDER(0.5)"
+  },
+  {
+    "params": {
+      "type": "Индивидуальный тотал",
+      "time": "Арсенал Лондон",
+      "value": "1 Тайм"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Индивидуальный тотал Арсенал Лондон / 1 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">Больше (0.5)</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.78</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_01__P1__TOTALS__OVER(0.5)"
+  },
+  {
+    "params": {
+      "type": "Индивидуальный тотал",
+      "time": "Арсенал Лондон",
+      "value": "1 Тайм"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Индивидуальный тотал Арсенал Лондон / 1 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">Меньше (0.5)</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">2.01</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_01__P1__TOTALS__UNDER(0.5)"
+  },
+  {
+    "params": {
+      "type": "Индивидуальный тотал",
+      "time": "Арсенал Лондон",
+      "value": "2 Тайм"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Индивидуальный тотал Арсенал Лондон / 1 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">Меньше (0.5)</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">2.01</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_01__P1__TOTALS__UNDER(0.5)"
+  },
+  {
+    "params": {
+      "type": "Индивидуальный тотал",
+      "time": "Арсенал Лондон",
+      "value": "2 Тайм"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Индивидуальный тотал Арсенал Лондон / 2 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">Меньше (0.5)</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">2.59</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_02__P1__TOTALS__UNDER(0.5)"
+  },
+  {
+    "params": {
+      "type": "Индивидуальный тотал",
+      "time": "Вильярреал",
+      "value": "Основное время"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Индивидуальный тотал Вильярреал / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Больше (0.5)</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.42</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "P2__TOTALS__OVER(0.5)"
+  },
+  {
+    "params": {
+      "type": "Индивидуальный тотал",
+      "time": "Вильярреал",
+      "value": "Основное время"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Индивидуальный тотал Вильярреал / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Меньше (0.5)</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">2.85</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "P2__TOTALS__UNDER(0.5)"
+  },
+  {
+    "params": {
+      "type": "Индивидуальный тотал",
+      "time": "Вильярреал",
+      "value": "1 Тайм"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Индивидуальный тотал Вильярреал / 1 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">Больше (0.5)</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">2.51</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_01__P2__TOTALS__OVER(0.5)"
+  },
+  {
+    "params": {
+      "type": "Индивидуальный тотал",
+      "time": "Вильярреал",
+      "value": "1 Тайм"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Индивидуальный тотал Вильярреал / 1 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">Меньше (0.5)</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.51</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_01__P2__TOTALS__UNDER(0.5)"
+  },
+  {
+    "params": {
+      "type": "Индивидуальный тотал",
+      "time": "Вильярреал",
+      "value": "2 Тайм"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Индивидуальный тотал Вильярреал / 1 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">Меньше (0.5)</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.51</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_01__P2__TOTALS__UNDER(0.5)"
+  },
+  {
+    "params": {
+      "type": "Индивидуальный тотал",
+      "time": "Вильярреал",
+      "value": "2 Тайм"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Индивидуальный тотал Вильярреал / 2 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">Меньше (0.5)</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.77</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_02__P2__TOTALS__UNDER(0.5)"
+  },
+  {
+    "params": {
+      "type": "Обе команды забьют",
+      "time": "Основное время",
+      "value": "Да"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Обе команды забьют / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Да</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.71</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "BOTH_TEAMS_TO_SCORE__YES"
+  },
+  {
+    "params": {
+      "type": "Обе команды забьют",
+      "time": "Основное время",
+      "value": "Нет"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Обе команды забьют / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Нет</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">2.16</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "BOTH_TEAMS_TO_SCORE__NO"
+  },
+  {
+    "params": {
+      "type": "Обе команды забьют",
+      "time": "1 Тайм",
+      "value": "Да"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Обе команды забьют / 1 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">Да</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">4.20</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_01__BOTH_TEAMS_TO_SCORE__YES"
+  },
+  {
+    "params": {
+      "type": "Обе команды забьют",
+      "time": "1 Тайм",
+      "value": "Нет"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Обе команды забьют / 1 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">Нет</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.20</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_01__BOTH_TEAMS_TO_SCORE__NO"
+  },
+  {
+    "params": {
+      "type": "Обе команды забьют",
+      "time": "2 Тайм",
+      "value": "Да"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Обе команды забьют / 2 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">Да</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">2.98</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_02__BOTH_TEAMS_TO_SCORE__YES"
+  },
+  {
+    "params": {
+      "type": "Обе команды забьют",
+      "time": "2 Тайм",
+      "value": "Нет"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Обе команды забьют / 2 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">Нет</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.36</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_02__BOTH_TEAMS_TO_SCORE__NO"
+  },
+  {
+    "params": {
+      "type": "Точный счет",
+      "time": "Основное время",
+      "value": "0:0"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Точный счет / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">0:0</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">10.00</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "CORRECT_SCORE(0:0)"
+  },
+  {
+    "params": {
+      "type": "Точный счет",
+      "time": "1 Тайм",
+      "value": "0:0"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Точный счет / 1 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">0:0</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">3.00</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_01__CORRECT_SCORE(0:0)"
+  },
+  {
+    "params": {
+      "type": "Точный счет",
+      "time": "2 Тайм",
+      "value": "0:0"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Точный счет / 2 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">0:0</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">4.30</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_02__CORRECT_SCORE(0:0)"
+  },
+  {
+    "params": {
+      "type": "1 Тайм",
+      "time": "Матч",
+      "value": "П1Н"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">1 Тайм / Матч / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">П1Н</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">14.00</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "WIN_HALF_MATCH__P1_PX"
+  },
+  {
+    "params": {
+      "type": "1 Тайм",
+      "time": "Матч",
+      "value": "П1П2"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">1 Тайм / Матч / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">П1П2</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">28.00</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "WIN_HALF_MATCH__P1_P2"
+  },
+  {
+    "params": {
+      "type": "1 Тайм",
+      "time": "Матч",
+      "value": "П1П2"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">1 Тайм / Матч / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">НН</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">5.40</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "WIN_HALF_MATCH__PX_PX"
+  },
+  {
+    "params": {
+      "type": "Забьёт первый гол",
+      "time": "Основное время",
+      "value": "Арсенал Лондон"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Забьёт первый гол / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Арсенал Лондон</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.60</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "FIRST_TO_SCORE_3W__01__P1"
+  },
+  {
+    "params": {
+      "type": "Забьёт первый гол",
+      "time": "Основное время",
+      "value": "Вильярреал"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Забьёт первый гол / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Вильярреал</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">2.59</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "FIRST_TO_SCORE_3W__01__P2"
+  },
+  {
+    "params": {
+      "type": "Забьёт первый гол",
+      "time": "Основное время",
+      "value": "Без гола"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Забьёт первый гол / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Без гола</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">10.00</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "FIRST_TO_SCORE_3W__01__NO"
+  },
+  {
+    "params": {
+      "type": "Забьёт первый гол",
+      "time": "1 Тайм",
+      "value": "Арсенал Лондон"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Забьёт первый гол / 1 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">Арсенал Лондон</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">2.21</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_01__FIRST_TO_SCORE_3W__01__P1"
+  },
+  {
+    "params": {
+      "type": "Забьёт первый гол",
+      "time": "1 Тайм",
+      "value": "Вильярреал"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Забьёт первый гол / 1 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">Вильярреал</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">3.50</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_01__FIRST_TO_SCORE_3W__01__P2"
+  },
+  {
+    "params": {
+      "type": "Забьёт первый гол",
+      "time": "1 Тайм",
+      "value": "Без гола"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Забьёт первый гол / 1 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">Без гола</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">3.00</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_01__FIRST_TO_SCORE_3W__01__NO"
+  },
+  {
+    "params": {
+      "type": "Забьёт последний гол",
+      "time": "Основное время",
+      "value": "Арсенал Лондон"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Забьёт последний гол / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Арсенал Лондон</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.60</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "LAST_TO_SCORE_3W__01__P1"
+  },
+  {
+    "params": {
+      "type": "Забьёт последний гол",
+      "time": "Основное время",
+      "value": "Вильярреал"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Забьёт последний гол / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Вильярреал</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">2.59</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "LAST_TO_SCORE_3W__01__P2"
+  },
+  {
+    "params": {
+      "type": "Забьёт последний гол",
+      "time": "Основное время",
+      "value": "Без гола"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Забьёт последний гол / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Без гола</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">10.00</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "LAST_TO_SCORE_3W__01__NO"
+  },
+  {
+    "params": {
+      "type": "Результат без победы Хозяев",
+      "time": "Основное время",
+      "value": "Ничья"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Результат без победы Хозяев / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Ничья</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.77</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": ""
+  },
+  {
+    "params": {
+      "type": "Результат без победы Хозяев",
+      "time": "Основное время",
+      "value": "Вильярреал"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Результат без победы Хозяев / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Вильярреал</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.98</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": ""
+  },
+  {
+    "params": {
+      "type": "Результат без победы Гостей",
+      "time": "Основное время",
+      "value": "Арсенал Лондон"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Результат без победы Гостей / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Арсенал Лондон</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.42</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": ""
+  },
+  {
+    "params": {
+      "type": "Результат без победы Гостей",
+      "time": "Основное время",
+      "value": "Ничья"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Результат без победы Гостей / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Ничья</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">2.74</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": ""
+  },
+  {
+    "params": {
+      "type": "1 Тайм или Матч",
+      "time": "Основное время",
+      "value": "1"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">1 Тайм или Матч / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">1</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.59</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": ""
+  },
+  {
+    "params": {
+      "type": "1 Тайм или Матч",
+      "time": "Основное время",
+      "value": "X"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">1 Тайм или Матч / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">X</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.82</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": ""
+  },
+  {
+    "params": {
+      "type": "1 Тайм или Матч",
+      "time": "Основное время",
+      "value": "2"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">1 Тайм или Матч / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">2</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">3.00</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": ""
+  },
+  {
+    "params": {
+      "type": "Диапазон голов",
+      "time": "Основное время",
+      "value": "2-3"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Диапазон голов / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">2-3</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.92</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "TOTALS__EXACT(2-3)"
+  },
+  {
+    "params": {
+      "type": "Диапазон голов",
+      "time": "Основное время",
+      "value": "4-6"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Диапазон голов / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">4-6</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">2.88</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "TOTALS__EXACT(4-6)"
+  },
+  {
+    "params": {
+      "type": "Итоговый результат",
+      "time": "Основное время",
+      "value": "Нулевая ничья"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Итоговый результат / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Нулевая ничья</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">10.00</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "TOTALS__EXACT(0)"
+  },
+  {
+    "params": {
+      "type": "Итоговый результат",
+      "time": "Основное время",
+      "value": "Вильярреал победит в 2 мяча"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Итоговый результат / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Вильярреал победит в 2 мяча</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">9.90</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": ""
+  },
+  {
+    "params": {
+      "type": "Победа Вильярреал в 2 гола",
+      "time": "Основное время",
+      "value": "Да"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Победа Вильярреал в 2 гола / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Да Вильярреал</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">9.90</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": ""
+  },
+  {
+    "params": {
+      "type": "Победа Вильярреал в 2 гола",
+      "time": "Основное время",
+      "value": "Нет"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Победа Вильярреал в 2 гола / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Нет Вильярреал</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.03</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": ""
+  },
+  {
+    "params": {
+      "type": "Выиграет всухую",
+      "time": "Основное время",
+      "value": "Арсенал Лондон"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Выиграет всухую / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Арсенал Лондон (ДА)</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">3.30</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "CLEAN_SHEET__P1__YES"
+  },
+  {
+    "params": {
+      "type": "Выиграет всухую",
+      "time": "Основное время",
+      "value": "Вильярреал"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Выиграет всухую / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Вильярреал (ДА)</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">8.20</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "CLEAN_SHEET__P2__YES"
+  },
+  {
+    "params": {
+      "type": "Ничья в одном из таймов",
+      "time": "Основное время",
+      "value": "Да"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Ничья в одном из таймов / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Да</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.55</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": ""
+  },
+  {
+    "params": {
+      "type": "Ничья в одном из таймов",
+      "time": "Основное время",
+      "value": "Нет"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Ничья в одном из таймов / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Нет</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">2.35</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": ""
+  },
+  {
+    "params": {
+      "type": "Нечет-Чет",
+      "time": "Основное время",
+      "value": "Нечет"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Нечет / Чет / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Нечет</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.95</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "TOTALS__ODD"
+  },
+  {
+    "params": {
+      "type": "Нечет-Чет",
+      "time": "Основное время",
+      "value": "Чет"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Нечет / Чет / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Чет</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.94</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "TOTALS__EVEN"
+  },
+  {
+    "params": {
+      "type": "Количество голов (5+)",
+      "time": "Основное время",
+      "value": "Без гола"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Количество голов (5+) / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Без гола</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">10.00</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "TOTALS__OVER(0)"
+  },
+  {
+    "params": {
+      "type": "Количество голов (5+)",
+      "time": "Основное время",
+      "value": "3"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Количество голов (5+) / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">3</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">3.55</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "TOTALS__OVER(2.5)"
+  },
+  {
+    "params": {
+      "type": "Количество голов (5+)",
+      "time": "1 Тайм",
+      "value": "5+"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Количество голов (5+) / 1 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">5+</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">90.00</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_01__TOTALS__OVER(4.5)"
+  },
+  {
+    "params": {
+      "type": "Сколько голов забьет Арсенал Лондон",
+      "time": "Основное время",
+      "value": "4"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Сколько голов забьет Арсенал Лондон / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">4</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">10.00</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "P1__TOTALS__EXACT(4)"
+  },
+  {
+    "params": {
+      "type": "Сколько голов забьет Вильярреал",
+      "time": "Основное время",
+      "value": "4"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Сколько голов забьет Вильярреал / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">4</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">10.00</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "P2__TOTALS__EXACT(4)"
+  },
+  {
+    "params": {
+      "type": "1 Х 2 Угловые",
+      "time": "Основное время",
+      "value": "Ничья"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">1 Х 2 Угловые / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Ничья</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">7.40</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "WIN_CORNERS__PX"
+  },
+  {
+    "params": {
+      "type": "1 Х 2 Угловые",
+      "time": "Основное время",
+      "value": "Вильярреал"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">1 Х 2 Угловые / Основное время</div><div class=\"SingleBet_outcomeName__14oJ1\">Вильярреал</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">3.35</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "WIN_CORNERS__P2"
+  },
+  {
+    "params": {
+      "type": "Фора по угловым",
+      "time": "2 Тайм",
+      "value": "Арсенал Лондон (-1.0)"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Фора по угловым / 2 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">Арсенал Лондон (-1.0)</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">2.12</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_02__HANDICAP_CORNERS__P1(-1)"
+  },
+  {
+    "params": {
+      "type": "Фора по угловым",
+      "time": "2 Тайм",
+      "value": "Вильярреал (+1.0)"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Фора по угловым / 2 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">Вильярреал (+1.0)</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">1.57</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_02__HANDICAP_CORNERS__P2(1)"
+  },
+  {
+    "params": {
+      "type": "Тотал угловых",
+      "time": "1 Тайм",
+      "value": "Больше (5.0)"
+    },
+    "html": "<li class=\"BetsList_item__bURow\"><div class=\"SingleBet_singleBet__2KN9P  \"><div class=\"SingleBet_content__mQwSi\"><div class=\"SingleBet_info__217XQ\"><div class=\"SingleBet_participants__3pSEh\"><div class=\"BetName_general__3zAva \"><div class=\"BetName_nameContainer__J5mi9 \">Арсенал Лондон - Вильярреал</div></div></div><div class=\"SingleBet_namesContainer__3FKOg\"><div class=\"SingleBet_checkboxWrap__mTJAv\"></div><div><div class=\"SingleBet_marketName__1Uqei\">Тотал угловых / 1 Тайм</div><div class=\"SingleBet_outcomeName__14oJ1\">Больше (5.0)</div></div></div></div><div class=\"SingleBet_controls__3C8dr\"><div class=\"SingleBet_outcomeCoef__260W8\">2.26</div><div class=\"SingleBet_fixWrap__2u6DU\"></div></div><div class=\"Icon_icon__MftbR SingleBet_deleteIcon__2RYUQ\"></div></div></div></li>",
+    "test": "HALF_01__TOTALS_CORNERS__OVER(5)"
+  }
+]
