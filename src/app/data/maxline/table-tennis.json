@@ -1,0 +1,23 @@
+[
+  {
+    "team1": "Гавлик Я.",
+    "team2": "Мареш Э.",
+    "type": "Победа первой команды",
+    "coff": "2.27",
+    "html": "<li class=\"\"><div class=\"eventName\">Гавлик Я. - Мареш Э.</div><div class=\"labels\"><div class=\"betName\">Победа первой команды</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 49707 -->2.27<!-- /react-text --><!-- react-text: 49708 --> <!-- /react-text --></div></div></li>"
+  },
+  {
+    "team1": "Гавлик Я.",
+    "team2": "Мареш Э.",
+    "type": "Тотал по партиям: Больше (4.5)",
+    "coff": "2.85",
+    "html": "<li class=\"\"><div class=\"eventName\">Гавлик Я. - Мареш Э.</div><div class=\"labels\"><div class=\"betName\">Тотал по партиям: Больше (4.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 49720 -->2.85<!-- /react-text --><!-- react-text: 49721 --> <!-- /react-text --></div></div></li>"
+  },
+  {
+    "team1": "Гавлик Я.",
+    "team2": "Мареш Э.",
+    "type": "Фора по партиям: 1 (+2.5)",
+    "coff": "1.14",
+    "html": "<li class=\"\"><div class=\"eventName\">Гавлик Я. - Мареш Э.</div><div class=\"labels\"><div class=\"betName\">Фора по партиям:  1 (+2.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 49720 -->1.14<!-- /react-text --><!-- react-text: 49721 --> <!-- /react-text --></div></div></li>"
+  }
+]

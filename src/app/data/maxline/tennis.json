@@ -1,0 +1,30 @@
+[
+  {
+    "team1": "Рублев А.",
+    "team2": "Умбер У.",
+    "type": "1-й сет: Победа первой команды",
+    "coff": "1.49",
+    "html": "<li class=\"\"><div class=\"eventName\">Рублев А. - Умбер У.</div><div class=\"labels\"><div class=\"betName\">1-й сет: Победа первой команды</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 47551 -->1.49<!-- /react-text --><!-- react-text: 47552 --> <!-- /react-text --></div></div></li>"
+  },
+  {
+    "team1": "Рублев А.",
+    "team2": "Умбер У.",
+    "type": "1-й сет: Тотал: Меньше (8.5)",
+    "coff": "6.1",
+    "html": "<li class=\"\"><div class=\"eventName\">Рублев А. - Умбер У.</div><div class=\"labels\"><div class=\"betName\">1-й сет: Тотал: Меньше (8.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 47551 -->6.1<!-- /react-text --><!-- react-text: 47552 --> <!-- /react-text --></div></div></li>"
+  },
+  {
+    "team1": "Рублев А.",
+    "team2": "Умбер У.",
+    "type": "Фора по сетам: 2 (-1.5)",
+    "coff": "4.8",
+    "html": "<li class=\"\"><div class=\"eventName\">Рублев А. - Умбер У.</div><div class=\"labels\"><div class=\"betName\">Фора по сетам:  2 (-1.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 47551 -->4.8<!-- /react-text --><!-- react-text: 47552 --> <!-- /react-text --></div></div></li>"
+  },
+  {
+    "team1": "Рублев А.",
+    "team2": "Умбер У.",
+    "type": "Фора по сетам: 2 (-1.5)",
+    "coff": "4.8",
+    "html": "<li class=\"\"><div class=\"eventName\">Рублев А. - Умбер У.</div><div class=\"labels\"><div class=\"betName\">Фора по сетам:  2 (-1.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 47551 -->4.8<!-- /react-text --><!-- react-text: 47552 --> <!-- /react-text --></div></div></li>"
+  }
+]

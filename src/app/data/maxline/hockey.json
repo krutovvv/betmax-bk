@@ -1,0 +1,30 @@
+[
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Нью-Йорк Айлендерс",
+    "type": "1-й период: Победа второй команды",
+    "coff": "3.5",
+    "html": "<li class=\"\"><div class=\"eventName\">Тампа-Бэй Лайтнинг - Нью-Йорк Айлендерс</div><div class=\"labels\"><div class=\"betName\">1-й период: Победа второй команды</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 50625 -->3.5<!-- /react-text --><!-- react-text: 50626 --> <!-- /react-text --></div></div></li>"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Нью-Йорк Айлендерс",
+    "type": "2-й период: Фора: 1 (-1.5)",
+    "coff": "5.1",
+    "html": "<li class=\"\"><div class=\"eventName\">Тампа-Бэй Лайтнинг - Нью-Йорк Айлендерс</div><div class=\"labels\"><div class=\"betName\">2-й период: Фора:  1 (-1.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 50625 -->5.1<!-- /react-text --><!-- react-text: 50626 --> <!-- /react-text --></div></div></li>"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Нью-Йорк Айлендерс",
+    "type": "Чётный тотал: Нет",
+    "coff": "2",
+    "html": "<li class=\"\"><div class=\"eventName\">Тампа-Бэй Лайтнинг - Нью-Йорк Айлендерс</div><div class=\"labels\"><div class=\"betName\">Чётный тотал: Нет</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 50625 -->2<!-- /react-text --><!-- react-text: 50626 --> <!-- /react-text --></div></div></li>"
+  },
+  {
+    "team1": "Тампа-Бэй Лайтнинг",
+    "team2": "Нью-Йорк Айлендерс",
+    "type": "3-й период: Тотал: Больше (2.5)",
+    "coff": "3.3",
+    "html": "<li class=\"\"><div class=\"eventName\">Тампа-Бэй Лайтнинг - Нью-Йорк Айлендерс</div><div class=\"labels\"><div class=\"betName\">3-й период: Тотал: Больше (2.5)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 50625 -->3.3<!-- /react-text --><!-- react-text: 50626 --> <!-- /react-text --></div></div></li>"
+  }
+]
