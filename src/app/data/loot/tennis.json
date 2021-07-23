@@ -1,0 +1,114 @@
+[
+  {
+    "team1": "Фернандес Кановас Андрес",
+    "team2": "Эмеш Бенедикт",
+    "type": "Результат матча - Фернандес Кановас Андрес",
+    "coff": "3.86",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/tennis/fernandez-canovas-andres-vs-emesz-benedikt-8663511/bets\">Фернандес Кановас Андрес vs Эмеш Бенедикт</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/tennis/fernandez-canovas-andres-vs-emesz-benedikt-8663511/bets\">Результат матча - Фернандес Кановас Андрес</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _101\"><span class=\"outcome__number\">3.86</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f517ee84a3b11d973ffa92\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "WIN__P1"
+  },
+  {
+    "team1": "Фернандес Кановас Андрес",
+    "team2": "Эмеш Бенедикт",
+    "type": "Результат матча - Эмеш Бенедикт",
+    "coff": "1.21",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/tennis/fernandez-canovas-andres-vs-emesz-benedikt-8663511/bets\">Фернандес Кановас Андрес vs Эмеш Бенедикт</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/tennis/fernandez-canovas-andres-vs-emesz-benedikt-8663511/bets\">Результат матча - Эмеш Бенедикт</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _103\"><span class=\"outcome__number\">1.21</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f517ee84a3b145dd3ffa93\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "WIN__P2"
+  },
+  {
+    "team1": "Фернандес Кановас Андрес",
+    "team2": "Эмеш Бенедикт",
+    "type": "Победитель. Сет 2 - Фернандес Кановас Андрес",
+    "coff": "2.18",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/tennis/fernandez-canovas-andres-vs-emesz-benedikt-8663511/bets\">Фернандес Кановас Андрес vs Эмеш Бенедикт</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/tennis/fernandez-canovas-andres-vs-emesz-benedikt-8663511/bets\">Победитель. Сет 2 - Фернандес Кановас Андрес</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _101\"><span class=\"outcome__number\">2.18</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f531e084a3b16b91468c50\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_02__WIN__P1"
+  },
+  {
+    "team1": "Фернандес Кановас Андрес",
+    "team2": "Эмеш Бенедикт",
+    "type": "Победитель. Сет 2 - Эмеш Бенедикт",
+    "coff": "1.58",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/tennis/fernandez-canovas-andres-vs-emesz-benedikt-8663511/bets\">Фернандес Кановас Андрес vs Эмеш Бенедикт</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/tennis/fernandez-canovas-andres-vs-emesz-benedikt-8663511/bets\">Победитель. Сет 2 - Эмеш Бенедикт</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _103\"><span class=\"outcome__number\">1.58</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f531e084a3b10035468c51\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_02__WIN__P2"
+  },
+  {
+    "team1": "Фернандес Кановас Андрес",
+    "team2": "Эмеш Бенедикт",
+    "type": "Тотал - Больше 17.5",
+    "coff": "1.48",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/tennis/fernandez-canovas-andres-vs-emesz-benedikt-8663511/bets\">Фернандес Кановас Андрес vs Эмеш Бенедикт</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/tennis/fernandez-canovas-andres-vs-emesz-benedikt-8663511/bets\">Тотал - Больше 17.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _104\"><span class=\"outcome__number\">1.48</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f5388af222da620415e643\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "TOTALS__OVER(17.5)"
+  },
+  {
+    "team1": "Фернандес Кановас Андрес",
+    "team2": "Эмеш Бенедикт",
+    "type": "Тотал - Меньше 17.5",
+    "coff": "2.47",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/tennis/fernandez-canovas-andres-vs-emesz-benedikt-8663511/bets\">Фернандес Кановас Андрес vs Эмеш Бенедикт</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/tennis/fernandez-canovas-andres-vs-emesz-benedikt-8663511/bets\">Тотал - Меньше 17.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _105\"><span class=\"outcome__number\">2.47</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f5388af222da285215e644\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "TOTALS__UNDER(17.5)"
+  },
+  {
+    "team1": "Фернандес Кановас Андрес",
+    "team2": "Эмеш Бенедикт",
+    "type": "Тотал. Сет 2 - Больше 8.5",
+    "coff": "1.29",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/tennis/fernandez-canovas-andres-vs-emesz-benedikt-8663511/bets\">Фернандес Кановас Андрес vs Эмеш Бенедикт</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/tennis/fernandez-canovas-andres-vs-emesz-benedikt-8663511/bets\">Тотал. Сет 2 - Больше 8.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _104\"><span class=\"outcome__number\">1.29</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53e70291db86032bf8827\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_02__TOTALS__OVER(8.5)"
+  },
+  {
+    "team1": "Фернандес Кановас Андрес",
+    "team2": "Эмеш Бенедикт",
+    "type": "Тотал. Сет 2 - Меньше 8.5",
+    "coff": "3.31",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/tennis/fernandez-canovas-andres-vs-emesz-benedikt-8663511/bets\">Фернандес Кановас Андрес vs Эмеш Бенедикт</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/tennis/fernandez-canovas-andres-vs-emesz-benedikt-8663511/bets\">Тотал. Сет 2 - Меньше 8.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _105\"><span class=\"outcome__number\">3.31</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53e70291db83dbcbf8828\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_02__TOTALS__UNDER(8.5)"
+  },
+  {
+    "team1": "Фернандес Кановас Андрес",
+    "team2": "Эмеш Бенедикт",
+    "type": "Тотал. Сет 2 - Больше 9.5",
+    "coff": "1.78",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/tennis/fernandez-canovas-andres-vs-emesz-benedikt-8663511/bets\">Фернандес Кановас Андрес vs Эмеш Бенедикт</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/tennis/fernandez-canovas-andres-vs-emesz-benedikt-8663511/bets\">Тотал. Сет 2 - Больше 9.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _104\"><span class=\"outcome__number\">1.78</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53e70291db807a4bf8822\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_02__TOTALS__OVER(9.5)"
+  },
+  {
+    "team1": "Фернандес Кановас Андрес",
+    "team2": "Эмеш Бенедикт",
+    "type": "Тотал. Сет 2 - Меньше 9.5",
+    "coff": "1.88",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/tennis/fernandez-canovas-andres-vs-emesz-benedikt-8663511/bets\">Фернандес Кановас Андрес vs Эмеш Бенедикт</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/tennis/fernandez-canovas-andres-vs-emesz-benedikt-8663511/bets\">Тотал. Сет 2 - Меньше 9.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _105\"><span class=\"outcome__number\">1.88</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53e70291db829c3bf8823\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_02__TOTALS__UNDER(9.5)"
+  },
+  {
+    "team1": "Фернандес Кановас Андрес",
+    "team2": "Эмеш Бенедикт",
+    "type": "Точный счет. Сет 2 - 5-7",
+    "coff": "11.30",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/tennis/fernandez-canovas-andres-vs-emesz-benedikt-8663511/bets\">Фернандес Кановас Андрес vs Эмеш Бенедикт</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/tennis/fernandez-canovas-andres-vs-emesz-benedikt-8663511/bets\">Точный счет. Сет 2 - 5-7</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _111\"><span class=\"outcome__number\">11.30</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53e70291db867aebf8851\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_02__CORRECT_SCORE(5:7)"
+  },
+  {
+    "team1": "Фернандес Кановас Андрес",
+    "team2": "Эмеш Бенедикт",
+    "type": "Точный счет. Сет 2 - 6-7",
+    "coff": "11.30",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/tennis/fernandez-canovas-andres-vs-emesz-benedikt-8663511/bets\">Фернандес Кановас Андрес vs Эмеш Бенедикт</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/tennis/fernandez-canovas-andres-vs-emesz-benedikt-8663511/bets\">Точный счет. Сет 2 - 6-7</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _111\"><span class=\"outcome__number\">11.30</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53e70291db88084bf8852\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_02__CORRECT_SCORE(6:7)"
+  },
+  {
+    "team1": "Фернандес Кановас Андрес",
+    "team2": "Эмеш Бенедикт",
+    "type": "Будет тай-брейк. Сет 2 - Да",
+    "coff": "5.94",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/tennis/fernandez-canovas-andres-vs-emesz-benedikt-8663511/bets\">Фернандес Кановас Андрес vs Эмеш Бенедикт</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/tennis/fernandez-canovas-andres-vs-emesz-benedikt-8663511/bets\">Будет тай-брейк. Сет 2 - Да</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _108\"><span class=\"outcome__number\">5.94</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53e70291db81699bf8840\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Фернандес Кановас Андрес",
+    "team2": "Эмеш Бенедикт",
+    "type": "Будет тай-брейк. Сет 2 - Нет",
+    "coff": "1.09",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/tennis/fernandez-canovas-andres-vs-emesz-benedikt-8663511/bets\">Фернандес Кановас Андрес vs Эмеш Бенедикт</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/tennis/fernandez-canovas-andres-vs-emesz-benedikt-8663511/bets\">Будет тай-брейк. Сет 2 - Нет</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _109\"><span class=\"outcome__number\">1.09</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53e70291db86e22bf8841\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": ""
+  }
+]

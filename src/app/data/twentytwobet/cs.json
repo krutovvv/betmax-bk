@@ -1,0 +1,402 @@
+[
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Победа в раунде П1 в 15 раунде",
+    "coff": "1.555",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Победа в раунде П1 в 15 раунде</span> <span class=\"bet coef-change\"><span>\n                    1.555\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Победа в раунде П2 в 15 раунде",
+    "coff": "2.385",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Победа в раунде П2 в 15 раунде</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.385\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Смерть по неосторожности в раунде 15 раунд - Да",
+    "coff": "150",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Смерть по неосторожности в раунде 15 раунд - Да</span> <span class=\"bet coef-change gc_lite\"><span>\n                    150\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Индивидуальный тотал 2 фрагов в раунде в 15 раунде 0.5 М",
+    "coff": "20",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 2 фрагов в раунде в 15 раунде 0.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    20\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Индивидуальный тотал 2 фрагов в раунде в 15 раунде 1.5 Б",
+    "coff": "1.08",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 2 фрагов в раунде в 15 раунде 1.5 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.08\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Индивидуальный тотал 2 фрагов в раунде в 15 раунде 1.5 М",
+    "coff": "6.8",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 2 фрагов в раунде в 15 раунде 1.5 М</span> <span class=\"bet coef-change gc_lite\"><span>\n                    6.8\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Индивидуальный тотал 2 фрагов в раунде в 15 раунде 2.5 Б",
+    "coff": "1.3",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 2 фрагов в раунде в 15 раунде 2.5 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.3\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Индивидуальный тотал 2 фрагов в раунде в 15 раунде 2.5 М",
+    "coff": "3.34",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 2 фрагов в раунде в 15 раунде 2.5 М</span> <span class=\"bet coef-change gc_lite\"><span>\n                    3.34\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Индивидуальный тотал 2 фрагов в раунде в 15 раунде 3.5 Б",
+    "coff": "1.475",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 2 фрагов в раунде в 15 раунде 3.5 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.475\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Индивидуальный тотал 2 фрагов в раунде в 15 раунде 3.5 М",
+    "coff": "2.585",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 2 фрагов в раунде в 15 раунде 3.5 М</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.585\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Индивидуальный тотал 2 фрагов в раунде в 15 раунде 4.5 Б",
+    "coff": "2.27",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 2 фрагов в раунде в 15 раунде 4.5 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    2.27\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Индивидуальный тотал 2 фрагов в раунде в 15 раунде 4.5 М",
+    "coff": "1.615",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 2 фрагов в раунде в 15 раунде 4.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.615\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Индивидуальный тотал 2 фрагов в раунде в 15 раунде 5.5 Б",
+    "coff": "30",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 2 фрагов в раунде в 15 раунде 5.5 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    30\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Сухая победа в раунде 15 раунд - Да",
+    "coff": "20",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Сухая победа в раунде 15 раунд - Да</span> <span class=\"bet coef-change rc_lite\"><span>\n                    20\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Фора на раунд 1 в 15 раунде -4.5",
+    "coff": "20",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Фора на раунд 1 в 15 раунде -4.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    20\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Фора на раунд 1 в 15 раунде -3.5",
+    "coff": "8.1",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Фора на раунд 1 в 15 раунде -3.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    8.1\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Фора на раунд 2 в 15 раунде 3.5",
+    "coff": "1.05",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Фора на раунд 2 в 15 раунде 3.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.05\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Фора на раунд 1 в 15 раунде -2.5",
+    "coff": "3.75",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Фора на раунд 1 в 15 раунде -2.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    3.75\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Фора на раунд 2 в 15 раунде 2.5",
+    "coff": "1.245",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Фора на раунд 2 в 15 раунде 2.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.245\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Фора на раунд 1 в 15 раунде -1.5",
+    "coff": "3.11",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Фора на раунд 1 в 15 раунде -1.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    3.11\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Фора на раунд 2 в 15 раунде 1.5",
+    "coff": "1.34",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Фора на раунд 2 в 15 раунде 1.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.34\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Фора на раунд 1 в 15 раунде -0.5",
+    "coff": "2.065",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Фора на раунд 1 в 15 раунде -0.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.065\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Фора на раунд 2 в 15 раунде 0.5",
+    "coff": "1.744",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Фора на раунд 2 в 15 раунде 0.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.744\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Фора на раунд 1 в 15 раунде 0.5",
+    "coff": "1.9",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Фора на раунд 1 в 15 раунде 0.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.9\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Фора на раунд 2 в 15 раунде -0.5",
+    "coff": "1.9",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Фора на раунд 2 в 15 раунде -0.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.9\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Фора на раунд 1 в 15 раунде 1.5",
+    "coff": "1.45",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Фора на раунд 1 в 15 раунде 1.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.45\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Фора на раунд 2 в 15 раунде -1.5",
+    "coff": "2.66",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Фора на раунд 2 в 15 раунде -1.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.66\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Фора на раунд 1 в 15 раунде 2.5",
+    "coff": "1.192",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Фора на раунд 1 в 15 раунде 2.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.192\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Фора на раунд 2 в 15 раунде -2.5",
+    "coff": "4.28",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Фора на раунд 2 в 15 раунде -2.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    4.28\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Фора на раунд 2 в 15 раунде -3.5",
+    "coff": "17",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Фора на раунд 2 в 15 раунде -3.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    17\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Фора на раунд 2 в 15 раунде -4.5",
+    "coff": "30",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Фора на раунд 2 в 15 раунде -4.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    30\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Фора на раунд 2 в 15 раунде -5.5",
+    "coff": "30",
+    "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Фора на раунд 2 в 15 раунде -5.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    30\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Индивидуальный тотал 1 фрагов в раунде в 15 раунде 0.5 М",
+    "coff": "30",
+    "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1 фрагов в раунде в 15 раунде 0.5 М</span> <span class=\"bet coef-change\"><span>\n                    30\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Индивидуальный тотал 1 фрагов в раунде в 15 раунде 1.5 М",
+    "coff": "17",
+    "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1 фрагов в раунде в 15 раунде 1.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    17\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Индивидуальный тотал 1 фрагов в раунде в 15 раунде 2.5 Б",
+    "coff": "1.245",
+    "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1 фрагов в раунде в 15 раунде 2.5 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.245\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Индивидуальный тотал 1 фрагов в раунде в 15 раунде 2.5 М",
+    "coff": "3.75",
+    "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1 фрагов в раунде в 15 раунде 2.5 М</span> <span class=\"bet coef-change gc_lite\"><span>\n                    3.75\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Индивидуальный тотал 1 фрагов в раунде в 15 раунде 3.5 Б",
+    "coff": "1.675",
+    "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1 фрагов в раунде в 15 раунде 3.5 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.675\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Индивидуальный тотал 1 фрагов в раунде в 15 раунде 3.5 М",
+    "coff": "2.165",
+    "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1 фрагов в раунде в 15 раунде 3.5 М</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.165\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Индивидуальный тотал 1 фрагов в раунде в 15 раунде 4.5 Б",
+    "coff": "2.515",
+    "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1 фрагов в раунде в 15 раунде 4.5 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.515\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Индивидуальный тотал 1 фрагов в раунде в 15 раунде 4.5 М",
+    "coff": "1.5",
+    "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1 фрагов в раунде в 15 раунде 4.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.5\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Индивидуальный тотал 1 фрагов в раунде в 15 раунде 5.5 Б",
+    "coff": "30",
+    "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1 фрагов в раунде в 15 раунде 5.5 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    30\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Тотал фрагов в раунде Чет/Нечет Чет в 15 раунде",
+    "coff": "2.66",
+    "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Тотал фрагов в раунде Чет/Нечет Чет в 15 раунде</span> <span class=\"bet coef-change rc_lite\"><span>\n                    2.66\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Тотал фрагов в раунде Чет/Нечет Нечет в 15 раунде",
+    "coff": "1.45",
+    "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Тотал фрагов в раунде Чет/Нечет Нечет в 15 раунде</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.45\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Тотал фрагов в раунде в 15 раунде 5.5 М",
+    "coff": "13",
+    "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Тотал фрагов в раунде в 15 раунде 5.5 М</span> <span class=\"bet coef-change gc_lite\"><span>\n                    13\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Тотал фрагов в раунде в 15 раунде 6.5 Б",
+    "coff": "1.235",
+    "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Тотал фрагов в раунде в 15 раунде 6.5 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.235\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Тотал фрагов в раунде в 15 раунде 6.5 М",
+    "coff": "3.83",
+    "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Тотал фрагов в раунде в 15 раунде 6.5 М</span> <span class=\"bet coef-change gc_lite\"><span>\n                    3.83\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Тотал фрагов в раунде в 15 раунде 7.5 Б",
+    "coff": "2.66",
+    "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Тотал фрагов в раунде в 15 раунде 7.5 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    2.66\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Тотал фрагов в раунде в 15 раунде 7.5 М",
+    "coff": "1.45",
+    "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Тотал фрагов в раунде в 15 раунде 7.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.45\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Тотал фрагов в раунде в 15 раунде 8.5 Б",
+    "coff": "4.56",
+    "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Тотал фрагов в раунде в 15 раунде 8.5 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    4.56\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Team Steelseries",
+    "team2": "TRIDENT",
+    "type": "Тотал фрагов в раунде в 15 раунде 8.5 М",
+    "coff": "1.175",
+    "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Тотал фрагов в раунде в 15 раунде 8.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.175\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  }
+]

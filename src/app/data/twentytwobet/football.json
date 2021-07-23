@@ -1,0 +1,1458 @@
+[
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "1X2 П1",
+    "coff": "10.5",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">1X2 П1</span> <span class=\"bet coef-change\"><span>\n                    10.5\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "1X2 Ничья",
+    "coff": "1.22",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">1X2 Ничья</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.22\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "1X2 П2",
+    "coff": "7.3",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">1X2 П2</span> <span class=\"bet coef-change gc_lite\"><span>\n                    7.3\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Тотал 2.5 Б",
+    "coff": "4.72",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Тотал 2.5 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    4.72\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "TOTALS__OVER(2.5)"
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Тотал 2.5 М",
+    "coff": "1.185",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Тотал 2.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.185\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "TOTALS__UNDER(2.5)"
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Фора 1 0",
+    "coff": "2.425",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Фора 1 0</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.425\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "HANDICAP__P1(0)"
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Фора 2 0",
+    "coff": "1.56",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Фора 2 0</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.56\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "HANDICAP__P2(0)"
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Индивидуальный тотал 1-го 1.5 Б",
+    "coff": "7.4",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1-го 1.5 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    7.4\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P1__TOTALS__OVER(1.5)"
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Индивидуальный тотал 1-го 1.5 М",
+    "coff": "1.09",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1-го 1.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.09\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P1__TOTALS__UNDER(1.5)"
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Следующий гол Команда 1 - 3-й гол",
+    "coff": "9.14",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Следующий гол Команда 1 - 3-й гол</span> <span class=\"bet coef-change rc_lite\"><span>\n                    9.14\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Следующий гол Команда 2 - 3-й гол",
+    "coff": "6.59",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Следующий гол Команда 2 - 3-й гол</span> <span class=\"bet coef-change gc_lite\"><span>\n                    6.59\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Следующий гол Не будет 3-го гола",
+    "coff": "1.22",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Следующий гол Не будет 3-го гола</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.22\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Команда 2, результат + тотал П2 и ТМ 4.5 - Да",
+    "coff": "6.65",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Команда 2, результат + тотал П2 и ТМ 4.5 - Да</span> <span class=\"bet coef-change gc_lite\"><span>\n                    6.65\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Команда 2, результат + тотал П2 и ТМ 4.5 - Нет",
+    "coff": "1.11",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Команда 2, результат + тотал П2 и ТМ 4.5 - Нет</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.11\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Команда 2, результат + тотал 2Х и ТМ 4.5 - Да",
+    "coff": "1.056",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Команда 2, результат + тотал 2Х и ТМ 4.5 - Да</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.056\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Команда 2, результат + тотал 2Х и ТМ 4.5 - Нет",
+    "coff": "9.5",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Команда 2, результат + тотал 2Х и ТМ 4.5 - Нет</span> <span class=\"bet coef-change gc_lite\"><span>\n                    9.5\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Европейский гандикап 0:1 П1",
+    "coff": "151",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Европейский гандикап 0:1 П1</span> <span class=\"bet coef-change gc_lite\"><span>\n                    151\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Европейский гандикап 0:1 Х",
+    "coff": "11",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Европейский гандикап 0:1 Х</span> <span class=\"bet coef-change rc_lite\"><span>\n                    11\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Европейский гандикап 0:1 П2",
+    "coff": "1.05",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Европейский гандикап 0:1 П2</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.05\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Европейский гандикап 1:0 П1",
+    "coff": "1.1",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Европейский гандикап 1:0 П1</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.1\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Европейский гандикап 1:0 Х",
+    "coff": "7.5",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Европейский гандикап 1:0 Х</span> <span class=\"bet coef-change gc_lite\"><span>\n                    7.5\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Европейский гандикап 1:0 П2",
+    "coff": "81",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Европейский гандикап 1:0 П2</span> <span class=\"bet coef-change gc_lite\"><span>\n                    81\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Индивидуальный тотал 1 Чет Да",
+    "coff": "8.9",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1 Чет Да</span> <span class=\"bet coef-change rc_lite\"><span>\n                    8.9\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P1__TOTALS__EVEN"
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Индивидуальный тотал 1 Чет Нет",
+    "coff": "1.064",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1 Чет Нет</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.064\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P1__TOTALS__ODD"
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Кто забьет последний гол Команда 1",
+    "coff": "9",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Кто забьет последний гол Команда 1</span> <span class=\"bet coef-change gc_lite\"><span>\n                    9\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "LAST_TO_SCORE_3W__01__P1"
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Кто забьет последний гол Команда 2",
+    "coff": "1.04",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Кто забьет последний гол Команда 2</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.04\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "LAST_TO_SCORE_3W__01__P2"
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Победа с преимуществом П2 в 1 голов - Да",
+    "coff": "7",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Победа с преимуществом П2 в 1 голов - Да</span> <span class=\"bet coef-change gc_lite\"><span>\n                    7\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Победа с преимуществом П2 в 1 голов - Нет",
+    "coff": "1.1",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Победа с преимуществом П2 в 1 голов - Нет</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.1\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Ничья + тотал Х и ТМ 4.5 - Да",
+    "coff": "1.22",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Ничья + тотал Х и ТМ 4.5 - Да</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.22\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Ничья + тотал Х и ТМ 4.5 - Нет",
+    "coff": "4.3",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Ничья + тотал Х и ТМ 4.5 - Нет</span> <span class=\"bet coef-change gc_lite\"><span>\n                    4.3\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Ничья в обоих таймах Да",
+    "coff": "1.22",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Ничья в обоих таймах Да</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.22\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Ничья в обоих таймах Нет",
+    "coff": "4.1",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Ничья в обоих таймах Нет</span> <span class=\"bet coef-change gc_lite\"><span>\n                    4.1\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Двойной шанс 1Х",
+    "coff": "1.096",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Двойной шанс 1Х</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.096\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Двойной шанс 12",
+    "coff": "4.07",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Двойной шанс 12</span> <span class=\"bet coef-change rc_lite\"><span>\n                    4.07\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Двойной шанс 2Х",
+    "coff": "1.105",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Двойной шанс 2Х</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.105\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Азиатский тотал 2.75 Б",
+    "coff": "6.55",
+    "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Азиатский тотал 2.75 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    6.55\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "TOTALS__OVER(2.75)"
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Азиатский тотал 2.75 М",
+    "coff": "1.11",
+    "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Азиатский тотал 2.75 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.11\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "TOTALS__UNDER(2.75)"
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Азиатская фора 1 -0.25",
+    "coff": "6.5",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Азиатская фора 1 -0.25</span> <span class=\"bet coef-change rc_lite\"><span>\n                    6.5\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "HANDICAP__P1(-0.25)"
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Азиатская фора 2 0.25",
+    "coff": "1.11",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Азиатская фора 2 0.25</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.11\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "HANDICAP__P2(0.25)"
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Азиатская фора 1 0.25",
+    "coff": "1.175",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Азиатская фора 1 0.25</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.175\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "HANDICAP__P1(0.25)"
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Азиатская фора 2 -0.25",
+    "coff": "4.98",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Азиатская фора 2 -0.25</span> <span class=\"bet coef-change gc_lite\"><span>\n                    4.98\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "HANDICAP__P2(-0.25)"
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Азиатская фора 1 0.75",
+    "coff": "1.025",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Азиатская фора 1 0.75</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.025\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "HANDICAP__P1(0.75)"
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Азиатская фора 2 -0.75",
+    "coff": "12.5",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Азиатская фора 2 -0.75</span> <span class=\"bet coef-change gc_lite\"><span>\n                    12.5\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "HANDICAP__P2(-0.75)"
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Индивидуальный тотал 2-го 1.5 Б",
+    "coff": "6.05",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 2-го 1.5 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    6.05\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P2__TOTALS__OVER(1.5)"
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Индивидуальный тотал 2-го 1.5 М",
+    "coff": "1.125",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 2-го 1.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.125\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P2__TOTALS__UNDER(1.5)"
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Команда 1, результат + тотал П1 и ТМ 4.5 - Да",
+    "coff": "8.6",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Команда 1, результат + тотал П1 и ТМ 4.5 - Да</span> <span class=\"bet coef-change rc_lite\"><span>\n                    8.6\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Команда 1, результат + тотал П1 и ТМ 4.5 - Нет",
+    "coff": "1.065",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Команда 1, результат + тотал П1 и ТМ 4.5 - Нет</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.065\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Команда 1, результат + тотал 1Х и ТМ 4.5 - Да",
+    "coff": "1.085",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Команда 1, результат + тотал 1Х и ТМ 4.5 - Да</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.085\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Команда 1, результат + тотал 1Х и ТМ 4.5 - Нет",
+    "coff": "7.6",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Команда 1, результат + тотал 1Х и ТМ 4.5 - Нет</span> <span class=\"bet coef-change gc_lite\"><span>\n                    7.6\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Тотал чет Да",
+    "coff": "1.19",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Тотал чет Да</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.19\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "TOTALS__EVEN"
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Тотал чет Нет",
+    "coff": "4.7",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Тотал чет Нет</span> <span class=\"bet coef-change gc_lite\"><span>\n                    4.7\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "TOTALS__ODD"
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Команда 2 выиграет один из таймов Да",
+    "coff": "6.55",
+    "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Команда 2 выиграет один из таймов Да</span> <span class=\"bet coef-change gc_lite\"><span>\n                    6.55\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Команда 2 выиграет один из таймов Нет",
+    "coff": "1.1",
+    "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Команда 2 выиграет один из таймов Нет</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.1\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Индивидуальный тотал 2 Чет Да",
+    "coff": "7.4",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 2 Чет Да</span> <span class=\"bet coef-change gc_lite\"><span>\n                    7.4\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P2__TOTALS__EVEN"
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Индивидуальный тотал 2 Чет Нет",
+    "coff": "1.085",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 2 Чет Нет</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.085\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P2__TOTALS__ODD"
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Победа любой из команд с преимуществом в 1 мяч(а) - Да",
+    "coff": "4.85",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Победа любой из команд с преимуществом в 1 мяч(а) - Да</span> <span class=\"bet coef-change gc_lite\"><span>\n                    4.85\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Победа любой из команд с преимуществом в 1 мяч(а) - Нет",
+    "coff": "1.18",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Победа любой из команд с преимуществом в 1 мяч(а) - Нет</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.18\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Результат и обе команды забьют П1 и обе забьют - Да",
+    "coff": "9.9",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Результат и обе команды забьют П1 и обе забьют - Да</span> <span class=\"bet coef-change rc_lite\"><span>\n                    9.9\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Результат и обе команды забьют П1 и обе забьют - Нет",
+    "coff": "1.04",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Результат и обе команды забьют П1 и обе забьют - Нет</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.04\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Результат и обе команды забьют П2 и обе забьют - Да",
+    "coff": "8.2",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Результат и обе команды забьют П2 и обе забьют - Да</span> <span class=\"bet coef-change gc_lite\"><span>\n                    8.2\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Результат и обе команды забьют П2 и обе забьют - Нет",
+    "coff": "1.06",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Результат и обе команды забьют П2 и обе забьют - Нет</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.06\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Результат и обе команды забьют X и обе забьют - Да",
+    "coff": "1.19",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Результат и обе команды забьют X и обе забьют - Да</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.19\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Результат и обе команды забьют X и обе забьют - Нет",
+    "coff": "4.5",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Результат и обе команды забьют X и обе забьют - Нет</span> <span class=\"bet coef-change gc_lite\"><span>\n                    4.5\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Результат и обе команды забьют 1Х и обе забьют - Да",
+    "coff": "1.06",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Результат и обе команды забьют 1Х и обе забьют - Да</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.06\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Результат и обе команды забьют 1Х и обе забьют - Нет",
+    "coff": "8.2",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Результат и обе команды забьют 1Х и обе забьют - Нет</span> <span class=\"bet coef-change gc_lite\"><span>\n                    8.2\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Результат и обе команды забьют 2Х и обе забьют - Да",
+    "coff": "1.04",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Результат и обе команды забьют 2Х и обе забьют - Да</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.04\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Результат и обе команды забьют 2Х и обе забьют - Нет",
+    "coff": "9.9",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Результат и обе команды забьют 2Х и обе забьют - Нет</span> <span class=\"bet coef-change rc_lite\"><span>\n                    9.9\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Результат и обе команды забьют 12 и обе забьют - Да",
+    "coff": "4.5",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Результат и обе команды забьют 12 и обе забьют - Да</span> <span class=\"bet coef-change gc_lite\"><span>\n                    4.5\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Результат и обе команды забьют 12 и обе забьют - Нет",
+    "coff": "1.19",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Результат и обе команды забьют 12 и обе забьют - Нет</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.19\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Двойной шанс + тотал 12 + ТМ 4.5 - Да",
+    "coff": "4.65",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Двойной шанс + тотал 12 + ТМ 4.5 - Да</span> <span class=\"bet coef-change gc_lite\"><span>\n                    4.65\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Портленд Тимберс",
+    "team2": "Лос-Анджелес",
+    "type": "Двойной шанс + тотал 12 + ТМ 4.5 - Нет",
+    "coff": "1.192",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Двойной шанс + тотал 12 + ТМ 4.5 - Нет</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.192\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "1X2 П1",
+    "coff": "2.345",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">1X2 П1</span> <span class=\"bet coef-change\"><span>\n                    2.345\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "1X2 Ничья",
+    "coff": "5.2",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">1X2 Ничья</span> <span class=\"bet coef-change gc_lite\"><span>\n                    5.2\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "1X2 П2",
+    "coff": "2.16",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">1X2 П2</span> <span class=\"bet coef-change rc_lite\"><span>\n                    2.16\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Тотал 4 Б",
+    "coff": "1.255",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Тотал 4 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.255\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "TOTALS__OVER(4)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Тотал 4 М",
+    "coff": "3.2",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Тотал 4 М</span> <span class=\"bet coef-change gc_lite\"><span>\n                    3.2\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "TOTALS__UNDER(4)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Тотал 4.5 Б",
+    "coff": "1.5",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Тотал 4.5 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.5\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "TOTALS__OVER(4.5)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Тотал 4.5 М",
+    "coff": "2.35",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Тотал 4.5 М</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.35\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "TOTALS__UNDER(4.5)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Тотал 5 Б",
+    "coff": "1.795",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Тотал 5 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.795\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "TOTALS__OVER(5)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Тотал 5 М",
+    "coff": "2.016",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Тотал 5 М</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.016\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "TOTALS__UNDER(5)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Тотал 5.5 Б",
+    "coff": "2.096",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Тотал 5.5 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.096\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "TOTALS__OVER(5.5)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Тотал 5.5 М",
+    "coff": "1.625",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Тотал 5.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.625\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "TOTALS__UNDER(5.5)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Тотал 6 Б",
+    "coff": "2.74",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Тотал 6 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.74\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "TOTALS__OVER(6)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Тотал 6 М",
+    "coff": "1.375",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Тотал 6 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.375\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "TOTALS__UNDER(6)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Фора 1 -1.5",
+    "coff": "3.67",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Фора 1 -1.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    3.67\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "HANDICAP__P1(-1.5)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Фора 2 1.5",
+    "coff": "1.22",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Фора 2 1.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.22\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "HANDICAP__P2(1.5)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Фора 1 0",
+    "coff": "1.98",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Фора 1 0</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.98\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "HANDICAP__P1(0)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Фора 2 0",
+    "coff": "1.825",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Фора 2 0</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.825\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "HANDICAP__P2(0)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Фора 1 1",
+    "coff": "1.34",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Фора 1 1</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.34\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "HANDICAP__P1(1)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Фора 2 -1",
+    "coff": "2.89",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Фора 2 -1</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.89\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "HANDICAP__P2(-1)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Фора 1 1.5",
+    "coff": "1.264",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Фора 1 1.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.264\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "HANDICAP__P1(1.5)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Фора 2 -1.5",
+    "coff": "3.31",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Фора 2 -1.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    3.31\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "HANDICAP__P2(-1.5)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Индивидуальный тотал 1-го 1.5 Б",
+    "coff": "1.25",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1-го 1.5 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.25\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P1__TOTALS__OVER(1.5)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Индивидуальный тотал 1-го 1.5 М",
+    "coff": "3.225",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1-го 1.5 М</span> <span class=\"bet coef-change gc_lite\"><span>\n                    3.225\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P1__TOTALS__UNDER(1.5)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Индивидуальный тотал 1-го 2 Б",
+    "coff": "1.425",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1-го 2 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.425\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P1__TOTALS__OVER(2)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Индивидуальный тотал 1-го 2 М",
+    "coff": "2.565",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1-го 2 М</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.565\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P1__TOTALS__UNDER(2)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Индивидуальный тотал 1-го 2.5 Б",
+    "coff": "1.975",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1-го 2.5 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.975\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P1__TOTALS__OVER(2.5)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Индивидуальный тотал 1-го 2.5 М",
+    "coff": "1.83",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1-го 2.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.83\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P1__TOTALS__UNDER(2.5)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Индивидуальный тотал 2-го 2.5 Б",
+    "coff": "1.875",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 2-го 2.5 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.875\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P2__TOTALS__OVER(2.5)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Индивидуальный тотал 2-го 2.5 М",
+    "coff": "1.925",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 2-го 2.5 М</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.925\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P2__TOTALS__UNDER(2.5)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Индивидуальный тотал 2-го 3 Б",
+    "coff": "2.496",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 2-го 3 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.496\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P2__TOTALS__OVER(3)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Индивидуальный тотал 2-го 3 М",
+    "coff": "1.445",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 2-го 3 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.445\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P2__TOTALS__UNDER(3)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Индивидуальный тотал 2-го 3.5 Б",
+    "coff": "3.2",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 2-го 3.5 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    3.2\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P2__TOTALS__OVER(3.5)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Индивидуальный тотал 2-го 3.5 М",
+    "coff": "1.28",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 2-го 3.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.28\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P2__TOTALS__UNDER(3.5)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Следующий гол Команда 1 - 1-й гол",
+    "coff": "1.896",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Следующий гол Команда 1 - 1-й гол</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.896\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Следующий гол Команда 2 - 1-й гол",
+    "coff": "1.825",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Следующий гол Команда 2 - 1-й гол</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.825\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Следующий гол Не будет 1-го гола",
+    "coff": "8.6",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Следующий гол Не будет 1-го гола</span> <span class=\"bet coef-change gc_lite\"><span>\n                    8.6\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Следующий гол Команда 1 - 2-й гол",
+    "coff": "1.945",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Следующий гол Команда 1 - 2-й гол</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.945\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Следующий гол Команда 2 - 2-й гол",
+    "coff": "1.875",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Следующий гол Команда 2 - 2-й гол</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.875\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Следующий гол Не будет 2-го гола",
+    "coff": "8.6",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Следующий гол Не будет 2-го гола</span> <span class=\"bet coef-change gc_lite\"><span>\n                    8.6\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Следующий гол Команда 1 - 3-й гол",
+    "coff": "2.1",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Следующий гол Команда 1 - 3-й гол</span> <span class=\"bet coef-change rc_lite\"><span>\n                    2.1\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Следующий гол Команда 2 - 3-й гол",
+    "coff": "2.02",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Следующий гол Команда 2 - 3-й гол</span> <span class=\"bet coef-change rc_lite\"><span>\n                    2.02\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Следующий гол Не будет 3-го гола",
+    "coff": "8.6",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Следующий гол Не будет 3-го гола</span> <span class=\"bet coef-change gc_lite\"><span>\n                    8.6\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Следующий гол Команда 1 - 4-й гол",
+    "coff": "2.435",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Следующий гол Команда 1 - 4-й гол</span> <span class=\"bet coef-change rc_lite\"><span>\n                    2.435\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Следующий гол Команда 2 - 4-й гол",
+    "coff": "2.344",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Следующий гол Команда 2 - 4-й гол</span> <span class=\"bet coef-change rc_lite\"><span>\n                    2.344\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Следующий гол Не будет 4-го гола",
+    "coff": "3.95",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Следующий гол Не будет 4-го гола</span> <span class=\"bet coef-change gc_lite\"><span>\n                    3.95\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Команда 1, результат + тотал П1 и ТМ 5.5 - Да",
+    "coff": "3.71",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Команда 1, результат + тотал П1 и ТМ 5.5 - Да</span> <span class=\"bet coef-change rc_lite\"><span>\n                    3.71\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Команда 1, результат + тотал П1 и ТМ 5.5 - Нет",
+    "coff": "1.14",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Команда 1, результат + тотал П1 и ТМ 5.5 - Нет</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.14\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Команда 1, результат + тотал П1 и ТМ 6.5 - Да",
+    "coff": "3.24",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Команда 1, результат + тотал П1 и ТМ 6.5 - Да</span> <span class=\"bet coef-change gc_lite\"><span>\n                    3.24\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Команда 1, результат + тотал П1 и ТМ 6.5 - Нет",
+    "coff": "1.22",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Команда 1, результат + тотал П1 и ТМ 6.5 - Нет</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.22\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Команда 1, результат + тотал П1 и ТБ 4.5 - Да",
+    "coff": "3.27",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Команда 1, результат + тотал П1 и ТБ 4.5 - Да</span> <span class=\"bet coef-change gc_lite\"><span>\n                    3.27\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Команда 1, результат + тотал П1 и ТБ 4.5 - Нет",
+    "coff": "1.19",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Команда 1, результат + тотал П1 и ТБ 4.5 - Нет</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.19\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Тотал чет Да",
+    "coff": "1.85",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Тотал чет Да</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.85\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "TOTALS__EVEN"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Тотал чет Нет",
+    "coff": "1.85",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Тотал чет Нет</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.85\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "TOTALS__ODD"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Хотя бы одна команда не забьет + тотал Хотя бы одна не забьет + ТМ 1.5 - Да",
+    "coff": "10",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Хотя бы одна команда не забьет + тотал Хотя бы одна не забьет + ТМ 1.5 - Да</span> <span class=\"bet coef-change gc_lite\"><span>\n                    10\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Хотя бы одна команда не забьет + тотал Хотя бы одна не забьет + ТБ 1.5 - Да",
+    "coff": "7.45",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Хотя бы одна команда не забьет + тотал Хотя бы одна не забьет + ТБ 1.5 - Да</span> <span class=\"bet coef-change rc_lite\"><span>\n                    7.45\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Хотя бы одна команда не забьет + тотал Хотя бы одна не забьет + ТМ 2.5 - Да",
+    "coff": "10",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Хотя бы одна команда не забьет + тотал Хотя бы одна не забьет + ТМ 2.5 - Да</span> <span class=\"bet coef-change gc_lite\"><span>\n                    10\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Хотя бы одна команда не забьет + тотал Хотя бы одна не забьет + ТБ 2.5 - Да",
+    "coff": "10",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Хотя бы одна команда не забьет + тотал Хотя бы одна не забьет + ТБ 2.5 - Да</span> <span class=\"bet coef-change gc_lite\"><span>\n                    10\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Хотя бы одна команда не забьет + тотал Хотя бы одна не забьет + ТМ 3.5 - Да",
+    "coff": "7.92",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Хотя бы одна команда не забьет + тотал Хотя бы одна не забьет + ТМ 3.5 - Да</span> <span class=\"bet coef-change rc_lite\"><span>\n                    7.92\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Хотя бы одна команда не забьет + тотал Хотя бы одна не забьет + ТБ 3.5 - Да",
+    "coff": "10",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Хотя бы одна команда не забьет + тотал Хотя бы одна не забьет + ТБ 3.5 - Да</span> <span class=\"bet coef-change gc_lite\"><span>\n                    10\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Хотя бы одна команда не забьет + тотал Хотя бы одна не забьет + ТМ 4.5 - Да",
+    "coff": "6.75",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Хотя бы одна команда не забьет + тотал Хотя бы одна не забьет + ТМ 4.5 - Да</span> <span class=\"bet coef-change rc_lite\"><span>\n                    6.75\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Хотя бы одна команда не забьет + тотал Хотя бы одна не забьет + ТБ 4.5 - Да",
+    "coff": "10",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Хотя бы одна команда не забьет + тотал Хотя бы одна не забьет + ТБ 4.5 - Да</span> <span class=\"bet coef-change gc_lite\"><span>\n                    10\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Двойной шанс 1Х",
+    "coff": "1.616",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Двойной шанс 1Х</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.616\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Двойной шанс 12",
+    "coff": "1.125",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Двойной шанс 12</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.125\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Двойной шанс 2Х",
+    "coff": "1.525",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Двойной шанс 2Х</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.525\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Азиатский тотал 4.75 Б",
+    "coff": "1.59",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Азиатский тотал 4.75 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.59\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "TOTALS__OVER(4.75)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Азиатский тотал 4.75 М",
+    "coff": "2.136",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Азиатский тотал 4.75 М</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.136\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "TOTALS__UNDER(4.75)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Азиатский тотал 5.25 Б",
+    "coff": "1.975",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Азиатский тотал 5.25 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.975\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "TOTALS__OVER(5.25)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Азиатский тотал 5.25 М",
+    "coff": "1.81",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Азиатский тотал 5.25 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.81\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "TOTALS__UNDER(5.25)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Азиатская фора 1 -0.25",
+    "coff": "2.104",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Азиатская фора 1 -0.25</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.104\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "HANDICAP__P1(-0.25)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Азиатская фора 2 0.25",
+    "coff": "1.605",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Азиатская фора 2 0.25</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.605\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "HANDICAP__P2(0.25)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Азиатская фора 1 0.25",
+    "coff": "1.78",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Азиатская фора 1 0.25</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.78\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "HANDICAP__P1(0.25)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Азиатская фора 2 -0.25",
+    "coff": "2.01",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Азиатская фора 2 -0.25</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.01\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "HANDICAP__P2(-0.25)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Азиатская фора 1 0.75",
+    "coff": "1.46",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Азиатская фора 1 0.75</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.46\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "HANDICAP__P1(0.75)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Азиатская фора 2 -0.75",
+    "coff": "2.416",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Азиатская фора 2 -0.75</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.416\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "HANDICAP__P2(-0.75)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Азиатский индивидуальный тотал 1-го 1.75 Б",
+    "coff": "1.31",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Азиатский индивидуальный тотал 1-го 1.75 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.31\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P1__TOTALS__OVER(1.75)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Азиатский индивидуальный тотал 1-го 1.75 М",
+    "coff": "2.97",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Азиатский индивидуальный тотал 1-го 1.75 М</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.97\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P1__TOTALS__UNDER(1.75)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Азиатский индивидуальный тотал 1-го 2.25 Б",
+    "coff": "1.71",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Азиатский индивидуальный тотал 1-го 2.25 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.71\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P1__TOTALS__OVER(2.25)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Азиатский индивидуальный тотал 1-го 2.25 М",
+    "coff": "2.1",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Азиатский индивидуальный тотал 1-го 2.25 М</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.1\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P1__TOTALS__UNDER(2.25)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Азиатский индивидуальный тотал 2-го 2.75 Б",
+    "coff": "2.12",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Азиатский индивидуальный тотал 2-го 2.75 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.12\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P2__TOTALS__OVER(2.75)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Азиатский индивидуальный тотал 2-го 2.75 М",
+    "coff": "1.7",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Азиатский индивидуальный тотал 2-го 2.75 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.7\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P2__TOTALS__UNDER(2.75)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Азиатский индивидуальный тотал 2-го 3.25 Б",
+    "coff": "2.83",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Азиатский индивидуальный тотал 2-го 3.25 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.83\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P2__TOTALS__OVER(3.25)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Азиатский индивидуальный тотал 2-го 3.25 М",
+    "coff": "1.34",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Азиатский индивидуальный тотал 2-го 3.25 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.34\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P2__TOTALS__UNDER(3.25)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Точный счет 2-1",
+    "coff": "10",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Точный счет 2-1</span> <span class=\"bet coef-change gc_lite\"><span>\n                    10\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "CORRECT_SCORE(2:1)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Точный счет 1-1",
+    "coff": "10",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Точный счет 1-1</span> <span class=\"bet coef-change gc_lite\"><span>\n                    10\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "CORRECT_SCORE(1:1)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Точный счет 1-2",
+    "coff": "10",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Точный счет 1-2</span> <span class=\"bet coef-change gc_lite\"><span>\n                    10\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "CORRECT_SCORE(1:2)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Точный счет 3-1",
+    "coff": "10",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Точный счет 3-1</span> <span class=\"bet coef-change gc_lite\"><span>\n                    10\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "CORRECT_SCORE(3:1)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Точный счет 2-2",
+    "coff": "10",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Точный счет 2-2</span> <span class=\"bet coef-change\"><span>\n                    10\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "CORRECT_SCORE(2:2)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Точный счет 1-3",
+    "coff": "10",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Точный счет 1-3</span> <span class=\"bet coef-change\"><span>\n                    10\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "CORRECT_SCORE(1:3)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Точный счет 3-2",
+    "coff": "10",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Точный счет 3-2</span> <span class=\"bet coef-change\"><span>\n                    10\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "CORRECT_SCORE(3:2)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Точный счет 3-3",
+    "coff": "10",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Точный счет 3-3</span> <span class=\"bet coef-change\"><span>\n                    10\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "CORRECT_SCORE(3:3)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Точный счет 2-3",
+    "coff": "10",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Точный счет 2-3</span> <span class=\"bet coef-change\"><span>\n                    10\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "CORRECT_SCORE(2:3)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Точный счет 4-1",
+    "coff": "10",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Точный счет 4-1</span> <span class=\"bet coef-change\"><span>\n                    10\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "CORRECT_SCORE(4:1)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Точный счет 4-4",
+    "coff": "10",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Точный счет 4-4</span> <span class=\"bet coef-change\"><span>\n                    10\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "CORRECT_SCORE(4:4)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Точный счет 1-4",
+    "coff": "10",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Точный счет 1-4</span> <span class=\"bet coef-change\"><span>\n                    10\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "CORRECT_SCORE(1:4)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Точный счет 4-2",
+    "coff": "10",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Точный счет 4-2</span> <span class=\"bet coef-change\"><span>\n                    10\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "CORRECT_SCORE(4:2)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Точный счет 2-4",
+    "coff": "10",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Точный счет 2-4</span> <span class=\"bet coef-change\"><span>\n                    10\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "CORRECT_SCORE(2:4)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Точный счет 4-3",
+    "coff": "10",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Точный счет 4-3</span> <span class=\"bet coef-change\"><span>\n                    10\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "CORRECT_SCORE(4:3)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Точный счет 3-4",
+    "coff": "10",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Точный счет 3-4</span> <span class=\"bet coef-change\"><span>\n                    10\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "CORRECT_SCORE(3:4)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Точный счет 2-5",
+    "coff": "10",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Точный счет 2-5</span> <span class=\"bet coef-change\"><span>\n                    10\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "CORRECT_SCORE(2:5)"
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Команда 2, результат + тотал П2 и ТМ 5.5 - Да",
+    "coff": "3.475",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Команда 2, результат + тотал П2 и ТМ 5.5 - Да</span> <span class=\"bet coef-change rc_lite\"><span>\n                    3.475\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Команда 2, результат + тотал П2 и ТМ 5.5 - Нет",
+    "coff": "1.165",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Команда 2, результат + тотал П2 и ТМ 5.5 - Нет</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.165\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Команда 2, результат + тотал П2 и ТМ 6.5 - Да",
+    "coff": "3.005",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Команда 2, результат + тотал П2 и ТМ 6.5 - Да</span> <span class=\"bet coef-change gc_lite\"><span>\n                    3.005\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Команда 2, результат + тотал П2 и ТМ 6.5 - Нет",
+    "coff": "1.256",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Команда 2, результат + тотал П2 и ТМ 6.5 - Нет</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.256\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Команда 2, результат + тотал П2 и ТБ 4.5 - Да",
+    "coff": "3.17",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Команда 2, результат + тотал П2 и ТБ 4.5 - Да</span> <span class=\"bet coef-change gc_lite\"><span>\n                    3.17\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Команда 2, результат + тотал П2 и ТБ 4.5 - Нет",
+    "coff": "1.225",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Команда 2, результат + тотал П2 и ТБ 4.5 - Нет</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.225\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Трехпутевой тотал Больше 5",
+    "coff": "2.175",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Трехпутевой тотал Больше 5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.175\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Трехпутевой тотал Ровно 5",
+    "coff": "4.8",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Трехпутевой тотал Ровно 5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    4.8\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Трехпутевой тотал Меньше 5",
+    "coff": "2.44",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Трехпутевой тотал Меньше 5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    2.44\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Трехпутевой тотал Больше 6",
+    "coff": "3.235",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Трехпутевой тотал Больше 6</span> <span class=\"bet coef-change gc_lite\"><span>\n                    3.235\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Трехпутевой тотал Ровно 6",
+    "coff": "5.36",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Трехпутевой тотал Ровно 6</span> <span class=\"bet coef-change gc_lite\"><span>\n                    5.36\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Bruges+",
+    "team2": "Zagreb+",
+    "type": "Трехпутевой тотал Меньше 6",
+    "coff": "1.625",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">18474. Футбол Short Football 3x3</div> <div class=\"teams\">Bruges+ - Zagreb+</div> <div class=\"type\"><span class=\"type-name\">Трехпутевой тотал Меньше 6</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.625\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  }
+]

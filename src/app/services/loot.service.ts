@@ -1,47 +1,94 @@
 import { Injectable } from '@angular/core';
 import { CheckService } from './check.service';
-import football from '../data/favbet/football.json';
+import football from '../data/loot/football.json';
+import hockey from '../data/loot/hockey.json';
+import tableTennis from '../data/loot/table-tennis.json';
+import tennis from '../data/loot/tennis.json';
+import volleyball from '../data/loot/volleyball.json';
+import basketball from '../data/loot/basketball.json';
+import cs from '../data/loot/cs.json';
 
 @Injectable({
   providedIn: 'root'
 })
-export class FavbetService {
+export class LootService {
 
   constructor(private checkService: CheckService) { }
+
+  // var evObj = document.createEvent('Events');
+  // evObj.initEvent('click', true, false);
+  // var result = [];
+  // document.querySelectorAll('.outcome').forEach((el, index) => {setTimeout(() => {el.dispatchEvent(evObj); setTimeout(() => {var innerItem = document.querySelector('.coupon-container .bets__item'); window.result.push(innerItem.innerHTML); console.log(index); innerItem.querySelector('.bets__item-close').dispatchEvent(evObj);}, 500)}, index * 1000)});
+  // document.querySelectorAll('.mat-expansion-panel-body .cof').forEach((el, index) => {setTimeout(() => {el.dispatchEvent(evObj); setTimeout(() => {var innerItem = document.querySelector('.scrollBet .bet-container'); window.result.push(innerItem.innerHTML); console.log(index); innerItem.querySelector('.close').dispatchEvent(evObj);}, 500)}, index * 1000)});
 
   public table() {
     const table = [];
     for (let i = 0; i < football.length; i++) {
       const result = this.render(football[i].html, 'football');
-      table.push([`Футбол`, `${football[i].params.type || '-'} / ${football[i].params.time || '-'} / ${football[i].params.value || '-'}`, result.bet, result.check ? result.check.name : '', football[i]?.['test'], football[i]?.['test'] ? result.bet === football[i]?.['test'] : null]);
+      table.push([`Футбол: ${result.team1}/${result.team2}`, football[i].type, result.bet, result.check ? result.check.name : '', football[i]?.['test'], (football[i]?.['test'] || football[i]?.['test'] === '') ? (result.bet || '') === football[i]?.['test'] : null]);
+    }
+    for (let i = 0; i < hockey.length; i++) {
+      const result = this.render(hockey[i].html, 'hockey');
+      table.push([`Хокей: ${result.team1}/${result.team2}`, hockey[i].type, result.bet, result.check ? result.check.name : '', hockey[i]?.['test'], (hockey[i]?.['test'] || hockey[i]?.['test'] === '') ? (result.bet || '') === hockey[i]?.['test'] : null]);
+    }
+    for (let i = 0; i < tableTennis.length; i++) {
+      const result = this.render(tableTennis[i].html, 'table-tennis');
+      table.push([`Настольный тенис: ${result.team1}/${result.team2}`, tableTennis[i].type, result.bet, result.check ? result.check.name : '', tableTennis[i]?.['test'], (tableTennis[i]?.['test'] || tableTennis[i]?.['test'] === '') ? (result.bet || '') === tableTennis[i]?.['test'] : null]);
+    }
+    for (let i = 0; i < tennis.length; i++) {
+      const result = this.render(tennis[i].html, 'tennis');
+      table.push([`Тенис: ${result.team1}/${result.team2}`, tennis[i].type, result.bet, result.check ? result.check.name : '', tennis[i]?.['test'], (tennis[i]?.['test'] || tennis[i]?.['test'] === '') ? (result.bet || '') === tennis[i]?.['test'] : null]);
+    }
+    for (let i = 0; i < volleyball.length; i++) {
+      const result = this.render(volleyball[i].html, 'volleyball');
+      table.push([`Волейбол: ${result.team1}/${result.team2}`, volleyball[i].type, result.bet, result.check ? result.check.name : '', volleyball[i]?.['test'], (volleyball[i]?.['test'] || volleyball[i]?.['test'] === '') ? (result.bet || '') === volleyball[i]?.['test'] : null]);
+    }
+    for (let i = 0; i < basketball.length; i++) {
+      const result = this.render(basketball[i].html, 'basketball');
+      table.push([`Баскетбол: ${result.team1}/${result.team2}`, basketball[i].type, result.bet, result.check ? result.check.name : '', basketball[i]?.['test'], (basketball[i]?.['test'] || basketball[i]?.['test'] === '') ? (result.bet || '') === basketball[i]?.['test'] : null]);
+    }
+    for (let i = 0; i < cs.length; i++) {
+      const result = this.render(cs[i].html, 'cs');
+      table.push([`CS: ${result.team1}/${result.team2}`, cs[i].type, result.bet, result.check ? result.check.name : '', cs[i]?.['test'], (cs[i]?.['test'] || cs[i]?.['test'] === '') ? (result.bet || '') === cs[i]?.['test'] : null]);
     }
     return table;
   }
 
   public render(html: string, sport: string): {team1: string, team2: string, bet: string, value: string, check: null | {name: string, parts: string[]}} {
-    const clear = html.replace(/<!--.*?-->/gi, '').replace(/\r|\n/gi, '').trim();
-    const title = clear.replace(/.*<div[^>]*class="[^"]*nameContainer[^"]*"[^>]*>([^<]*)<\/div>.*/gi, '$1');
-    const split = title.split('-');
-    const team1 = (split[0] || '').trim();
-    const team2 = (split[1] || '').trim();
-    const betString = `${clear.replace(/.*<div[^>]*class="[^"]*marketName[^"]*"[^>]*>([^<]*)<\/div>.*/gi, '$1') || '-'} ${clear.replace(/.*<div[^>]*class="[^"]*outcomeName[^"]*"[^>]*>([^<]*)<\/div>.*/gi, '$1') || '-'}`;
-    const betValue = clear.replace(/.*<div[^>]*class="[^"]*outcomeCoef[^"]*"[^>]*>([^<]*)<\/div>.*/gi, '$1');
-    const betParse = this.parser(betString, team1, team2, sport);
-    const betCheck = this.checkService.check(betParse);
+    if (sport === 'cs') {
+      const clear = html.replace(/<!--.*?-->/gi, '').replace(/\r|\n/gi, '').trim();
+      const team2 = clear.replace(/.*<span[^>]*class=\"vs[^\"]*"[^\>]*>[^<]*<\/span><span[^>]*class="[^\"]*title[^\"]*"[^\>]*>([^\<]*)<\/span>.*/gi, '$1').trim();
+      const team1 = clear.replace(/.*<span[^>]*class="[^\"]*title text-clip[^\"]*"[^\>]*>([^\<]*)<\/span><span[^>]*class=\"vs[^\"]*"[^\>]*>[^<]*<\/span>.*/gi, '$1').trim();
+      const betString = clear.replace(/.*<span[^>]*class="[^"]*winner__label ng-tns-c117[^"]*"[^>]*>([^<]*)<\/span>.*/gi, '$1').trim();
+      const betValue = clear.replace(/.*<span[^>]*style="display: inline;"[^>]*class="[^"]*ng-tns-c117-[^"]*"[^>]*>([^<]*)<\/span>.*/gi, '$1').trim();
+      const betParse = this.parser(betString, team1, team2, sport);
+      const betCheck = this.checkService.check(betParse);
 
-    return {team1: team1, team2: team2, bet: betParse, value: betValue, check: betCheck};
+      return {team1: team1, team2: team2, bet: betParse, value: betValue, check: betCheck};
+    } else {
+      const clear = html.replace(/<!--.*?-->/gi, '').replace(/\r|\n/gi, '').trim();
+      const title = clear.replace(/.*<a[^>]*class="[^"]*bets__item-tournament[^"]*"[^>]*>([^<]*)<\/a>.*/gi, '$1');
+      const team2 = title.replace(/.* +vs +(.*)$/, '$1').trim();
+      const team1 = title.replace(team2, '').trim().replace(/vs$/, '').trim();
+      const betString = clear.replace(/.*<a[^>]*class="[^"]*bets__item-name[^"]*"[^>]*>([^<]*)<\/a>.*/gi, '$1').trim();
+      const betValue = clear.replace(/.*<span[^>]*class="[^"]*outcome__number[^"]*"[^>]*>([^<]*)<\/span>.*/gi, '$1').trim();
+      const betParse = this.parser(betString, team1, team2, sport);
+      const betCheck = this.checkService.check(betParse);
+
+      return {team1: team1, team2: team2, bet: betParse, value: betValue, check: betCheck};
+    }
   }
 
   private parser(betString: string, team1: string, team2: string, sport: string): string {
     let period = '';
     switch (true) {
-      case /(1-й|1-м|1-ом|1-я|1|первый) тай/iu.test(betString): period = 'HALF_01'; break;
-      case /(2-й|2-м|2-ом|2-я|2|второй) тай/iu.test(betString): period = 'HALF_02'; break;
-      case /(1-й|1-м|1-ом|1-я|1|первый|в) (сет|сэт|партия|период|четверть|четверти)/iu.test(betString): period = 'SET_01'; break;
-      case /(2-й|2-м|2-ом|2-я|2|второй) (сет|сэт|партия|период|четверть|четверти)/iu.test(betString): period = 'SET_02'; break;
-      case /(3-й|3-м|3-ом|3-я|3|третий) (сет|сэт|партия|период|четверть|четверти)/iu.test(betString): period = 'SET_03'; break;
-      case /(4-й|4-м|4-ом|4-я|4|четвертый) (сет|сэт|партия|период|четверть|четверти)/iu.test(betString): period = 'SET_04'; break;
-      case /(5-й|5-м|5-ом|5-я|5|пятый) (сет|сэт|партия|период|четверть|четверти)/iu.test(betString): period = 'SET_05'; break;
+      case /(1-й|1-м|1-ом|1-я|1|первый) тай|тайм 1/iu.test(betString): period = 'HALF_01'; break;
+      case /(2-й|2-м|2-ом|2-я|2|второй) тай|тайм 2/iu.test(betString): period = 'HALF_02'; break;
+      case /(1-й|1-м|1-ом|1-я|1|первый|в) (сет|сэт|партия|период|четверть|четверти)|(сет|сэт|партия|период|четверть|четверти) 1/iu.test(betString): period = 'SET_01'; break;
+      case /(2-й|2-м|2-ом|2-я|2|второй) (сет|сэт|партия|период|четверть|четверти)|(сет|сэт|партия|период|четверть|четверти) 2/iu.test(betString): period = 'SET_02'; break;
+      case /(3-й|3-м|3-ом|3-я|3|третий) (сет|сэт|партия|период|четверть|четверти)|(сет|сэт|партия|период|четверть|четверти) 3/iu.test(betString): period = 'SET_03'; break;
+      case /(4-й|4-м|4-ом|4-я|4|четвертый) (сет|сэт|партия|период|четверть|четверти)|(сет|сэт|партия|период|четверть|четверти) 4/iu.test(betString): period = 'SET_04'; break;
+      case /(5-й|5-м|5-ом|5-я|5|пятый) (сет|сэт|партия|период|четверть|четверти)|(сет|сэт|партия|период|четверть|четверти) 5/iu.test(betString): period = 'SET_05'; break;
     }
     let team = '';
     switch (true) {
@@ -109,11 +156,16 @@ export class FavbetService {
         coff = parseFloat(betString.replace(/.*([0-9])\+?$/, '$1'));
         coff = `(${coff - 0.5})`;
         break;
+      case /фора.* +-?\+?[0-9.]{1,5}|тотал.* +-?\+?[0-9.]{1,5}$/iu.test(betString):
+        coff = parseFloat(betString.replace(/.* +([0-9-+.]{1,5})$/, '$1'));
+        coff = `(${coff})`;
+        break;
     }
     let score = '';
     switch (true) {
       case /бьет.*[0-9] или [0-9]/.test(betString): score = `(${betString.replace(/.*([0-9]{1,3}) или ([0-9]{1,3}).*/, '$1-$2')})`; break;
       case /([0-9]{1,3}:[0-9]{1,3})/.test(betString): score = `(${betString.replace(/.*([0-9]{1,3}:[0-9]{1,3}).*/, '$1')})`; break;
+      case /([0-9]{1,3}-[0-9]{1,3})/.test(betString): score = `(${betString.replace(/.*([0-9]{1,3})-([0-9]{1,3}).*/, '$1:$2')})`; break;
       case /диапазон.*[0-9]{1,3}-[0-9]{1,3}|кол.* голов в матче.*[0-9]{1,3}-[0-9]{1,3}/iu.test(betString): score = `(${betString.replace(/.*([0-9]{1,3}-[0-9]{1,3}).*/, '$1')})`; break;
       case /гонка до [0-9]*/iu.test(betString): score = `(${betString.replace(/.*гонка до ([0-9]*).*/iu, '$1')})`; break;
     }
@@ -132,16 +184,16 @@ export class FavbetService {
     }
     let type = '';
     switch (true) {
-      case /тайм забьет|забьет:/iu.test(betString): type = `TEAM_TO_SCORE`; break;
+      case /тайм забьет|забьет:|забьет.*да|забьет.*нет/iu.test(betString): type = `TEAM_TO_SCORE`; break;
       case /тотал углов/iu.test(betString): type = `TOTALS_CORNERS`; break;
-      case /тотал.*(сет|сэт|партия|период)/iu.test(betString): type = `SETS_TOTALS`; break;
+      case /тотал.*в.*(сет|сэт|партия|период)/iu.test(betString): type = `SETS_TOTALS`; break;
       case /нечет|нечёт| четн| чётн| чет\.| чёт\./iu.test(betString): type = 'TOTALS'; break;
       case /забьет|тотал|кол.*гол|диапазон.*гол|итог/iu.test(betString): type = `TOTALS`; break;
       case /фора.*углов/iu.test(betString): type = `HANDICAP_CORNERS`; break;
-      case /фора.*(сет|сэт|партия|период)/iu.test(betString): type = `SETS_HANDICAP`; break;
+      case /фора.*по.*(сет|сэт|партия|период)/iu.test(betString): type = `SETS_HANDICAP`; break;
       case /фора/iu.test(betString): type = `HANDICAP`; break;
       case /1 ?(х|x) ?2 углов/iu.test(betString): type = `WIN_CORNERS`; break;
-      case /победа|ничья|проход|исход|выход|выйдет|наиб.*кол.*очк/iu.test(betString) && !/результативная/iu.test(betString): type = `WIN`; break;
+      case /победа|ничья|проход|исход|выход|выйдет|наиб.*кол.*очк|результат|победитель/iu.test(betString) && !/результативная/iu.test(betString): type = `WIN`; break;
       case /обе.*забьют.*да/iu.test(betString): type = `BOTH_TEAMS_TO_SCORE__YES`; break;
       case /обе.*забьют.*нет/iu.test(betString): type = `BOTH_TEAMS_TO_SCORE__NO`; break;
       case /точный счет|счет: |период:.*счет/iu.test(betString): type = `CORRECT_SCORE`; break;
@@ -163,8 +215,8 @@ export class FavbetService {
     }
     let yes_no = '';
     switch (true) {
-      case /в.*сухую.*да|победит и не пропустит.*да|тайм забьет.*да|гол.*в.*тайме.*нет|забьет:.*да|выиг.*все.*четв.*да|тай.*брейк.*матч.*да/iu.test(betString) && !/точное/iu.test(betString): yes_no = `YES`; break;
-      case /в.*сухую.*нет|победит и не пропустит.*нет|тайм забьет.*нет|гол.*в.*тайме.*да|забьет:.*нет|тай.*брейк.*матч.*нет/iu.test(betString) && !/точное/iu.test(betString): yes_no = `NO`; break;
+      case /в.*сухую.*да|победит и не пропустит.*да|тайм забьет.*да|гол.*в.*тайме.*нет|забьет:.*да|выиг.*все.*четв.*да|тай.*брейк.*матч.*да|забьет.*да/iu.test(betString) && !/точное/iu.test(betString): yes_no = `YES`; break;
+      case /в.*сухую.*нет|победит и не пропустит.*нет|тайм забьет.*нет|гол.*в.*тайме.*да|забьет:.*нет|тай.*брейк.*матч.*нет|забьет.*нет/iu.test(betString) && !/точное/iu.test(betString): yes_no = `NO`; break;
     }
     let win_draw = '';
     switch (true) {
@@ -204,7 +256,7 @@ export class FavbetService {
       type = `${type}_OT`;
     }
 
-    if (/п1.*или|п2.*или|тайме или матче|в один мяч.*или|с разницей в|сам.*результат|победа.*нет|каждая.*забьет|во всех|в компенсир|результат без победы|победит в|в 2 гол|в одном из|удаление|замена|мин|нечётный тотал|четный тотал|нечетный тотал|оба|сек|раньше|обоих|хотя бы|красн|подряд|ровно|ничья.*нет| и обе| и выиграет| и не выиграет| и проиграет| и ничья| и тб|выигра.*все.*четвер/iu.test(betString)) {
+    if (/п1.*или|п2.*или|результат матча и тотал|карта|полный матч|тайме или матче|в один мяч.*или|с разницей в|сам.*результат|победа.*нет|каждая.*забьет|во всех|в компенсир|результат без победы|победит в|в 2 гол|в одном из|удаление|замена| мин|нечётный тотал|четный тотал|нечетный тотал|оба|сек|раньше|обоих|хотя бы|красн|подряд|ровно|ничья.*нет| и обе| и выиграет| и не выиграет| и проиграет| и ничья| и тб|выигра.*все.*четвер/iu.test(betString)) {
       return '';
     } else if (/инд\. тотал/ui.test(betString) && betString.indexOf(team1) === -1 && betString.indexOf(team2) === -1) {
       return '';

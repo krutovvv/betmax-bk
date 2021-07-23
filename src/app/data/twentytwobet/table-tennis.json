@@ -1,0 +1,338 @@
+[
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "1X2 П1",
+    "coff": "2.285",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">1X2 П1</span> <span class=\"bet coef-change\"><span>\n                    2.285\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "1X2 П2",
+    "coff": "1.625",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">1X2 П2</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.625\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": ""
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Фора 1 2.5",
+    "coff": "1.99",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Фора 1 2.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.99\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "HANDICAP__P1(2.5)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Фора 2 -2.5",
+    "coff": "1.816",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Фора 2 -2.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.816\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "HANDICAP__P2(-2.5)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Фора 1 3.5",
+    "coff": "1.88",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Фора 1 3.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.88\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "HANDICAP__P1(3.5)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Фора 2 -3.5",
+    "coff": "1.92",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Фора 2 -3.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.92\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "HANDICAP__P2(-3.5)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Фора 1 4.5",
+    "coff": "1.77",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Фора 1 4.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.77\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "HANDICAP__P1(4.5)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Фора 2 -4.5",
+    "coff": "2.05",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Фора 2 -4.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.05\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "HANDICAP__P2(-4.5)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Индивидуальный тотал 2-го 55.5 Б",
+    "coff": "1.792",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 2-го 55.5 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.792\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P2__TOTALS__OVER(55.5)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Индивидуальный тотал 2-го 55.5 М",
+    "coff": "2.02",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 2-го 55.5 М</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.02\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P2__TOTALS__UNDER(55.5)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Индивидуальный тотал 2-го 56.5 Б",
+    "coff": "1.91",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 2-го 56.5 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.91\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P2__TOTALS__OVER(56.5)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Индивидуальный тотал 2-го 56.5 М",
+    "coff": "1.89",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 2-го 56.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.89\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P2__TOTALS__UNDER(56.5)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Фора по партиям 1 -2.5",
+    "coff": "6.65",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Фора по партиям 1 -2.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    6.65\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "SETS_HANDICAP__P1(-2.5)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Фора по партиям 2 -2.5",
+    "coff": "3.97",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Фора по партиям 2 -2.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    3.97\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "SETS_HANDICAP__P2(-2.5)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Фора по партиям 1 -1.5",
+    "coff": "3.464",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Фора по партиям 1 -1.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    3.464\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "SETS_HANDICAP__P1(-1.5)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Фора по партиям 2 -1.5",
+    "coff": "2.27",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Фора по партиям 2 -1.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    2.27\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "SETS_HANDICAP__P2(-1.5)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Фора по партиям 1 1.5",
+    "coff": "1.632",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Фора по партиям 1 1.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.632\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "SETS_HANDICAP__P1(1.5)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Фора по партиям 2 1.5",
+    "coff": "1.31",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Фора по партиям 2 1.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.31\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "SETS_HANDICAP__P2(1.5)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Фора по партиям 1 2.5",
+    "coff": "1.25",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Фора по партиям 1 2.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.25\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "SETS_HANDICAP__P1(2.5)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Фора по партиям 2 2.5",
+    "coff": "1.11",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Фора по партиям 2 2.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.11\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "SETS_HANDICAP__P2(2.5)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Тотал 104.5 Б",
+    "coff": "1.59",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Тотал 104.5 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.59\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "TOTALS__OVER(104.5)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Тотал 104.5 М",
+    "coff": "2.355",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Тотал 104.5 М</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.355\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "TOTALS__UNDER(104.5)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Тотал 107.5 Б",
+    "coff": "1.725",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Тотал 107.5 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.725\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "TOTALS__OVER(107.5)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Тотал 107.5 М",
+    "coff": "2.112",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Тотал 107.5 М</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.112\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "TOTALS__UNDER(107.5)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Тотал 110.5 Б",
+    "coff": "1.91",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Тотал 110.5 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.91\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "TOTALS__OVER(110.5)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Тотал 110.5 М",
+    "coff": "1.89",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Тотал 110.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.89\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "TOTALS__UNDER(110.5)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Тотал 112.5 Б",
+    "coff": "2.06",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Тотал 112.5 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.06\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "TOTALS__OVER(112.5)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Тотал 112.5 М",
+    "coff": "1.76",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Тотал 112.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.76\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "TOTALS__UNDER(112.5)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Индивидуальный тотал 1-го 54.5 Б",
+    "coff": "1.87",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1-го 54.5 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.87\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P1__TOTALS__OVER(54.5)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Индивидуальный тотал 1-го 54.5 М",
+    "coff": "1.93",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1-го 54.5 М</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.93\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P1__TOTALS__UNDER(54.5)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Индивидуальный тотал 1-го 55.5 Б",
+    "coff": "1.99",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1-го 55.5 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.99\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P1__TOTALS__OVER(55.5)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Индивидуальный тотал 1-го 55.5 М",
+    "coff": "1.82",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1-го 55.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.82\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "P1__TOTALS__UNDER(55.5)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Тотал чет Да",
+    "coff": "1.9",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Тотал чет Да</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.9\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "TOTALS__EVEN"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Тотал чет Нет",
+    "coff": "1.9",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Тотал чет Нет</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.9\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "TOTALS__ODD"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Точный счет по партиям 0-4",
+    "coff": "10.8",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Точный счет по партиям 0-4</span> <span class=\"bet coef-change gc_lite\"><span>\n                    10.8\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "CORRECT_SCORE(0:4)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Точный счет по партиям 1-4",
+    "coff": "5.97",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Точный счет по партиям 1-4</span> <span class=\"bet coef-change rc_lite\"><span>\n                    5.97\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "CORRECT_SCORE(1:4)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Точный счет по партиям 2-4",
+    "coff": "5.2",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Точный счет по партиям 2-4</span> <span class=\"bet coef-change rc_lite\"><span>\n                    5.2\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "CORRECT_SCORE(2:4)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Точный счет по партиям 3-4",
+    "coff": "5.62",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Точный счет по партиям 3-4</span> <span class=\"bet coef-change gc_lite\"><span>\n                    5.62\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "CORRECT_SCORE(3:4)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Точный счет по партиям 4-0",
+    "coff": "18",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Точный счет по партиям 4-0</span> <span class=\"bet coef-change gc_lite\"><span>\n                    18\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "CORRECT_SCORE(4:0)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Точный счет по партиям 4-1",
+    "coff": "9.38",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Точный счет по партиям 4-1</span> <span class=\"bet coef-change rc_lite\"><span>\n                    9.38\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "CORRECT_SCORE(4:1)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Точный счет по партиям 4-2",
+    "coff": "7.02",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Точный счет по партиям 4-2</span> <span class=\"bet coef-change rc_lite\"><span>\n                    7.02\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "CORRECT_SCORE(4:2)"
+  },
+  {
+    "team1": "Григорий Служенко (Рос)",
+    "team2": "Павел Митин (Рос)",
+    "type": "Точный счет по партиям 4-3",
+    "coff": "6.53",
+    "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">Точный счет по партиям 4-3</span> <span class=\"bet coef-change rc_lite\"><span>\n                    6.53\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
+    "test": "CORRECT_SCORE(4:3)"
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Результат матча - Савой",
+    "coff": "1.83",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Результат матча - Савой</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _101\"><span class=\"outcome__number\">1.83</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f51b32f222da6c530e6569\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "WIN__P1"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Результат матча - Таурус",
+    "coff": "1.83",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Результат матча - Таурус</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _103\"><span class=\"outcome__number\">1.83</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f51b32f222da71030e656a\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "WIN__P2"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Победитель. Сет 3 - Савой",
+    "coff": "1.83",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Победитель. Сет 3 - Савой</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _101\"><span class=\"outcome__number\">1.83</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53bcbf222da134d16ffb7\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_03__WIN__P1"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Победитель. Сет 3 - Таурус",
+    "coff": "1.83",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Победитель. Сет 3 - Таурус</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _103\"><span class=\"outcome__number\">1.83</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53bcbf222dabaa716ffb8\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_03__WIN__P2"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Победитель. Сет 4 - Савой",
+    "coff": "1.83",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Победитель. Сет 4 - Савой</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _101\"><span class=\"outcome__number\">1.83</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f5401884a3b1cd9a4afd35\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_04__WIN__P1"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Победитель. Сет 4 - Таурус",
+    "coff": "1.83",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Победитель. Сет 4 - Таурус</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _103\"><span class=\"outcome__number\">1.83</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f5401884a3b154a54afd36\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_04__WIN__P2"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Фора - Савой +1.5",
+    "coff": "1.88",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Фора - Савой +1.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _101\"><span class=\"outcome__number\">1.88</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f51b32f222da29180e64f6\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "HANDICAP__P1(1.5)"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Фора - Таурус -1.5",
+    "coff": "1.78",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Фора - Таурус -1.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _103\"><span class=\"outcome__number\">1.78</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f51b32f222da7bc80e64f7\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "HANDICAP__P2(-1.5)"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Фора - Савой +2.5",
+    "coff": "1.78",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Фора - Савой +2.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _101\"><span class=\"outcome__number\">1.78</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53875291db87b15bda3cd\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "HANDICAP__P1(2.5)"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Фора - Таурус -2.5",
+    "coff": "1.88",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Фора - Таурус -2.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _103\"><span class=\"outcome__number\">1.88</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53875291db803ecbda3ce\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "HANDICAP__P2(-2.5)"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Фора. Сет 3 - Савой -2.5",
+    "coff": "2.26",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Фора. Сет 3 - Савой -2.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _101\"><span class=\"outcome__number\">2.26</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53bcbf222da950f16ff8d\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_03__HANDICAP__P1(-2.5)"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Фора. Сет 3 - Таурус +2.5",
+    "coff": "1.49",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Фора. Сет 3 - Таурус +2.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _103\"><span class=\"outcome__number\">1.49</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53bcbf222dab50116ff8e\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_03__HANDICAP__P2(2.5)"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Фора. Сет 3 - Савой +2.5",
+    "coff": "1.49",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Фора. Сет 3 - Савой +2.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _101\"><span class=\"outcome__number\">1.49</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53bcbf222da647316ff88\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_03__HANDICAP__P1(2.5)"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Фора. Сет 3 - Таурус -2.5",
+    "coff": "2.26",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Фора. Сет 3 - Таурус -2.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _103\"><span class=\"outcome__number\">2.26</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53bcbf222daa61f16ff89\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_03__HANDICAP__P2(-2.5)"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Фора. Сет 4 - Савой -2.5",
+    "coff": "2.26",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Фора. Сет 4 - Савой -2.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _101\"><span class=\"outcome__number\">2.26</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f5401884a3b1469f4afcfe\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_04__HANDICAP__P1(-2.5)"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Фора. Сет 4 - Таурус +2.5",
+    "coff": "1.49",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Фора. Сет 4 - Таурус +2.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _103\"><span class=\"outcome__number\">1.49</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f5401884a3b168ab4afcff\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_04__HANDICAP__P2(2.5)"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Фора. Сет 4 - Савой +2.5",
+    "coff": "1.49",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Фора. Сет 4 - Савой +2.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _101\"><span class=\"outcome__number\">1.49</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f5401884a3b18bc24afd03\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_04__HANDICAP__P1(2.5)"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Фора. Сет 4 - Таурус -2.5",
+    "coff": "2.26",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Фора. Сет 4 - Таурус -2.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _103\"><span class=\"outcome__number\">2.26</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f5401884a3b1c6b04afd04\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_04__HANDICAP__P2(-2.5)"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Тотал - Больше 191.5",
+    "coff": "1.78",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Тотал - Больше 191.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _104\"><span class=\"outcome__number\">1.78</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53f85291db886e5bfe984\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "TOTALS__OVER(191.5)"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Тотал - Меньше 191.5",
+    "coff": "1.88",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Тотал - Меньше 191.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _105\"><span class=\"outcome__number\">1.88</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53f85291db81ca6bfe985\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "TOTALS__UNDER(191.5)"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Тотал - Больше 192.5",
+    "coff": "1.83",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Тотал - Больше 192.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _104\"><span class=\"outcome__number\">1.83</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53fc8291db8b3a2c000e0\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "TOTALS__OVER(192.5)"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Тотал - Меньше 192.5",
+    "coff": "1.83",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Тотал - Меньше 192.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _105\"><span class=\"outcome__number\">1.83</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53fc8291db82497c000e1\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "TOTALS__UNDER(192.5)"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Тотал - Больше 193.5",
+    "coff": "1.86",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Тотал - Больше 193.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _104\"><span class=\"outcome__number\">1.86</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53fef291db82be3c00f90\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "TOTALS__OVER(193.5)"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Тотал - Меньше 193.5",
+    "coff": "1.81",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Тотал - Меньше 193.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _105\"><span class=\"outcome__number\">1.81</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53fef291db86ddcc00f91\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "TOTALS__UNDER(193.5)"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Тотал. Сет 3 - Больше 43.5",
+    "coff": "1.40",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Тотал. Сет 3 - Больше 43.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _104\"><span class=\"outcome__number\">1.40</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53bcbf222da1d7916ff92\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_03__TOTALS__OVER(43.5)"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Тотал. Сет 3 - Меньше 43.5",
+    "coff": "2.52",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Тотал. Сет 3 - Меньше 43.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _105\"><span class=\"outcome__number\">2.52</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53bcbf222dafcc016ff93\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_03__TOTALS__UNDER(43.5)"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Тотал. Сет 3 - Больше 44.5",
+    "coff": "1.64",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Тотал. Сет 3 - Больше 44.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _104\"><span class=\"outcome__number\">1.64</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53bcbf222da0b9616ff9c\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_03__TOTALS__OVER(44.5)"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Тотал. Сет 3 - Меньше 44.5",
+    "coff": "2.00",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Тотал. Сет 3 - Меньше 44.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _105\"><span class=\"outcome__number\">2.00</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53bcbf222da4d3516ff9d\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_03__TOTALS__UNDER(44.5)"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Тотал. Сет 3 - Больше 45.5",
+    "coff": "2.03",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Тотал. Сет 3 - Больше 45.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _104\"><span class=\"outcome__number\">2.03</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53bcbf222dab13916ff97\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_03__TOTALS__OVER(45.5)"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Тотал. Сет 3 - Меньше 45.5",
+    "coff": "1.62",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Тотал. Сет 3 - Меньше 45.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _105\"><span class=\"outcome__number\">1.62</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53bcbf222da3a7216ff98\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_03__TOTALS__UNDER(45.5)"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Тотал. Сет 4 - Больше 43.5",
+    "coff": "1.40",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Тотал. Сет 4 - Больше 43.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _104\"><span class=\"outcome__number\">1.40</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f5401884a3b15e334afd08\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_04__TOTALS__OVER(43.5)"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Тотал. Сет 4 - Меньше 43.5",
+    "coff": "2.52",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Тотал. Сет 4 - Меньше 43.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _105\"><span class=\"outcome__number\">2.52</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f5401884a3b1f8134afd09\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_04__TOTALS__UNDER(43.5)"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Тотал. Сет 4 - Больше 44.5",
+    "coff": "1.64",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Тотал. Сет 4 - Больше 44.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _104\"><span class=\"outcome__number\">1.64</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f5401884a3b176704afd12\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_04__TOTALS__OVER(44.5)"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Тотал. Сет 4 - Меньше 44.5",
+    "coff": "2.00",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Тотал. Сет 4 - Меньше 44.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _105\"><span class=\"outcome__number\">2.00</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f5401884a3b185914afd13\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_04__TOTALS__UNDER(44.5)"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Тотал. Сет 4 - Больше 45.5",
+    "coff": "2.03",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Тотал. Сет 4 - Больше 45.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _104\"><span class=\"outcome__number\">2.03</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f5401884a3b1565b4afd0d\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_04__TOTALS__OVER(45.5)"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Тотал. Сет 4 - Меньше 45.5",
+    "coff": "1.62",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Тотал. Сет 4 - Меньше 45.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _105\"><span class=\"outcome__number\">1.62</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f5401884a3b1674f4afd0e\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_04__TOTALS__UNDER(45.5)"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Тотал чет/нечет. Сет 3 - Нечетный",
+    "coff": "2.18",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Тотал чет/нечет. Сет 3 - Нечетный</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _106\"><span class=\"outcome__number\">2.18</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53bcbf222da1ebe16ffa1\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_03__TOTALS__ODD"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Тотал чет/нечет. Сет 3 - Четный",
+    "coff": "1.60",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Тотал чет/нечет. Сет 3 - Четный</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _107\"><span class=\"outcome__number\">1.60</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53bcbf222da3db516ffa2\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_03__TOTALS__EVEN"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Тотал чет/нечет. Сет 4 - Нечетный",
+    "coff": "2.18",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Тотал чет/нечет. Сет 4 - Нечетный</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _106\"><span class=\"outcome__number\">2.18</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f5401884a3b17f5a4afd30\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_04__TOTALS__ODD"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Тотал чет/нечет. Сет 4 - Четный",
+    "coff": "1.60",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Тотал чет/нечет. Сет 4 - Четный</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _107\"><span class=\"outcome__number\">1.60</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f5401884a3b12c904afd31\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_04__TOTALS__EVEN"
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Будут ли дополнительные подачи в сете 3 - Да",
+    "coff": "6.93",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Будут ли дополнительные подачи в сете 3 - Да</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _108\"><span class=\"outcome__number\">6.93</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f5401884a3b17e7a4afd3a\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Савой",
+    "team2": "Таурус",
+    "type": "Будут ли дополнительные подачи в сете 3 - Нет",
+    "coff": "1.07",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _volleyball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Савой vs Таурус</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/volleyball/savoy-vs-taurus-8665755/bets\">Будут ли дополнительные подачи в сете 3 - Нет</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _109\"><span class=\"outcome__number\">1.07</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f5401884a3b188614afd3b\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": ""
+  }
+]

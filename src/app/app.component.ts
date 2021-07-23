@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { TablesService } from './services/tables.service';
+import { TwentytwobetService } from './services/twentytwobet.service';
 
 
 @Component({
@@ -10,10 +10,10 @@ import { TablesService } from './services/tables.service';
 export class AppComponent implements OnInit {
   public table = [];
 
-  constructor(private tablesService: TablesService) {
+  constructor(private twentytwobetService: TwentytwobetService) {
   }
 
   ngOnInit() {
-    this.table = this.tablesService.maxline();
+    this.table = this.twentytwobetService.table();
   }
 }
