@@ -1,0 +1,234 @@
+[
+  {
+    "team1": "Алексей Цирин",
+    "team2": "Валерий Кутин",
+    "type": "Победитель матча - Алексей Цирин",
+    "coff": "1.11",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Алексей Цирин</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.11</span></span><div class=\"qbs-NormalBetItem_Market \">Победитель матча</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Алексей Цирин v Валерий Кутин</div></div>",
+    "test": "WIN__P1"
+  },
+  {
+    "team1": "Алексей Цирин",
+    "team2": "Валерий Кутин",
+    "type": "Тотал матча - Больше (71.5)",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше<div class=\"qbs-NormalBetItem_Handicap \">71.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал матча</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Алексей Цирин v Валерий Кутин</div></div>",
+    "test": "TOTALS__OVER(71.5)"
+  },
+  {
+    "team1": "Алексей Цирин",
+    "team2": "Валерий Кутин",
+    "type": "Победитель матча - Валерий Кутин",
+    "coff": "6.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Валерий Кутин</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>6.00</span></span><div class=\"qbs-NormalBetItem_Market \">Победитель матча</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Алексей Цирин v Валерий Кутин</div></div>",
+    "test": "WIN__P2"
+  },
+  {
+    "team1": "Алексей Цирин",
+    "team2": "Валерий Кутин",
+    "type": "Тотал матча - Меньшe (71.5)",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньшe<div class=\"qbs-NormalBetItem_Handicap \">71.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал матча</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Алексей Цирин v Валерий Кутин</div></div>",
+    "test": "TOTALS__UNDER(71.5)"
+  },
+  {
+    "team1": "Алексей Цирин",
+    "team2": "Валерий Кутин",
+    "type": "Победитель текущего гейма - Алексей Цирин выиграет гейм 2",
+    "coff": "1.22",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Алексей Цирин выиграет гейм 2</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.22</span></span><div class=\"qbs-NormalBetItem_Market \">Победитель текущего гейма</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Алексей Цирин v Валерий Кутин</div></div>",
+    "test": "SET_02__WIN__P1"
+  },
+  {
+    "team1": "Алексей Цирин",
+    "team2": "Валерий Кутин",
+    "type": "Победитель текущего гейма - Валерий Кутин выиграет гейм 2",
+    "coff": "4.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Валерий Кутин выиграет гейм 2</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>4.00</span></span><div class=\"qbs-NormalBetItem_Market \">Победитель текущего гейма</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Алексей Цирин v Валерий Кутин</div></div>",
+    "test": "SET_02__WIN__P2"
+  },
+  {
+    "team1": "Алексей Цирин",
+    "team2": "Валерий Кутин",
+    "type": "Ставки на очки - Алексей Цирин заработает очко 23 в игре 2",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Алексей Цирин заработает очко 23 в игре 2</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Ставки на очки</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Алексей Цирин v Валерий Кутин</div></div>",
+    "test": "SET_02__WHO_SCORE__23__P1"
+  },
+  {
+    "team1": "Алексей Цирин",
+    "team2": "Валерий Кутин",
+    "type": "Ставки на очки - Валерий Кутин заработает очко 23 в игре 2",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Валерий Кутин заработает очко 23 в игре 2</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Ставки на очки</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Алексей Цирин v Валерий Кутин</div></div>",
+    "test": "SET_02__WHO_SCORE__23__P2"
+  },
+  {
+    "team1": "Алексей Цирин",
+    "team2": "Валерий Кутин",
+    "type": "Тотал матча Нечет/Чет - Нечет",
+    "coff": "1.61",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Нечет</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.61</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал матча Нечет/Чет</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Алексей Цирин v Валерий Кутин</div></div>",
+    "test": "TOTALS__ODD"
+  },
+  {
+    "team1": "Алексей Цирин",
+    "team2": "Валерий Кутин",
+    "type": "Тотал матча Нечет/Чет - Чёт",
+    "coff": "2.20",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Чёт</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.20</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал матча Нечет/Чет</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Алексей Цирин v Валерий Кутин</div></div>",
+    "test": "TOTALS__EVEN"
+  },
+  {
+    "team1": "Андрей Хучок",
+    "team2": "Василий Кондратернко",
+    "type": "Победитель матча - Андрей Хучок",
+    "coff": "1.66",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Андрей Хучок</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.66</span></span><div class=\"qbs-NormalBetItem_Market \">Победитель матча</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Андрей Хучок v Василий Кондратернко</div></div>",
+    "test": "WIN__P1"
+  },
+  {
+    "team1": "Андрей Хучок",
+    "team2": "Василий Кондратернко",
+    "type": "Победитель матча - Василий Кондратернко",
+    "coff": "2.20",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Василий Кондратернко</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled bs-OddsLabel_OddsChanged \"><span>2.20</span></span><div class=\"qbs-NormalBetItem_Market \">Победитель матча</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Андрей Хучок v Василий Кондратернко</div></div>",
+    "test": "WIN__P2"
+  },
+  {
+    "team1": "Андрей Хучок",
+    "team2": "Василий Кондратернко",
+    "type": "Победитель текущего гейма - Андрей Хучок выиграет гейм 4",
+    "coff": "8.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Андрей Хучок выиграет гейм 4</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>8.00</span></span><div class=\"qbs-NormalBetItem_Market \">Победитель текущего гейма</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Андрей Хучок v Василий Кондратернко</div></div>",
+    "test": "SET_04__WIN__P1"
+  },
+  {
+    "team1": "Андрей Хучок",
+    "team2": "Василий Кондратернко",
+    "type": "Победитель текущего гейма - Василий Кондратернко выиграет гейм 4",
+    "coff": "1.062",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Василий Кондратернко выиграет гейм 4</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.062</span></span><div class=\"qbs-NormalBetItem_Market \">Победитель текущего гейма</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Андрей Хучок v Василий Кондратернко</div></div>",
+    "test": "SET_04__WIN__P2"
+  },
+  {
+    "team1": "Андрей Хучок",
+    "team2": "Василий Кондратернко",
+    "type": "Ставки на очки - Андрей Хучок заработает очко 16 в игре 4",
+    "coff": "1.72",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Андрей Хучок заработает очко 16 в игре 4</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.72</span></span><div class=\"qbs-NormalBetItem_Market \">Ставки на очки</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Андрей Хучок v Василий Кондратернко</div></div>",
+    "test": "SET_04__WHO_SCORE__16__P1"
+  },
+  {
+    "team1": "Андрей Хучок",
+    "team2": "Василий Кондратернко",
+    "type": "Ставки на очки - Андрей Хучок заработает очко 17 в игре 4",
+    "coff": "1.90",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Андрей Хучок заработает очко 17 в игре 4</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.90</span></span><div class=\"qbs-NormalBetItem_Market \">Ставки на очки</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Андрей Хучок v Василий Кондратернко</div></div>",
+    "test": "SET_04__WHO_SCORE__17__P1"
+  },
+  {
+    "team1": "Андрей Хучок",
+    "team2": "Василий Кондратернко",
+    "type": "Ставки на очки - Василий Кондратернко заработает очко 17 в игре 4",
+    "coff": "1.80",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Василий Кондратернко заработает очко 17 в игре 4</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.80</span></span><div class=\"qbs-NormalBetItem_Market \">Ставки на очки</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Андрей Хучок v Василий Кондратернко</div></div>",
+    "test": "SET_04__WHO_SCORE__17__P2"
+  },
+  {
+    "team1": "Андрей Хучок",
+    "team2": "Василий Кондратернко",
+    "type": "Current Game To Go To Extra Points - Game 4 - Yes",
+    "coff": "17.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Game 4 - Yes</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>17.00</span></span><div class=\"qbs-NormalBetItem_Market \">Current Game To Go To Extra Points</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Андрей Хучок v Василий Кондратернко</div></div>",
+    "test": "SET_04__WILL_BE_OT__YES"
+  },
+  {
+    "team1": "Андрей Хучок",
+    "team2": "Василий Кондратернко",
+    "type": "Current Game To Go To Extra Points - Game 4 - No",
+    "coff": "1.025",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Game 4 - No</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.025</span></span><div class=\"qbs-NormalBetItem_Market \">Current Game To Go To Extra Points</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Андрей Хучок v Василий Кондратернко</div></div>",
+    "test": "SET_04__WILL_BE_OT__NO"
+  },
+  {
+    "team1": "Андрей Хучок",
+    "team2": "Василий Кондратернко",
+    "type": "Тотал матча Нечет/Чет - Нечет",
+    "coff": "2.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Нечет</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.00</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал матча Нечет/Чет</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Андрей Хучок v Василий Кондратернко</div></div>",
+    "test": "TOTALS__ODD"
+  },
+  {
+    "team1": "Андрей Хучок",
+    "team2": "Василий Кондратернко",
+    "type": "Тотал текущей игры Нечет/Чет - Игра 4 - Нечет",
+    "coff": "2.62",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Игра 4 - Нечет</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.62</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал текущей игры Нечет/Чет</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Андрей Хучок v Василий Кондратернко</div></div>",
+    "test": "SET_04__TOTALS__ODD"
+  },
+  {
+    "team1": "Андрей Хучок",
+    "team2": "Василий Кондратернко",
+    "type": "Тотал следующей игры Нечет/Чет - Игра 5 - Нечет",
+    "coff": "2.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Игра 5 - Нечет</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.50</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал следующей игры Нечет/Чет</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Андрей Хучок v Василий Кондратернко</div></div>",
+    "test": "SET_05__TOTALS__ODD"
+  },
+  {
+    "team1": "Андрей Хучок",
+    "team2": "Василий Кондратернко",
+    "type": "Тотал матча Нечет/Чет - Чёт",
+    "coff": "1.72",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Чёт</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.72</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал матча Нечет/Чет</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Андрей Хучок v Василий Кондратернко</div></div>",
+    "test": "TOTALS__EVEN"
+  },
+  {
+    "team1": "Андрей Хучок",
+    "team2": "Василий Кондратернко",
+    "type": "Тотал текущей игры Нечет/Чет - Игра 4 - Чёт",
+    "coff": "1.44",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Игра 4 - Чёт</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.44</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал текущей игры Нечет/Чет</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Андрей Хучок v Василий Кондратернко</div></div>",
+    "test": "SET_04__TOTALS__EVEN"
+  },
+  {
+    "team1": "Андрей Хучок",
+    "team2": "Василий Кондратернко",
+    "type": "Тотал следующей игры Нечет/Чет - Игра 5 - Чёт",
+    "coff": "1.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Игра 5 - Чёт</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.50</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал следующей игры Нечет/Чет</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Андрей Хучок v Василий Кондратернко</div></div>",
+    "test": "SET_05__TOTALS__EVEN"
+  },
+  {
+    "team1": "Андрей Хучок",
+    "team2": "Василий Кондратернко",
+    "type": "Победитель следующей игры - Андрей Хучок выиграет гейм 5",
+    "coff": "1.72",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Андрей Хучок выиграет гейм 5</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.72</span></span><div class=\"qbs-NormalBetItem_Market \">Победитель следующей игры</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Андрей Хучок v Василий Кондратернко</div></div>",
+    "test": "SET_05__WIN__P1"
+  },
+  {
+    "team1": "Андрей Хучок",
+    "team2": "Василий Кондратернко",
+    "type": "Next Game Handicap - Game 5 - Андрей Хучок (-2.5)",
+    "coff": "2.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Game 5 - Андрей Хучок<div class=\"qbs-NormalBetItem_Handicap \">-2.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.50</span></span><div class=\"qbs-NormalBetItem_Market \">Next Game Handicap</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Андрей Хучок v Василий Кондратернко</div></div>",
+    "test": "SET_05__HANDICAP__P1(-2.5)"
+  },
+  {
+    "team1": "Андрей Хучок",
+    "team2": "Василий Кондратернко",
+    "type": "Тотал очков следующей игры - Игра 5 - Больше (18.5)",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Игра 5 - Больше<div class=\"qbs-NormalBetItem_Handicap \">18.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал очков следующей игры</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Андрей Хучок v Василий Кондратернко</div></div>",
+    "test": "SET_05__SETS_TOTALS__OVER(18.5)"
+  },
+  {
+    "team1": "Андрей Хучок",
+    "team2": "Василий Кондратернко",
+    "type": "Победитель следующей игры - Василий Кондратернко выиграет гейм 5",
+    "coff": "2.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Василий Кондратернко выиграет гейм 5</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.00</span></span><div class=\"qbs-NormalBetItem_Market \">Победитель следующей игры</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Андрей Хучок v Василий Кондратернко</div></div>",
+    "test": "SET_05__WIN__P2"
+  }
+]

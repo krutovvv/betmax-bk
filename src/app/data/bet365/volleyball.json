@@ -1,0 +1,1130 @@
+[
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Победитель текущего сета - Феникс-про выиграет сет 2",
+    "coff": "2.75",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Феникс-про выиграет сет 2</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.75</span></span><div class=\"qbs-NormalBetItem_Market \">Победитель текущего сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_02__WIN__P2"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Матч нечёт/чёт - Нечет",
+    "coff": "1.80",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Нечет</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.80</span></span><div class=\"qbs-NormalBetItem_Market \">Матч нечёт/чёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "TOTALS__ODD"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Следующий сет Нечет/Чет - Сет 3 - Нечет",
+    "coff": "2.25",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сет 3 - Нечет</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.25</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий сет Нечет/Чет</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__TOTALS__ODD"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Матч нечёт/чёт - Чёт",
+    "coff": "1.90",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Чёт</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.90</span></span><div class=\"qbs-NormalBetItem_Market \">Матч нечёт/чёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "TOTALS__EVEN"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Следующий сет Нечет/Чет - Сет 3 - Чет",
+    "coff": "1.57",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сет 3 - Чет</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.57</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий сет Нечет/Чет</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__TOTALS__EVEN"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Счёт после 3 сетов - Сокол-про 2-1",
+    "coff": "3.25",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сокол-про 2-1</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.25</span></span><div class=\"qbs-NormalBetItem_Market \">Счёт после 3 сетов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Счёт после 3 сетов - Феникс-про 3-0",
+    "coff": "4.33",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Феникс-про 3-0</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>4.33</span></span><div class=\"qbs-NormalBetItem_Market \">Счёт после 3 сетов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Счёт после 3 сетов - Феникс-про 2-1",
+    "coff": "1.80",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Феникс-про 2-1</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.80</span></span><div class=\"qbs-NormalBetItem_Market \">Счёт после 3 сетов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Победитель следующего сета - Сокол-про выиграет сет 3",
+    "coff": "2.37",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сокол-про выиграет сет 3</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.37</span></span><div class=\"qbs-NormalBetItem_Market \">Победитель следующего сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__WIN__P1"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Гандикап на следующий сет - Сет 3 - Сокол-про (+2.5)",
+    "coff": "1.72",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сет 3 - Сокол-про<div class=\"qbs-NormalBetItem_Handicap \">+2.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.72</span></span><div class=\"qbs-NormalBetItem_Market \">Гандикап на следующий сет</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__HANDICAP__P1(2.5)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Тотал следующего сета - Сет 3 - Больше (45.5)",
+    "coff": "1.80",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сет 3 - Больше<div class=\"qbs-NormalBetItem_Handicap \">45.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.80</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал следующего сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__TOTALS__OVER(45.5)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Победитель следующего сета - Феникс-про выиграет сет 3",
+    "coff": "1.53",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Феникс-про выиграет сет 3</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.53</span></span><div class=\"qbs-NormalBetItem_Market \">Победитель следующего сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__WIN__P2"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Гандикап на следующий сет - Сет 3 - Феникс-про (-2.5)",
+    "coff": "2.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сет 3 - Феникс-про<div class=\"qbs-NormalBetItem_Handicap \">-2.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.00</span></span><div class=\"qbs-NormalBetItem_Market \">Гандикап на следующий сет</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__HANDICAP__P2(-2.5)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Тотал следующего сета - Сет 3 - Меньше (45.5)",
+    "coff": "1.90",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сет 3 - Меньше<div class=\"qbs-NormalBetItem_Handicap \">45.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.90</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал следующего сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__TOTALS__UNDER(45.5)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Тотал команды 1 - Сокол-про - Больше (92.5)",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сокол-про - Больше<div class=\"qbs-NormalBetItem_Handicap \">92.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал команды 1</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "P1__TOTALS__OVER(92.5)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Тотал команды 1 - Сокол-про - Меньше (92.5)",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сокол-про - Меньше<div class=\"qbs-NormalBetItem_Handicap \">92.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал команды 1</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "P1__TOTALS__UNDER(92.5)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Тотал команды 2 - Феникс-про - Больше (100.5)",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Феникс-про - Больше<div class=\"qbs-NormalBetItem_Handicap \">100.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал команды 2</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "P2__TOTALS__OVER(100.5)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Тотал команды 2 - Феникс-про - Меньше (100.5)",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Феникс-про - Меньше<div class=\"qbs-NormalBetItem_Handicap \">100.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал команды 2</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "P2__TOTALS__UNDER(100.5)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Победитель матча - Сокол-про",
+    "coff": "1.80",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сокол-про</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.80</span></span><div class=\"qbs-NormalBetItem_Market \">Победитель матча</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "WIN__P1"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Гандикап на матч (Сеты) - Сокол-про (-1.5)",
+    "coff": "3.25",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сокол-про<div class=\"qbs-NormalBetItem_Handicap \">-1.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.25</span></span><div class=\"qbs-NormalBetItem_Market \">Гандикап на матч (Сеты)</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SETS_HANDICAP__P1(-1.5)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Тотал матча - Больше (198.5)",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше<div class=\"qbs-NormalBetItem_Handicap \">198.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал матча</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "TOTALS__OVER(198.5)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Победитель матча - Феникс-про",
+    "coff": "1.90",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Феникс-про</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.90</span></span><div class=\"qbs-NormalBetItem_Market \">Победитель матча</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "WIN__P2"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Гандикап на матч (Сеты) - Феникс-про (+1.5)",
+    "coff": "1.33",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Феникс-про<div class=\"qbs-NormalBetItem_Handicap \">+1.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.33</span></span><div class=\"qbs-NormalBetItem_Market \">Гандикап на матч (Сеты)</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SETS_HANDICAP__P2(1.5)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Тотал матча - Меньшe (198.5)",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньшe<div class=\"qbs-NormalBetItem_Handicap \">198.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал матча</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "TOTALS__UNDER(198.5)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Победитель текущего сета - Сокол-про выиграет сет 3",
+    "coff": "1.33",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сокол-про выиграет сет 3</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.33</span></span><div class=\"qbs-NormalBetItem_Market \">Победитель текущего сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__WIN__P1"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Гандикап на текущий сет - Сет 3 - Сокол-про (-2.5)",
+    "coff": "1.72",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сет 3 - Сокол-про<div class=\"qbs-NormalBetItem_Handicap \">-2.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.72</span></span><div class=\"qbs-NormalBetItem_Market \">Гандикап на текущий сет</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__HANDICAP__P1(-2.5)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Тотал очков текущего сета - Сет 3 - Больше (46.5)",
+    "coff": "1.90",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сет 3 - Больше<div class=\"qbs-NormalBetItem_Handicap \">46.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.90</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал очков текущего сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__SETS_TOTALS__OVER(46.5)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Победитель текущего сета - Феникс-про выиграет сет 3",
+    "coff": "3.25",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Феникс-про выиграет сет 3</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.25</span></span><div class=\"qbs-NormalBetItem_Market \">Победитель текущего сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__WIN__P2"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Гандикап на текущий сет - Сет 3 - Феникс-про (+2.5)",
+    "coff": "2.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сет 3 - Феникс-про<div class=\"qbs-NormalBetItem_Handicap \">+2.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.00</span></span><div class=\"qbs-NormalBetItem_Market \">Гандикап на текущий сет</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__HANDICAP__P2(2.5)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Тотал очков текущего сета - Сет 3 - Меньше (46.5)",
+    "coff": "1.80",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сет 3 - Меньше<div class=\"qbs-NormalBetItem_Handicap \">46.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.80</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал очков текущего сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__SETS_TOTALS__UNDER(46.5)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Ставки на очки - Сокол-про выиграет очки 26 в 3-й сете",
+    "coff": "1.90",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сокол-про выиграет очки 26 в 3-й сете</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.90</span></span><div class=\"qbs-NormalBetItem_Market \">Ставки на очки</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__WHO_SCORE__26__P1"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Ставки на очки - Феникс-про выиграет очки 26 в 3-й сете",
+    "coff": "1.80",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Феникс-про выиграет очки 26 в 3-й сете</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.80</span></span><div class=\"qbs-NormalBetItem_Market \">Ставки на очки</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__WHO_SCORE__26__P2"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Текущий сет - гонка до - Гонка до 20 - Сокол-про (сет 3)",
+    "coff": "1.10",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Гонка до 20 - Сокол-про (сет 3)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.10</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - гонка до</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__FIRST_TO_SCORE__20__P1"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Текущий сет - гонка до - Гонка до 20 - Феникс-про (сет 3)",
+    "coff": "6.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Гонка до 20 - Феникс-про (сет 3)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>6.50</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - гонка до</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__FIRST_TO_SCORE__20__P2"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Дополнительные очки текущего сета - Сет 3 - Да",
+    "coff": "6.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сет 3 - Да</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>6.00</span></span><div class=\"qbs-NormalBetItem_Market \">Дополнительные очки текущего сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__WILL_BE_OT__YES"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Дополнительные очки текущего сета - Сет 3 - Нет",
+    "coff": "1.11",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сет 3 - Нет</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.11</span></span><div class=\"qbs-NormalBetItem_Market \">Дополнительные очки текущего сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__WILL_BE_OT__NO"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Матч нечёт/чёт - Нечет",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Нечет</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Матч нечёт/чёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "TOTALS__ODD"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Текущий сет Нечет/Чет - Сет 3 - Нечет",
+    "coff": "2.25",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сет 3 - Нечет</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.25</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет Нечет/Чет</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__TOTALS__ODD"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Матч нечёт/чёт - Чёт",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Чёт</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Матч нечёт/чёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "TOTALS__EVEN"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Текущий сет Нечет/Чет - Сет 3 - Чет",
+    "coff": "1.57",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сет 3 - Чет</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.57</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет Нечет/Чет</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__TOTALS__EVEN"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Победный перевес в текущем сете - Сокол-про выиграет сет 3 с отрывом в 2 очка",
+    "coff": "5.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сокол-про выиграет сет 3 с отрывом в 2 очка</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>5.50</span></span><div class=\"qbs-NormalBetItem_Market \">Победный перевес в текущем сете</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Победный перевес в текущем сете - Сокол-про выиграет сет 3 с отрывом в 3-4 очка",
+    "coff": "4.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сокол-про выиграет сет 3 с отрывом в 3-4 очка</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>4.00</span></span><div class=\"qbs-NormalBetItem_Market \">Победный перевес в текущем сете</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Победный перевес в текущем сете - Сокол-про выиграет сет 3 с отрывом в 5-7 очков",
+    "coff": "3.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сокол-про выиграет сет 3 с отрывом в 5-7 очков</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.00</span></span><div class=\"qbs-NormalBetItem_Market \">Победный перевес в текущем сете</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Победный перевес в текущем сете - Сокол-про выиграет сет 3 с отрывом 8-11 очков",
+    "coff": "5.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сокол-про выиграет сет 3 с отрывом 8-11 очков</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>5.50</span></span><div class=\"qbs-NormalBetItem_Market \">Победный перевес в текущем сете</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Победный перевес в текущем сете - Сокол-про выиграет сет 3 с отрывом в 12 и больше очков",
+    "coff": "51.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сокол-про выиграет сет 3 с отрывом в 12 и больше очков</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>51.00</span></span><div class=\"qbs-NormalBetItem_Market \">Победный перевес в текущем сете</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Победный перевес в текущем сете - Феникс-про выиграет сет 3 с отрывом в 2 очка",
+    "coff": "7.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Феникс-про выиграет сет 3 с отрывом в 2 очка</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>7.00</span></span><div class=\"qbs-NormalBetItem_Market \">Победный перевес в текущем сете</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Победный перевес в текущем сете - Феникс-про выиграет сет 3 с отрывом 3-4 очка",
+    "coff": "13.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Феникс-про выиграет сет 3 с отрывом 3-4 очка</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>13.00</span></span><div class=\"qbs-NormalBetItem_Market \">Победный перевес в текущем сете</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Победный перевес в текущем сете - Феникс-про выиграет сет 3 с отрывом 5-7 очков",
+    "coff": "26.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Феникс-про выиграет сет 3 с отрывом 5-7 очков</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>26.00</span></span><div class=\"qbs-NormalBetItem_Market \">Победный перевес в текущем сете</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Победный перевес в текущем сете - Феникс-про выиграет сет 3 с отрывом 8-11 очков",
+    "coff": "201.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Феникс-про выиграет сет 3 с отрывом 8-11 очков</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>201.00</span></span><div class=\"qbs-NormalBetItem_Market \">Победный перевес в текущем сете</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Точный счёт текущего сета - Сокол-про победит сет 3 с учетом дополнительных очков",
+    "coff": "13.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сокол-про победит сет 3 с учетом дополнительных очков</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>13.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт текущего сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Точный счёт текущего сета - Сокол-про победит сет 3 - 25-23",
+    "coff": "9.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сокол-про победит сет 3 - 25-23</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>9.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт текущего сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__CORRECT_SCORE(25:23)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Точный счёт текущего сета - Сокол-про победит сет 3 - 25-22",
+    "coff": "8.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сокол-про победит сет 3 - 25-22</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>8.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт текущего сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__CORRECT_SCORE(25:22)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Точный счёт текущего сета - Сокол-про победит сет 3 - 25-21",
+    "coff": "7.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сокол-про победит сет 3 - 25-21</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>7.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт текущего сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__CORRECT_SCORE(25:21)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Точный счёт текущего сета - Сокол-про победит сет 3 - 25-20",
+    "coff": "7.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сокол-про победит сет 3 - 25-20</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>7.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт текущего сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__CORRECT_SCORE(25:20)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Точный счёт текущего сета - Сокол-про победит сет 3 - 25-19",
+    "coff": "8.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сокол-про победит сет 3 - 25-19</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>8.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт текущего сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__CORRECT_SCORE(25:19)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Точный счёт текущего сета - Сокол-про победит сет 3 - 25-18",
+    "coff": "9.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сокол-про победит сет 3 - 25-18</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>9.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт текущего сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__CORRECT_SCORE(25:18)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Точный счёт текущего сета - Сокол-про победит сет 3 - 25-17",
+    "coff": "13.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сокол-про победит сет 3 - 25-17</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>13.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт текущего сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__CORRECT_SCORE(25:17)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Точный счёт текущего сета - Сокол-про победит сет 3 - 25-16",
+    "coff": "17.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сокол-про победит сет 3 - 25-16</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>17.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт текущего сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__CORRECT_SCORE(25:16)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Точный счёт текущего сета - Сокол-про победит сет 3 - 25-15 или лучше",
+    "coff": "17.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сокол-про победит сет 3 - 25-15 или лучше</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>17.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт текущего сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Точный счёт текущего сета - Феникс-про победит сет 3 с учетом дополнительных очков",
+    "coff": "11.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Феникс-про победит сет 3 с учетом дополнительных очков</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>11.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт текущего сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Точный счёт текущего сета - Феникс-про победит сет 3 - 25-23",
+    "coff": "17.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Феникс-про победит сет 3 - 25-23</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>17.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт текущего сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__CORRECT_SCORE(23:25)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Точный счёт текущего сета - Феникс-про победит сет 3 - 25-22",
+    "coff": "21.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Феникс-про победит сет 3 - 25-22</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>21.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт текущего сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__CORRECT_SCORE(22:25)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Точный счёт текущего сета - Феникс-про победит сет 3 - 25-21",
+    "coff": "26.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Феникс-про победит сет 3 - 25-21</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>26.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт текущего сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__CORRECT_SCORE(21:25)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Точный счёт текущего сета - Феникс-про победит сет 3 - 25-20",
+    "coff": "41.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Феникс-про победит сет 3 - 25-20</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>41.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт текущего сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__CORRECT_SCORE(20:25)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Точный счёт текущего сета - Феникс-про победит сет 3 - 25-19",
+    "coff": "51.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Феникс-про победит сет 3 - 25-19</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>51.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт текущего сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__CORRECT_SCORE(19:25)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Точный счёт текущего сета - Феникс-про победит сет 3 - 25-18",
+    "coff": "101.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Феникс-про победит сет 3 - 25-18</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>101.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт текущего сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__CORRECT_SCORE(18:25)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Точный счёт текущего сета - Феникс-про победит сет 3 - 25-17",
+    "coff": "301.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Феникс-про победит сет 3 - 25-17</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>301.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт текущего сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__CORRECT_SCORE(17:25)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Точный счёт текущего сета - Феникс-про победит сет 3 - 25-16",
+    "coff": "500.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Феникс-про победит сет 3 - 25-16</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>500.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт текущего сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_03__CORRECT_SCORE(16:25)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Точный счёт текущего сета - Феникс-про победит сет 3 - 25-15 или лучше",
+    "coff": "500.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Феникс-про победит сет 3 - 25-15 или лучше</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>500.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт текущего сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Точный счёт сета - Сокол-про выиграет 3-1",
+    "coff": "2.37",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сокол-про выиграет 3-1</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.37</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт сета\r\n</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_02__CORRECT_SCORE(3:1)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Точный счёт сета - Сокол-про выиграет 3-2",
+    "coff": "3.75",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сокол-про выиграет 3-2</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.75</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт сета\r\n</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_02__CORRECT_SCORE(3:2)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Точный счёт сета - Феникс-про выиграет 3-1",
+    "coff": "7.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Феникс-про выиграет 3-1</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>7.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт сета\r\n</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_02__CORRECT_SCORE(1:3)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Точный счёт сета - Феникс-про выиграет 3-2",
+    "coff": "3.25",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Феникс-про выиграет 3-2</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.25</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт сета\r\n</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "SET_02__CORRECT_SCORE(2:3)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Тотал команды 1 - Сокол-про - Больше (94.5)",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сокол-про - Больше<div class=\"qbs-NormalBetItem_Handicap \">94.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал команды 1</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "P1__TOTALS__OVER(94.5)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Тотал команды 1 - Сокол-про - Меньше (94.5)",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сокол-про - Меньше<div class=\"qbs-NormalBetItem_Handicap \">94.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал команды 1</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "P1__TOTALS__UNDER(94.5)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Тотал команды 2 - Феникс-про - Больше (101.5)",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Феникс-про - Больше<div class=\"qbs-NormalBetItem_Handicap \">101.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал команды 2</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "P2__TOTALS__OVER(101.5)"
+  },
+  {
+    "team1": "Сокол-про",
+    "team2": "Феникс-про",
+    "type": "Тотал команды 2 - Феникс-про - Меньше (101.5)",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Феникс-про - Меньше<div class=\"qbs-NormalBetItem_Handicap \">101.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал команды 2</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
+    "test": "P2__TOTALS__UNDER(101.5)"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Итоговый победитель - Азербайджан - Женщины",
+    "coff": "10.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Азербайджан - Женщины</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>10.50</span></span><div class=\"qbs-NormalBetItem_Market \">Итоговый победитель</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "WIN__P1"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Итоговый победитель - Бельгия - Женщины",
+    "coff": "1.025",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Бельгия - Женщины</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.025</span></span><div class=\"qbs-NormalBetItem_Market \">Итоговый победитель</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "WIN__P2"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Гандикап на матч - Очки - Азербайджан - Женщины (+21.5)",
+    "coff": "1.80",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Азербайджан - Женщины<div class=\"qbs-NormalBetItem_Handicap \">+21.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.80</span></span><div class=\"qbs-NormalBetItem_Market \">Гандикап на матч - Очки</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "SETS_HANDICAP__P1(21.5)"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Гандикап на матч - Очки - Бельгия - Женщины (-21.5)",
+    "coff": "1.90",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Бельгия - Женщины<div class=\"qbs-NormalBetItem_Handicap \">-21.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.90</span></span><div class=\"qbs-NormalBetItem_Market \">Гандикап на матч - Очки</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "SETS_HANDICAP__P2(-21.5)"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Точный счёт сета - Azerbaijan Women to win 3-0",
+    "coff": "41.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Azerbaijan Women to win 3-0</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>41.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт сета\r\n</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "SET_02__CORRECT_SCORE(3:0)"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Точный счёт сета - Azerbaijan Women to win 3-1",
+    "coff": "34.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Azerbaijan Women to win 3-1</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>34.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт сета\r\n</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "SET_02__CORRECT_SCORE(3:1)"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Точный счёт сета - Azerbaijan Women to win 3-2",
+    "coff": "26.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Azerbaijan Women to win 3-2</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>26.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт сета\r\n</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "SET_02__CORRECT_SCORE(3:2)"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Тотал матча Нечет/Чет - Нечет",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Нечет</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал матча Нечет/Чет</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "TOTALS__ODD"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Тотал матча Нечет/Чет - Чет",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Чет</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал матча Нечет/Чет</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "TOTALS__EVEN"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Двойной Результат - Azerbaijan Women to WIN First set and WIN Match",
+    "coff": "19.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Azerbaijan Women to WIN First set and WIN Match</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>19.00</span></span><div class=\"qbs-NormalBetItem_Market \">Двойной Результат</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Двойной Результат - Азербайджан - Женщины выиграет первый сет и проиграет матч",
+    "coff": "6.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Азербайджан - Женщины выиграет первый сет и проиграет матч</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>6.00</span></span><div class=\"qbs-NormalBetItem_Market \">Двойной Результат</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Двойной Результат - Belgium Women to WIN First set and WIN Match",
+    "coff": "1.14",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Belgium Women to WIN First set and WIN Match</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.14</span></span><div class=\"qbs-NormalBetItem_Market \">Двойной Результат</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Двойной Результат - Belgium Women to WIN First set and LOSE Match",
+    "coff": "34.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Belgium Women to WIN First set and LOSE Match</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>34.00</span></span><div class=\"qbs-NormalBetItem_Market \">Двойной Результат</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Команда - Тотал очков - Азербайджан - Женщины Выше (56.5)",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Азербайджан - Женщины Выше<div class=\"qbs-NormalBetItem_Handicap \">56.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Команда - Тотал очков</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "P1__TOTALS__OVER(56.5)"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Команда - Тотал очков - Азербайджан - Женщины Ниже (56.5)",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Азербайджан - Женщины Ниже<div class=\"qbs-NormalBetItem_Handicap \">56.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Команда - Тотал очков</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "P1__TOTALS__UNDER(56.5)"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Команда - Тотал очков - Бельгия - Женщины Выше (75.5)",
+    "coff": "2.20",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Бельгия - Женщины Выше<div class=\"qbs-NormalBetItem_Handicap \">75.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.20</span></span><div class=\"qbs-NormalBetItem_Market \">Команда - Тотал очков</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "P2__TOTALS__OVER(75.5)"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Команда - Тотал очков - Бельгия - Женщины Ниже (75.5)",
+    "coff": "1.61",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Бельгия - Женщины Ниже<div class=\"qbs-NormalBetItem_Handicap \">75.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.61</span></span><div class=\"qbs-NormalBetItem_Market \">Команда - Тотал очков</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "P2__TOTALS__UNDER(75.5)"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Счёт после 2 сетов - Azerbaijan Women 2-0 (After 2 Sets)",
+    "coff": "26.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Azerbaijan Women 2-0 (After 2 Sets)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>26.00</span></span><div class=\"qbs-NormalBetItem_Market \">Счёт после 2 сетов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Счёт после 2 сетов - Belgium Women 2-0 (After 2 Sets)",
+    "coff": "1.25",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Belgium Women 2-0 (After 2 Sets)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.25</span></span><div class=\"qbs-NormalBetItem_Market \">Счёт после 2 сетов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Счёт после 2 сетов - Tie 1-1 (After 2 Sets)",
+    "coff": "3.75",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Tie 1-1 (After 2 Sets)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.75</span></span><div class=\"qbs-NormalBetItem_Market \">Счёт после 2 сетов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Счёт после 3 сетов - Azerbaijan Women 3-0 (After 3 Sets)",
+    "coff": "41.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Azerbaijan Women 3-0 (After 3 Sets)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>41.00</span></span><div class=\"qbs-NormalBetItem_Market \">Счёт после 3 сетов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Счёт после 3 сетов - Azerbaijan Women 2-1 (After 3 Sets)",
+    "coff": "13.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Azerbaijan Women 2-1 (After 3 Sets)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>13.00</span></span><div class=\"qbs-NormalBetItem_Market \">Счёт после 3 сетов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Счёт после 3 сетов - Belgium Women 3-0 (After 3 Sets)",
+    "coff": "1.40",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Belgium Women 3-0 (After 3 Sets)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.40</span></span><div class=\"qbs-NormalBetItem_Market \">Счёт после 3 сетов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Счёт после 3 сетов - Belgium Women 2-1 (After 3 Sets)",
+    "coff": "3.20",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Belgium Women 2-1 (After 3 Sets)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.20</span></span><div class=\"qbs-NormalBetItem_Market \">Счёт после 3 сетов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - победитель - Азербайджан - Женщины",
+    "coff": "5.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Азербайджан - Женщины</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>5.50</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - победитель</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "SET_01__WIN__P1"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Тотал очков 1-го сета - Больше (43.5)",
+    "coff": "1.90",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше<div class=\"qbs-NormalBetItem_Handicap \">43.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.90</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал очков 1-го сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "SET_01__TOTALS__OVER(43.5)"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - гандикап - Азербайджан - Женщины (+6.5)",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Азербайджан - Женщины<div class=\"qbs-NormalBetItem_Handicap \">+6.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - гандикап</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "SET_01__HANDICAP__P1(6.5)"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - победитель - Бельгия - Женщины",
+    "coff": "1.12",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Бельгия - Женщины</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.12</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - победитель</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "SET_01__WIN__P2"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Тотал очков 1-го сета - Меньшe (43.5)",
+    "coff": "1.80",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньшe<div class=\"qbs-NormalBetItem_Handicap \">43.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.80</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал очков 1-го сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "SET_01__TOTALS__UNDER(43.5)"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - гандикап - Бельгия - Женщины (-6.5)",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Бельгия - Женщины<div class=\"qbs-NormalBetItem_Handicap \">-6.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - гандикап</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "SET_01__HANDICAP__P2(-6.5)"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - победный перевес - Azerbaijan Women to win set by 2 points",
+    "coff": "15.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Azerbaijan Women to win set by 2 points</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>15.00</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - победный перевес</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - победный перевес - Azerbaijan Women to win set by 3-4 points",
+    "coff": "17.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Azerbaijan Women to win set by 3-4 points</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>17.00</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - победный перевес</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - победный перевес - Azerbaijan Women to win set by 5-7 points",
+    "coff": "19.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Azerbaijan Women to win set by 5-7 points</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>19.00</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - победный перевес</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - победный перевес - Azerbaijan Women to win set by 8-11 points",
+    "coff": "34.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Azerbaijan Women to win set by 8-11 points</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>34.00</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - победный перевес</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - победный перевес - Azerbaijan Women to win set by 12 or more points",
+    "coff": "126.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Azerbaijan Women to win set by 12 or more points</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>126.00</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - победный перевес</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - победный перевес - Belgium Women to win set by 2 points",
+    "coff": "8.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Belgium Women to win set by 2 points</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>8.00</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - победный перевес</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - победный перевес - Belgium Women to win set by 3-4 points",
+    "coff": "6.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Belgium Women to win set by 3-4 points</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>6.50</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - победный перевес</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - победный перевес - Belgium Women to win set by 5-7 points",
+    "coff": "3.75",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Belgium Women to win set by 5-7 points</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.75</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - победный перевес</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - победный перевес - Belgium Women to win set by 8-11 points",
+    "coff": "3.40",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Belgium Women to win set by 8-11 points</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.40</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - победный перевес</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - победный перевес - Belgium Women to win set by 12 or more points",
+    "coff": "5.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Belgium Women to win set by 12 or more points</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>5.50</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - победный перевес</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - правильный счёт - Азербайджан - Женщины после дополнительных очков",
+    "coff": "29.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Азербайджан - Женщины после дополнительных очков</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>29.00</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - правильный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - правильный счёт - Азербайджан - Женщины 25-23",
+    "coff": "26.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Азербайджан - Женщины 25-23</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>26.00</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - правильный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "SET_01__CORRECT_SCORE(25:23)"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - правильный счёт - Азербайджан - Женщины 25-22",
+    "coff": "29.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Азербайджан - Женщины 25-22</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>29.00</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - правильный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "SET_01__CORRECT_SCORE(25:22)"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - правильный счёт - Азербайджан - Женщины 25-21",
+    "coff": "34.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Азербайджан - Женщины 25-21</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>34.00</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - правильный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "SET_01__CORRECT_SCORE(25:21)"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - правильный счёт - Азербайджан - Женщины 25-20",
+    "coff": "41.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Азербайджан - Женщины 25-20</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>41.00</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - правильный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "SET_01__CORRECT_SCORE(25:20)"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - правильный счёт - Азербайджан - Женщины 25-19",
+    "coff": "41.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Азербайджан - Женщины 25-19</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>41.00</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - правильный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "SET_01__CORRECT_SCORE(25:19)"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - правильный счёт - Азербайджан - Женщины 25-18",
+    "coff": "51.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Азербайджан - Женщины 25-18</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>51.00</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - правильный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "SET_01__CORRECT_SCORE(25:18)"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - правильный счёт - Азербайджан - Женщины 25-17",
+    "coff": "51.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Азербайджан - Женщины 25-17</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>51.00</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - правильный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "SET_01__CORRECT_SCORE(25:17)"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - правильный счёт - Азербайджан - Женщины 25-16",
+    "coff": "81.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Азербайджан - Женщины 25-16</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>81.00</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - правильный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "SET_01__CORRECT_SCORE(25:16)"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - правильный счёт - Азербайджан - Женщины 25-15 или лучше",
+    "coff": "51.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Азербайджан - Женщины 25-15 или лучше</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>51.00</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - правильный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - правильный счёт - Бельгия - Женщины после дополнительных очков",
+    "coff": "15.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Бельгия - Женщины после дополнительных очков</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>15.00</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - правильный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - правильный счёт - Бельгия - Женщины 25-23",
+    "coff": "15.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Бельгия - Женщины 25-23</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>15.00</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - правильный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "SET_01__CORRECT_SCORE(23:25)"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - правильный счёт - Бельгия - Женщины 25-22",
+    "coff": "13.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Бельгия - Женщины 25-22</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>13.00</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - правильный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "SET_01__CORRECT_SCORE(22:25)"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - правильный счёт - Бельгия - Женщины 25-21",
+    "coff": "12.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Бельгия - Женщины 25-21</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>12.00</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - правильный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "SET_01__CORRECT_SCORE(21:25)"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - правильный счёт - Бельгия - Женщины 25-20",
+    "coff": "11.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Бельгия - Женщины 25-20</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>11.00</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - правильный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "SET_01__CORRECT_SCORE(20:25)"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - правильный счёт - Бельгия - Женщины 25-19",
+    "coff": "10.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Бельгия - Женщины 25-19</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>10.00</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - правильный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "SET_01__CORRECT_SCORE(19:25)"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - правильный счёт - Бельгия - Женщины 25-18",
+    "coff": "10.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Бельгия - Женщины 25-18</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>10.00</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - правильный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "SET_01__CORRECT_SCORE(18:25)"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - правильный счёт - Бельгия - Женщины 25-17",
+    "coff": "10.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Бельгия - Женщины 25-17</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>10.00</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - правильный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "SET_01__CORRECT_SCORE(17:25)"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - правильный счёт - Бельгия - Женщины 25-16",
+    "coff": "11.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Бельгия - Женщины 25-16</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>11.00</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - правильный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "SET_01__CORRECT_SCORE(16:25)"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - правильный счёт - Бельгия - Женщины 25-15 или лучше",
+    "coff": "3.40",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Бельгия - Женщины 25-15 или лучше</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.40</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - правильный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет перейдет в дополнительные очки - Да",
+    "coff": "8.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Да</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>8.50</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет перейдет в дополнительные очки</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "SET_01__WILL_BE_OT__YES"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет перейдет в дополнительные очки - Нет",
+    "coff": "1.05",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Нет</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.05</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет перейдет в дополнительные очки</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "SET_01__WILL_BE_OT__NO"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - тотал - Нечет/Чёт - Нечет",
+    "coff": "2.10",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Нечет</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.10</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - тотал - Нечет/Чёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "SET_01__TOTALS__ODD"
+  },
+  {
+    "team1": "Азербайджан - Женщины",
+    "team2": "Бельгия - Женщины",
+    "type": "Первый сет - тотал - Нечет/Чёт - Чет",
+    "coff": "1.66",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Чет</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.66</span></span><div class=\"qbs-NormalBetItem_Market \">Первый сет - тотал - Нечет/Чёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
+    "test": "SET_01__TOTALS__EVEN"
+  }
+]

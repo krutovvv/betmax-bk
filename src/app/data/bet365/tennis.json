@@ -1,0 +1,722 @@
+[
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Победитель матча - Зарина Дияс",
+    "coff": "1.25",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Зарина Дияс</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.25</span></span><div class=\"qbs-NormalBetItem_Market \">Победитель матча</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": "WIN__P1"
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Победитель матча - Сара Эррани",
+    "coff": "4.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сара Эррани</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>4.00</span></span><div class=\"qbs-NormalBetItem_Market \">Победитель матча</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": "WIN__P2"
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Ставки на очки - Сара Эррани (под.) выиграет очко 2 в 21-й игре",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сара Эррани (под.) выиграет очко 2 в 21-й игре</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Ставки на очки</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": "WHO_SCORE__00_02__P2"
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Ставки на очки - Сара Эррани (под.) выиграет очко 3 в 21-й игре",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сара Эррани (под.) выиграет очко 3 в 21-й игре</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Ставки на очки</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": "WHO_SCORE__00_03__P2"
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Ставки на очки - Сара Эррани (под.) выиграет очко 4 в 21-й игре",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сара Эррани (под.) выиграет очко 4 в 21-й игре</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Ставки на очки</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": "WHO_SCORE__00_04__P2"
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Ставки на очки - Зарина Дияс выиграет очко 2 в 21-й игре",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Зарина Дияс выиграет очко 2 в 21-й игре</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Ставки на очки</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": "WHO_SCORE__00_02__P1"
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Ставки на очки - Зарина Дияс выиграет очко 3 в 21-й игре",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Зарина Дияс выиграет очко 3 в 21-й игре</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Ставки на очки</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": "WHO_SCORE__00_03__P1"
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Ставки на очки - Зарина Дияс выиграет очко 4 в 21-й игре",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Зарина Дияс выиграет очко 4 в 21-й игре</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Ставки на очки</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": "WHO_SCORE__00_04__P1"
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующая игра - Сара Эррани (Svr) победит 21-й в гейме",
+    "coff": "1.80",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сара Эррани (Svr) победит 21-й в гейме</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.80</span></span><div class=\"qbs-NormalBetItem_Market \">Следующая игра</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": "GAME__00_21__P2"
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующая игра - Зарина Дияс победит 21-й в гейме",
+    "coff": "1.90",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Зарина Дияс победит 21-й в гейме</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.90</span></span><div class=\"qbs-NormalBetItem_Market \">Следующая игра</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": "GAME__00_21__P1"
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Ровный счёт в следующем гейме - 21-й гейм - Да",
+    "coff": "3.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">21-й гейм - Да</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.00</span></span><div class=\"qbs-NormalBetItem_Market \">Ровный счёт в следующем гейме</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Ровный счёт в следующем гейме - 21-й гейм - Нет",
+    "coff": "1.36",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">21-й гейм - Нет</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.36</span></span><div class=\"qbs-NormalBetItem_Market \">Ровный счёт в следующем гейме</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующий гейм - Счёт - Сара Эррани выиграет 21-й гейм до нуля",
+    "coff": "12.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сара Эррани выиграет 21-й гейм до нуля</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>12.00</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гейм - Счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующий гейм - Счёт - Сара Эррани выиграет 21-й гейм до 15",
+    "coff": "6.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сара Эррани выиграет 21-й гейм до 15</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>6.50</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гейм - Счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующий гейм - Счёт - Сара Эррани выиграет 21-й гейм до 30",
+    "coff": "5.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сара Эррани выиграет 21-й гейм до 30</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>5.50</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гейм - Счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующий гейм - Счёт - Сара Эррани выиграет 21-й гейм до 40",
+    "coff": "5.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сара Эррани выиграет 21-й гейм до 40</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>5.50</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гейм - Счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующий гейм - Счёт - Зарина Дияс выиграет 21-й гейм до нуля",
+    "coff": "13.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Зарина Дияс выиграет 21-й гейм до нуля</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>13.00</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гейм - Счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующий гейм - Счёт - Зарина Дияс выиграет 21-й гейм до 15",
+    "coff": "7.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Зарина Дияс выиграет 21-й гейм до 15</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>7.00</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гейм - Счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующий гейм - Счёт - Зарина Дияс выиграет 21-й гейм до 30",
+    "coff": "5.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Зарина Дияс выиграет 21-й гейм до 30</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>5.50</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гейм - Счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующий гейм - Счёт - Зарина Дияс выиграет 21-й гейм до 40",
+    "coff": "5.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Зарина Дияс выиграет 21-й гейм до 40</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>5.50</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гейм - Счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующий гейм - первое очко - Сара Эррани (Svr) выиграет первое очко в 21-й гейме",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сара Эррани (Svr) выиграет первое очко в 21-й гейме</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гейм - первое очко</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": "WHO_SCORE__00_01__P2"
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующий гейм - первое очко - Зарина Дияс выиграет первое очко в 21-й гейме",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Зарина Дияс выиграет первое очко в 21-й гейме</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гейм - первое очко</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": "WHO_SCORE__00_01__P1"
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующий гейм - Точный счёт после 2 очков - Зарина Дияс будет лидировать 30-0 (Гейм 21)",
+    "coff": "3.60",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Зарина Дияс будет лидировать 30-0 (Гейм 21)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.60</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гейм - Точный счёт после 2 очков</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующий гейм - Точный счёт после 2 очков - 15-15 (Гейм 21)",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">15-15 (Гейм 21)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гейм - Точный счёт после 2 очков</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующий гейм - Точный счёт после 2 очков - Сара Эррани будет лидировать 30-0 (Гейм 21)",
+    "coff": "3.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сара Эррани будет лидировать 30-0 (Гейм 21)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.50</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гейм - Точный счёт после 2 очков</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующий гейм - Точный счёт после 3 очков - Зарина Дияс будет лидировать 30-15 (Гейм 21)",
+    "coff": "2.40",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Зарина Дияс будет лидировать 30-15 (Гейм 21)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.40</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гейм - Точный счёт после 3 очков</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующий гейм - Точный счёт после 3 очков - Зарина Дияс будет лидировать 40-0 (Гейм 21)",
+    "coff": "7.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Зарина Дияс будет лидировать 40-0 (Гейм 21)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>7.00</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гейм - Точный счёт после 3 очков</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующий гейм - Точный счёт после 3 очков - Сара Эррани будет лидировать 30-15 (Гейм 21)",
+    "coff": "2.37",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сара Эррани будет лидировать 30-15 (Гейм 21)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.37</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гейм - Точный счёт после 3 очков</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующий гейм - Точный счёт после 3 очков - Сара Эррани будет лидировать 40-0 (Гейм 21)",
+    "coff": "6.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сара Эррани будет лидировать 40-0 (Гейм 21)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>6.50</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гейм - Точный счёт после 3 очков</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующий гейм - Точный счёт после 4 очков - Зарина Дияс выиграет всухую (Гейм 21)",
+    "coff": "13.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Зарина Дияс выиграет всухую (Гейм 21)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>13.00</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гейм - Точный счёт после 4 очков</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующий гейм - Точный счёт после 4 очков - Зарина Дияс будет лидировать 40-15 (Гейм 21)",
+    "coff": "3.60",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Зарина Дияс будет лидировать 40-15 (Гейм 21)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.60</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гейм - Точный счёт после 4 очков</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующий гейм - Точный счёт после 4 очков - 30-30 (GГейм 21)",
+    "coff": "2.40",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">30-30 (GГейм 21)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.40</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гейм - Точный счёт после 4 очков</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующий гейм - Точный счёт после 4 очков - Сара Эррани выиграет всухую (Гейм 21)",
+    "coff": "12.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сара Эррани выиграет всухую (Гейм 21)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>12.00</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гейм - Точный счёт после 4 очков</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующий гейм - Точный счёт после 4 очков - Сара Эррани будет лидировать 40-15 (Гейм 21)",
+    "coff": "3.40",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сара Эррани будет лидировать 40-15 (Гейм 21)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.40</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гейм - Точный счёт после 4 очков</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующий гейм - Подающий выиграет 0/15 - Сара Эррани (Под.) выиграет (Гейм 21) к 0 или к 15",
+    "coff": "4.33",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сара Эррани (Под.) выиграет (Гейм 21) к 0 или к 15</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>4.33</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гейм - Подающий выиграет 0/15</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующий гейм - Подающий выиграет 0/15 - Любой другой исход (Гейм 21)",
+    "coff": "1.20",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Любой другой исход (Гейм 21)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.20</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гейм - Подающий выиграет 0/15</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующий гейм - Подающий выиграет 0/15/30 - Сара Эррани (Под.) выиграет (Гейм 21) к 0, к 15 или к 30",
+    "coff": "2.62",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сара Эррани (Под.) выиграет (Гейм 21) к 0, к 15 или к 30</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.62</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гейм - Подающий выиграет 0/15/30</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующий гейм - Подающий выиграет 0/15/30 - Любой другой исход (Гейм 21)",
+    "coff": "1.44",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Любой другой исход (Гейм 21)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.44</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гейм - Подающий выиграет 0/15/30</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующий гейм - Тотал очков - 4 очка (Гейм 21)",
+    "coff": "7.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">4 очка (Гейм 21)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>7.00</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гейм - Тотал очков</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующий гейм - Тотал очков - 5 очков (Гейм 21)",
+    "coff": "3.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">5 очков (Гейм 21)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.50</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гейм - Тотал очков</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующий гейм - Тотал очков - 6 очка (Гейм 21)",
+    "coff": "3.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">6 очка (Гейм 21)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.00</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гейм - Тотал очков</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующий гейм - Тотал очков - Больше 6 очков (Гейм 21)",
+    "coff": "3.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше 6 очков (Гейм 21)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.00</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гейм - Тотал очков</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующий гейм - Будет брейк-пойнт - Зарина Дияс выиграет брейк-пойнт - да - Гейм (21)",
+    "coff": "1.61",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Зарина Дияс выиграет брейк-пойнт - да - Гейм (21)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.61</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гейм - Будет брейк-пойнт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующий гейм - Будет брейк-пойнт - Зарина Дияс выиграет брейк-пойнт - нет – Гейм (21)",
+    "coff": "2.20",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Зарина Дияс выиграет брейк-пойнт - нет – Гейм (21)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.20</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гейм - Будет брейк-пойнт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Два следующих гейма - Счёт 40-40 в любом из них - Да (Геймы 21-22)",
+    "coff": "1.80",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Да (Геймы 21-22)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.80</span></span><div class=\"qbs-NormalBetItem_Market \">Два следующих гейма - Счёт 40-40 в любом из них</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Два следующих гейма - Счёт 40-40 в любом из них - Нет (Геймы 21-22)",
+    "coff": "1.90",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Нет (Геймы 21-22)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.90</span></span><div class=\"qbs-NormalBetItem_Market \">Два следующих гейма - Счёт 40-40 в любом из них</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующие два гейма - Победитель - Зарина Дияс (Геймы 21-22)",
+    "coff": "3.40",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Зарина Дияс (Геймы 21-22)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.40</span></span><div class=\"qbs-NormalBetItem_Market \">Следующие два гейма - Победитель</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующие два гейма - Победитель - Сара Эррани (Геймы 21-22)",
+    "coff": "3.75",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сара Эррани (Геймы 21-22)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.75</span></span><div class=\"qbs-NormalBetItem_Market \">Следующие два гейма - Победитель</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующие два гейма - Победитель - Ничья (Геймы 21-22)",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Ничья (Геймы 21-22)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Следующие два гейма - Победитель</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующий выигрыш подачи соперника - Зарина Дияс Сделает следующий прорыв",
+    "coff": "1.40",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Зарина Дияс Сделает следующий прорыв</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.40</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий выигрыш подачи соперника</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Следующий выигрыш подачи соперника - Сара Эррани Сделает следующий прорыв",
+    "coff": "2.75",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сара Эррани Сделает следующий прорыв </div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.75</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий выигрыш подачи соперника</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Текущий сет - Гонка до 4 геймов - 3-й сет - Зарина Дияс",
+    "coff": "1.11",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">3-й сет - Зарина Дияс</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.11</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - Гонка до 4 геймов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Текущий сет - Гонка до 5 геймов - 3-й сет - Зарина Дияс",
+    "coff": "1.18",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">3-й сет - Зарина Дияс</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.18</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - Гонка до 5 геймов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Текущий сет - Гонка до 4 геймов - 3-й сет - Сара Эррани",
+    "coff": "6.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">3-й сет - Сара Эррани</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>6.50</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - Гонка до 4 геймов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Текущий сет - Гонка до 5 геймов - 3-й сет - Сара Эррани",
+    "coff": "4.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">3-й сет - Сара Эррани</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>4.50</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - Гонка до 5 геймов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Текущий сет - Преимущество после 6 геймов - Зарина Дияс - (Сет 3)",
+    "coff": "1.25",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Зарина Дияс - (Сет 3)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.25</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - Преимущество после 6 геймов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Текущий сет - Преимущество после 6 геймов - Ничья - (Сет 3)",
+    "coff": "3.75",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Ничья - (Сет 3)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.75</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - Преимущество после 6 геймов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Текущий сет - Результат после 6 геймов - Зарина Дияс будет лидировать 4-2 (Сет 3)",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Зарина Дияс будет лидировать 4-2 (Сет 3)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - Результат после 6 геймов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Текущий сет - Результат после 6 геймов - Зарина Дияс будет лидировать 5-1 (Сет 3)",
+    "coff": "3.40",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Зарина Дияс будет лидировать 5-1 (Сет 3)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.40</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - Результат после 6 геймов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Текущий сет - Результат после 6 геймов - 3-3 (Сет 3)",
+    "coff": "3.75",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">3-3 (Сет 3)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.75</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - Результат после 6 геймов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Текущий сет - Точный счёт - Групповая ставка - Зарина Дияс выиграет 6-0, 6-1 или 6-2 (Сет 3)",
+    "coff": "2.75",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Зарина Дияс выиграет 6-0, 6-1 или 6-2 (Сет 3)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.75</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - Точный счёт - Групповая ставка</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Текущий сет - Точный счёт - Групповая ставка - Зарина Дияс выиграет 6-3 или 6-4 (Сет 3)",
+    "coff": "2.62",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Зарина Дияс выиграет 6-3 или 6-4 (Сет 3)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.62</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - Точный счёт - Групповая ставка</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Текущий сет - Точный счёт - Групповая ставка - Зарина Дияс выиграет 7-5 или 7-6 (Сет 3)",
+    "coff": "7.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Зарина Дияс выиграет 7-5 или 7-6 (Сет 3)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>7.50</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - Точный счёт - Групповая ставка</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Текущий сет - Точный счёт - Групповая ставка - Сара Эррани выиграет 6-3 или 6-4 (Сет 3)",
+    "coff": "7.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сара Эррани выиграет 6-3 или 6-4 (Сет 3)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>7.00</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - Точный счёт - Групповая ставка</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Текущий сет - Точный счёт - Групповая ставка - Сара Эррани выиграет 7-5 или 7-6 (Сет 3)",
+    "coff": "7.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сара Эррани выиграет 7-5 или 7-6 (Сет 3)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>7.50</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - Точный счёт - Групповая ставка</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Кол-во геймов в текущем сете - Больше 7,5 игр в сете 3",
+    "coff": "1.11",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше 7,5 игр в сете 3<div class=\"qbs-NormalBetItem_Handicap \"></div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.11</span></span><div class=\"qbs-NormalBetItem_Market \">Кол-во геймов в текущем сете</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": "SET_03__TOTALS__OVER(7.5)"
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Кол-во геймов в текущем сете - Больше 8,5 игр в сете 3",
+    "coff": "1.40",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше 8,5 игр в сете 3<div class=\"qbs-NormalBetItem_Handicap \"></div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.40</span></span><div class=\"qbs-NormalBetItem_Market \">Кол-во геймов в текущем сете</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": "SET_03__TOTALS__OVER(8.5)"
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Кол-во геймов в текущем сете - Больше 9,5 игр в сете 3",
+    "coff": "2.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше 9,5 игр в сете 3<div class=\"qbs-NormalBetItem_Handicap \"></div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.00</span></span><div class=\"qbs-NormalBetItem_Market \">Кол-во геймов в текущем сете</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": "SET_03__TOTALS__OVER(9.5)"
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Кол-во геймов в текущем сете - Больше 10,5 игр в сете 3",
+    "coff": "4.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше 10,5 игр в сете 3<div class=\"qbs-NormalBetItem_Handicap \"></div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>4.00</span></span><div class=\"qbs-NormalBetItem_Market \">Кол-во геймов в текущем сете</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": "SET_03__TOTALS__OVER(10.5)"
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Кол-во геймов в текущем сете - Больше 12,5 игр в сете 3",
+    "coff": "8.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше 12,5 игр в сете 3<div class=\"qbs-NormalBetItem_Handicap \"></div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>8.00</span></span><div class=\"qbs-NormalBetItem_Market \">Кол-во геймов в текущем сете</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": "SET_03__TOTALS__OVER(12.5)"
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Кол-во геймов в текущем сете - Меньше 7,5 игр в сете 3",
+    "coff": "6.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньше 7,5 игр в сете 3<div class=\"qbs-NormalBetItem_Handicap \"></div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>6.50</span></span><div class=\"qbs-NormalBetItem_Market \">Кол-во геймов в текущем сете</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": "SET_03__TOTALS__UNDER(7.5)"
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Кол-во геймов в текущем сете - Меньше 8,5 игр в сете 3",
+    "coff": "2.75",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньше 8,5 игр в сете 3<div class=\"qbs-NormalBetItem_Handicap \"></div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.75</span></span><div class=\"qbs-NormalBetItem_Market \">Кол-во геймов в текущем сете</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": "SET_03__TOTALS__UNDER(8.5)"
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Кол-во геймов в текущем сете - Меньше 9,5 игр в сете 3",
+    "coff": "1.72",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньше 9,5 игр в сете 3<div class=\"qbs-NormalBetItem_Handicap \"></div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.72</span></span><div class=\"qbs-NormalBetItem_Market \">Кол-во геймов в текущем сете</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": "SET_03__TOTALS__UNDER(9.5)"
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Кол-во геймов в текущем сете - Меньше 10,5 игр в сете 3",
+    "coff": "1.22",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньше 10,5 игр в сете 3<div class=\"qbs-NormalBetItem_Handicap \"></div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.22</span></span><div class=\"qbs-NormalBetItem_Market \">Кол-во геймов в текущем сете</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": "SET_03__TOTALS__UNDER(10.5)"
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Кол-во геймов в текущем сете - Меньше 12,5 игр в сете 3",
+    "coff": "1.083",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньше 12,5 игр в сете 3<div class=\"qbs-NormalBetItem_Handicap \"></div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.083</span></span><div class=\"qbs-NormalBetItem_Market \">Кол-во геймов в текущем сете</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": "SET_03__TOTALS__UNDER(12.5)"
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Текущий сет - Счёт любого игрока - 6-1 (Сет 3)",
+    "coff": "6.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">6-1 (Сет 3)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>6.50</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - Счёт любого игрока</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Текущий сет - Счёт любого игрока - 6-2 (Сет 3)",
+    "coff": "4.33",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">6-2 (Сет 3)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>4.33</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - Счёт любого игрока</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Текущий сет - Счёт любого игрока - 6-3 (Сет 3)",
+    "coff": "4.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">6-3 (Сет 3)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>4.00</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - Счёт любого игрока</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Текущий сет - Счёт любого игрока - 6-4 (Сет 3)",
+    "coff": "3.75",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">6-4 (Сет 3)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.75</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - Счёт любого игрока</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Текущий сет - Счёт любого игрока - 7-5 (Сет 3)",
+    "coff": "7.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">7-5 (Сет 3)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>7.00</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - Счёт любого игрока</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Текущий сет - Счёт любого игрока - 7-6 (Сет 3)",
+    "coff": "8.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">7-6 (Сет 3)</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>8.00</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - Счёт любого игрока</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Текущий сет - счёт - Зарина Дияс победит 3-й в сете 6-1",
+    "coff": "6.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Зарина Дияс победит 3-й в сете 6-1</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>6.50</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": "SET_03__CORRECT_SCORE(6:1)"
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Текущий сет - счёт - Зарина Дияс победит 3-й в сете 6-2",
+    "coff": "4.33",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Зарина Дияс победит 3-й в сете 6-2</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>4.33</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": "SET_03__CORRECT_SCORE(6:2)"
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Текущий сет - счёт - Зарина Дияс победит 3-й в сете 6-3",
+    "coff": "4.75",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Зарина Дияс победит 3-й в сете 6-3</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>4.75</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": "SET_03__CORRECT_SCORE(6:3)"
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Текущий сет - счёт - Зарина Дияс победит 3-й в сете 6-4",
+    "coff": "5.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Зарина Дияс победит 3-й в сете 6-4</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>5.00</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": "SET_03__CORRECT_SCORE(6:4)"
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Текущий сет - счёт - Зарина Дияс победит 3-й в сете 7-5",
+    "coff": "13.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Зарина Дияс победит 3-й в сете 7-5</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>13.00</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": "SET_03__CORRECT_SCORE(7:5)"
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Текущий сет - счёт - Зарина Дияс победит 3-й в сете 7-6",
+    "coff": "15.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Зарина Дияс победит 3-й в сете 7-6</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>15.00</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": "SET_03__CORRECT_SCORE(7:6)"
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Текущий сет - счёт - Сара Эррани победит 3-й в сете 6-3",
+    "coff": "19.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сара Эррани победит 3-й в сете 6-3</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>19.00</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": "SET_03__CORRECT_SCORE(3:6)"
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Текущий сет - счёт - Сара Эррани победит 3-й в сете 6-4",
+    "coff": "10.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сара Эррани победит 3-й в сете 6-4</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>10.00</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": "SET_03__CORRECT_SCORE(4:6)"
+  },
+  {
+    "team1": "Зарина Дияс",
+    "team2": "Сара Эррани",
+    "type": "Текущий сет - счёт - Сара Эррани победит 3-й в сете 7-5",
+    "coff": "13.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сара Эррани победит 3-й в сете 7-5</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>13.00</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
+    "test": "SET_03__CORRECT_SCORE(5:7)"
+  }
+]

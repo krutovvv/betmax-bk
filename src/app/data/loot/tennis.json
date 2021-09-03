@@ -101,7 +101,7 @@
     "type": "Будет тай-брейк. Сет 2 - Да",
     "coff": "5.94",
     "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/tennis/fernandez-canovas-andres-vs-emesz-benedikt-8663511/bets\">Фернандес Кановас Андрес vs Эмеш Бенедикт</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/tennis/fernandez-canovas-andres-vs-emesz-benedikt-8663511/bets\">Будет тай-брейк. Сет 2 - Да</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _108\"><span class=\"outcome__number\">5.94</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53e70291db81699bf8840\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
-    "test": ""
+    "test": "SET_02__WILL_BE_OT__YES"
   },
   {
     "team1": "Фернандес Кановас Андрес",
@@ -109,6 +109,294 @@
     "type": "Будет тай-брейк. Сет 2 - Нет",
     "coff": "1.09",
     "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/tennis/fernandez-canovas-andres-vs-emesz-benedikt-8663511/bets\">Фернандес Кановас Андрес vs Эмеш Бенедикт</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/tennis/fernandez-canovas-andres-vs-emesz-benedikt-8663511/bets\">Будет тай-брейк. Сет 2 - Нет</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _109\"><span class=\"outcome__number\">1.09</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53e70291db86e22bf8841\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
-    "test": ""
+    "test": "SET_02__WILL_BE_OT__NO"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Результат матча - Азов Юрий",
+    "coff": "1.26",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Результат матча - Азов Юрий</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _101\"><span class=\"outcome__number\">1.26</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"6103741134e620e8b4070cb8\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "WIN__P1"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Результат матча - Собко Олег",
+    "coff": "3.41",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Результат матча - Собко Олег</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _103\"><span class=\"outcome__number\">3.41</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"6103741134e620e675070cb9\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "WIN__P2"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Победитель. Сет 1 - Азов Юрий",
+    "coff": "1.11",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Победитель. Сет 1 - Азов Юрий</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _101\"><span class=\"outcome__number\">1.11</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"6103741134e6204168070c72\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_01__WIN__P1"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Победитель. Сет 1 - Собко Олег",
+    "coff": "5.19",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Победитель. Сет 1 - Собко Олег</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _103\"><span class=\"outcome__number\">5.19</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"6103741134e620278c070c73\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_01__WIN__P2"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Победитель. Сет 2 - Азов Юрий",
+    "coff": "1.43",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Победитель. Сет 2 - Азов Юрий</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _101\"><span class=\"outcome__number\">1.43</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"6103741134e6201dbd070c6d\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_02__WIN__P1"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Победитель. Сет 2 - Собко Олег",
+    "coff": "2.57",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Победитель. Сет 2 - Собко Олег</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _103\"><span class=\"outcome__number\">2.57</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"6103741134e620270b070c6e\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_02__WIN__P2"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Фора - Азов Юрий -5.5",
+    "coff": "2.10",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Фора - Азов Юрий -5.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _101\"><span class=\"outcome__number\">2.10</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"61037eb8f5d7737dbc8b5e6a\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "HANDICAP__P1(-5.5)"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Фора - Собко Олег +5.5",
+    "coff": "1.60",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Фора - Собко Олег +5.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _103\"><span class=\"outcome__number\">1.60</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"61037eb8f5d7736d378b5e6b\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "HANDICAP__P2(5.5)"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Фора - Азов Юрий -4.5",
+    "coff": "1.71",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Фора - Азов Юрий -4.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _101\"><span class=\"outcome__number\">1.71</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"61037e9b34e620d5b408246e\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "HANDICAP__P1(-4.5)"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Фора - Собко Олег +4.5",
+    "coff": "1.92",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Фора - Собко Олег +4.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _103\"><span class=\"outcome__number\">1.92</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"61037e9b34e620404c08246f\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "HANDICAP__P2(4.5)"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Фора - Азов Юрий -3.5",
+    "coff": "1.52",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Фора - Азов Юрий -3.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _101\"><span class=\"outcome__number\">1.52</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"61037e2b34e620382b081a02\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "HANDICAP__P1(-3.5)"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Фора - Собко Олег +3.5",
+    "coff": "2.26",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Фора - Собко Олег +3.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _103\"><span class=\"outcome__number\">2.26</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"61037e2b34e6202582081a03\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "HANDICAP__P2(3.5)"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Фора. Сет 1 - Азов Юрий -3.5",
+    "coff": "1.81",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Фора. Сет 1 - Азов Юрий -3.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _101\"><span class=\"outcome__number\">1.81</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"61037e9b34e620353c082473\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_01__HANDICAP__P1(-3.5)"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Фора. Сет 1 - Собко Олег +3.5",
+    "coff": "1.75",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Фора. Сет 1 - Собко Олег +3.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _103\"><span class=\"outcome__number\">1.75</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"61037e9b34e620cd85082474\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_01__HANDICAP__P2(3.5)"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Фора. Сет 2 - Азов Юрий -2.5",
+    "coff": "2.41",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Фора. Сет 2 - Азов Юрий -2.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _101\"><span class=\"outcome__number\">2.41</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"61037eb7f5d77316798b5e41\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_02__HANDICAP__P1(-2.5)"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Фора. Сет 2 - Собко Олег +2.5",
+    "coff": "1.41",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Фора. Сет 2 - Собко Олег +2.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _103\"><span class=\"outcome__number\">1.41</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"61037eb7f5d7738a788b5e42\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_02__HANDICAP__P2(2.5)"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Фора. Сет 2 - Азов Юрий -1.5",
+    "coff": "1.56",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Фора. Сет 2 - Азов Юрий -1.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _101\"><span class=\"outcome__number\">1.56</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"6103741134e620aa1d070c81\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_02__HANDICAP__P1(-1.5)"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Фора. Сет 2 - Собко Олег +1.5",
+    "coff": "2.08",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Фора. Сет 2 - Собко Олег +1.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _103\"><span class=\"outcome__number\">2.08</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"6103741134e620bc22070c82\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_02__HANDICAP__P2(1.5)"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Тотал - Больше 17.5",
+    "coff": "1.43",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Тотал - Больше 17.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _104\"><span class=\"outcome__number\">1.43</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"61037ea834e620f061082516\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "TOTALS__OVER(17.5)"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Тотал - Меньше 17.5",
+    "coff": "2.52",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Тотал - Меньше 17.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _105\"><span class=\"outcome__number\">2.52</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"61037ea834e62024ad082517\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "TOTALS__UNDER(17.5)"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Тотал - Больше 18.5",
+    "coff": "1.88",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Тотал - Больше 18.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _104\"><span class=\"outcome__number\">1.88</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"6103741134e620ecb9070c90\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "TOTALS__OVER(18.5)"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Тотал - Меньше 18.5",
+    "coff": "1.78",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Тотал - Меньше 18.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _105\"><span class=\"outcome__number\">1.78</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"6103741134e6203ac6070c91\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "TOTALS__UNDER(18.5)"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Тотал - Больше 19.5",
+    "coff": "2.29",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Тотал - Больше 19.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _104\"><span class=\"outcome__number\">2.29</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"6103741134e6205d4f070c95\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "TOTALS__OVER(19.5)"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Тотал - Меньше 19.5",
+    "coff": "1.53",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Тотал - Меньше 19.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _105\"><span class=\"outcome__number\">1.53</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"6103741134e6202a1e070c96\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "TOTALS__UNDER(19.5)"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Тотал. Сет 1 - Больше 7.5",
+    "coff": "1.26",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Тотал. Сет 1 - Больше 7.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _104\"><span class=\"outcome__number\">1.26</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"61037e9b34e6203d6d082478\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_01__TOTALS__OVER(7.5)"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Тотал. Сет 1 - Меньше 7.5",
+    "coff": "2.98",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Тотал. Сет 1 - Меньше 7.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _105\"><span class=\"outcome__number\">2.98</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"61037e9b34e6202932082479\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_01__TOTALS__UNDER(7.5)"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Тотал. Сет 1 - Больше 8.5",
+    "coff": "1.51",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Тотал. Сет 1 - Больше 8.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _104\"><span class=\"outcome__number\">1.51</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"6103741134e620e8aa070ca9\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_01__TOTALS__OVER(8.5)"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Тотал. Сет 1 - Меньше 8.5",
+    "coff": "2.17",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Тотал. Сет 1 - Меньше 8.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _105\"><span class=\"outcome__number\">2.17</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"6103741134e62087a5070caa\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_01__TOTALS__UNDER(8.5)"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Тотал. Сет 1 - Больше 9.5",
+    "coff": "2.55",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Тотал. Сет 1 - Больше 9.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _104\"><span class=\"outcome__number\">2.55</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"6103741134e62054c6070c9a\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_01__TOTALS__OVER(9.5)"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Тотал. Сет 1 - Меньше 9.5",
+    "coff": "1.37",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Тотал. Сет 1 - Меньше 9.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _105\"><span class=\"outcome__number\">1.37</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"6103741134e6207a5b070c9b\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_01__TOTALS__UNDER(9.5)"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Тотал. Сет 2 - Больше 8.5",
+    "coff": "1.39",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Тотал. Сет 2 - Больше 8.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _104\"><span class=\"outcome__number\">1.39</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"6103741134e6207d51070cb3\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_02__TOTALS__OVER(8.5)"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Тотал. Сет 2 - Меньше 8.5",
+    "coff": "2.50",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Тотал. Сет 2 - Меньше 8.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _105\"><span class=\"outcome__number\">2.50</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"6103741134e6206ee5070cb4\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_02__TOTALS__UNDER(8.5)"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Тотал. Сет 2 - Больше 9.5",
+    "coff": "1.85",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Тотал. Сет 2 - Больше 9.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _104\"><span class=\"outcome__number\">1.85</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"6103741134e620c755070cae\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_02__TOTALS__OVER(9.5)"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Тотал. Сет 2 - Меньше 9.5",
+    "coff": "1.70",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Тотал. Сет 2 - Меньше 9.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _105\"><span class=\"outcome__number\">1.70</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"6103741134e6203fba070caf\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_02__TOTALS__UNDER(9.5)"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Тотал. Сет 2 - Больше 10.5",
+    "coff": "3.42",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Тотал. Сет 2 - Больше 10.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _104\"><span class=\"outcome__number\">3.42</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"6103741134e620138f070c9f\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_02__TOTALS__OVER(10.5)"
+  },
+  {
+    "team1": "Азов Юрий",
+    "team2": "Собко Олег",
+    "type": "Тотал. Сет 2 - Меньше 10.5",
+    "coff": "1.20",
+    "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _tennis\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Азов Юрий vs Собко Олег</a></div><a aria-current=\"page\" class=\"bets__item-name active\" tabindex=\"-1\" href=\"/tennis/azov-yuriy-vs-sobko-oleg-8793444/bets\">Тотал. Сет 2 - Меньше 10.5</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _105\"><span class=\"outcome__number\">1.20</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"6103741134e620fa1c070ca0\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
+    "test": "SET_02__TOTALS__UNDER(10.5)"
   }
 ]

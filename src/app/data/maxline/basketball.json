@@ -749,7 +749,7 @@
     "type": "Гонка до 5 очков: Финикс Санз",
     "coff": "1.74",
     "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Гонка до 5 очков: Финикс Санз</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.74<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
-    "test": "FIRST_TO_SCORE__P1(5)"
+    "test": "FIRST_TO_SCORE_3W__P1(5)"
   },
   {
     "team1": "Финикс Санз",
@@ -757,7 +757,7 @@
     "type": "Гонка до 5 очков: Лос-Анджелес Клипперс",
     "coff": "2.05",
     "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Гонка до 5 очков: Лос-Анджелес Клипперс</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.05<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
-    "test": "FIRST_TO_SCORE__P2(5)"
+    "test": "FIRST_TO_SCORE_3W__P2(5)"
   },
   {
     "team1": "Финикс Санз",
@@ -765,7 +765,7 @@
     "type": "Гонка до 10 очков: Финикс Санз",
     "coff": "1.7",
     "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Гонка до 10 очков: Финикс Санз</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.7<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
-    "test": "FIRST_TO_SCORE__P1(10)"
+    "test": "FIRST_TO_SCORE_3W__P1(10)"
   },
   {
     "team1": "Финикс Санз",
@@ -773,7 +773,7 @@
     "type": "Гонка до 10 очков: Лос-Анджелес Клипперс",
     "coff": "2.1",
     "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Гонка до 10 очков: Лос-Анджелес Клипперс</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.1<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
-    "test": "FIRST_TO_SCORE__P2(10)"
+    "test": "FIRST_TO_SCORE_3W__P2(10)"
   },
   {
     "team1": "Финикс Санз",
@@ -781,7 +781,7 @@
     "type": "Гонка до 20 очков: Финикс Санз",
     "coff": "1.66",
     "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Гонка до 20 очков: Финикс Санз</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.66<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
-    "test": "FIRST_TO_SCORE__P1(20)"
+    "test": "FIRST_TO_SCORE_3W__P1(20)"
   },
   {
     "team1": "Финикс Санз",
@@ -789,7 +789,7 @@
     "type": "Гонка до 20 очков: Лос-Анджелес Клипперс",
     "coff": "2.17",
     "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Гонка до 20 очков: Лос-Анджелес Клипперс</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.17<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
-    "test": "FIRST_TO_SCORE__P2(20)"
+    "test": "FIRST_TO_SCORE_3W__P2(20)"
   },
   {
     "team1": "Финикс Санз",
@@ -797,7 +797,7 @@
     "type": "Гонка до 30 очков: Финикс Санз",
     "coff": "1.61",
     "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Гонка до 30 очков: Финикс Санз</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.61<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
-    "test": "FIRST_TO_SCORE__P1(30)"
+    "test": "FIRST_TO_SCORE_3W__P1(30)"
   },
   {
     "team1": "Финикс Санз",
@@ -805,7 +805,7 @@
     "type": "Гонка до 30 очков: Лос-Анджелес Клипперс",
     "coff": "2.25",
     "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Гонка до 30 очков: Лос-Анджелес Клипперс</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.25<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
-    "test": "FIRST_TO_SCORE__P2(30)"
+    "test": "FIRST_TO_SCORE_3W__P2(30)"
   },
   {
     "team1": "Финикс Санз",
@@ -813,7 +813,7 @@
     "type": "Гонка до 40 очков: Финикс Санз",
     "coff": "1.58",
     "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Гонка до 40 очков: Финикс Санз</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.58<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
-    "test": "FIRST_TO_SCORE__P1(40)"
+    "test": "FIRST_TO_SCORE_3W__P1(40)"
   },
   {
     "team1": "Финикс Санз",
@@ -821,7 +821,7 @@
     "type": "Гонка до 40 очков: Лос-Анджелес Клипперс",
     "coff": "2.33",
     "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Гонка до 40 очков: Лос-Анджелес Клипперс</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.33<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
-    "test": "FIRST_TO_SCORE__P2(40)"
+    "test": "FIRST_TO_SCORE_3W__P2(40)"
   },
   {
     "team1": "Финикс Санз",
@@ -829,7 +829,7 @@
     "type": "Гонка до 50 очков: Финикс Санз",
     "coff": "1.55",
     "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Гонка до 50 очков: Финикс Санз</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->1.55<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
-    "test": "FIRST_TO_SCORE__P1(50)"
+    "test": "FIRST_TO_SCORE_3W__P1(50)"
   },
   {
     "team1": "Финикс Санз",
@@ -837,7 +837,7 @@
     "type": "Гонка до 50 очков: Лос-Анджелес Клипперс",
     "coff": "2.4",
     "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Гонка до 50 очков: Лос-Анджелес Клипперс</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->2.4<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
-    "test": "FIRST_TO_SCORE__P2(50)"
+    "test": "FIRST_TO_SCORE_3W__P2(50)"
   },
   {
     "team1": "Финикс Санз",
@@ -1061,7 +1061,7 @@
     "type": "Выиграет все четверти: Финикс Санз: Да",
     "coff": "12",
     "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Выиграет все четверти: Финикс Санз: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->12<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
-    "test": ""
+    "test": "CLEAN_SHEET__P1__YES"
   },
   {
     "team1": "Финикс Санз",
@@ -1069,7 +1069,7 @@
     "type": "Выиграет все четверти: Лос-Анджелес Клипперс: Да",
     "coff": "33",
     "html": "<div class=\"eventName\">Финикс Санз - Лос-Анджелес Клипперс</div><div class=\"labels\"><div class=\"betName\">Выиграет все четверти: Лос-Анджелес Клипперс: Да</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 3411 -->33<!-- /react-text --><!-- react-text: 3412 --> <!-- /react-text --></div></div>",
-    "test": ""
+    "test": "CLEAN_SHEET__P2__YES"
   },
   {
     "team1": "Финикс Санз",

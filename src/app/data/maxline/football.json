@@ -45,7 +45,7 @@
     "type": "Победа 2-й команды или ничья",
     "coff": "2.55",
     "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">Победа 2-й команды или ничья</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->2.55<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
-    "test": "WIN__2X"
+    "test": "WIN__X2"
   },
   {
     "team1": "Италия",
@@ -125,7 +125,7 @@
     "type": "1-й тайм: Победа 2-й команды или ничья",
     "coff": "1.64",
     "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">1-й тайм: Победа 2-й команды или ничья</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.64<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
-    "test": "HALF_01__WIN__2X"
+    "test": "HALF_01__WIN__X2"
   },
   {
     "team1": "Италия",
@@ -205,7 +205,7 @@
     "type": "2-й тайм: Победа 2-й команды или ничья",
     "coff": "1.84",
     "html": "<li class=\"\"><div class=\"eventName\">Италия - Уэльс</div><div class=\"labels\"><div class=\"betName\">2-й тайм: Победа 2-й команды или ничья</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 22625 -->1.84<!-- /react-text --><!-- react-text: 22626 --> <!-- /react-text --></div></div></li>",
-    "test": "HALF_02__WIN__2X"
+    "test": "HALF_02__WIN__X2"
   },
   {
     "team1": "Италия",

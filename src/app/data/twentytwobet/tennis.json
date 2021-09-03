@@ -5,7 +5,7 @@
     "type": "1X2 1-й Сет П1",
     "coff": "1.048",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">1X2 1-й Сет П1</span> <span class=\"bet coef-change\"><span>\n                    1.048\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SET_01__WIN__P1"
   },
   {
     "team1": "Диана Старовойтова",
@@ -13,7 +13,7 @@
     "type": "1X2 1-й Сет П2",
     "coff": "8.36",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">1X2 1-й Сет П2</span> <span class=\"bet coef-change gc_lite\"><span>\n                    8.36\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SET_01__WIN__P2"
   },
   {
     "team1": "Диана Старовойтова",
@@ -21,7 +21,7 @@
     "type": "Фора 1-й Сет 1 -3.5",
     "coff": "3.24",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">Фора 1-й Сет 1 -3.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    3.24\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SET_01__HANDICAP__P1(-3.5)"
   },
   {
     "team1": "Диана Старовойтова",
@@ -29,7 +29,7 @@
     "type": "Фора 1-й Сет 2 3.5",
     "coff": "1.296",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">Фора 1-й Сет 2 3.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.296\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SET_01__HANDICAP__P1(3.5)"
   },
   {
     "team1": "Диана Старовойтова",
@@ -37,7 +37,7 @@
     "type": "Фора 1-й Сет 1 -2.5",
     "coff": "1.45",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">Фора 1-й Сет 1 -2.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.45\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SET_01__HANDICAP__P1(-2.5)"
   },
   {
     "team1": "Диана Старовойтова",
@@ -45,7 +45,7 @@
     "type": "Фора 1-й Сет 2 2.5",
     "coff": "2.59",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">Фора 1-й Сет 2 2.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.59\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SET_01__HANDICAP__P1(2.5)"
   },
   {
     "team1": "Диана Старовойтова",
@@ -53,7 +53,7 @@
     "type": "Фора 1-й Сет 1 -1.5",
     "coff": "1.115",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">Фора 1-й Сет 1 -1.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.115\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SET_01__HANDICAP__P1(-1.5)"
   },
   {
     "team1": "Диана Старовойтова",
@@ -61,7 +61,7 @@
     "type": "Фора 1-й Сет 2 1.5",
     "coff": "5.43",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">Фора 1-й Сет 2 1.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    5.43\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SET_01__HANDICAP__P1(1.5)"
   },
   {
     "team1": "Диана Старовойтова",
@@ -293,7 +293,7 @@
     "type": "Тотал 1-й Сет 8.5 Б",
     "coff": "1.66",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">Тотал 1-й Сет 8.5 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.66\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SET_01__TOTALS__OVER(8.5)"
   },
   {
     "team1": "Диана Старовойтова",
@@ -301,7 +301,7 @@
     "type": "Тотал 1-й Сет 8.5 М",
     "coff": "2.115",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">Тотал 1-й Сет 8.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    2.115\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SET_01__TOTALS__UNDER(8.5)"
   },
   {
     "team1": "Диана Старовойтова",
@@ -309,7 +309,7 @@
     "type": "Тотал 1-й Сет 9.5 Б",
     "coff": "5.24",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">Тотал 1-й Сет 9.5 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    5.24\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SET_01__TOTALS__OVER(9.5)"
   },
   {
     "team1": "Диана Старовойтова",
@@ -317,7 +317,7 @@
     "type": "Тотал 1-й Сет 9.5 М",
     "coff": "1.125",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">Тотал 1-й Сет 9.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.125\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SET_01__TOTALS__UNDER(9.5)"
   },
   {
     "team1": "Диана Старовойтова",
@@ -325,7 +325,7 @@
     "type": "Тотал 1-й Сет 10.5 Б",
     "coff": "9.35",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">Тотал 1-й Сет 10.5 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    9.35\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SET_01__TOTALS__OVER(10.5)"
   },
   {
     "team1": "Диана Старовойтова",
@@ -333,7 +333,7 @@
     "type": "Тотал 1-й Сет 10.5 М",
     "coff": "1.025",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">Тотал 1-й Сет 10.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.025\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SET_01__TOTALS__UNDER(10.5)"
   },
   {
     "team1": "Диана Старовойтова",
@@ -341,7 +341,7 @@
     "type": "Тотал 1-й Сет 12.5 Б",
     "coff": "9.13",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">Тотал 1-й Сет 12.5 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    9.13\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SET_01__TOTALS__OVER(12.5)"
   },
   {
     "team1": "Диана Старовойтова",
@@ -349,7 +349,7 @@
     "type": "Тотал 1-й Сет 12.5 М",
     "coff": "1.03",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">Тотал 1-й Сет 12.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.03\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SET_01__TOTALS__UNDER(12.5)"
   },
   {
     "team1": "Диана Старовойтова",
@@ -357,7 +357,7 @@
     "type": "Индивидуальный тотал 2-го 1-й Сет 2.5 Б",
     "coff": "1.65",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 2-го 1-й Сет 2.5 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.65\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SET_01__P2__TOTALS__OVER(2.5)"
   },
   {
     "team1": "Диана Старовойтова",
@@ -365,7 +365,7 @@
     "type": "Индивидуальный тотал 2-го 1-й Сет 2.5 М",
     "coff": "2.104",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 2-го 1-й Сет 2.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    2.104\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SET_01__P2__TOTALS__UNDER(2.5)"
   },
   {
     "team1": "Диана Старовойтова",
@@ -373,7 +373,7 @@
     "type": "Индивидуальный тотал 2-го 1-й Сет 3.5 Б",
     "coff": "2.575",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 2-го 1-й Сет 3.5 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.575\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SET_01__P2__TOTALS__OVER(3.5)"
   },
   {
     "team1": "Диана Старовойтова",
@@ -381,7 +381,7 @@
     "type": "Индивидуальный тотал 2-го 1-й Сет 3.5 М",
     "coff": "1.125",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 2-го 1-й Сет 3.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.125\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SET_01__P2__TOTALS__UNDER(3.5)"
   },
   {
     "team1": "Диана Старовойтова",
@@ -389,7 +389,7 @@
     "type": "Тотал чет 1-й Сет Да",
     "coff": "1.64",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">Тотал чет 1-й Сет Да</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.64\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SET_01__TOTALS__EVEN"
   },
   {
     "team1": "Диана Старовойтова",
@@ -397,7 +397,7 @@
     "type": "Тотал чет 1-й Сет Нет",
     "coff": "2.12",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">Тотал чет 1-й Сет Нет</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.12\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SET_01__TOTALS__ODD"
   },
   {
     "team1": "Диана Старовойтова",
@@ -405,7 +405,7 @@
     "type": "Победа в гейме 1-й Сет Гейм 7 П1",
     "coff": "1.425",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">Победа в гейме 1-й Сет Гейм 7 П1</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.425\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "GAME__01_07__P1"
   },
   {
     "team1": "Диана Старовойтова",
@@ -413,7 +413,7 @@
     "type": "Победа в гейме 1-й Сет Гейм 7 П2",
     "coff": "2.64",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">Победа в гейме 1-й Сет Гейм 7 П2</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.64\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "GAME__01_07__P2"
   },
   {
     "team1": "Диана Старовойтова",
@@ -421,7 +421,7 @@
     "type": "Победа в гейме 1-й Сет Гейм 8 П1",
     "coff": "2.104",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">Победа в гейме 1-й Сет Гейм 8 П1</span> <span class=\"bet coef-change rc_lite\"><span>\n                    2.104\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "GAME__01_08__P1"
   },
   {
     "team1": "Диана Старовойтова",
@@ -429,7 +429,7 @@
     "type": "Победа в гейме 1-й Сет Гейм 8 П2",
     "coff": "1.65",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">Победа в гейме 1-й Сет Гейм 8 П2</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.65\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "GAME__01_08__P2"
   },
   {
     "team1": "Диана Старовойтова",
@@ -437,7 +437,7 @@
     "type": "Поинты 1-й Сет П1 6 поинт в 7-м гейме",
     "coff": "1.615",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">Поинты 1-й Сет П1 6 поинт в 7-м гейме</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.615\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SET_01__WHO_SCORE__07_06__P1"
   },
   {
     "team1": "Диана Старовойтова",
@@ -445,7 +445,7 @@
     "type": "Поинты 1-й Сет П2 6 поинт в 7-м гейме",
     "coff": "2.195",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">Поинты 1-й Сет П2 6 поинт в 7-м гейме</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.195\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SET_01__WHO_SCORE__07_06__P2"
   },
   {
     "team1": "Диана Старовойтова",
@@ -453,7 +453,7 @@
     "type": "Поинты 1-й Сет П1 1 поинт в 8-м гейме",
     "coff": "1.955",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">Поинты 1-й Сет П1 1 поинт в 8-м гейме</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.955\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SET_01__WHO_SCORE__08_01__P1"
   },
   {
     "team1": "Диана Старовойтова",
@@ -461,7 +461,7 @@
     "type": "Поинты 1-й Сет П2 1 поинт в 8-м гейме",
     "coff": "1.775",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">Поинты 1-й Сет П2 1 поинт в 8-м гейме</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.775\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SET_01__WHO_SCORE__08_01__P2"
   },
   {
     "team1": "Диана Старовойтова",
@@ -469,7 +469,7 @@
     "type": "Поинты 1-й Сет П1 2 поинт в 8-м гейме",
     "coff": "1.955",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">Поинты 1-й Сет П1 2 поинт в 8-м гейме</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.955\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SET_01__WHO_SCORE__08_02__P1"
   },
   {
     "team1": "Диана Старовойтова",
@@ -477,7 +477,7 @@
     "type": "Поинты 1-й Сет П2 2 поинт в 8-м гейме",
     "coff": "1.775",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">Поинты 1-й Сет П2 2 поинт в 8-м гейме</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.775\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SET_01__WHO_SCORE__08_02__P2"
   },
   {
     "team1": "Диана Старовойтова",
@@ -485,7 +485,7 @@
     "type": "Поинты 1-й Сет П1 3 поинт в 8-м гейме",
     "coff": "1.955",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">Поинты 1-й Сет П1 3 поинт в 8-м гейме</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.955\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SET_01__WHO_SCORE__08_03__P1"
   },
   {
     "team1": "Диана Старовойтова",
@@ -493,7 +493,7 @@
     "type": "Поинты 1-й Сет П2 3 поинт в 8-м гейме",
     "coff": "1.775",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">Поинты 1-й Сет П2 3 поинт в 8-м гейме</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.775\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SET_01__WHO_SCORE__08_03__P2"
   },
   {
     "team1": "Диана Старовойтова",
@@ -501,7 +501,7 @@
     "type": "Поинты 1-й Сет П1 4 поинт в 8-м гейме",
     "coff": "1.955",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">Поинты 1-й Сет П1 4 поинт в 8-м гейме</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.955\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SET_01__WHO_SCORE__08_04__P1"
   },
   {
     "team1": "Диана Старовойтова",
@@ -509,7 +509,7 @@
     "type": "Поинты 1-й Сет П2 4 поинт в 8-м гейме",
     "coff": "1.775",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">21277. Теннис Smash Cup. Женщины</div> <div class=\"teams\">Диана Старовойтова - Валерия Копту</div> <div class=\"type\"><span class=\"type-name\">Поинты 1-й Сет П2 4 поинт в 8-м гейме</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.775\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SET_01__WHO_SCORE__08_04__P2"
   },
   {
     "team1": "Диана Старовойтова",

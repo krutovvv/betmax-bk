@@ -103,9 +103,9 @@ input, select {
 
 body {
   display: grid;
-  grid-template-columns: auto minmax(300px, 1200px) auto;
+  grid-template-columns: 100%;
   padding: 50px;
 }
 app-root {
-  grid-column: 2/3;
+  grid-column: 1/2;
 }

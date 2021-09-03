@@ -5,7 +5,7 @@
     "type": "1X2 П1",
     "coff": "2.285",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">1X2 П1</span> <span class=\"bet coef-change\"><span>\n                    2.285\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "WIN__P1"
   },
   {
     "team1": "Григорий Служенко (Рос)",
@@ -13,7 +13,7 @@
     "type": "1X2 П2",
     "coff": "1.625",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">35158. Настольный теннис Pro Spin Series</div> <div class=\"teams\">Григорий Служенко (Рос) - Павел Митин (Рос)</div> <div class=\"type\"><span class=\"type-name\">1X2 П2</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.625\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "WIN__P2"
   },
   {
     "team1": "Григорий Служенко (Рос)",

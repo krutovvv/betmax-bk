@@ -37,7 +37,7 @@
     "type": "Забьёт следующий (1) гол - Алашкерт",
     "coff": "2.30",
     "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _football\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/football/alashkert-vs-sheriff-tiraspol-8624408/bets\">Алашкерт vs Шериф Тирасполь</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/football/alashkert-vs-sheriff-tiraspol-8624408/bets\">Забьёт следующий (1) гол - Алашкерт</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _101\"><span class=\"outcome__number\">2.30</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f40aea291db8348d6d014f\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
-    "test": ""
+    "test": "WHO_SCORE_3W__01__P1"
   },
   {
     "team1": "Алашкерт",
@@ -45,7 +45,7 @@
     "type": "Забьёт следующий (1) гол - Шериф Тирасполь",
     "coff": "1.77",
     "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _football\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/football/alashkert-vs-sheriff-tiraspol-8624408/bets\">Алашкерт vs Шериф Тирасполь</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/football/alashkert-vs-sheriff-tiraspol-8624408/bets\">Забьёт следующий (1) гол - Шериф Тирасполь</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _103\"><span class=\"outcome__number\">1.77</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f40aea291db8d2156d0150\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
-    "test": ""
+    "test": "WHO_SCORE_3W__01__P2"
   },
   {
     "team1": "Алашкерт",
@@ -53,7 +53,7 @@
     "type": "Забьёт следующий (1) гол - Никто",
     "coff": "9.49",
     "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _football\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/football/alashkert-vs-sheriff-tiraspol-8624408/bets\">Алашкерт vs Шериф Тирасполь</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/football/alashkert-vs-sheriff-tiraspol-8624408/bets\">Забьёт следующий (1) гол - Никто</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _100\"><span class=\"outcome__number\">9.49</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f40aea291db81f1a6d0151\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
-    "test": ""
+    "test": "WHO_SCORE_3W__01__NO"
   },
   {
     "team1": "Алашкерт",
@@ -709,7 +709,7 @@
     "type": "Проход. Полный матч - Алашкерт",
     "coff": "3.88",
     "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _football\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/football/alashkert-vs-sheriff-tiraspol-8624408/bets\">Алашкерт vs Шериф Тирасполь</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/football/alashkert-vs-sheriff-tiraspol-8624408/bets\">Проход. Полный матч - Алашкерт</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _101\"><span class=\"outcome__number\">3.88</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f40aea291db828306d01fa\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
-    "test": ""
+    "test": "WIN_OT__P1"
   },
   {
     "team1": "Алашкерт",
@@ -717,7 +717,7 @@
     "type": "Проход. Полный матч - Шериф Тирасполь",
     "coff": "1.22",
     "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _football\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/football/alashkert-vs-sheriff-tiraspol-8624408/bets\">Алашкерт vs Шериф Тирасполь</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/football/alashkert-vs-sheriff-tiraspol-8624408/bets\">Проход. Полный матч - Шериф Тирасполь</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _103\"><span class=\"outcome__number\">1.22</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f40aea291db8689a6d01fb\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
-    "test": ""
+    "test": "WIN_OT__P2"
   },
   {
     "team1": "Алашкерт",
@@ -725,7 +725,7 @@
     "type": "Двойной шанс - Алашкерт не проиграет",
     "coff": "1.63",
     "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _football\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/football/alashkert-vs-sheriff-tiraspol-8624408/bets\">Алашкерт vs Шериф Тирасполь</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/football/alashkert-vs-sheriff-tiraspol-8624408/bets\">Двойной шанс - Алашкерт не проиграет</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _112\"><span class=\"outcome__number\">1.63</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f40aea291db8a2456d00dd\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
-    "test": ""
+    "test": "WIN__1X"
   },
   {
     "team1": "Алашкерт",
@@ -733,7 +733,7 @@
     "type": "Двойной шанс - Не будет ничьи",
     "coff": "1.33",
     "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _football\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/football/alashkert-vs-sheriff-tiraspol-8624408/bets\">Алашкерт vs Шериф Тирасполь</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/football/alashkert-vs-sheriff-tiraspol-8624408/bets\">Двойной шанс - Не будет ничьи</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _113\"><span class=\"outcome__number\">1.33</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f40aea291db811436d00de\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
-    "test": ""
+    "test": "WIN__12"
   },
   {
     "team1": "Алашкерт",
@@ -741,7 +741,7 @@
     "type": "Двойной шанс - Шериф Тирасполь не проиграет",
     "coff": "1.27",
     "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _football\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/football/alashkert-vs-sheriff-tiraspol-8624408/bets\">Алашкерт vs Шериф Тирасполь</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/football/alashkert-vs-sheriff-tiraspol-8624408/bets\">Двойной шанс - Шериф Тирасполь не проиграет</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _114\"><span class=\"outcome__number\">1.27</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f40aea291db80bf56d00df\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
-    "test": ""
+    "test": "WIN__X2"
   },
   {
     "team1": "Алашкерт",
@@ -749,7 +749,7 @@
     "type": "Двойной шанс. 1-й тайм - Алашкерт не проиграет",
     "coff": "1.37",
     "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _football\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/football/alashkert-vs-sheriff-tiraspol-8624408/bets\">Алашкерт vs Шериф Тирасполь</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/football/alashkert-vs-sheriff-tiraspol-8624408/bets\">Двойной шанс. 1-й тайм - Алашкерт не проиграет</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _112\"><span class=\"outcome__number\">1.37</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f40aea291db856a96d00f5\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
-    "test": ""
+    "test": "HALF_01__WIN__1X"
   },
   {
     "team1": "Алашкерт",
@@ -757,7 +757,7 @@
     "type": "Двойной шанс. 1-й тайм - Не будет ничьи",
     "coff": "1.62",
     "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _football\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/football/alashkert-vs-sheriff-tiraspol-8624408/bets\">Алашкерт vs Шериф Тирасполь</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/football/alashkert-vs-sheriff-tiraspol-8624408/bets\">Двойной шанс. 1-й тайм - Не будет ничьи</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _113\"><span class=\"outcome__number\">1.62</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f40aea291db822ad6d00f6\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
-    "test": ""
+    "test": "HALF_01__WIN__12"
   },
   {
     "team1": "Алашкерт",
@@ -765,7 +765,7 @@
     "type": "Двойной шанс. 1-й тайм - Шериф Тирасполь не проиграет",
     "coff": "1.18",
     "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _football\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/football/alashkert-vs-sheriff-tiraspol-8624408/bets\">Алашкерт vs Шериф Тирасполь</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/football/alashkert-vs-sheriff-tiraspol-8624408/bets\">Двойной шанс. 1-й тайм - Шериф Тирасполь не проиграет</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _114\"><span class=\"outcome__number\">1.18</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f40aea291db80d906d00f7\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
-    "test": ""
+    "test": "HALF_01__WIN__X2"
   },
   {
     "team1": "Алашкерт",
@@ -773,7 +773,7 @@
     "type": "Двойной шанс. 2-й тайм - Алашкерт не проиграет",
     "coff": "1.42",
     "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _football\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/football/alashkert-vs-sheriff-tiraspol-8624408/bets\">Алашкерт vs Шериф Тирасполь</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/football/alashkert-vs-sheriff-tiraspol-8624408/bets\">Двойной шанс. 2-й тайм - Алашкерт не проиграет</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _112\"><span class=\"outcome__number\">1.42</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f40aea291db87eb06d013e\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
-    "test": ""
+    "test": "HALF_02__WIN__1X"
   },
   {
     "team1": "Алашкерт",
@@ -781,7 +781,7 @@
     "type": "Двойной шанс. 2-й тайм - Не будет ничьи",
     "coff": "1.46",
     "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _football\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/football/alashkert-vs-sheriff-tiraspol-8624408/bets\">Алашкерт vs Шериф Тирасполь</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/football/alashkert-vs-sheriff-tiraspol-8624408/bets\">Двойной шанс. 2-й тайм - Не будет ничьи</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _113\"><span class=\"outcome__number\">1.46</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f40aea291db801e96d013f\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
-    "test": ""
+    "test": "HALF_02__WIN__12"
   },
   {
     "team1": "Алашкерт",
@@ -789,7 +789,7 @@
     "type": "Двойной шанс. 2-й тайм - Шериф Тирасполь не проиграет",
     "coff": "1.22",
     "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _football\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/football/alashkert-vs-sheriff-tiraspol-8624408/bets\">Алашкерт vs Шериф Тирасполь</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/football/alashkert-vs-sheriff-tiraspol-8624408/bets\">Двойной шанс. 2-й тайм - Шериф Тирасполь не проиграет</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _114\"><span class=\"outcome__number\">1.22</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f40aea291db813316d0140\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
-    "test": ""
+    "test": "HALF_02__WIN__X2"
   },
   {
     "team1": "Алашкерт",
@@ -1421,7 +1421,7 @@
     "type": "Гол 2-й тайм. 2-й тайм - Да",
     "coff": "1.24",
     "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _football\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/football/alashkert-vs-sheriff-tiraspol-8624408/bets\">Алашкерт vs Шериф Тирасполь</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/football/alashkert-vs-sheriff-tiraspol-8624408/bets\">Гол 2-й тайм. 2-й тайм - Да</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _108\"><span class=\"outcome__number\">1.24</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f40aea291db87c4e6d0198\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
-    "test": ""
+    "test": "HALF_02__NO_ONE_TO_SCORE__NO"
   },
   {
     "team1": "Алашкерт",
@@ -1429,7 +1429,7 @@
     "type": "Гол 2-й тайм. 2-й тайм - Нет",
     "coff": "3.47",
     "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _football\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/football/alashkert-vs-sheriff-tiraspol-8624408/bets\">Алашкерт vs Шериф Тирасполь</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/football/alashkert-vs-sheriff-tiraspol-8624408/bets\">Гол 2-й тайм. 2-й тайм - Нет</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _109\"><span class=\"outcome__number\">3.47</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f40aea291db896206d0199\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
-    "test": ""
+    "test": "HALF_02__NO_ONE_TO_SCORE__YES"
   },
   {
     "team1": "Алашкерт",
@@ -1437,6 +1437,6 @@
     "type": "Гол в матче - Нет",
     "coff": "9.49",
     "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _football\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/football/alashkert-vs-sheriff-tiraspol-8624408/bets\">Алашкерт vs Шериф Тирасполь</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/football/alashkert-vs-sheriff-tiraspol-8624408/bets\">Гол в матче - Нет</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _109\"><span class=\"outcome__number\">9.49</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f40aea291db840ce6d017d\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
-    "test": ""
+    "test": "NO_ONE_TO_SCORE__YES"
   }
 ]

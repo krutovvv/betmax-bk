@@ -1,0 +1,930 @@
+[
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Результат основного времени - Сан-Диего Лоял",
+    "coff": "2.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сан-Диего Лоял</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.50</span></span><div class=\"qbs-NormalBetItem_Market \">Результат основного времени</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "WIN__P1"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Результат основного времени - Ничья",
+    "coff": "2.20",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Ничья</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.20</span></span><div class=\"qbs-NormalBetItem_Market \">Результат основного времени</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "WIN__PX"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Результат основного времени - Лас Вегас Лайтс ФК",
+    "coff": "4.33",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Лас Вегас Лайтс ФК</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>4.33</span></span><div class=\"qbs-NormalBetItem_Market \">Результат основного времени</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "WIN__P2"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Двойной шанс - Сан-Диего Лоял или ничья",
+    "coff": "1.20",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сан-Диего Лоял или ничья</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.20</span></span><div class=\"qbs-NormalBetItem_Market \">Двойной шанс</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "WIN__1X"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Двойной шанс - Ничья или Лас Вегас Лайтс ФК",
+    "coff": "1.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Ничья или Лас Вегас Лайтс ФК</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.50</span></span><div class=\"qbs-NormalBetItem_Market \">Двойной шанс</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "WIN__X2"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Двойной шанс - Сан-Диего Лоял или Лас Вегас Лайтс ФК",
+    "coff": "1.61",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сан-Диего Лоял или Лас Вегас Лайтс ФК</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.61</span></span><div class=\"qbs-NormalBetItem_Market \">Двойной шанс</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "WIN__12"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Следующий гол - Сан-Диего Лоял Забьет 3-й Гол",
+    "coff": "2.20",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сан-Диего Лоял Забьет 3-й Гол</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.20</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гол</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "WHO_SCORE_3W__03__P1"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Следующий гол - Не забьет 3-й Гол",
+    "coff": "2.75",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Не забьет 3-й Гол</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.75</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гол</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "WHO_SCORE_3W__03__NO"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Следующий гол - Лас Вегас Лайтс ФК Забьет 3-й Гол",
+    "coff": "3.25",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Лас Вегас Лайтс ФК Забьет 3-й Гол</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.25</span></span><div class=\"qbs-NormalBetItem_Market \">Следующий гол</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "WHO_SCORE_3W__03__P2"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Голы в матче - Больше  голов (3.5)",
+    "coff": "2.75",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше  голов<div class=\"qbs-NormalBetItem_Handicap \">3.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.75</span></span><div class=\"qbs-NormalBetItem_Market \">Голы в матче</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS__OVER(3.5)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Голы в матче - Меньше  голов (3.5)",
+    "coff": "1.40",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньше  голов<div class=\"qbs-NormalBetItem_Handicap \">3.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.40</span></span><div class=\"qbs-NormalBetItem_Market \">Голы в матче</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS__UNDER(3.5)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативные голы матча - Больше 2.5",
+    "coff": "1.40",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше 2.5<div class=\"qbs-NormalBetItem_Handicap \"></div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.40</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативные голы матча</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS__OVER(2.5)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативные голы матча - Больше 4.5",
+    "coff": "6.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше 4.5<div class=\"qbs-NormalBetItem_Handicap \"></div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>6.00</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативные голы матча</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS__OVER(4.5)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативные голы матча - Больше 5.5",
+    "coff": "12.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше 5.5<div class=\"qbs-NormalBetItem_Handicap \"></div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>12.00</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативные голы матча</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS__OVER(5.5)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативные голы матча - Меньше 4.5",
+    "coff": "1.083",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньше 4.5<div class=\"qbs-NormalBetItem_Handicap \"></div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.083</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативные голы матча</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS__UNDER(4.5)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативные голы матча - Меньше 5.5",
+    "coff": "1.015",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньше 5.5<div class=\"qbs-NormalBetItem_Handicap \"></div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.015</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативные голы матча</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS__UNDER(5.5)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативный тотал угловых - Больше (7.0)",
+    "coff": "1.20",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше<div class=\"qbs-NormalBetItem_Handicap \">7.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.20</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативный тотал угловых</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS_CORNERS__OVER(7)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативный тотал угловых - Больше (8.0)",
+    "coff": "1.61",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше<div class=\"qbs-NormalBetItem_Handicap \">8.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.61</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативный тотал угловых</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS_CORNERS__OVER(8)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Тотал угловых - Больше (9.0)",
+    "coff": "2.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше<div class=\"qbs-NormalBetItem_Handicap \">9.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.50</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал угловых</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS_CORNERS__OVER(9)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативный тотал угловых - Больше (10.0)",
+    "coff": "4.33",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше<div class=\"qbs-NormalBetItem_Handicap \">10.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>4.33</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативный тотал угловых</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS_CORNERS__OVER(10)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативный тотал угловых - Больше (11.0)",
+    "coff": "9.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше<div class=\"qbs-NormalBetItem_Handicap \">11.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>9.00</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативный тотал угловых</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS_CORNERS__OVER(11)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативный тотал угловых - Точно (7.0)",
+    "coff": "5.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Точно<div class=\"qbs-NormalBetItem_Handicap \">7.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>5.50</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативный тотал угловых</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS_CORNERS__EXACT(7)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативный тотал угловых - Точно (8.0)",
+    "coff": "4.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Точно<div class=\"qbs-NormalBetItem_Handicap \">8.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>4.00</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативный тотал угловых</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS_CORNERS__EXACT(8)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Тотал угловых - Ровно (9.0)",
+    "coff": "4.33",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Ровно<div class=\"qbs-NormalBetItem_Handicap \">9.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>4.33</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал угловых</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS_CORNERS__EXACT(9)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативный тотал угловых - Точно (10.0)",
+    "coff": "5.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Точно<div class=\"qbs-NormalBetItem_Handicap \">10.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>5.00</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативный тотал угловых</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS_CORNERS__EXACT(10)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативный тотал угловых - Точно (11.0)",
+    "coff": "7.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Точно<div class=\"qbs-NormalBetItem_Handicap \">11.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>7.50</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативный тотал угловых</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS_CORNERS__EXACT(11)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативный тотал угловых - Меньшe (7.0)",
+    "coff": "15.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньшe<div class=\"qbs-NormalBetItem_Handicap \">7.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>15.00</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативный тотал угловых</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS_CORNERS__UNDER(7)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативный тотал угловых - Меньшe (8.0)",
+    "coff": "4.33",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньшe<div class=\"qbs-NormalBetItem_Handicap \">8.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>4.33</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативный тотал угловых</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS_CORNERS__UNDER(8)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Тотал угловых - Меньше (9.0)",
+    "coff": "2.20",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньше<div class=\"qbs-NormalBetItem_Handicap \">9.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.20</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал угловых</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS_CORNERS__UNDER(9)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативный тотал угловых - Меньшe (10.0)",
+    "coff": "1.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньшe<div class=\"qbs-NormalBetItem_Handicap \">10.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.50</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативный тотал угловых</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS_CORNERS__UNDER(10)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативный тотал угловых - Меньшe (11.0)",
+    "coff": "1.20",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньшe<div class=\"qbs-NormalBetItem_Handicap \">11.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.20</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативный тотал угловых</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS_CORNERS__UNDER(11)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Угловые - 2 исхода - Больше (8.5)",
+    "coff": "1.61",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше<div class=\"qbs-NormalBetItem_Handicap \">8.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.61</span></span><div class=\"qbs-NormalBetItem_Market \">Угловые - 2 исхода</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS_CORNERS__OVER(8.5)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Угловые - 2 исхода - Меньшe (8.5)",
+    "coff": "2.20",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньшe<div class=\"qbs-NormalBetItem_Handicap \">8.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.20</span></span><div class=\"qbs-NormalBetItem_Market \">Угловые - 2 исхода</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS_CORNERS__UNDER(8.5)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативный Азиатский гандикап - (1-1) Сан-Диего Лоял (0.0,+0.5)",
+    "coff": "1.300",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">(1-1) Сан-Диего Лоял<div class=\"qbs-NormalBetItem_Handicap \">0.0,+0.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.300</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативный Азиатский гандикап </div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "HANDICAP__P1(2.25)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативный Азиатский гандикап - (1-1) Сан-Диего Лоял (0.0)",
+    "coff": "1.500",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">(1-1) Сан-Диего Лоял<div class=\"qbs-NormalBetItem_Handicap \">0.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.500</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативный Азиатский гандикап </div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "HANDICAP__P1(2)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Азиатский гандикап - В Игре - (1-1) Сан-Диего Лоял (0.0,-0.5)",
+    "coff": "2.050",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">(1-1) Сан-Диего Лоял<div class=\"qbs-NormalBetItem_Handicap \">0.0,-0.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.050</span></span><div class=\"qbs-NormalBetItem_Market \">Азиатский гандикап - В Игре</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "HANDICAP__P1(1.75)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативный Азиатский гандикап - (1-1) Сан-Диего Лоял (-0.5)",
+    "coff": "2.475",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">(1-1) Сан-Диего Лоял<div class=\"qbs-NormalBetItem_Handicap \">-0.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.475</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативный Азиатский гандикап </div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "HANDICAP__P1(1.5)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативный Азиатский гандикап - (1-1) Сан-Диего Лоял (-0.5,-1.0)",
+    "coff": "3.200",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">(1-1) Сан-Диего Лоял<div class=\"qbs-NormalBetItem_Handicap \">-0.5,-1.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.200</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативный Азиатский гандикап </div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "HANDICAP__P1(1.25)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативный Азиатский гандикап - (1-1) Лас Вегас Лайтс ФК (0.0,-0.5)",
+    "coff": "3.200",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">(1-1) Лас Вегас Лайтс ФК<div class=\"qbs-NormalBetItem_Handicap \">0.0,-0.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.200</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативный Азиатский гандикап </div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "HANDICAP__P2(1.75)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативный Азиатский гандикап - (1-1) Лас Вегас Лайтс ФК (0.0)",
+    "coff": "2.400",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">(1-1) Лас Вегас Лайтс ФК<div class=\"qbs-NormalBetItem_Handicap \">0.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.400</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативный Азиатский гандикап </div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "HANDICAP__P2(2)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Азиатский гандикап - В Игре - (1-1) Лас Вегас Лайтс ФК (0.0,+0.5)",
+    "coff": "1.750",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">(1-1) Лас Вегас Лайтс ФК<div class=\"qbs-NormalBetItem_Handicap \">0.0,+0.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.750</span></span><div class=\"qbs-NormalBetItem_Market \">Азиатский гандикап - В Игре</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "HANDICAP__P2(2.25)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативный Азиатский гандикап - (1-1) Лас Вегас Лайтс ФК (+0.5)",
+    "coff": "1.475",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">(1-1) Лас Вегас Лайтс ФК<div class=\"qbs-NormalBetItem_Handicap \">+0.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.475</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативный Азиатский гандикап </div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "HANDICAP__P2(2.5)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативный Азиатский гандикап - (1-1) Лас Вегас Лайтс ФК (+0.5,+1.0)",
+    "coff": "1.300",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">(1-1) Лас Вегас Лайтс ФК<div class=\"qbs-NormalBetItem_Handicap \">+0.5,+1.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.300</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативный Азиатский гандикап </div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "HANDICAP__P2(2.75)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативная линия голов - (1-1) Больше (2.5)",
+    "coff": "1.425",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">(1-1) Больше<div class=\"qbs-NormalBetItem_Handicap \">2.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.425</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативная линия голов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS__OVER(4.5)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативная линия голов - (1-1) Больше (2.5,3.0)",
+    "coff": "1.575",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">(1-1) Больше<div class=\"qbs-NormalBetItem_Handicap \">2.5,3.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.575</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативная линия голов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS__OVER(4.75)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Линия голов - В Игре - (1-1) Больше (3.0)",
+    "coff": "1.975",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">(1-1) Больше<div class=\"qbs-NormalBetItem_Handicap \">3.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.975</span></span><div class=\"qbs-NormalBetItem_Market \">Линия голов - В Игре</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS__OVER(5)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативная линия голов - (1-1) Больше (3.0,3.5)",
+    "coff": "2.400",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">(1-1) Больше<div class=\"qbs-NormalBetItem_Handicap \">3.0,3.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.400</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативная линия голов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS__OVER(5.25)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативная линия голов - (1-1) Больше (3.5)",
+    "coff": "2.825",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">(1-1) Больше<div class=\"qbs-NormalBetItem_Handicap \">3.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.825</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативная линия голов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS__OVER(5.5)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативная линия голов - (1-1) Меньше (2.5)",
+    "coff": "2.625",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">(1-1) Меньше<div class=\"qbs-NormalBetItem_Handicap \">2.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.625</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативная линия голов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS__UNDER(4.5)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативная линия голов - (1-1) Меньше (2.5,3.0)",
+    "coff": "2.200",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">(1-1) Меньше<div class=\"qbs-NormalBetItem_Handicap \">2.5,3.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.200</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативная линия голов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS__UNDER(4.75)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Линия голов - В Игре - (1-1) Меньше (3.0)",
+    "coff": "1.800",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">(1-1) Меньше<div class=\"qbs-NormalBetItem_Handicap \">3.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.800</span></span><div class=\"qbs-NormalBetItem_Market \">Линия голов - В Игре</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS__UNDER(5)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативная линия голов - (1-1) Меньше (3.0,3.5)",
+    "coff": "1.500",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">(1-1) Меньше<div class=\"qbs-NormalBetItem_Handicap \">3.0,3.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.500</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативная линия голов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS__UNDER(5.25)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативная линия голов - (1-1) Меньше (3.5)",
+    "coff": "1.375",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">(1-1) Меньше<div class=\"qbs-NormalBetItem_Handicap \">3.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.375</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативная линия голов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS__UNDER(5.5)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Азиатские угловые - Больше (9.0)",
+    "coff": "2.075",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше<div class=\"qbs-NormalBetItem_Handicap \">9.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.075</span></span><div class=\"qbs-NormalBetItem_Market \">Азиатские угловые</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS_CORNERS__OVER(9)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Азиатские угловые - Меньшe (9.0)",
+    "coff": "1.725",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньшe<div class=\"qbs-NormalBetItem_Handicap \">9.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.725</span></span><div class=\"qbs-NormalBetItem_Market \">Азиатские угловые</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS_CORNERS__UNDER(9)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Гонка до 7 угловых - Сан-Диего Лоял",
+    "coff": "1.72",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сан-Диего Лоял</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.72</span></span><div class=\"qbs-NormalBetItem_Market \">Гонка до 7 угловых</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "FIRST_TO_SCORE_3W_CORNERS__07__P1"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Гонка до 9 угловых - Сан-Диего Лоял",
+    "coff": "6.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сан-Диего Лоял</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>6.00</span></span><div class=\"qbs-NormalBetItem_Market \">Гонка до 9 угловых</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "FIRST_TO_SCORE_3W_CORNERS__09__P1"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Гонка до 7 угловых - Лас Вегас Лайтс ФК",
+    "coff": "101.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Лас Вегас Лайтс ФК</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>101.00</span></span><div class=\"qbs-NormalBetItem_Market \">Гонка до 7 угловых</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "FIRST_TO_SCORE_3W_CORNERS__07__P2"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Гонка до 9 угловых - Лас Вегас Лайтс ФК",
+    "coff": "101.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Лас Вегас Лайтс ФК</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>101.00</span></span><div class=\"qbs-NormalBetItem_Market \">Гонка до 9 угловых</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "FIRST_TO_SCORE_3W_CORNERS__09__P2"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Гонка до 7 угловых - Ни один",
+    "coff": "2.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Ни один</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.00</span></span><div class=\"qbs-NormalBetItem_Market \">Гонка до 7 угловых</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "FIRST_TO_SCORE_3W_CORNERS__07__NO"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Гонка до 9 угловых - Ни один",
+    "coff": "1.12",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Ни один</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.12</span></span><div class=\"qbs-NormalBetItem_Market \">Гонка до 9 угловых</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "FIRST_TO_SCORE_3W_CORNERS__09__NO"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Угловой через один - 8-й Угловой - Сан-Диего Лоял",
+    "coff": "1.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">8-й Угловой - Сан-Диего Лоял</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.50</span></span><div class=\"qbs-NormalBetItem_Market \">Угловой через один</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "WHO_SCORE_3W_CORNERS__08__P1"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Угловой через один - 8-й Угловой  - Лас Вегас Лайтс ФК",
+    "coff": "2.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">8-й Угловой  - Лас Вегас Лайтс ФК</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.50</span></span><div class=\"qbs-NormalBetItem_Market \">Угловой через один</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "WHO_SCORE_3W_CORNERS__08__P2"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Последний угловой - Сан-Диего Лоял",
+    "coff": "1.61",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сан-Диего Лоял</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled bs-OddsLabel_OddsChanged \"><span>1.61</span></span><div class=\"qbs-NormalBetItem_Market \">Последний угловой</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "LAST_TO_SCORE_CORNERS__P1"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Последний угловой - Лас Вегас Лайтс ФК",
+    "coff": "2.20",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Лас Вегас Лайтс ФК</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.20</span></span><div class=\"qbs-NormalBetItem_Market \">Последний угловой</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "LAST_TO_SCORE_CORNERS__P2"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативный гандикап - 3 исхода - Сан-Диего Лоял (+2.0)",
+    "coff": "1.03",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сан-Диего Лоял<div class=\"qbs-NormalBetItem_Handicap \">+2.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.03</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативный гандикап - 3 исхода </div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "HANDICAP_3W__P1(2)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативный гандикап - 3 исхода - Сан-Диего Лоял (+1.0)",
+    "coff": "1.20",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сан-Диего Лоял<div class=\"qbs-NormalBetItem_Handicap \">+1.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.20</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативный гандикап - 3 исхода </div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "HANDICAP_3W__P1(1)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Гандикап с 3 исходами - Сан-Диего Лоял (-1.0)",
+    "coff": "7.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сан-Диего Лоял<div class=\"qbs-NormalBetItem_Handicap \">-1.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>7.50</span></span><div class=\"qbs-NormalBetItem_Market \">Гандикап с 3 исходами</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "HANDICAP_3W__P1(-1)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативный гандикап - 3 исхода - Сан-Диего Лоял (-2.0)",
+    "coff": "23.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сан-Диего Лоял<div class=\"qbs-NormalBetItem_Handicap \">-2.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>23.00</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативный гандикап - 3 исхода </div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "HANDICAP_3W__P1(-2)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативный гандикап - 3 исхода - Сан-Диего Лоял (-3.0)",
+    "coff": "51.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сан-Диего Лоял<div class=\"qbs-NormalBetItem_Handicap \">-3.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>51.00</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативный гандикап - 3 исхода </div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "HANDICAP_3W__P1(-3)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативный гандикап - 3 исхода - Ничья (Лас Вегас Лайтс ФК) (-2.0)",
+    "coff": "17.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Ничья (Лас Вегас Лайтс ФК)<div class=\"qbs-NormalBetItem_Handicap \">-2.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>17.00</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативный гандикап - 3 исхода </div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "HANDICAP_3W__P2(-2)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативный гандикап - 3 исхода - Ничья (Лас Вегас Лайтс ФК) (-1.0)",
+    "coff": "5.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Ничья (Лас Вегас Лайтс ФК)<div class=\"qbs-NormalBetItem_Handicap \">-1.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>5.00</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативный гандикап - 3 исхода </div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "HANDICAP_3W__P2(-1)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Гандикап с 3 исходами - Ничья (Лас Вегас Лайтс ФК ) (+1.0)",
+    "coff": "3.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Ничья (Лас Вегас Лайтс ФК )<div class=\"qbs-NormalBetItem_Handicap \">+1.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.50</span></span><div class=\"qbs-NormalBetItem_Market \">Гандикап с 3 исходами</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "HANDICAP_3W__P2(1)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативный гандикап - 3 исхода - Ничья (Лас Вегас Лайтс ФК) (+2.0)",
+    "coff": "10.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Ничья (Лас Вегас Лайтс ФК)<div class=\"qbs-NormalBetItem_Handicap \">+2.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>10.00</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативный гандикап - 3 исхода </div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "HANDICAP_3W__P2(2)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативный гандикап - 3 исхода - Ничья (Лас Вегас Лайтс ФК) (+3.0)",
+    "coff": "29.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Ничья (Лас Вегас Лайтс ФК)<div class=\"qbs-NormalBetItem_Handicap \">+3.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>29.00</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативный гандикап - 3 исхода </div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "HANDICAP_3W__P2(3)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативный гандикап - 3 исхода - Лас Вегас Лайтс ФК (-2.0)",
+    "coff": "41.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Лас Вегас Лайтс ФК<div class=\"qbs-NormalBetItem_Handicap \">-2.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>41.00</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативный гандикап - 3 исхода </div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "HANDICAP_3W__P2(-2)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативный гандикап - 3 исхода - Лас Вегас Лайтс ФК (-1.0)",
+    "coff": "15.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Лас Вегас Лайтс ФК<div class=\"qbs-NormalBetItem_Handicap \">-1.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>15.00</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативный гандикап - 3 исхода </div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "HANDICAP_3W__P2(-1)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Гандикап с 3 исходами - Лас Вегас Лайтс ФК (+1.0)",
+    "coff": "1.44",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Лас Вегас Лайтс ФК<div class=\"qbs-NormalBetItem_Handicap \">+1.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.44</span></span><div class=\"qbs-NormalBetItem_Market \">Гандикап с 3 исходами</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "HANDICAP_3W__P2(1)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативный гандикап - 3 исхода - Лас Вегас Лайтс ФК (+2.0)",
+    "coff": "1.071",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Лас Вегас Лайтс ФК<div class=\"qbs-NormalBetItem_Handicap \">+2.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.071</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативный гандикап - 3 исхода </div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "HANDICAP_3W__P2(2)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Альтернативный гандикап - 3 исхода - Лас Вегас Лайтс ФК (+3.0)",
+    "coff": "1.015",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Лас Вегас Лайтс ФК<div class=\"qbs-NormalBetItem_Handicap \">+3.0</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.015</span></span><div class=\"qbs-NormalBetItem_Market \">Альтернативный гандикап - 3 исхода </div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "HANDICAP_3W__P2(3)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Ничья - Нет ставки - Сан-Диего Лоял",
+    "coff": "1.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сан-Диего Лоял</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.50</span></span><div class=\"qbs-NormalBetItem_Market \">Ничья - Нет ставки</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Ничья - Нет ставки - Лас Вегас Лайтс ФК",
+    "coff": "2.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Лас Вегас Лайтс ФК</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.50</span></span><div class=\"qbs-NormalBetItem_Market \">Ничья - Нет ставки</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Последняя команда, заработавшая очки - Сан-Диего Лоял",
+    "coff": "2.30",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сан-Диего Лоял</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.30</span></span><div class=\"qbs-NormalBetItem_Market \">Последняя команда, заработавшая очки</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "LAST_TEAM_TO_SCORE__P1"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Последняя команда, заработавшая очки - Лас Вегас Лайтс ФК",
+    "coff": "1.53",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Лас Вегас Лайтс ФК</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.53</span></span><div class=\"qbs-NormalBetItem_Market \">Последняя команда, заработавшая очки</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "LAST_TEAM_TO_SCORE__P2"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Голы нечет/чёт - Нечет",
+    "coff": "2.10",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Нечет</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.10</span></span><div class=\"qbs-NormalBetItem_Market \">Голы нечет/чёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS__ODD"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Голы нечет/чёт - Чёт",
+    "coff": "1.66",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Чёт</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.66</span></span><div class=\"qbs-NormalBetItem_Market \">Голы нечет/чёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "TOTALS__EVEN"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Обе команды забьют во 2-й половине - Да",
+    "coff": "5.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Да</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>5.00</span></span><div class=\"qbs-NormalBetItem_Market \">Обе команды забьют во 2-й половине</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "HALF_02__BOTH_TEAMS_TO_SCORE__YES"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Обе команды забьют во 2-й половине - Нет",
+    "coff": "1.14",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Нет</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.14</span></span><div class=\"qbs-NormalBetItem_Market \">Обе команды забьют во 2-й половине</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "HALF_02__BOTH_TEAMS_TO_SCORE__NO"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Точное кол-во голов хозяев - 1 гол",
+    "coff": "1.72",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">1 гол</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.72</span></span><div class=\"qbs-NormalBetItem_Market \">Точное кол-во голов хозяев</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "P1__TOTALS__EXACT(1)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Точное кол-во голов хозяев - 2 гола",
+    "coff": "2.75",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">2 гола</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.75</span></span><div class=\"qbs-NormalBetItem_Market \">Точное кол-во голов хозяев</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "P1__TOTALS__EXACT(2)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Точное кол-во голов хозяев - 3+ голов",
+    "coff": "5.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">3+ голов</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>5.50</span></span><div class=\"qbs-NormalBetItem_Market \">Точное кол-во голов хозяев</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "P1__TOTALS__OVER(2.5)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Точное кол-во голов гостей - 1 гол",
+    "coff": "1.44",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">1 гол</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.44</span></span><div class=\"qbs-NormalBetItem_Market \">Точное кол-во голов гостей</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "P2__TOTALS__EXACT(1)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Точное кол-во голов гостей - 2 гола",
+    "coff": "3.25",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">2 гола</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.25</span></span><div class=\"qbs-NormalBetItem_Market \">Точное кол-во голов гостей</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "P2__TOTALS__EXACT(2)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Точное кол-во голов гостей - 3+ голов",
+    "coff": "8.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">3+ голов</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>8.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точное кол-во голов гостей</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "P2__TOTALS__OVER(2.5)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Голы команды хозяев - Сан-Диего Лоял - Больше (1.5)",
+    "coff": "2.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сан-Диего Лоял - Больше<div class=\"qbs-NormalBetItem_Handicap \">1.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.00</span></span><div class=\"qbs-NormalBetItem_Market \">Голы команды хозяев</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "P1__TOTALS__OVER(1.5)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Голы команды хозяев - Сан-Диего Лоял - Больше (2.5)",
+    "coff": "5.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сан-Диего Лоял - Больше<div class=\"qbs-NormalBetItem_Handicap \">2.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>5.50</span></span><div class=\"qbs-NormalBetItem_Market \">Голы команды хозяев</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "P1__TOTALS__OVER(2.5)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Голы команды хозяев - Сан-Диего Лоял - Больше (3.5)",
+    "coff": "12.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сан-Диего Лоял - Больше<div class=\"qbs-NormalBetItem_Handicap \">3.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>12.00</span></span><div class=\"qbs-NormalBetItem_Market \">Голы команды хозяев</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "P1__TOTALS__OVER(3.5)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Голы команды хозяев - Сан-Диего Лоял - Меньше (1.5)",
+    "coff": "1.72",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сан-Диего Лоял - Меньше<div class=\"qbs-NormalBetItem_Handicap \">1.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.72</span></span><div class=\"qbs-NormalBetItem_Market \">Голы команды хозяев</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "P1__TOTALS__UNDER(1.5)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Голы команды хозяев - Сан-Диего Лоял - Меньше (2.5)",
+    "coff": "1.12",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сан-Диего Лоял - Меньше<div class=\"qbs-NormalBetItem_Handicap \">2.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.12</span></span><div class=\"qbs-NormalBetItem_Market \">Голы команды хозяев</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "P1__TOTALS__UNDER(2.5)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Голы команды хозяев - Сан-Диего Лоял - Меньше (3.5)",
+    "coff": "1.015",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сан-Диего Лоял - Меньше<div class=\"qbs-NormalBetItem_Handicap \">3.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.015</span></span><div class=\"qbs-NormalBetItem_Market \">Голы команды хозяев</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "P1__TOTALS__UNDER(3.5)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Голы команды гостей - Лас Вегас Лайтс ФК - Больше (1.5)",
+    "coff": "2.62",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Лас Вегас Лайтс ФК - Больше<div class=\"qbs-NormalBetItem_Handicap \">1.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.62</span></span><div class=\"qbs-NormalBetItem_Market \">Голы команды гостей</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "P2__TOTALS__OVER(1.5)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Голы команды гостей - Лас Вегас Лайтс ФК - Больше (2.5)",
+    "coff": "8.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Лас Вегас Лайтс ФК - Больше<div class=\"qbs-NormalBetItem_Handicap \">2.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>8.50</span></span><div class=\"qbs-NormalBetItem_Market \">Голы команды гостей</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "P2__TOTALS__OVER(2.5)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Голы команды гостей - Лас Вегас Лайтс ФК - Меньше (1.5)",
+    "coff": "1.44",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Лас Вегас Лайтс ФК - Меньше<div class=\"qbs-NormalBetItem_Handicap \">1.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.44</span></span><div class=\"qbs-NormalBetItem_Market \">Голы команды гостей</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "P2__TOTALS__UNDER(1.5)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Голы команды гостей - Лас Вегас Лайтс ФК - Меньше (2.5)",
+    "coff": "1.05",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Лас Вегас Лайтс ФК - Меньше<div class=\"qbs-NormalBetItem_Handicap \">2.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.05</span></span><div class=\"qbs-NormalBetItem_Market \">Голы команды гостей</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "P2__TOTALS__UNDER(2.5)"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Забьет во 2-й половине - Сан-Диего Лоял забьет во 2-й половине",
+    "coff": "2.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сан-Диего Лоял забьет во 2-й половине</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.00</span></span><div class=\"qbs-NormalBetItem_Market \">Забьет во 2-й половине</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "HALF_02__TEAM_TO_SCORE__P1__YES"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Забьет во 2-й половине - Сан-Диего Лоял не забьет во 2-й половине",
+    "coff": "1.72",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сан-Диего Лоял не забьет во 2-й половине</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.72</span></span><div class=\"qbs-NormalBetItem_Market \">Забьет во 2-й половине</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "HALF_02__TEAM_TO_SCORE__P1__NO"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Забьет во 2-й половине - Лас Вегас Лайтс ФК забьет во 2-й половине",
+    "coff": "2.62",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Лас Вегас Лайтс ФК забьет во 2-й половине</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.62</span></span><div class=\"qbs-NormalBetItem_Market \">Забьет во 2-й половине</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "HALF_02__TEAM_TO_SCORE__P2__YES"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Забьет во 2-й половине - Лас Вегас Лайтс ФК не забьет во 2-й половине",
+    "coff": "1.44",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Лас Вегас Лайтс ФК не забьет во 2-й половине</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.44</span></span><div class=\"qbs-NormalBetItem_Market \">Забьет во 2-й половине</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": "HALF_02__TEAM_TO_SCORE__P2__NO"
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "10-минутные угловые - 70:00  -  79:59 Больше (0.5)",
+    "coff": "1.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">70:00  -  79:59 Больше<div class=\"qbs-NormalBetItem_Handicap \">0.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.50</span></span><div class=\"qbs-NormalBetItem_Market \">10-минутные угловые</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "10-минутные угловые - 70:00  -  79:59 Меньше (0.5)",
+    "coff": "2.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">70:00  -  79:59 Меньше<div class=\"qbs-NormalBetItem_Handicap \">0.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.50</span></span><div class=\"qbs-NormalBetItem_Market \">10-минутные угловые</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Время следующего гола 80 - 3-й Гол до 80:00",
+    "coff": "2.62",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">3-й Гол до 80:00</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.62</span></span><div class=\"qbs-NormalBetItem_Market \">Время следующего гола 80</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Время следующего гола 80 - Не забьют 3-й Гол до 80:00",
+    "coff": "1.44",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Не забьют 3-й Гол до 80:00</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.44</span></span><div class=\"qbs-NormalBetItem_Market \">Время следующего гола 80</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Команда хозяев - Время следующего гола 80 - Сан-Диего Лоял - 2-й Гол до 80:00",
+    "coff": "4.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сан-Диего Лоял - 2-й Гол до 80:00</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>4.00</span></span><div class=\"qbs-NormalBetItem_Market \">Команда хозяев - Время следующего гола 80</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Команда хозяев - Время следующего гола 80 - Сан-Диего Лоял - Не забьет 2-й Гол до 80:00",
+    "coff": "1.22",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сан-Диего Лоял - Не забьет 2-й Гол до 80:00</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.22</span></span><div class=\"qbs-NormalBetItem_Market \">Команда хозяев - Время следующего гола 80</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Команда гостей - время след. гола 80 - Лас Вегас Лайтс ФК - 2-й Гол до 80:00",
+    "coff": "5.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Лас Вегас Лайтс ФК - 2-й Гол до 80:00</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>5.00</span></span><div class=\"qbs-NormalBetItem_Market \">Команда гостей - время след. гола 80</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Сан-Диего Лоял",
+    "team2": "Лас Вегас Лайтс ФК",
+    "type": "Команда гостей - время след. гола 80 - Лас Вегас Лайтс ФК - Не забьет 2-й Гол до 80:00",
+    "coff": "1.14",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Лас Вегас Лайтс ФК - Не забьет 2-й Гол до 80:00</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.14</span></span><div class=\"qbs-NormalBetItem_Market \">Команда гостей - время след. гола 80</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сан-Диего Лоял v Лас Вегас Лайтс ФК</div></div>",
+    "test": ""
+  }
+]

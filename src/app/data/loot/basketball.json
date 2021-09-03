@@ -21,7 +21,7 @@
     "type": "Результат матча - Илиган Архангел",
     "coff": "5.84",
     "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _basketball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/basketball/iligan-archangel-vs-roxas-vanguards-8666626/bets\">Илиган Архангел vs Роксас Вангуардс</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/basketball/iligan-archangel-vs-roxas-vanguards-8666626/bets\">Результат матча - Илиган Архангел</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _101\"><span class=\"outcome__number\">5.84</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f52e2d291db81bb6bb08aa\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
-    "test": "WIN_OT__P1"
+    "test": "WIN_RT__P1"
   },
   {
     "team1": "Илиган Архангел",
@@ -29,7 +29,7 @@
     "type": "Результат матча - Роксас Вангуардс",
     "coff": "1.14",
     "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _basketball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/basketball/iligan-archangel-vs-roxas-vanguards-8666626/bets\">Илиган Архангел vs Роксас Вангуардс</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/basketball/iligan-archangel-vs-roxas-vanguards-8666626/bets\">Результат матча - Роксас Вангуардс</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _103\"><span class=\"outcome__number\">1.14</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f52e2d291db8ee3abb08ab\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
-    "test": "WIN_OT__P2"
+    "test": "WIN_RT__P2"
   },
   {
     "team1": "Илиган Архангел",
@@ -37,7 +37,7 @@
     "type": "Результат матча - Ничья",
     "coff": "17.80",
     "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _basketball\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/basketball/iligan-archangel-vs-roxas-vanguards-8666626/bets\">Илиган Архангел vs Роксас Вангуардс</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/basketball/iligan-archangel-vs-roxas-vanguards-8666626/bets\">Результат матча - Ничья</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _102\"><span class=\"outcome__number\">17.80</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f52e2d291db8849fbb08ac\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
-    "test": "WIN_OT__PX"
+    "test": "WIN_RT__PX"
   },
   {
     "team1": "Илиган Архангел",

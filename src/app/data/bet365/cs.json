@@ -1,0 +1,1274 @@
+[
+  {
+    "team1": "Young Ninjas",
+    "team2": "Fnatic Rising",
+    "type": "Победитель матча с 2 исходами - Young Ninjas",
+    "coff": "1.44",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Young Ninjas</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.44</span></span><div class=\"qbs-NormalBetItem_Market \">Победитель матча с 2 исходами</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Young Ninjas v Fnatic Rising</div></div>",
+    "test": "WIN__P1"
+  },
+  {
+    "team1": "Young Ninjas",
+    "team2": "Fnatic Rising",
+    "type": "Победитель матча с 2 исходами - Fnatic Rising",
+    "coff": "2.62",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Fnatic Rising</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.62</span></span><div class=\"qbs-NormalBetItem_Market \">Победитель матча с 2 исходами</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Young Ninjas v Fnatic Rising</div></div>",
+    "test": "WIN__P2"
+  },
+  {
+    "team1": "Young Ninjas",
+    "team2": "Fnatic Rising",
+    "type": "Гандикап на раунды - Young Ninjas -5.5",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Young Ninjas -5.5<div class=\"qbs-NormalBetItem_Handicap \"></div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Гандикап на раунды</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Young Ninjas v Fnatic Rising</div></div>",
+    "test": "HANDICAP__P1(-5.5)"
+  },
+  {
+    "team1": "Young Ninjas",
+    "team2": "Fnatic Rising",
+    "type": "Тотал раундов - Больше (66.5)",
+    "coff": "1.90",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше<div class=\"qbs-NormalBetItem_Handicap \">66.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.90</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал раундов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Young Ninjas v Fnatic Rising</div></div>",
+    "test": "TOTALS__OVER(66.5)"
+  },
+  {
+    "team1": "Young Ninjas",
+    "team2": "Fnatic Rising",
+    "type": "Гандикап на раунды - Fnatic Rising +5.5",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Fnatic Rising +5.5<div class=\"qbs-NormalBetItem_Handicap \"></div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Гандикап на раунды</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Young Ninjas v Fnatic Rising</div></div>",
+    "test": "HANDICAP__P2(5.5)"
+  },
+  {
+    "team1": "Young Ninjas",
+    "team2": "Fnatic Rising",
+    "type": "Тотал раундов - Меньшe (66.5)",
+    "coff": "1.80",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньшe<div class=\"qbs-NormalBetItem_Handicap \">66.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.80</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал раундов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Young Ninjas v Fnatic Rising</div></div>",
+    "test": "TOTALS__UNDER(66.5)"
+  },
+  {
+    "team1": "Young Ninjas",
+    "team2": "Fnatic Rising",
+    "type": "Карта 1 - Победитель - Young Ninjas",
+    "coff": "1.57",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Young Ninjas</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.57</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 1 - Победитель</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Young Ninjas v Fnatic Rising</div></div>",
+    "test": "SET_01__WIN__P1"
+  },
+  {
+    "team1": "Young Ninjas",
+    "team2": "Fnatic Rising",
+    "type": "Карта 1 - Гандикап на раунды - Young Ninjas (-2.5)",
+    "coff": "1.80",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Young Ninjas<div class=\"qbs-NormalBetItem_Handicap \">-2.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.80</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 1 - Гандикап на раунды</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Young Ninjas v Fnatic Rising</div></div>",
+    "test": "SET_01__HANDICAP__P1(-2.5)"
+  },
+  {
+    "team1": "Young Ninjas",
+    "team2": "Fnatic Rising",
+    "type": "Карта 1 - Тотал раундов - Больше (26.5)",
+    "coff": "1.80",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше<div class=\"qbs-NormalBetItem_Handicap \">26.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.80</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 1 - Тотал раундов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Young Ninjas v Fnatic Rising</div></div>",
+    "test": "SET_01__TOTALS__OVER(26.5)"
+  },
+  {
+    "team1": "Young Ninjas",
+    "team2": "Fnatic Rising",
+    "type": "Карта 1 - Победитель - Fnatic Rising",
+    "coff": "2.25",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Fnatic Rising</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.25</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 1 - Победитель</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Young Ninjas v Fnatic Rising</div></div>",
+    "test": "SET_01__WIN__P2"
+  },
+  {
+    "team1": "Young Ninjas",
+    "team2": "Fnatic Rising",
+    "type": "Карта 1 - Гандикап на раунды - Fnatic Rising (+2.5)",
+    "coff": "1.90",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Fnatic Rising<div class=\"qbs-NormalBetItem_Handicap \">+2.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.90</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 1 - Гандикап на раунды</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Young Ninjas v Fnatic Rising</div></div>",
+    "test": "SET_01__HANDICAP__P2(2.5)"
+  },
+  {
+    "team1": "Young Ninjas",
+    "team2": "Fnatic Rising",
+    "type": "Карта 1 - Тотал раундов - Меньшe (26.5)",
+    "coff": "1.90",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньшe<div class=\"qbs-NormalBetItem_Handicap \">26.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.90</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 1 - Тотал раундов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Young Ninjas v Fnatic Rising</div></div>",
+    "test": "SET_01__TOTALS__UNDER(26.5)"
+  },
+  {
+    "team1": "Young Ninjas",
+    "team2": "Fnatic Rising",
+    "type": "Карта 1 - 1-я половина - Победитель - Young Ninjas",
+    "coff": "1.66",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Young Ninjas</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.66</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 1 - 1-я половина - Победитель</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Young Ninjas v Fnatic Rising</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Young Ninjas",
+    "team2": "Fnatic Rising",
+    "type": "Карта 1 - 1-я половина - Гандикап на раунды - Young Ninjas (-2.5)",
+    "coff": "2.20",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Young Ninjas<div class=\"qbs-NormalBetItem_Handicap \">-2.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.20</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 1 - 1-я половина - Гандикап на раунды</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Young Ninjas v Fnatic Rising</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Young Ninjas",
+    "team2": "Fnatic Rising",
+    "type": "Карта 1 - 1-я половина - Победитель - Fnatic Rising",
+    "coff": "2.10",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Fnatic Rising</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.10</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 1 - 1-я половина - Победитель</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Young Ninjas v Fnatic Rising</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Young Ninjas",
+    "team2": "Fnatic Rising",
+    "type": "Карта 1 - 1-я половина - Гандикап на раунды - Fnatic Rising (+2.5)",
+    "coff": "1.61",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Fnatic Rising<div class=\"qbs-NormalBetItem_Handicap \">+2.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.61</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 1 - 1-я половина - Гандикап на раунды</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Young Ninjas v Fnatic Rising</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Young Ninjas",
+    "team2": "Fnatic Rising",
+    "type": "Карта 2 - Победитель - Young Ninjas",
+    "coff": "1.57",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Young Ninjas</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.57</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Победитель</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Young Ninjas v Fnatic Rising</div></div>",
+    "test": "SET_02__WIN__P1"
+  },
+  {
+    "team1": "Young Ninjas",
+    "team2": "Fnatic Rising",
+    "type": "Карта 2 - Гандикап на раунды - Young Ninjas (-2.5)",
+    "coff": "1.80",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Young Ninjas<div class=\"qbs-NormalBetItem_Handicap \">-2.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.80</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Гандикап на раунды</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Young Ninjas v Fnatic Rising</div></div>",
+    "test": "SET_02__HANDICAP__P1(-2.5)"
+  },
+  {
+    "team1": "Young Ninjas",
+    "team2": "Fnatic Rising",
+    "type": "Карта 2 - Тотал раундов - Больше (26.5)",
+    "coff": "1.80",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше<div class=\"qbs-NormalBetItem_Handicap \">26.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.80</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Тотал раундов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Young Ninjas v Fnatic Rising</div></div>",
+    "test": "SET_02__TOTALS__OVER(26.5)"
+  },
+  {
+    "team1": "Young Ninjas",
+    "team2": "Fnatic Rising",
+    "type": "Карта 2 - Победитель - Fnatic Rising",
+    "coff": "2.25",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Fnatic Rising</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.25</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Победитель</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Young Ninjas v Fnatic Rising</div></div>",
+    "test": "SET_02__WIN__P2"
+  },
+  {
+    "team1": "Young Ninjas",
+    "team2": "Fnatic Rising",
+    "type": "Карта 2 - Гандикап на раунды - Fnatic Rising (+2.5)",
+    "coff": "1.90",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Fnatic Rising<div class=\"qbs-NormalBetItem_Handicap \">+2.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.90</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Гандикап на раунды</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Young Ninjas v Fnatic Rising</div></div>",
+    "test": "SET_02__HANDICAP__P2(2.5)"
+  },
+  {
+    "team1": "Young Ninjas",
+    "team2": "Fnatic Rising",
+    "type": "Карта 2 - Тотал раундов - Меньшe (26.5)",
+    "coff": "1.90",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньшe<div class=\"qbs-NormalBetItem_Handicap \">26.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.90</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Тотал раундов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Young Ninjas v Fnatic Rising</div></div>",
+    "test": "SET_02__TOTALS__UNDER(26.5)"
+  },
+  {
+    "team1": "Young Ninjas",
+    "team2": "Fnatic Rising",
+    "type": "Карта 2 - 1-я половина - Победитель - Young Ninjas",
+    "coff": "1.66",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Young Ninjas</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.66</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - 1-я половина - Победитель</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Young Ninjas v Fnatic Rising</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Young Ninjas",
+    "team2": "Fnatic Rising",
+    "type": "Карта 2 - 1-я половина - Гандикап на раунды - Young Ninjas (-2.5)",
+    "coff": "2.20",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Young Ninjas<div class=\"qbs-NormalBetItem_Handicap \">-2.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.20</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - 1-я половина - Гандикап на раунды</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Young Ninjas v Fnatic Rising</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Young Ninjas",
+    "team2": "Fnatic Rising",
+    "type": "Карта 2 - 1-я половина - Победитель - Fnatic Rising",
+    "coff": "2.10",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Fnatic Rising</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.10</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - 1-я половина - Победитель</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Young Ninjas v Fnatic Rising</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Young Ninjas",
+    "team2": "Fnatic Rising",
+    "type": "Карта 2 - 1-я половина - Гандикап на раунды - Fnatic Rising (+2.5)",
+    "coff": "1.61",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Fnatic Rising<div class=\"qbs-NormalBetItem_Handicap \">+2.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.61</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - 1-я половина - Гандикап на раунды</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Young Ninjas v Fnatic Rising</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Победитель - Team Vitality",
+    "coff": "1.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.50</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Победитель</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__WIN__P1"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Гандикап на раунды - Team Vitality (-3.5)",
+    "coff": "2.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality<div class=\"qbs-NormalBetItem_Handicap \">-3.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Гандикап на раунды</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__HANDICAP__P1(-3.5)"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Тотал раундов - Больше (26.5)",
+    "coff": "1.72",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше<div class=\"qbs-NormalBetItem_Handicap \">26.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.72</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Тотал раундов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__TOTALS__OVER(26.5)"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Победитель - Team Spirit",
+    "coff": "2.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.50</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Победитель</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__WIN__P2"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Гандикап на раунды - Team Spirit (+3.5)",
+    "coff": "1.72",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit<div class=\"qbs-NormalBetItem_Handicap \">+3.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.72</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Гандикап на раунды</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__HANDICAP__P2(3.5)"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Тотал раундов - Меньшe (26.5)",
+    "coff": "2.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньшe<div class=\"qbs-NormalBetItem_Handicap \">26.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Тотал раундов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__TOTALS__UNDER(26.5)"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Гандикап на убийства - Team Vitality (-7.5)",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality<div class=\"qbs-NormalBetItem_Handicap \">-7.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Гандикап на убийства</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Гандикап на убийства - Team Spirit (+7.5)",
+    "coff": "1.83",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit<div class=\"qbs-NormalBetItem_Handicap \">+7.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Гандикап на убийства</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Альтернативный гандикап на раунды - Team Vitality (-6.5)",
+    "coff": "3.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality<div class=\"qbs-NormalBetItem_Handicap \">-6.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.50</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Альтернативный гандикап на раунды</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__HANDICAP__P1(-6.5)"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Альтернативный гандикап на раунды - Team Vitality (-5.5)",
+    "coff": "2.75",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality<div class=\"qbs-NormalBetItem_Handicap \">-5.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.75</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Альтернативный гандикап на раунды</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__HANDICAP__P1(-5.5)"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Альтернативный гандикап на раунды - Team Vitality (-4.5)",
+    "coff": "2.37",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality<div class=\"qbs-NormalBetItem_Handicap \">-4.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.37</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Альтернативный гандикап на раунды</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__HANDICAP__P1(-4.5)"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Альтернативный гандикап на раунды - Team Vitality (-2.5)",
+    "coff": "1.72",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality<div class=\"qbs-NormalBetItem_Handicap \">-2.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.72</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Альтернативный гандикап на раунды</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__HANDICAP__P1(-2.5)"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Альтернативный гандикап на раунды - Team Vitality (+2.5)",
+    "coff": "1.36",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality<div class=\"qbs-NormalBetItem_Handicap \">+2.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.36</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Альтернативный гандикап на раунды</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__HANDICAP__P1(2.5)"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Альтернативный гандикап на раунды - Team Vitality (+3.5)",
+    "coff": "1.25",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality<div class=\"qbs-NormalBetItem_Handicap \">+3.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.25</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Альтернативный гандикап на раунды</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__HANDICAP__P1(3.5)"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Альтернативный гандикап на раунды - Team Spirit (+6.5)",
+    "coff": "1.28",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit<div class=\"qbs-NormalBetItem_Handicap \">+6.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.28</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Альтернативный гандикап на раунды</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__HANDICAP__P2(6.5)"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Альтернативный гандикап на раунды - Team Spirit (+5.5)",
+    "coff": "1.40",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit<div class=\"qbs-NormalBetItem_Handicap \">+5.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.40</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Альтернативный гандикап на раунды</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__HANDICAP__P2(5.5)"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Альтернативный гандикап на раунды - Team Spirit (+4.5)",
+    "coff": "1.53",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit<div class=\"qbs-NormalBetItem_Handicap \">+4.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.53</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Альтернативный гандикап на раунды</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__HANDICAP__P2(4.5)"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Альтернативный гандикап на раунды - Team Spirit (+2.5)",
+    "coff": "2.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit<div class=\"qbs-NormalBetItem_Handicap \">+2.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Альтернативный гандикап на раунды</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__HANDICAP__P2(2.5)"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Альтернативный гандикап на раунды - Team Spirit (-2.5)",
+    "coff": "3.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit<div class=\"qbs-NormalBetItem_Handicap \">-2.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Альтернативный гандикап на раунды</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__HANDICAP__P2(-2.5)"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Альтернативный гандикап на раунды - Team Spirit (-3.5)",
+    "coff": "3.75",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit<div class=\"qbs-NormalBetItem_Handicap \">-3.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.75</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Альтернативный гандикап на раунды</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__HANDICAP__P2(-3.5)"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Альтернативный гандикап на убийства - Team Vitality (-22.5)",
+    "coff": "3.75",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality<div class=\"qbs-NormalBetItem_Handicap \">-22.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.75</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Альтернативный гандикап на убийства</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Альтернативный гандикап на убийства - Team Vitality (-17.5)",
+    "coff": "2.75",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality<div class=\"qbs-NormalBetItem_Handicap \">-17.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.75</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Альтернативный гандикап на убийства</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Альтернативный гандикап на убийства - Team Vitality (-12.5)",
+    "coff": "2.20",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality<div class=\"qbs-NormalBetItem_Handicap \">-12.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.20</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Альтернативный гандикап на убийства</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Альтернативный гандикап на убийства - Team Vitality (-2.5)",
+    "coff": "1.61",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality<div class=\"qbs-NormalBetItem_Handicap \">-2.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.61</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Альтернативный гандикап на убийства</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Альтернативный гандикап на убийства - Team Vitality (+2.5)",
+    "coff": "1.44",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality<div class=\"qbs-NormalBetItem_Handicap \">+2.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.44</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Альтернативный гандикап на убийства</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Альтернативный гандикап на убийства - Team Spirit (+22.5)",
+    "coff": "1.25",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit<div class=\"qbs-NormalBetItem_Handicap \">+22.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.25</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Альтернативный гандикап на убийства</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Альтернативный гандикап на убийства - Team Spirit (+17.5)",
+    "coff": "1.40",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit<div class=\"qbs-NormalBetItem_Handicap \">+17.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.40</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Альтернативный гандикап на убийства</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Альтернативный гандикап на убийства - Team Spirit (+12.5)",
+    "coff": "1.61",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit<div class=\"qbs-NormalBetItem_Handicap \">+12.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.61</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Альтернативный гандикап на убийства</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Альтернативный гандикап на убийства - Team Spirit (+2.5)",
+    "coff": "2.20",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit<div class=\"qbs-NormalBetItem_Handicap \">+2.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.20</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Альтернативный гандикап на убийства</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Альтернативный гандикап на убийства - Team Spirit (-2.5)",
+    "coff": "2.62",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit<div class=\"qbs-NormalBetItem_Handicap \">-2.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.62</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Альтернативный гандикап на убийства</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Map 2 - Alternative Total Kills Scored - Больше (155.5)",
+    "coff": "1.30",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше<div class=\"qbs-NormalBetItem_Handicap \">155.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.30</span></span><div class=\"qbs-NormalBetItem_Market \">Map 2 - Alternative Total Kills Scored </div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Map 2 - Alternative Total Kills Scored - Больше (160.5)",
+    "coff": "1.44",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше<div class=\"qbs-NormalBetItem_Handicap \">160.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.44</span></span><div class=\"qbs-NormalBetItem_Market \">Map 2 - Alternative Total Kills Scored </div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Map 2 - Alternative Total Kills Scored - Больше (165.5)",
+    "coff": "1.57",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше<div class=\"qbs-NormalBetItem_Handicap \">165.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.57</span></span><div class=\"qbs-NormalBetItem_Market \">Map 2 - Alternative Total Kills Scored </div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Map 2 - Alternative Total Kills Scored - Больше (170.5)",
+    "coff": "1.80",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше<div class=\"qbs-NormalBetItem_Handicap \">170.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.80</span></span><div class=\"qbs-NormalBetItem_Market \">Map 2 - Alternative Total Kills Scored </div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Map 2 - Alternative Total Kills Scored - Больше (175.5)",
+    "coff": "2.10",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше<div class=\"qbs-NormalBetItem_Handicap \">175.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.10</span></span><div class=\"qbs-NormalBetItem_Market \">Map 2 - Alternative Total Kills Scored </div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Map 2 - Alternative Total Kills Scored - Больше (180.5)",
+    "coff": "2.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше<div class=\"qbs-NormalBetItem_Handicap \">180.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.50</span></span><div class=\"qbs-NormalBetItem_Market \">Map 2 - Alternative Total Kills Scored </div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Map 2 - Alternative Total Kills Scored - Меньшe (155.5)",
+    "coff": "3.40",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньшe<div class=\"qbs-NormalBetItem_Handicap \">155.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.40</span></span><div class=\"qbs-NormalBetItem_Market \">Map 2 - Alternative Total Kills Scored </div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Map 2 - Alternative Total Kills Scored - Меньшe (160.5)",
+    "coff": "2.62",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньшe<div class=\"qbs-NormalBetItem_Handicap \">160.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.62</span></span><div class=\"qbs-NormalBetItem_Market \">Map 2 - Alternative Total Kills Scored </div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Map 2 - Alternative Total Kills Scored - Меньшe (165.5)",
+    "coff": "2.25",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньшe<div class=\"qbs-NormalBetItem_Handicap \">165.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.25</span></span><div class=\"qbs-NormalBetItem_Market \">Map 2 - Alternative Total Kills Scored </div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Map 2 - Alternative Total Kills Scored - Меньшe (170.5)",
+    "coff": "1.90",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньшe<div class=\"qbs-NormalBetItem_Handicap \">170.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.90</span></span><div class=\"qbs-NormalBetItem_Market \">Map 2 - Alternative Total Kills Scored </div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Map 2 - Alternative Total Kills Scored - Меньшe (175.5)",
+    "coff": "1.66",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньшe<div class=\"qbs-NormalBetItem_Handicap \">175.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.66</span></span><div class=\"qbs-NormalBetItem_Market \">Map 2 - Alternative Total Kills Scored </div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Map 2 - Alternative Total Kills Scored - Меньшe (180.5)",
+    "coff": "1.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньшe<div class=\"qbs-NormalBetItem_Handicap \">180.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.50</span></span><div class=\"qbs-NormalBetItem_Market \">Map 2 - Alternative Total Kills Scored </div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Альтернативный тотал раундов - Больше (22.5)",
+    "coff": "1.12",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше<div class=\"qbs-NormalBetItem_Handicap \">22.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.12</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Альтернативный тотал раундов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__TOTALS__OVER(22.5)"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Альтернативный тотал раундов - Больше (23.5)",
+    "coff": "1.20",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше<div class=\"qbs-NormalBetItem_Handicap \">23.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.20</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Альтернативный тотал раундов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__TOTALS__OVER(23.5)"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Альтернативный тотал раундов - Больше (24.5)",
+    "coff": "1.33",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше<div class=\"qbs-NormalBetItem_Handicap \">24.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.33</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Альтернативный тотал раундов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__TOTALS__OVER(24.5)"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Альтернативный тотал раундов - Больше (25.5)",
+    "coff": "1.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше<div class=\"qbs-NormalBetItem_Handicap \">25.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.50</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Альтернативный тотал раундов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__TOTALS__OVER(25.5)"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Альтернативный тотал раундов - Больше (27.5)",
+    "coff": "2.10",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше<div class=\"qbs-NormalBetItem_Handicap \">27.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.10</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Альтернативный тотал раундов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__TOTALS__OVER(27.5)"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Альтернативный тотал раундов - Больше (28.5)",
+    "coff": "2.75",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше<div class=\"qbs-NormalBetItem_Handicap \">28.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.75</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Альтернативный тотал раундов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__TOTALS__OVER(28.5)"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Альтернативный тотал раундов - Меньшe (22.5)",
+    "coff": "5.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньшe<div class=\"qbs-NormalBetItem_Handicap \">22.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>5.50</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Альтернативный тотал раундов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__TOTALS__UNDER(22.5)"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Альтернативный тотал раундов - Меньшe (23.5)",
+    "coff": "4.33",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньшe<div class=\"qbs-NormalBetItem_Handicap \">23.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>4.33</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Альтернативный тотал раундов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__TOTALS__UNDER(23.5)"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Альтернативный тотал раундов - Меньшe (24.5)",
+    "coff": "3.25",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньшe<div class=\"qbs-NormalBetItem_Handicap \">24.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.25</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Альтернативный тотал раундов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__TOTALS__UNDER(24.5)"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Альтернативный тотал раундов - Меньшe (25.5)",
+    "coff": "2.50",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньшe<div class=\"qbs-NormalBetItem_Handicap \">25.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.50</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Альтернативный тотал раундов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__TOTALS__UNDER(25.5)"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Альтернативный тотал раундов - Меньшe (27.5)",
+    "coff": "1.66",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньшe<div class=\"qbs-NormalBetItem_Handicap \">27.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.66</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Альтернативный тотал раундов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__TOTALS__UNDER(27.5)"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Альтернативный тотал раундов - Меньшe (28.5)",
+    "coff": "1.40",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньшe<div class=\"qbs-NormalBetItem_Handicap \">28.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.40</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Альтернативный тотал раундов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__TOTALS__UNDER(28.5)"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Точный счёт раунда - Team Vitality 16-0",
+    "coff": "251.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality 16-0</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>251.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Точный счёт раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Точный счёт раунда - Team Vitality 16-1",
+    "coff": "81.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality 16-1</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>81.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Точный счёт раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Точный счёт раунда - Team Vitality 16-2",
+    "coff": "41.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality 16-2</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>41.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Точный счёт раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Точный счёт раунда - Team Vitality 16-3",
+    "coff": "34.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality 16-3</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>34.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Точный счёт раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Точный счёт раунда - Team Vitality 16-4",
+    "coff": "26.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality 16-4</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>26.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Точный счёт раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Точный счёт раунда - Team Vitality 16-5",
+    "coff": "21.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality 16-5</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>21.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Точный счёт раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Точный счёт раунда - Team Vitality 16-6",
+    "coff": "17.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality 16-6</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>17.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Точный счёт раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Точный счёт раунда - Team Vitality 16-7",
+    "coff": "13.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality 16-7</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>13.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Точный счёт раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Точный счёт раунда - Team Vitality 16-8",
+    "coff": "12.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality 16-8</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>12.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Точный счёт раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Точный счёт раунда - Team Vitality 16-9",
+    "coff": "11.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality 16-9</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>11.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Точный счёт раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Точный счёт раунда - Team Vitality 16-10",
+    "coff": "10.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality 16-10</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>10.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Точный счёт раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Точный счёт раунда - Team Vitality 16-11",
+    "coff": "10.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality 16-11</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>10.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Точный счёт раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Точный счёт раунда - Team Vitality 16-12",
+    "coff": "10.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality 16-12</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>10.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Точный счёт раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Точный счёт раунда - Team Vitality 16-13",
+    "coff": "10.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality 16-13</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>10.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Точный счёт раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Точный счёт раунда - Team Vitality 16-14",
+    "coff": "11.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality 16-14</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>11.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Точный счёт раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Точный счёт раунда - Team Spirit 16-0",
+    "coff": "501.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit 16-0</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>501.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Точный счёт раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Точный счёт раунда - Team Spirit 16-1",
+    "coff": "201.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit 16-1</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>201.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Точный счёт раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Точный счёт раунда - Team Spirit 16-2",
+    "coff": "101.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit 16-2</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>101.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Точный счёт раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Точный счёт раунда - Team Spirit 16-3",
+    "coff": "67.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit 16-3</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>67.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Точный счёт раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Точный счёт раунда - Team Spirit 16-4",
+    "coff": "51.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit 16-4</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>51.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Точный счёт раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Точный счёт раунда - Team Spirit 16-5",
+    "coff": "41.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit 16-5</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>41.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Точный счёт раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Точный счёт раунда - Team Spirit 16-6",
+    "coff": "34.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit 16-6</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>34.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Точный счёт раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Точный счёт раунда - Team Spirit 16-7",
+    "coff": "26.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit 16-7</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>26.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Точный счёт раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Точный счёт раунда - Team Spirit 16-8",
+    "coff": "21.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit 16-8</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>21.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Точный счёт раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Точный счёт раунда - Team Spirit 16-9",
+    "coff": "19.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit 16-9</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>19.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Точный счёт раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Точный счёт раунда - Team Spirit 16-10",
+    "coff": "17.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit 16-10</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>17.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Точный счёт раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Точный счёт раунда - Team Spirit 16-11",
+    "coff": "15.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit 16-11</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>15.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Точный счёт раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Точный счёт раунда - Team Spirit 16-12",
+    "coff": "13.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit 16-12</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>13.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Точный счёт раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Точный счёт раунда - Team Spirit 16-13",
+    "coff": "13.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit 16-13</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>13.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Точный счёт раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Точный счёт раунда - Team Spirit 16-14",
+    "coff": "13.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit 16-14</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>13.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Точный счёт раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Точный счёт раунда - 15-15",
+    "coff": "7.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">15-15</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>7.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Точный счёт раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Гонка до 3 раундов - Team Vitality",
+    "coff": "1.72",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.72</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Гонка до 3 раундов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__FIRST_TO_SCORE__03__P1"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Гонка до 6 раундов - Team Vitality",
+    "coff": "1.66",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.66</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Гонка до 6 раундов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__FIRST_TO_SCORE__06__P1"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Гонка до 9 раундов - Team Vitality",
+    "coff": "1.61",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.61</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Гонка до 9 раундов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__FIRST_TO_SCORE__09__P1"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Гонка до 12 раундов - Team Vitality",
+    "coff": "1.57",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.57</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Гонка до 12 раундов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__FIRST_TO_SCORE__12__P1"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Гонка до 15 раундов - Team Vitality",
+    "coff": "1.53",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.53</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Гонка до 15 раундов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__FIRST_TO_SCORE__15__P1"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Гонка до 3 раундов - Team Spirit",
+    "coff": "2.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Гонка до 3 раундов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__FIRST_TO_SCORE__03__P2"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Гонка до 6 раундов - Team Spirit",
+    "coff": "2.10",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.10</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Гонка до 6 раундов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__FIRST_TO_SCORE__06__P2"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Гонка до 9 раундов - Team Spirit",
+    "coff": "2.20",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.20</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Гонка до 9 раундов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__FIRST_TO_SCORE__09__P2"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Гонка до 12 раундов - Team Spirit",
+    "coff": "2.25",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.25</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Гонка до 12 раундов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__FIRST_TO_SCORE__12__P2"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Гонка до 15 раундов - Team Spirit",
+    "coff": "2.37",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.37</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Гонка до 15 раундов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__FIRST_TO_SCORE__15__P2"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Победный перевес - Team Vitality - 2-5",
+    "coff": "2.87",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality - 2-5</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.87</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Победный перевес</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Победный перевес - Team Vitality - 6-9",
+    "coff": "4.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality - 6-9</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>4.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Победный перевес</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Победный перевес - Team Vitality - 10-13",
+    "coff": "8.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality - 10-13</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>8.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Победный перевес</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Победный перевес - Team Vitality - 14+",
+    "coff": "41.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality - 14+</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>41.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Победный перевес</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Победный перевес - Team Spirit - 2-5",
+    "coff": "3.75",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit - 2-5</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.75</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Победный перевес</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Победный перевес - Team Spirit - 6-9",
+    "coff": "7.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit - 6-9</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>7.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Победный перевес</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Победный перевес - Team Spirit - 10-13",
+    "coff": "21.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit - 10-13</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>21.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Победный перевес</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Победный перевес - Team Spirit - 14+",
+    "coff": "101.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit - 14+</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>101.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Победный перевес</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Победитель карты и Тотал раундов - Team Vitality и Выше (26.5)",
+    "coff": "2.87",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality и Выше <div class=\"qbs-NormalBetItem_Handicap \">26.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.87</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Победитель карты и Тотал раундов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Победитель карты и Тотал раундов - Team Vitality и Ниже (26.5)",
+    "coff": "2.87",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality и Ниже <div class=\"qbs-NormalBetItem_Handicap \">26.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.87</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Победитель карты и Тотал раундов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Победитель карты и Тотал раундов - Team Spirit и Выше (26.5)",
+    "coff": "4.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit и Выше <div class=\"qbs-NormalBetItem_Handicap \">26.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>4.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Победитель карты и Тотал раундов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Победитель карты и Тотал раундов - Team Spirit и Ниже (26.5)",
+    "coff": "6.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit и Ниже <div class=\"qbs-NormalBetItem_Handicap \">26.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>6.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Победитель карты и Тотал раундов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Победитель 1-й половины и Карты - Team Vitality - Team Vitality",
+    "coff": "1.90",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality - Team Vitality</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.90</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Победитель 1-й половины и Карты</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Победитель 1-й половины и Карты - Team Vitality - Team Spirit",
+    "coff": "8.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality - Team Spirit</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>8.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Победитель 1-й половины и Карты</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Победитель 1-й половины и Карты - Team Spirit - Team Spirit",
+    "coff": "3.25",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit - Team Spirit</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.25</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Победитель 1-й половины и Карты</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Победитель 1-й половины и Карты - Team Spirit - Team Vitality",
+    "coff": "6.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit - Team Vitality</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>6.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Победитель 1-й половины и Карты</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Выиграет оба пистолетных раунда - Team Vitality и Да",
+    "coff": "3.25",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality и Да</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>3.25</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Выиграет оба пистолетных раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Выиграет оба пистолетных раунда - Team Vitality и Нет",
+    "coff": "1.33",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality и Нет</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.33</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Выиграет оба пистолетных раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Выиграет оба пистолетных раунда - Team Spirit и Да",
+    "coff": "4.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit и Да</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>4.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Выиграет оба пистолетных раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Выиграет оба пистолетных раунда - Team Spirit и Нет",
+    "coff": "1.22",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit и Нет</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.22</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Выиграет оба пистолетных раунда</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Выиграет оба пистолетных раунда и карту - Team Vitality и Да",
+    "coff": "4.33",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality и Да</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>4.33</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Выиграет оба пистолетных раунда и карту</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Выиграет оба пистолетных раунда и карту - Team Vitality и Нет",
+    "coff": "1.20",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality и Нет</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.20</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Выиграет оба пистолетных раунда и карту</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Выиграет оба пистолетных раунда и карту - Team Spirit и Да",
+    "coff": "7.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit и Да</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>7.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Выиграет оба пистолетных раунда и карту</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Выиграет оба пистолетных раунда и карту - Team Spirit и Нет",
+    "coff": "1.083",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit и Нет</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.083</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Выиграет оба пистолетных раунда и карту</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Тотал раундов нечёт/чёт - нечёт",
+    "coff": "2.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">нечёт</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Тотал раундов нечёт/чёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__TOTALS__ODD"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Тотал раундов нечёт/чёт - чёт",
+    "coff": "1.72",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">чёт</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.72</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Тотал раундов нечёт/чёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__TOTALS__EVEN"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Раунд 1 - Победитель - Team Vitality",
+    "coff": "1.72",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.72</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Раунд 1 - Победитель</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__WHO_SCORE__01__P1"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Раунд 1 - Первое убийство - Team Vitality",
+    "coff": "1.80",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.80</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Раунд 1 - Первое убийство</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Раунд 1 - Тотал убийств - Больше (7.5)",
+    "coff": "2.37",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше<div class=\"qbs-NormalBetItem_Handicap \">7.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.37</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Раунд 1 - Тотал убийств</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Раунд 1 - Победитель - Team Spirit",
+    "coff": "2.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Раунд 1 - Победитель</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": "SET_02__WHO_SCORE__01__P2"
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Раунд 1 - Первое убийство - Team Spirit",
+    "coff": "1.90",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.90</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Раунд 1 - Первое убийство</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Раунд 1 - Тотал убийств - Меньшe (7.5)",
+    "coff": "1.53",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньшe<div class=\"qbs-NormalBetItem_Handicap \">7.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.53</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Раунд 1 - Тотал убийств</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Раунд 1 - Команда - Тотал убийств - Team Vitality (Раунд 1) - Больше (4.5)",
+    "coff": "2.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality (Раунд 1) - Больше<div class=\"qbs-NormalBetItem_Handicap \">4.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Раунд 1 - Команда - Тотал убийств</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Раунд 1 - Команда - Тотал убийств - Team Vitality (Раунд 1) - Меньше (4.5)",
+    "coff": "1.72",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Vitality (Раунд 1) - Меньше<div class=\"qbs-NormalBetItem_Handicap \">4.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.72</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Раунд 1 - Команда - Тотал убийств</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Раунд 1 - Команда - Тотал убийств - Team Spirit (Раунд 1) - Больше (3.5)",
+    "coff": "1.72",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit (Раунд 1) - Больше<div class=\"qbs-NormalBetItem_Handicap \">3.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.72</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Раунд 1 - Команда - Тотал убийств</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Раунд 1 - Команда - Тотал убийств - Team Spirit (Раунд 1) - Меньше (3.5)",
+    "coff": "2.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Team Spirit (Раунд 1) - Меньше<div class=\"qbs-NormalBetItem_Handicap \">3.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Раунд 1 - Команда - Тотал убийств</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Раунд 1 - Метод победы - Убийство всех игроков команды",
+    "coff": "1.22",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Убийство всех игроков команды</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.22</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Раунд 1 - Метод победы</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "Team Spirit",
+    "type": "Карта 2 - Раунд 1 - Метод победы - Взрыв бомбы",
+    "coff": "15.00",
+    "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Взрыв бомбы</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>15.00</span></span><div class=\"qbs-NormalBetItem_Market \">Карта 2 - Раунд 1 - Метод победы</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Team Vitality v Team Spirit</div></div>",
+    "test": ""
+  }
+]

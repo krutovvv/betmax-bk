@@ -5,7 +5,7 @@
     "type": "Победа в матче П1",
     "coff": "1.07",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Победа в матче П1</span> <span class=\"bet coef-change\"><span>\n                    1.07\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "WIN_OT__P1"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -13,7 +13,7 @@
     "type": "Победа в матче П2",
     "coff": "7.96",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Победа в матче П2</span> <span class=\"bet coef-change gc_lite\"><span>\n                    7.96\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "WIN_OT__P2"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -21,7 +21,7 @@
     "type": "Двойной шанс на основное время 1Х",
     "coff": "1.032",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Двойной шанс на основное время 1Х</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.032\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "WIN_RT__1X"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -29,7 +29,7 @@
     "type": "Двойной шанс на основное время 12",
     "coff": "1.01",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Двойной шанс на основное время 12</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.01\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "WIN_RT__12"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -37,7 +37,7 @@
     "type": "Двойной шанс на основное время 2Х",
     "coff": "5.57",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Двойной шанс на основное время 2Х</span> <span class=\"bet coef-change gc_lite\"><span>\n                    5.57\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "WIN_RT__X2"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -45,7 +45,7 @@
     "type": "Азиатский тотал 178.25 Б",
     "coff": "1.81",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Азиатский тотал 178.25 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.81\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__OVER(178.25)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -53,7 +53,7 @@
     "type": "Азиатский тотал 178.25 М",
     "coff": "1.89",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Азиатский тотал 178.25 М</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.89\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__UNDER(178.25)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -61,7 +61,7 @@
     "type": "Азиатский тотал 178.75 Б",
     "coff": "1.85",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Азиатский тотал 178.75 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.85\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__OVER(178.75)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -69,7 +69,7 @@
     "type": "Азиатский тотал 178.75 М",
     "coff": "1.85",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Азиатский тотал 178.75 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.85\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__UNDER(178.75)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -125,7 +125,7 @@
     "type": "Азиатская фора 1 -14.75",
     "coff": "1.85",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Азиатская фора 1 -14.75</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.85\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_OT__P1(-14.75)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -133,7 +133,7 @@
     "type": "Азиатская фора 2 14.75",
     "coff": "1.85",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Азиатская фора 2 14.75</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.85\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_OT__P2(14.75)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -141,7 +141,7 @@
     "type": "Азиатская фора 1 -14.25",
     "coff": "1.8",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Азиатская фора 1 -14.25</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.8\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_OT__P1(-14.25)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -149,7 +149,7 @@
     "type": "Азиатская фора 2 14.25",
     "coff": "1.9",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Азиатская фора 2 14.25</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.9\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_OT__P2(14.25)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -157,7 +157,7 @@
     "type": "Азиатский индивидуальный тотал 1-го 96.25 Б",
     "coff": "1.78",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Азиатский индивидуальный тотал 1-го 96.25 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.78\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P1__TOTALS_OT__OVER(96.25)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -165,7 +165,7 @@
     "type": "Азиатский индивидуальный тотал 1-го 96.25 М",
     "coff": "1.92",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Азиатский индивидуальный тотал 1-го 96.25 М</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.92\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P1__TOTALS_OT__UNDER(96.25)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -173,7 +173,7 @@
     "type": "Азиатский индивидуальный тотал 1-го 96.75 Б",
     "coff": "1.87",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Азиатский индивидуальный тотал 1-го 96.75 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.87\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P1__TOTALS_OT__OVER(96.75)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -181,7 +181,7 @@
     "type": "Азиатский индивидуальный тотал 1-го 96.75 М",
     "coff": "1.83",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Азиатский индивидуальный тотал 1-го 96.75 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.83\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P1__TOTALS_OT__UNDER(96.75)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -189,7 +189,7 @@
     "type": "Азиатский индивидуальный тотал 2-го 81.25 Б",
     "coff": "1.82",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Азиатский индивидуальный тотал 2-го 81.25 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.82\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P2__TOTALS_OT__OVER(81.25)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -197,7 +197,7 @@
     "type": "Азиатский индивидуальный тотал 2-го 81.25 М",
     "coff": "1.88",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Азиатский индивидуальный тотал 2-го 81.25 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.88\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P2__TOTALS_OT__UNDER(81.25)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -205,7 +205,7 @@
     "type": "Азиатский индивидуальный тотал 2-го 81.75 Б",
     "coff": "1.91",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Азиатский индивидуальный тотал 2-го 81.75 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.91\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P2__TOTALS_OT__OVER(81.75)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -213,7 +213,7 @@
     "type": "Азиатский индивидуальный тотал 2-го 81.75 М",
     "coff": "1.79",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Азиатский индивидуальный тотал 2-го 81.75 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.79\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P2__TOTALS_OT__UNDER(81.75)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -221,7 +221,7 @@
     "type": "Тотал чет Да",
     "coff": "1.9",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Тотал чет Да</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.9\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__EVEN"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -229,7 +229,7 @@
     "type": "Тотал чет Нет",
     "coff": "1.9",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Тотал чет Нет</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.9\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__ODD"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -381,7 +381,7 @@
     "type": "Индивидуальный трехпутевой тотал 2 Больше 79",
     "coff": "1.6",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный трехпутевой тотал 2 Больше 79</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.6\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P2__TOTALS_OT__OVER(79.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -389,7 +389,7 @@
     "type": "Индивидуальный трехпутевой тотал 2 Ровно 79",
     "coff": "6.7",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный трехпутевой тотал 2 Ровно 79</span> <span class=\"bet coef-change gc_lite\"><span>\n                    6.7\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P2__TOTALS_OT__EXACT(79)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -397,7 +397,7 @@
     "type": "Индивидуальный трехпутевой тотал 2 Меньше 79",
     "coff": "2.39",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный трехпутевой тотал 2 Меньше 79</span> <span class=\"bet coef-change rc_lite\"><span>\n                    2.39\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P2__TOTALS_OT__UNDER(78.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -405,7 +405,7 @@
     "type": "Индивидуальный трехпутевой тотал 2 Больше 81",
     "coff": "1.93",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный трехпутевой тотал 2 Больше 81</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.93\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P2__TOTALS_OT__OVER(81.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -413,7 +413,7 @@
     "type": "Индивидуальный трехпутевой тотал 2 Ровно 81",
     "coff": "6.64",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный трехпутевой тотал 2 Ровно 81</span> <span class=\"bet coef-change gc_lite\"><span>\n                    6.64\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P2__TOTALS_OT__EXACT(81)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -421,7 +421,7 @@
     "type": "Индивидуальный трехпутевой тотал 2 Меньше 81",
     "coff": "1.93",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный трехпутевой тотал 2 Меньше 81</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.93\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P2__TOTALS_OT__UNDER(80.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -429,7 +429,7 @@
     "type": "Индивидуальный трехпутевой тотал 2 Больше 83",
     "coff": "2.36",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный трехпутевой тотал 2 Больше 83</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.36\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P2__TOTALS_OT__OVER(83.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -437,7 +437,7 @@
     "type": "Индивидуальный трехпутевой тотал 2 Ровно 83",
     "coff": "6.7",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный трехпутевой тотал 2 Ровно 83</span> <span class=\"bet coef-change rc_lite\"><span>\n                    6.7\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P2__TOTALS_OT__EXACT(83)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -445,7 +445,7 @@
     "type": "Индивидуальный трехпутевой тотал 2 Меньше 83",
     "coff": "1.61",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный трехпутевой тотал 2 Меньше 83</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.61\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P2__TOTALS_OT__UNDER(82.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -453,7 +453,7 @@
     "type": "Точное количество очков 140 и менее",
     "coff": "17",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Точное количество очков 140 и менее</span> <span class=\"bet coef-change gc_lite\"><span>\n                    17\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__UNDER(140.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -461,7 +461,7 @@
     "type": "Точное количество очков 141 - 150",
     "coff": "16",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Точное количество очков 141 - 150</span> <span class=\"bet coef-change rc_lite\"><span>\n                    16\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__EXACT(141-150)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -469,7 +469,7 @@
     "type": "Точное количество очков 151 - 160",
     "coff": "14.3",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Точное количество очков 151 - 160</span> <span class=\"bet coef-change rc_lite\"><span>\n                    14.3\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__EXACT(151-160)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -477,7 +477,7 @@
     "type": "Точное количество очков 161 - 170",
     "coff": "3.59",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Точное количество очков 161 - 170</span> <span class=\"bet coef-change rc_lite\"><span>\n                    3.59\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__EXACT(161-170)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -485,7 +485,7 @@
     "type": "Точное количество очков 171 - 180",
     "coff": "2.13",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Точное количество очков 171 - 180</span> <span class=\"bet coef-change rc_lite\"><span>\n                    2.13\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__EXACT(171-180)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -493,7 +493,7 @@
     "type": "Точное количество очков 181 - 190",
     "coff": "2.9",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Точное количество очков 181 - 190</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.9\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__EXACT(181-190)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -501,7 +501,7 @@
     "type": "Точное количество очков 191 - 200",
     "coff": "7.45",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Точное количество очков 191 - 200</span> <span class=\"bet coef-change gc_lite\"><span>\n                    7.45\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__EXACT(191-200)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -509,7 +509,7 @@
     "type": "Точное количество очков 201 - 210",
     "coff": "16",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Точное количество очков 201 - 210</span> <span class=\"bet coef-change gc_lite\"><span>\n                    16\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__EXACT(201-210)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -517,7 +517,7 @@
     "type": "Точное количество очков 211 и более",
     "coff": "17",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Точное количество очков 211 и более</span> <span class=\"bet coef-change gc_lite\"><span>\n                    17\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__OVER(210.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -525,7 +525,7 @@
     "type": "1x2 на основное время П1",
     "coff": "1.08",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">1x2 на основное время П1</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.08\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "WIN_RT__P1"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -533,7 +533,7 @@
     "type": "1x2 на основное время Х",
     "coff": "12",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">1x2 на основное время Х</span> <span class=\"bet coef-change gc_lite\"><span>\n                    12\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "WIN_RT__PX"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -541,7 +541,7 @@
     "type": "1x2 на основное время П2",
     "coff": "9.63",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">1x2 на основное время П2</span> <span class=\"bet coef-change rc_lite\"><span>\n                    9.63\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "WIN_RT__P2"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -549,7 +549,7 @@
     "type": "Тотал 171.5 Б",
     "coff": "1.4",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Тотал 171.5 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.4\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__OVER(171.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -557,7 +557,7 @@
     "type": "Тотал 171.5 М",
     "coff": "2.6",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Тотал 171.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    2.6\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__UNDER(171.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -565,7 +565,7 @@
     "type": "Тотал 172.5 Б",
     "coff": "1.49",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Тотал 172.5 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.49\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__OVER(172.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -573,7 +573,7 @@
     "type": "Тотал 172.5 М",
     "coff": "2.37",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Тотал 172.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    2.37\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__UNDER(172.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -581,7 +581,7 @@
     "type": "Тотал 173.5 Б",
     "coff": "1.58",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Тотал 173.5 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.58\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__OVER(173.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -589,7 +589,7 @@
     "type": "Тотал 173.5 М",
     "coff": "2.23",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Тотал 173.5 М</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.23\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__UNDER(173.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -597,7 +597,7 @@
     "type": "Тотал 174.5 Б",
     "coff": "1.67",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Тотал 174.5 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.67\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__OVER(174.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -605,7 +605,7 @@
     "type": "Тотал 174.5 М",
     "coff": "1.92",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Тотал 174.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.92\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__UNDER(174.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -613,7 +613,7 @@
     "type": "Тотал 175.5 Б",
     "coff": "1.9",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Тотал 175.5 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.9\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__OVER(175.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -621,7 +621,7 @@
     "type": "Тотал 175.5 М",
     "coff": "1.9",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Тотал 175.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.9\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__UNDER(175.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -629,7 +629,7 @@
     "type": "Тотал 176.5 Б",
     "coff": "1.93",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Тотал 176.5 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.93\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__OVER(176.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -637,7 +637,7 @@
     "type": "Тотал 176.5 М",
     "coff": "1.74",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Тотал 176.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.74\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__UNDER(176.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -645,7 +645,7 @@
     "type": "Тотал 177.5 Б",
     "coff": "2.07",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Тотал 177.5 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.07\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__OVER(177.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -653,7 +653,7 @@
     "type": "Тотал 177.5 М",
     "coff": "1.64",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Тотал 177.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.64\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__UNDER(177.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -661,7 +661,7 @@
     "type": "Тотал 178.5 Б",
     "coff": "2.24",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Тотал 178.5 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.24\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__OVER(178.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -669,7 +669,7 @@
     "type": "Тотал 178.5 М",
     "coff": "1.55",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Тотал 178.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.55\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__UNDER(178.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -677,7 +677,7 @@
     "type": "Тотал 179.5 Б",
     "coff": "2.44",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Тотал 179.5 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.44\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__OVER(179.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -685,7 +685,7 @@
     "type": "Тотал 179.5 М",
     "coff": "1.46",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Тотал 179.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.46\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__UNDER(179.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -693,7 +693,7 @@
     "type": "Тотал 180.5 Б",
     "coff": "2.67",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Тотал 180.5 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.67\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__OVER(180.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -701,7 +701,7 @@
     "type": "Тотал 180.5 М",
     "coff": "1.39",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Тотал 180.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.39\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__UNDER(180.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -709,7 +709,7 @@
     "type": "Тотал 181.5 Б",
     "coff": "2.94",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Тотал 181.5 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.94\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__OVER(181.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -717,7 +717,7 @@
     "type": "Тотал 181.5 М",
     "coff": "1.47",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Тотал 181.5 М</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.47\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__UNDER(181.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -725,7 +725,7 @@
     "type": "Тотал 182.5 Б",
     "coff": "2.67",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Тотал 182.5 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    2.67\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__OVER(182.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -733,7 +733,7 @@
     "type": "Тотал 182.5 М",
     "coff": "1.39",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Тотал 182.5 М</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.39\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__UNDER(182.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -741,7 +741,7 @@
     "type": "Тотал 183.5 Б",
     "coff": "2.94",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Тотал 183.5 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    2.94\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__OVER(183.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -749,7 +749,7 @@
     "type": "Тотал 183.5 М",
     "coff": "1.33",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Тотал 183.5 М</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.33\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__UNDER(183.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -757,7 +757,7 @@
     "type": "Тотал 184.5 Б",
     "coff": "3.26",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Тотал 184.5 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    3.26\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__OVER(184.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -765,7 +765,7 @@
     "type": "Тотал 184.5 М",
     "coff": "1.27",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Тотал 184.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.27\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__UNDER(184.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -773,7 +773,7 @@
     "type": "Тотал 185.5 Б",
     "coff": "3.24",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Тотал 185.5 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    3.24\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__OVER(185.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -781,7 +781,7 @@
     "type": "Тотал 185.5 М",
     "coff": "1.27",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Тотал 185.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.27\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__UNDER(185.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -789,7 +789,7 @@
     "type": "Фора 1 -21.5",
     "coff": "3.16",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора 1 -21.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    3.16\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_OT__P1(-21.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -797,7 +797,7 @@
     "type": "Фора 2 21.5",
     "coff": "1.29",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора 2 21.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.29\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_OT__P2(21.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -805,7 +805,7 @@
     "type": "Фора 1 -20.5",
     "coff": "2.86",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора 1 -20.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    2.86\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_OT__P1(-20.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -813,7 +813,7 @@
     "type": "Фора 2 20.5",
     "coff": "1.38",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора 2 20.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.38\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_OT__P2(20.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -821,7 +821,7 @@
     "type": "Фора 1 -19.5",
     "coff": "2.48",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора 1 -19.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    2.48\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_OT__P1(-19.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -829,7 +829,7 @@
     "type": "Фора 2 19.5",
     "coff": "1.45",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора 2 19.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.45\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_OT__P2(19.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -837,7 +837,7 @@
     "type": "Фора 1 -18.5",
     "coff": "2.27",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора 1 -18.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    2.27\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_OT__P1(-18.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -845,7 +845,7 @@
     "type": "Фора 2 18.5",
     "coff": "1.53",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора 2 18.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.53\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_OT__P2(18.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -853,7 +853,7 @@
     "type": "Фора 1 -17.5",
     "coff": "2.1",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора 1 -17.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    2.1\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_OT__P1(-17.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -861,7 +861,7 @@
     "type": "Фора 2 17.5",
     "coff": "1.62",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора 2 17.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.62\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_OT__P2(17.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -869,7 +869,7 @@
     "type": "Фора 1 -16.5",
     "coff": "1.95",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора 1 -16.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.95\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_OT__P1(-16.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -877,7 +877,7 @@
     "type": "Фора 2 16.5",
     "coff": "1.72",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора 2 16.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.72\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_OT__P2(16.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -885,7 +885,7 @@
     "type": "Фора 1 -15.5",
     "coff": "1.95",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора 1 -15.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.95\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_OT__P1(-15.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -893,7 +893,7 @@
     "type": "Фора 2 15.5",
     "coff": "1.85",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора 2 15.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.85\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_OT__P2(15.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -901,7 +901,7 @@
     "type": "Фора 1 -14.5",
     "coff": "1.76",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора 1 -14.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.76\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_OT__P1(-14.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -909,7 +909,7 @@
     "type": "Фора 2 14.5",
     "coff": "1.93",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора 2 14.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.93\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_OT__P2(14.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -917,7 +917,7 @@
     "type": "Фора 1 -13.5",
     "coff": "1.64",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора 1 -13.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.64\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_OT__P1(-13.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -925,7 +925,7 @@
     "type": "Фора 2 13.5",
     "coff": "2.07",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора 2 13.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.07\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_OT__P2(13.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -933,7 +933,7 @@
     "type": "Фора 1 -12.5",
     "coff": "1.55",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора 1 -12.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.55\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_OT__P1(-12.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -941,7 +941,7 @@
     "type": "Фора 2 12.5",
     "coff": "2.24",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора 2 12.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.24\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_OT__P2(12.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -949,7 +949,7 @@
     "type": "Фора 1 -11.5",
     "coff": "1.46",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора 1 -11.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.46\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_OT__P1(-11.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -957,7 +957,7 @@
     "type": "Фора 2 11.5",
     "coff": "2.44",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора 2 11.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.44\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_OT__P2(11.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -965,7 +965,7 @@
     "type": "Фора 1 -10.5",
     "coff": "1.39",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора 1 -10.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.39\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_OT__P1(-10.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -973,7 +973,7 @@
     "type": "Фора 2 10.5",
     "coff": "2.68",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора 2 10.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.68\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_OT__P2(10.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -981,7 +981,7 @@
     "type": "Фора 1 -9.5",
     "coff": "1.33",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора 1 -9.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.33\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_OT__P1(-9.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -989,7 +989,7 @@
     "type": "Фора 2 9.5",
     "coff": "2.95",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора 2 9.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.95\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_OT__P2(9.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -997,7 +997,7 @@
     "type": "Фора 1 -8.5",
     "coff": "1.27",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора 1 -8.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.27\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_OT__P1(-8.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1005,7 +1005,7 @@
     "type": "Фора 2 8.5",
     "coff": "3.27",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора 2 8.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    3.27\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_OT__P2(8.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1013,7 +1013,7 @@
     "type": "Фора 1 -7.5",
     "coff": "1.26",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора 1 -7.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.26\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_OT__P1(-7.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1021,7 +1021,7 @@
     "type": "Фора 2 7.5",
     "coff": "3.33",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора 2 7.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    3.33\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_OT__P2(7.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1077,7 +1077,7 @@
     "type": "Индивидуальный тотал 1-го 92.5 Б",
     "coff": "1.39",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1-го 92.5 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.39\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P1__TOTALS_OT__OVER(92.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1085,7 +1085,7 @@
     "type": "Индивидуальный тотал 1-го 92.5 М",
     "coff": "2.67",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1-го 92.5 М</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.67\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P1__TOTALS_OT__UNDER(92.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1093,7 +1093,7 @@
     "type": "Индивидуальный тотал 1-го 93.5 Б",
     "coff": "1.48",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1-го 93.5 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.48\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P1__TOTALS_OT__OVER(93.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1101,7 +1101,7 @@
     "type": "Индивидуальный тотал 1-го 93.5 М",
     "coff": "2.39",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1-го 93.5 М</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.39\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P1__TOTALS_OT__UNDER(93.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1109,7 +1109,7 @@
     "type": "Индивидуальный тотал 1-го 94.5 Б",
     "coff": "1.6",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1-го 94.5 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.6\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P1__TOTALS_OT__OVER(94.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1117,7 +1117,7 @@
     "type": "Индивидуальный тотал 1-го 94.5 М",
     "coff": "2.14",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1-го 94.5 М</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.14\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P1__TOTALS_OT__UNDER(94.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1125,7 +1125,7 @@
     "type": "Индивидуальный тотал 1-го 95.5 Б",
     "coff": "1.74",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1-го 95.5 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.74\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P1__TOTALS_OT__OVER(95.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1133,7 +1133,7 @@
     "type": "Индивидуальный тотал 1-го 95.5 М",
     "coff": "1.93",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1-го 95.5 М</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.93\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P1__TOTALS_OT__UNDER(95.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1141,7 +1141,7 @@
     "type": "Индивидуальный тотал 1-го 96.5 Б",
     "coff": "1.96",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1-го 96.5 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.96\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P1__TOTALS_OT__OVER(96.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1149,7 +1149,7 @@
     "type": "Индивидуальный тотал 1-го 96.5 М",
     "coff": "1.8",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1-го 96.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.8\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P1__TOTALS_OT__UNDER(96.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1157,7 +1157,7 @@
     "type": "Индивидуальный тотал 1-го 97.5 Б",
     "coff": "2.13",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1-го 97.5 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.13\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P1__TOTALS_OT__OVER(97.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1165,7 +1165,7 @@
     "type": "Индивидуальный тотал 1-го 97.5 М",
     "coff": "1.54",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1-го 97.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.54\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P1__TOTALS_OT__UNDER(97.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1173,7 +1173,7 @@
     "type": "Индивидуальный тотал 1-го 98.5 Б",
     "coff": "2.52",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1-го 98.5 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.52\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P1__TOTALS_OT__OVER(98.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1181,7 +1181,7 @@
     "type": "Индивидуальный тотал 1-го 100.5 Б",
     "coff": "2.79",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1-го 100.5 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.79\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P1__TOTALS_OT__OVER(100.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1189,7 +1189,7 @@
     "type": "Индивидуальный тотал 1-го 100.5 М",
     "coff": "1.36",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1-го 100.5 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.36\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P1__TOTALS_OT__UNDER(100.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1197,7 +1197,7 @@
     "type": "Индивидуальный тотал 1-го 100.5 М",
     "coff": "1.36",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 1-го 100.5 М</span> <span class=\"bet coef-change\"><span>\n                    1.36\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P1__TOTALS_OT__UNDER(100.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1205,7 +1205,7 @@
     "type": "Индивидуальный тотал 2-го 85.5 Б",
     "coff": "2.88",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 2-го 85.5 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    2.88\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P2__TOTALS_OT__OVER(85.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1213,7 +1213,7 @@
     "type": "Индивидуальный тотал 2-го 85.5 М",
     "coff": "1.34",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный тотал 2-го 85.5 М</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.34\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P2__TOTALS_OT__UNDER(85.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1221,7 +1221,7 @@
     "type": "Европейский гандикап 0:16 П1",
     "coff": "2.02",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Европейский гандикап 0:16 П1</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.02\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_3W__P1(16)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1229,7 +1229,7 @@
     "type": "Европейский гандикап 0:16 Х",
     "coff": "12.9",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Европейский гандикап 0:16 Х</span> <span class=\"bet coef-change gc_lite\"><span>\n                    12.9\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_3W__PX(-16)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1237,7 +1237,7 @@
     "type": "Европейский гандикап 0:16 П2",
     "coff": "1.77",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Европейский гандикап 0:16 П2</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.77\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_3W__P2(-16)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1245,7 +1245,7 @@
     "type": "Европейский гандикап 0:14 П1",
     "coff": "1.92",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Европейский гандикап 0:14 П1</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.92\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_3W__P1(14)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1253,7 +1253,7 @@
     "type": "Европейский гандикап 0:14 Х",
     "coff": "12.8",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Европейский гандикап 0:14 Х</span> <span class=\"bet coef-change rc_lite\"><span>\n                    12.8\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_3W__PX(-14)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1261,7 +1261,7 @@
     "type": "Европейский гандикап 0:14 П2",
     "coff": "1.83",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Европейский гандикап 0:14 П2</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.83\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "HANDICAP_3W__P2(-14)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1269,7 +1269,7 @@
     "type": "Трехпутевой тотал Больше 176",
     "coff": "1.65",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Трехпутевой тотал Больше 176</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.65\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__OVER(176.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1277,7 +1277,7 @@
     "type": "Трехпутевой тотал Ровно 176",
     "coff": "13",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Трехпутевой тотал Ровно 176</span> <span class=\"bet coef-change gc_lite\"><span>\n                    13\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__EXACT(176)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1285,7 +1285,7 @@
     "type": "Трехпутевой тотал Меньше 176",
     "coff": "2.22",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Трехпутевой тотал Меньше 176</span> <span class=\"bet coef-change rc_lite\"><span>\n                    2.22\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__UNDER(175.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1293,7 +1293,7 @@
     "type": "Трехпутевой тотал Больше 178",
     "coff": "1.83",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Трехпутевой тотал Больше 178</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.83\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__OVER(178.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1301,7 +1301,7 @@
     "type": "Трехпутевой тотал Ровно 178",
     "coff": "12.9",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Трехпутевой тотал Ровно 178</span> <span class=\"bet coef-change gc_lite\"><span>\n                    12.9\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__EXACT(178)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1309,7 +1309,7 @@
     "type": "Трехпутевой тотал Меньше 178",
     "coff": "1.92",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Трехпутевой тотал Меньше 178</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.92\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__UNDER(177.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1317,7 +1317,7 @@
     "type": "Трехпутевой тотал Больше 180",
     "coff": "2.07",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Трехпутевой тотал Больше 180</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.07\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__OVER(180.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1325,7 +1325,7 @@
     "type": "Трехпутевой тотал Ровно 180",
     "coff": "12.9",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Трехпутевой тотал Ровно 180</span> <span class=\"bet coef-change gc_lite\"><span>\n                    12.9\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__EXACT(180)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1333,7 +1333,7 @@
     "type": "Трехпутевой тотал Меньше 180",
     "coff": "1.74",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Трехпутевой тотал Меньше 180</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.74\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "TOTALS_OT__UNDER(179.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1357,7 +1357,7 @@
     "type": "Фора по четвертям 1 -3.5",
     "coff": "16",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора по четвертям 1 -3.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    16\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SETS_HANDICAP__P1(-3.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1365,7 +1365,7 @@
     "type": "Фора по четвертям 2 3.5",
     "coff": "1.001",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора по четвертям 2 3.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.001\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SETS_HANDICAP__P2(3.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1373,7 +1373,7 @@
     "type": "Фора по четвертям 1 -2.5",
     "coff": "13",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора по четвертям 1 -2.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    13\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SETS_HANDICAP__P1(-2.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1381,7 +1381,7 @@
     "type": "Фора по четвертям 2 2.5",
     "coff": "1.02",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора по четвертям 2 2.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.02\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SETS_HANDICAP__P2(2.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1389,7 +1389,7 @@
     "type": "Фора по четвертям 1 -1.5",
     "coff": "1.49",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора по четвертям 1 -1.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.49\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SETS_HANDICAP__P1(-1.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1397,7 +1397,7 @@
     "type": "Фора по четвертям 2 1.5",
     "coff": "2.47",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора по четвертям 2 1.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    2.47\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SETS_HANDICAP__P2(1.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1405,7 +1405,7 @@
     "type": "Фора по четвертям 1 -0.5",
     "coff": "1.35",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора по четвертям 1 -0.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.35\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SETS_HANDICAP__P1(-0.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1413,7 +1413,7 @@
     "type": "Фора по четвертям 2 0.5",
     "coff": "2.85",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора по четвертям 2 0.5</span> <span class=\"bet coef-change rc_lite\"><span>\n                    2.85\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SETS_HANDICAP__P2(0.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1421,7 +1421,7 @@
     "type": "Фора по четвертям 2 -0.5",
     "coff": "16",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора по четвертям 2 -0.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    16\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SETS_HANDICAP__P2(-0.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1429,7 +1429,7 @@
     "type": "Фора по четвертям 2 -1.5",
     "coff": "16",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора по четвертям 2 -1.5</span> <span class=\"bet coef-change gc_lite\"><span>\n                    16\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SETS_HANDICAP__P2(-1.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1437,7 +1437,7 @@
     "type": "Фора по четвертям 2 -1.5",
     "coff": "16",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Фора по четвертям 2 -1.5</span> <span class=\"bet coef-change\"><span>\n                    16\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "SETS_HANDICAP__P2(-1.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1517,7 +1517,7 @@
     "type": "Индивидуальный трехпутевой тотал 1 Больше 94",
     "coff": "1.52",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный трехпутевой тотал 1 Больше 94</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.52\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P1__TOTALS_OT__OVER(94.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1525,7 +1525,7 @@
     "type": "Индивидуальный трехпутевой тотал 1 Ровно 94",
     "coff": "6.73",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный трехпутевой тотал 1 Ровно 94</span> <span class=\"bet coef-change gc_lite\"><span>\n                    6.73\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P1__TOTALS_OT__EXACT(94)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1533,7 +1533,7 @@
     "type": "Индивидуальный трехпутевой тотал 1 Меньше 94",
     "coff": "2.56",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный трехпутевой тотал 1 Меньше 94</span> <span class=\"bet coef-change rc_lite\"><span>\n                    2.56\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P1__TOTALS_OT__UNDER(93.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1541,7 +1541,7 @@
     "type": "Индивидуальный трехпутевой тотал 1 Больше 96",
     "coff": "1.86",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный трехпутевой тотал 1 Больше 96</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.86\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P1__TOTALS_OT__OVER(96.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1549,7 +1549,7 @@
     "type": "Индивидуальный трехпутевой тотал 1 Ровно 96",
     "coff": "6.61",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный трехпутевой тотал 1 Ровно 96</span> <span class=\"bet coef-change gc_lite\"><span>\n                    6.61\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P1__TOTALS_OT__EXACT(96)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1557,7 +1557,7 @@
     "type": "Индивидуальный трехпутевой тотал 1 Меньше 96",
     "coff": "2.05",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный трехпутевой тотал 1 Меньше 96</span> <span class=\"bet coef-change rc_lite\"><span>\n                    2.05\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P1__TOTALS_OT__UNDER(95.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1565,7 +1565,7 @@
     "type": "Индивидуальный трехпутевой тотал 1 Больше 98",
     "coff": "2.22",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный трехпутевой тотал 1 Больше 98</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.22\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P1__TOTALS_OT__OVER(98.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1573,7 +1573,7 @@
     "type": "Индивидуальный трехпутевой тотал 1 Ровно 98",
     "coff": "6.64",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный трехпутевой тотал 1 Ровно 98</span> <span class=\"bet coef-change gc_lite\"><span>\n                    6.64\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P1__TOTALS_OT__EXACT(98)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
@@ -1581,7 +1581,7 @@
     "type": "Индивидуальный трехпутевой тотал 1 Меньше 98",
     "coff": "1.69",
     "html": "<section class=\"tbs_r\"><div class=\"gameBlockInCoupon\">Заблокировано</div> <div class=\"rate\"><!----> <div class=\"liga\">36727. Баскетбол Чемпионат Новой Зеландии</div> <div class=\"teams\">Веллингтон Сэйнтс - Окленд Хаскиз</div> <div class=\"type\"><span class=\"type-name\">Индивидуальный трехпутевой тотал 1 Меньше 98</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.69\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "P1__TOTALS_OT__UNDER(97.5)"
   },
   {
     "team1": "Веллингтон Сэйнтс",
