@@ -24,6 +24,12 @@ export class AppComponent implements OnInit {
   }
 
   ngOnInit() {
-    this.table = this.bet365Service.table();
+    const twentytwobetTable = this.twentytwobetService.table();
+    const lootTable = this.lootService.table();
+    const maxlineTable = this.maxlineService.table();
+    const favbetTable = this.favbetService.table();
+    const bet365Table = this.bet365Service.table();
+    
+    this.table = [...twentytwobetTable, ...lootTable, ...maxlineTable, ...favbetTable, ...bet365Table];
   }
 }

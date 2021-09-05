@@ -14,14 +14,16 @@ export class ParserService {
       /во всех/iu, /в компенсир/iu, /результат без победы/iu, /победит в/iu, /в 2 гол/iu, /в одном из/iu,
       /удаление/iu, /замена/iu, / мин/iu, /нечётный тотал/iu, /четный тотал/iu, /оба/iu,
       /сек/iu, /раньше/iu, /обоих/iu, /минутные/iu, /хотя бы/iu, /красн/iu, /подряд/iu,
-      /ничья.*нет/iu, / и обе/iu, /время .*гола/iu, / и выиграет/iu, / и не выиграет/iu, / и проиграет/iu,
+      /ничья.*нет/iu, / и обе/iu, /мин .*гола/iu, / и выиграет/iu, / и не выиграет/iu, / и проиграет/iu,
       / и ничья/iu, / и тб/iu, / \+ /iu, /победный перевес/iu, /с преимуществом .*в .*/iu, /супертотал/iu, /нет ставки/iu,
       /суперфора/iu, /тотал розыгрышей/iu, /ставка недействительна/iu, /трехисходный/iu, /счет по четвертям/iu,
       /победа по четвертям/iu, /точный счёт после/iu, /или лучше/iu, /следующие два гейма/iu,
       /любой другой исход/iu, /будет лидировать/iu, /выиграет.*или/iu, /гонка до.*геймов/iu, /результат после/iu,
       /счёт любого игрока/iu, /преимущество после/iu, /гандикап на убийства/iu, /точный счёт раунда/iu,
       /победитель.* и.* тотал/iu, /победитель.* половины.* и.* карты/iu, /тотал убийств/iu,
-      /половина.* (победитель|гандикап)/iu, /след.* гейм.* тотал очков.* 21/iu, /победа ровно в/iu
+      /половина.* (победитель|гандикап)/iu, /след.* гейм.* тотал очков.* 21/iu, /победа ровно в/iu,
+      /1 гол или ничья/iu, /победа.* в (один|1).* гол/iu, /выиграет и тотал/iu, /не проиграет и тотал/iu,
+      /обе команды забьют (больше|меньше)/iu, /время след.* гола/iu
     ].map(regexp => regexp.test(betString)).indexOf(true) !== -1) {
       return '';
     }
@@ -41,13 +43,13 @@ export class ParserService {
       case /фора по.*(сет|сэт|партия|период|четвер)|(фора|гандикап) на матч/iu.test(betString): type = `SETS_HANDICAP`; break;
       case /европейский гандикап|гандикап.*3 исход|3 исход.*гандикап/iu.test(betString): type = `HANDICAP_3W`; break;
       case /handicap|фора|гандикап/iu.test(betString): type = `HANDICAP`; break;
-      case /тотал очков (текущ|следующ)|тотал.* (в|по) .*(сет|сэт|парт|перио)/iu.test(betString): type = `SETS_TOTALS`; break;
+      case /тотал геймов .*(сет|сэт|парт|перио)|тотал очков (текущ|следующ)|тотал.* (в|по) .*(сет|сэт|парт|перио)/iu.test(betString): type = `SETS_TOTALS`; break;
       case /первый гол|забьёт следующий \(1\) гол|следующий гол/iu.test(betString): type = `WHO_SCORE_3W`; break;
-      case /кол.* (игр|геймов).* текущем|тотал|гол.* команд|точное кол.* голов|нечет|нечёт| четн| чётн| чет\.| чёт\.|кол.*геймов.*в.*сете/iu.test(betString): type = 'TOTALS'; break;
+      case /итоговый результат|кол.* (игр|геймов).* текущем|тотал|гол.* команд|точное кол.* голов|нечет|нечёт| четн| чётн| чет\.| чёт\.|кол.*геймов.*в.*сете/iu.test(betString): type = 'TOTALS'; break;
       case /раунд.* победитель|след.* (гейм|игра).* (первое|1).* очко|наберет.*очки.*первой|победитель [0-9]{1,3} раунда|поинты .* в .*гейме|ставк.*на.*очк/iu.test(betString): type = `WHO_SCORE`; break;
       case /правильный счёт|текущий сет|точный сч(е|ё)т|счет: |период:.*сч(е|ё)т/iu.test(betString): type = `CORRECT_SCORE`; break;
+      case /альтернативн.* гол|линия.* гол|голы в матче|забьет|тотал|кол.*гол|диапазон.*гол|итог |точное кол.* очков/iu.test(betString): type = `TOTALS`; break;
       case /итоговый победитель|победа|ничья|проход|исход|выход|выйдет|наиб.*кол.*очк|результат|победитель|не проиграет|winner|двойной шанс|углов|1x2/iu.test(betString) && !/результативная/iu.test(betString): type = `WIN`; break;
-      case /альтернативн.* гол|линия.* гол|голы в матче|забьет|тотал|кол.*гол|диапазон.*гол|итог|точное кол.* очков/iu.test(betString): type = `TOTALS`; break;
       case /проход.*полный матч/iu.test(betString): type = `WIN_OT`; break;
       case /1 ?(х|x) ?2 углов/iu.test(betString): type = `WIN_CORNERS`; break;
       case /обе.*забьют.*да/iu.test(betString): type = `BOTH_TEAMS_TO_SCORE`; break;
@@ -75,49 +77,16 @@ export class ParserService {
       }
     }
 
-    let team = '';
-    if (['WIN', 'HANDICAP', 'TOTALS', 'WHO_SCORE', 'TO_SCORE', 'GAME', 'CLEAN_SHEET'].filter(t => type.indexOf(t) !== -1).length > 0) {
-      switch (true) {
-        case /или ничья/iu.test(betString) && (/: +1( +\(|$)/.test(betString) || /(1-й|1) ком/.test(betString) || /пер[^ ]* ком/iu.test(betString) || betString.indexOf(team1) !== -1): team = `1X`; break;
-        case /или ничья/iu.test(betString) && (/: +2( +\(|$)/.test(betString) || /(2-й|2) ком/.test(betString) || /вто[^ ]* ком/iu.test(betString) || betString.indexOf(team2) !== -1): team = `X2`; break;
-        case / 1(x|х) | 1(x|х)$/iu.test(betString): team = `1X`; break;
-        case /двойной шанс.*не проиграет/iu.test(betString) && betString.indexOf(team1) !== -1: team = `1X`; break;
-        case /или/iu.test(betString) && betString.indexOf(team1) !== -1 && betString.indexOf(team2) !== -1: team = `12`; break;
-        case /любой из|не будет ничьи|двойной шанс.* 12| 12$/iu.test(betString): team = `12`; break;
-        case / 2(x|х) | 2(x|х)$| (x|х)2 | (x|х)2$/iu.test(betString): team = `X2`; break;
-        case /двойной шанс.*не проиграет|ничья.*или/iu.test(betString) && betString.indexOf(team2) !== -1: team = `X2`; break;
-        case /ничья|наиб.*кол.*очк.*никто/iu.test(betString) && !/нулев.*ничья|3 исход|точный счёт/iu.test(betString): team = 'PX'; break;
-        case / X$| Х$/iu.test(betString): team = 'PX'; break;
-        case /(перв|посл).*гол.*никто|забь?(е|ё)т.*следующ.*\(?1\)?.*гол.*никто|следующий гол.*не будет|гонка до.* ни один/iu.test(betString): team = 'NO'; break;
-        case /: +1( +\(|$)/.test(betString): team = 'P1'; break;
-        case /: +2( +\(|$)/.test(betString): team = 'P2'; break;
-        case /(1-й|1) ком/.test(betString): team = 'P1'; break;
-        case /(2-й|2) ком/.test(betString): team = 'P2'; break;
-        case /пер[^ ]* ком/iu.test(betString): team = 'P1'; break;
-        case /вто[^ ]* ком/iu.test(betString): team = 'P2'; break;
-        case (betString.indexOf(team1) !== -1 || betString.indexOf(this.transliterate(team1)) !== -1) && !/точный счёт/iu.test(betString): team = 'P1'; break;
-        case (betString.indexOf(team2) !== -1 || betString.indexOf(this.transliterate(team2)) !== -1) && !/точный счёт/iu.test(betString): team = 'P2'; break;
-        case /команда 1|хозяев.*/iu.test(betString): team = 'P1'; break;
-        case /команда 2|гост.*/iu.test(betString): team = 'P2'; break;
-        case /(фора|индивидуальный тотал|трехпутевой тотал) 1/iu.test(betString): team = 'P1'; break;
-        case /(фора|индивидуальный тотал|трехпутевой тотал) 2/iu.test(betString): team = 'P2'; break;
-        case /фора (по|на) (парти|сет|четвер|раунд)[^ ]* 1/iu.test(betString): team = 'P1'; break;
-        case /фора (по|на) (парти|сет|четвер|раунд)[^ ]* 2/iu.test(betString): team = 'P2'; break;
-        case / П1/iu.test(betString): team = 'P1'; break;
-        case / П2/iu.test(betString): team = 'P2'; break;
-      }
-    }
-
     let direction = '';
     if (['TOTALS'].filter(t => type.indexOf(t) !== -1).length > 0) {
       switch (true) {
-        case / б(о|o)льш(е|e)|\(5\+\)|точн.*бол|кол.*гол.*матче.* (бол|мен)|точное кол.* [0-9]+\+ гол.*|выше/iu.test(betString): direction = 'OVER'; break;
+        case / б(о|o)льш(е|e)|\(5\+\)|точн.*бол|кол.*гол.*матче.* (бол|мен)|точное кол.* [0-9]+\+ гол.*|выше|диапазон.* гол.*\+/iu.test(betString): direction = 'OVER'; break;
         case / м(е|e)ньш(е|e)|точн.*мен|ниже/iu.test(betString): direction = 'UNDER'; break;
         case / Б | Б$/u.test(betString): direction = 'OVER'; break;
         case / М | М$/u.test(betString): direction = 'UNDER'; break;
         case /равно|ровно|нулев|бьет.*[0-9] или [0-9]/iu.test(betString): direction = 'EXACT'; break;
         case /точн|точное кол.* голов/iu.test(betString) && !/точный сч(е|ё)т/iu.test(betString): direction = 'EXACT'; break;
-        case /голов в матче|сколько|диапазон.*гол|точное количество/iu.test(betString): direction = 'EXACT'; break;
+        case /голов в матче|сколько|диапазон.* гол|точное количество/iu.test(betString): direction = 'EXACT'; break;
       }
     }
 
@@ -203,6 +172,44 @@ export class ParserService {
           coff = parseFloat(betString.replace(/.*гандикап на раунды.* +([0-9-+.]{1,7}).*/iu, '$1'));
           coff = `(${coff})`;
           break;
+        case /диапазон гол.* [0-9]{1,7}\+?$/iu.test(betString):
+          coff = parseFloat(betString.replace(/.*диапазон гол.* ([0-9]{1,7})\+?$/iu, '$1'));
+          coff = `(${coff})`;
+          break;
+      }
+    }
+
+    let team = '';
+    if (['WIN', 'HANDICAP', 'TOTALS', 'WHO_SCORE', 'TO_SCORE', 'GAME', 'CLEAN_SHEET'].filter(t => type.indexOf(t) !== -1).length > 0) {
+      switch (true) {
+        case /или ничья/iu.test(betString) && (/: +1( +\(|$)/.test(betString) || /(1-й|1) ком/.test(betString) || /пер[^ ]* ком/iu.test(betString) || betString.indexOf(team1) !== -1): team = `1X`; break;
+        case /или ничья/iu.test(betString) && (/: +2( +\(|$)/.test(betString) || /(2-й|2) ком/.test(betString) || /вто[^ ]* ком/iu.test(betString) || betString.indexOf(team2) !== -1): team = `X2`; break;
+        case / 1(x|х) | 1(x|х)$/iu.test(betString): team = `1X`; break;
+        case /двойной шанс.*не проиграет/iu.test(betString) && betString.indexOf(team1) !== -1: team = `1X`; break;
+        case /или/iu.test(betString) && betString.indexOf(team1) !== -1 && betString.indexOf(team2) !== -1: team = `12`; break;
+        case /любой из|не будет ничьи|двойной шанс.* 12| 12$/iu.test(betString): team = `12`; break;
+        case / 2(x|х) | 2(x|х)$| (x|х)2 | (x|х)2$/iu.test(betString): team = `X2`; break;
+        case /двойной шанс.*не проиграет|ничья.*или/iu.test(betString) && betString.indexOf(team2) !== -1: team = `X2`; break;
+        case /ничья|наиб.*кол.*очк.*никто/iu.test(betString) && !/нулев.*ничья|3 исход|точный счёт/iu.test(betString): team = 'PX'; break;
+        case / X$| Х$/iu.test(betString): team = 'PX'; break;
+        case /(перв|посл).*гол.*никто|забь?(е|ё)т.*следующ.*\(?1\)?.*гол.*никто|следующий гол.*не будет|гонка до.* ни один/iu.test(betString): team = 'NO'; break;
+        case /без гола/iu.test(betString) && !coff: team = 'NO'; break;
+        case /: +1( +\(|$)/.test(betString): team = 'P1'; break;
+        case /: +2( +\(|$)/.test(betString): team = 'P2'; break;
+        case /(1-й|1) ком/.test(betString): team = 'P1'; break;
+        case /(2-й|2) ком/.test(betString): team = 'P2'; break;
+        case /пер[^ ]* ком/iu.test(betString): team = 'P1'; break;
+        case /вто[^ ]* ком/iu.test(betString): team = 'P2'; break;
+        case (betString.indexOf(team1) !== -1 || betString.indexOf(this.transliterate(team1)) !== -1) && !/точный счёт/iu.test(betString): team = 'P1'; break;
+        case (betString.indexOf(team2) !== -1 || betString.indexOf(this.transliterate(team2)) !== -1) && !/точный счёт/iu.test(betString): team = 'P2'; break;
+        case /команда 1|хозяев.*/iu.test(betString): team = 'P1'; break;
+        case /команда 2|гост.*/iu.test(betString): team = 'P2'; break;
+        case /(фора|индивидуальный тотал|трехпутевой тотал) 1/iu.test(betString): team = 'P1'; break;
+        case /(фора|индивидуальный тотал|трехпутевой тотал) 2/iu.test(betString): team = 'P2'; break;
+        case /фора (по|на) (парти|сет|четвер|раунд)[^ ]* 1/iu.test(betString): team = 'P1'; break;
+        case /фора (по|на) (парти|сет|четвер|раунд)[^ ]* 2/iu.test(betString): team = 'P2'; break;
+        case / П1/iu.test(betString): team = 'P1'; break;
+        case / П2/iu.test(betString): team = 'P2'; break;
       }
     }
 

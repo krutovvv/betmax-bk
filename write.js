@@ -565,7 +565,27 @@ function data(json, sport) {
   return json;
 }
 
+function counter() {
+  const base = './src/app/data';
+  const dataDir = fs.readdirSync(base);
+  let counter = 0;
+  for (let i = 0; i < dataDir.length; i ++) {
+    const stats = fs.statSync(`${base}/${dataDir[i]}`);
+    if (stats.isDirectory()) {
+      const bkDir = fs.readdirSync(`${base}/${dataDir[i]}`);
+      for (let b = 0; b < bkDir.length; b ++) {
+        const statsBk = fs.statSync(`${base}/${dataDir[i]}/${bkDir[b]}`);
+        if (statsBk.isFile()) {
+          const dataJson = JSON.parse(fs.readFileSync(`${base}/${dataDir[i]}/${bkDir[b]}`, {encoding: 'utf8'}));
+          counter = counter + dataJson.length;
+        }
+      }
+    }
+  }
+  console.log(counter);
+}
 
 // const json = JSON.parse(fs.readFileSync('src/app/data/favbet/cs.json', {encoding: 'utf8'}));
 // const update = data(json, 'cs');
 // fs.writeFileSync('src/app/data/favbet/cs.json', JSON.stringify(update, null, 2));
+counter();
