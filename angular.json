@@ -128,6 +128,37 @@
           }
         }
       }
+    },
+    "parser": {
+      "projectType": "library",
+      "root": "projects/parser",
+      "sourceRoot": "projects/parser/src",
+      "prefix": "lib",
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-angular:ng-packagr",
+          "options": {
+            "project": "projects/parser/ng-package.json"
+          },
+          "configurations": {
+            "production": {
+              "tsConfig": "projects/parser/tsconfig.lib.prod.json"
+            },
+            "development": {
+              "tsConfig": "projects/parser/tsconfig.lib.json"
+            }
+          },
+          "defaultConfiguration": "production"
+        },
+        "test": {
+          "builder": "@angular-devkit/build-angular:karma",
+          "options": {
+            "main": "projects/parser/src/test.ts",
+            "tsConfig": "projects/parser/tsconfig.spec.json",
+            "karmaConfig": "projects/parser/karma.conf.js"
+          }
+        }
+      }
     }
   },
   "defaultProject": "betmax-bk",

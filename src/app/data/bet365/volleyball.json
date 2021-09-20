@@ -213,7 +213,7 @@
     "type": "Тотал очков текущего сета - Сет 3 - Больше (46.5)",
     "coff": "1.90",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сет 3 - Больше<div class=\"qbs-NormalBetItem_Handicap \">46.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.90</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал очков текущего сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
-    "test": "SET_03__SETS_TOTALS__OVER(46.5)"
+    "test": "SET_03__TOTALS__OVER(46.5)"
   },
   {
     "team1": "Сокол-про",
@@ -237,7 +237,7 @@
     "type": "Тотал очков текущего сета - Сет 3 - Меньше (46.5)",
     "coff": "1.80",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Сет 3 - Меньше<div class=\"qbs-NormalBetItem_Handicap \">46.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.80</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал очков текущего сета</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Сокол-про v Феникс-про</div></div>",
-    "test": "SET_03__SETS_TOTALS__UNDER(46.5)"
+    "test": "SET_03__TOTALS__UNDER(46.5)"
   },
   {
     "team1": "Сокол-про",
@@ -637,7 +637,7 @@
     "type": "Гандикап на матч - Очки - Азербайджан - Женщины (+21.5)",
     "coff": "1.80",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Азербайджан - Женщины<div class=\"qbs-NormalBetItem_Handicap \">+21.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.80</span></span><div class=\"qbs-NormalBetItem_Market \">Гандикап на матч - Очки</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
-    "test": "SETS_HANDICAP__P1(21.5)"
+    "test": "HANDICAP__P1(21.5)"
   },
   {
     "team1": "Азербайджан - Женщины",
@@ -645,7 +645,7 @@
     "type": "Гандикап на матч - Очки - Бельгия - Женщины (-21.5)",
     "coff": "1.90",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Бельгия - Женщины<div class=\"qbs-NormalBetItem_Handicap \">-21.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.90</span></span><div class=\"qbs-NormalBetItem_Market \">Гандикап на матч - Очки</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Азербайджан - Женщины v Бельгия - Женщины</div></div>",
-    "test": "SETS_HANDICAP__P2(-21.5)"
+    "test": "HANDICAP__P2(-21.5)"
   },
   {
     "team1": "Азербайджан - Женщины",

@@ -1,5 +1,4 @@
 import { Injectable } from '@angular/core';
-import { CheckService } from './check.service';
 import football from '../data/bet365/football.json';
 import hockey from '../data/bet365/hockey.json';
 import tableTennis from '../data/bet365/table-tennis.json';
@@ -7,7 +6,8 @@ import tennis from '../data/bet365/tennis.json';
 import volleyball from '../data/bet365/volleyball.json';
 import basketball from '../data/bet365/basketball.json';
 import cs from '../data/bet365/cs.json';
-import { ParserService } from './parser.service';
+import { CheckService } from '../../../projects/parser/src/lib/check.service';
+import { ParserService } from '../../../projects/parser/src/lib/parser.service';
 
 interface TennisData {
   gamesPlayedInPreviousSets: number;

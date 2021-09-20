@@ -5,7 +5,7 @@
     "type": "Победа в раунде П1 в 15 раунде",
     "coff": "1.555",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Победа в раунде П1 в 15 раунде</span> <span class=\"bet coef-change\"><span>\n                    1.555\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "WHO_SCORE__15__P1"
   },
   {
     "team1": "Team Steelseries",
@@ -13,7 +13,7 @@
     "type": "Победа в раунде П2 в 15 раунде",
     "coff": "2.385",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">11260. Counter Strike Counter-Strike</div> <div class=\"teams\">Team Steelseries - TRIDENT</div> <div class=\"type\"><span class=\"type-name\">Победа в раунде П2 в 15 раунде</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.385\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": ""
+    "test": "WHO_SCORE__15__P2"
   },
   {
     "team1": "Team Steelseries",

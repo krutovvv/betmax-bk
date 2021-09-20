@@ -93,7 +93,7 @@
     "type": "Двойной шанс - Ледяные великаны не проиграет",
     "coff": "1.53",
     "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _hockey\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/hockey/ice-giants-vs-fakel-8665630/bets\">Ледяные великаны vs Факел</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/hockey/ice-giants-vs-fakel-8665630/bets\">Двойной шанс - Ледяные великаны не проиграет</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _112\"><span class=\"outcome__number\">1.53</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53791291db8d718bd5694\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
-    "test": "WIN_OT__1X"
+    "test": "WIN_RT__1X"
   },
   {
     "team1": "Ледяные великаны",
@@ -101,7 +101,7 @@
     "type": "Двойной шанс - Не будет ничьи",
     "coff": "1.19",
     "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _hockey\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/hockey/ice-giants-vs-fakel-8665630/bets\">Ледяные великаны vs Факел</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/hockey/ice-giants-vs-fakel-8665630/bets\">Двойной шанс - Не будет ничьи</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _113\"><span class=\"outcome__number\">1.19</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53791291db8e063bd5695\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
-    "test": "WIN_OT__12"
+    "test": "WIN_RT__12"
   },
   {
     "team1": "Ледяные великаны",
@@ -109,7 +109,7 @@
     "type": "Двойной шанс - Факел не проиграет",
     "coff": "1.53",
     "html": "<div class=\"bets__item-close\"><i class=\"iconFont iconFont-icon-close\"></i></div><div class=\"bets__item-info\"><div class=\"bets__item-sport discipline-icon _hockey\"></div><a aria-current=\"page\" class=\"bets__item-tournament active\" href=\"/hockey/ice-giants-vs-fakel-8665630/bets\">Ледяные великаны vs Факел</a></div><a aria-current=\"page\" class=\"bets__item-name active\" href=\"/hockey/ice-giants-vs-fakel-8665630/bets\">Двойной шанс - Факел не проиграет</a><div class=\"bets__item-odd\"><div class=\"outcome_info outcome equal _114\"><span class=\"outcome__number\">1.53</span></div></div><div class=\"bets__item-footer\"><div class=\"bets__item-footer-input\"><input class=\"coupon__odd-input\" name=\"stake\" type=\"text\" id=\"60f53791291db86a82bd5696\" placeholder=\"Сумма ставки\" autocomplete=\"off\"></div><div class=\"bets__item-footer-to-return\"><div class=\"coupon__possible-win\"><div class=\"coupon__possible-win-text\">Возможный выигрыш</div><div class=\"coupon__possible-win-sum\"><div class=\"_amount\">0.00</div></div></div></div></div>",
-    "test": "WIN_OT__X2"
+    "test": "WIN_RT__X2"
   },
   {
     "team1": "Ледяные великаны",

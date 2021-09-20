@@ -1,5 +1,4 @@
 import { Injectable } from '@angular/core';
-import { CheckService } from './check.service';
 import football from '../data/loot/football.json';
 import hockey from '../data/loot/hockey.json';
 import tableTennis from '../data/loot/table-tennis.json';
@@ -7,7 +6,8 @@ import tennis from '../data/loot/tennis.json';
 import volleyball from '../data/loot/volleyball.json';
 import basketball from '../data/loot/basketball.json';
 import cs from '../data/loot/cs.json';
-import { ParserService } from './parser.service';
+import { ParserService } from '../../../projects/parser/src/lib/parser.service';
+import { CheckService } from '../../../projects/parser/src/lib/check.service';
 
 @Injectable({
   providedIn: 'root'

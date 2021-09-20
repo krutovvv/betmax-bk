@@ -1,5 +1,4 @@
 import { Injectable } from '@angular/core';
-import { CheckService } from './check.service';
 import football from '../data/twentytwobet/football.json';
 import hockey from '../data/twentytwobet/hockey.json';
 import tableTennis from '../data/twentytwobet/table-tennis.json';
@@ -7,7 +6,8 @@ import tennis from '../data/twentytwobet/tennis.json';
 import volleyball from '../data/twentytwobet/volleyball.json';
 import basketball from '../data/twentytwobet/basketball.json';
 import cs from '../data/twentytwobet/cs.json';
-import { ParserService } from './parser.service';
+import { ParserService } from '../../../projects/parser/src/lib/parser.service';
+import { CheckService } from '../../../projects/parser/src/lib/check.service';
 
 @Injectable({
   providedIn: 'root'
@@ -46,10 +46,10 @@ export class TwentytwobetService {
       const result = this.render(basketball[i].html, 'basketball');
       table.push([`Баскетбол: ${result.team1}/${result.team2}`, basketball[i].type, result.bet, result.check ? result.check.name : '', basketball[i]?.['test'], (basketball[i]?.['test'] || basketball[i]?.['test'] === '') ? (result.bet || '') === basketball[i]?.['test'] : null]);
     }
-    // for (let i = 0; i < cs.length; i++) {
-    //   const result = this.render(cs[i].html, 'cs');
-    //   table.push([`CS: ${result.team1}/${result.team2}`, cs[i].type, result.bet, result.check ? result.check.name : '', cs[i]?.['test'], (cs[i]?.['test'] || cs[i]?.['test'] === '') ? (result.bet || '') === cs[i]?.['test'] : null]);
-    // }
+    for (let i = 0; i < cs.length; i++) {
+      const result = this.render(cs[i].html, 'cs');
+      table.push([`CS: ${result.team1}/${result.team2}`, cs[i].type, result.bet, result.check ? result.check.name : '', cs[i]?.['test'], (cs[i]?.['test'] || cs[i]?.['test'] === '') ? (result.bet || '') === cs[i]?.['test'] : null]);
+    }
 
     return table;
   }

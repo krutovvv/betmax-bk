@@ -12,6 +12,12 @@
     "allowSyntheticDefaultImports": true,
     "moduleResolution": "node",
     "importHelpers": true,
+    "paths": {
+      "parser": [
+        "dist/parser/parser",
+        "dist/parser"
+      ]
+    },
     "target": "es2015",
     "module": "es2020",
     "lib": [

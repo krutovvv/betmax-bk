@@ -413,7 +413,7 @@
     "type": "Текущий сет - Гонка до 4 геймов - 3-й сет - Зарина Дияс",
     "coff": "1.11",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">3-й сет - Зарина Дияс</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.11</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - Гонка до 4 геймов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
-    "test": ""
+    "test": "SET_03__FIRST_TO_SCORE__04__P1"
   },
   {
     "team1": "Зарина Дияс",
@@ -421,7 +421,7 @@
     "type": "Текущий сет - Гонка до 5 геймов - 3-й сет - Зарина Дияс",
     "coff": "1.18",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">3-й сет - Зарина Дияс</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.18</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - Гонка до 5 геймов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
-    "test": ""
+    "test": "SET_03__FIRST_TO_SCORE__05__P1"
   },
   {
     "team1": "Зарина Дияс",
@@ -429,7 +429,7 @@
     "type": "Текущий сет - Гонка до 4 геймов - 3-й сет - Сара Эррани",
     "coff": "6.50",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">3-й сет - Сара Эррани</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>6.50</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - Гонка до 4 геймов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
-    "test": ""
+    "test": "SET_03__FIRST_TO_SCORE__04__P2"
   },
   {
     "team1": "Зарина Дияс",
@@ -437,7 +437,7 @@
     "type": "Текущий сет - Гонка до 5 геймов - 3-й сет - Сара Эррани",
     "coff": "4.50",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">3-й сет - Сара Эррани</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>4.50</span></span><div class=\"qbs-NormalBetItem_Market \">Текущий сет - Гонка до 5 геймов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Зарина Дияс v Сара Эррани</div></div>",
-    "test": ""
+    "test": "SET_03__FIRST_TO_SCORE__05__P2"
   },
   {
     "team1": "Зарина Дияс",

@@ -45,7 +45,7 @@
     "type": "Азиатский тотал 9.25 Б",
     "coff": "1.775",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">40874. Хоккей Ice Cup</div> <div class=\"teams\">ЦСКА тим - Динамо тим</div> <div class=\"type\"><span class=\"type-name\">Азиатский тотал 9.25 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.775\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": "TOTALS__OVER(9.25)"
+    "test": "TOTALS_RT__OVER(9.25)"
   },
   {
     "team1": "ЦСКА тим",
@@ -53,7 +53,7 @@
     "type": "Азиатский тотал 9.25 М",
     "coff": "2.025",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">40874. Хоккей Ice Cup</div> <div class=\"teams\">ЦСКА тим - Динамо тим</div> <div class=\"type\"><span class=\"type-name\">Азиатский тотал 9.25 М</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.025\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": "TOTALS__UNDER(9.25)"
+    "test": "TOTALS_RT__UNDER(9.25)"
   },
   {
     "team1": "ЦСКА тим",
@@ -61,7 +61,7 @@
     "type": "Азиатский тотал 9.75 Б",
     "coff": "2.12",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">40874. Хоккей Ice Cup</div> <div class=\"teams\">ЦСКА тим - Динамо тим</div> <div class=\"type\"><span class=\"type-name\">Азиатский тотал 9.75 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.12\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": "TOTALS__OVER(9.75)"
+    "test": "TOTALS_RT__OVER(9.75)"
   },
   {
     "team1": "ЦСКА тим",
@@ -69,7 +69,7 @@
     "type": "Азиатский тотал 9.75 М",
     "coff": "1.69",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">40874. Хоккей Ice Cup</div> <div class=\"teams\">ЦСКА тим - Динамо тим</div> <div class=\"type\"><span class=\"type-name\">Азиатский тотал 9.75 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.69\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": "TOTALS__UNDER(9.75)"
+    "test": "TOTALS_RT__UNDER(9.75)"
   },
   {
     "team1": "ЦСКА тим",
@@ -77,7 +77,7 @@
     "type": "Азиатская фора 1 -0.25",
     "coff": "2.09",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">40874. Хоккей Ice Cup</div> <div class=\"teams\">ЦСКА тим - Динамо тим</div> <div class=\"type\"><span class=\"type-name\">Азиатская фора 1 -0.25</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.09\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": "HANDICAP__P1(-0.25)"
+    "test": "HANDICAP_RT__P1(-0.25)"
   },
   {
     "team1": "ЦСКА тим",
@@ -85,7 +85,7 @@
     "type": "Азиатская фора 2 0.25",
     "coff": "1.725",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">40874. Хоккей Ice Cup</div> <div class=\"teams\">ЦСКА тим - Динамо тим</div> <div class=\"type\"><span class=\"type-name\">Азиатская фора 2 0.25</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.725\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": "HANDICAP__P2(0.25)"
+    "test": "HANDICAP_RT__P2(0.25)"
   },
   {
     "team1": "ЦСКА тим",
@@ -93,7 +93,7 @@
     "type": "Азиатская фора 1 0.25",
     "coff": "1.72",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">40874. Хоккей Ice Cup</div> <div class=\"teams\">ЦСКА тим - Динамо тим</div> <div class=\"type\"><span class=\"type-name\">Азиатская фора 1 0.25</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.72\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": "HANDICAP__P1(0.25)"
+    "test": "HANDICAP_RT__P1(0.25)"
   },
   {
     "team1": "ЦСКА тим",
@@ -101,7 +101,7 @@
     "type": "Азиатская фора 2 -0.25",
     "coff": "2.075",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">40874. Хоккей Ice Cup</div> <div class=\"teams\">ЦСКА тим - Динамо тим</div> <div class=\"type\"><span class=\"type-name\">Азиатская фора 2 -0.25</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.075\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": "HANDICAP__P2(-0.25)"
+    "test": "HANDICAP_RT__P2(-0.25)"
   },
   {
     "team1": "ЦСКА тим",
@@ -109,7 +109,7 @@
     "type": "Азиатская фора 1 0.75",
     "coff": "1.48",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">40874. Хоккей Ice Cup</div> <div class=\"teams\">ЦСКА тим - Динамо тим</div> <div class=\"type\"><span class=\"type-name\">Азиатская фора 1 0.75</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.48\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": "HANDICAP__P1(0.75)"
+    "test": "HANDICAP_RT__P1(0.75)"
   },
   {
     "team1": "ЦСКА тим",
@@ -117,7 +117,7 @@
     "type": "Азиатская фора 2 -0.75",
     "coff": "2.584",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">40874. Хоккей Ice Cup</div> <div class=\"teams\">ЦСКА тим - Динамо тим</div> <div class=\"type\"><span class=\"type-name\">Азиатская фора 2 -0.75</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.584\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": "HANDICAP__P2(-0.75)"
+    "test": "HANDICAP_RT__P2(-0.75)"
   },
   {
     "team1": "ЦСКА тим",
@@ -125,7 +125,7 @@
     "type": "Азиатский индивидуальный тотал 1-го 4.25 Б",
     "coff": "1.525",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">40874. Хоккей Ice Cup</div> <div class=\"teams\">ЦСКА тим - Динамо тим</div> <div class=\"type\"><span class=\"type-name\">Азиатский индивидуальный тотал 1-го 4.25 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.525\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": "P1__TOTALS__OVER(4.25)"
+    "test": "P1__TOTALS_RT__OVER(4.25)"
   },
   {
     "team1": "ЦСКА тим",
@@ -133,7 +133,7 @@
     "type": "Азиатский индивидуальный тотал 1-го 4.25 М",
     "coff": "2.31",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">40874. Хоккей Ice Cup</div> <div class=\"teams\">ЦСКА тим - Динамо тим</div> <div class=\"type\"><span class=\"type-name\">Азиатский индивидуальный тотал 1-го 4.25 М</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.31\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": "P1__TOTALS__UNDER(4.25)"
+    "test": "P1__TOTALS_RT__UNDER(4.25)"
   },
   {
     "team1": "ЦСКА тим",
@@ -141,7 +141,7 @@
     "type": "Азиатский индивидуальный тотал 1-го 4.75 Б",
     "coff": "2",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">40874. Хоккей Ice Cup</div> <div class=\"teams\">ЦСКА тим - Динамо тим</div> <div class=\"type\"><span class=\"type-name\">Азиатский индивидуальный тотал 1-го 4.75 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    2\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": "P1__TOTALS__OVER(4.75)"
+    "test": "P1__TOTALS_RT__OVER(4.75)"
   },
   {
     "team1": "ЦСКА тим",
@@ -149,7 +149,7 @@
     "type": "Азиатский индивидуальный тотал 1-го 4.75 М",
     "coff": "1.785",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">40874. Хоккей Ice Cup</div> <div class=\"teams\">ЦСКА тим - Динамо тим</div> <div class=\"type\"><span class=\"type-name\">Азиатский индивидуальный тотал 1-го 4.75 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.785\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": "P1__TOTALS__UNDER(4.75)"
+    "test": "P1__TOTALS_RT__UNDER(4.75)"
   },
   {
     "team1": "ЦСКА тим",
@@ -157,7 +157,7 @@
     "type": "Азиатский индивидуальный тотал 1-го 5.25 Б",
     "coff": "2.65",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">40874. Хоккей Ice Cup</div> <div class=\"teams\">ЦСКА тим - Динамо тим</div> <div class=\"type\"><span class=\"type-name\">Азиатский индивидуальный тотал 1-го 5.25 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.65\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": "P1__TOTALS__OVER(5.25)"
+    "test": "P1__TOTALS_RT__OVER(5.25)"
   },
   {
     "team1": "ЦСКА тим",
@@ -165,7 +165,7 @@
     "type": "Азиатский индивидуальный тотал 1-го 5.25 М",
     "coff": "1.408",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">40874. Хоккей Ice Cup</div> <div class=\"teams\">ЦСКА тим - Динамо тим</div> <div class=\"type\"><span class=\"type-name\">Азиатский индивидуальный тотал 1-го 5.25 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.408\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": "P1__TOTALS__UNDER(5.25)"
+    "test": "P1__TOTALS_RT__UNDER(5.25)"
   },
   {
     "team1": "ЦСКА тим",
@@ -173,7 +173,7 @@
     "type": "Азиатский индивидуальный тотал 2-го 4.25 Б",
     "coff": "1.525",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">40874. Хоккей Ice Cup</div> <div class=\"teams\">ЦСКА тим - Динамо тим</div> <div class=\"type\"><span class=\"type-name\">Азиатский индивидуальный тотал 2-го 4.25 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.525\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": "P2__TOTALS__OVER(4.25)"
+    "test": "P2__TOTALS_RT__OVER(4.25)"
   },
   {
     "team1": "ЦСКА тим",
@@ -181,7 +181,7 @@
     "type": "Азиатский индивидуальный тотал 2-го 4.25 М",
     "coff": "2.31",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">40874. Хоккей Ice Cup</div> <div class=\"teams\">ЦСКА тим - Динамо тим</div> <div class=\"type\"><span class=\"type-name\">Азиатский индивидуальный тотал 2-го 4.25 М</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.31\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": "P2__TOTALS__UNDER(4.25)"
+    "test": "P2__TOTALS_RT__UNDER(4.25)"
   },
   {
     "team1": "ЦСКА тим",
@@ -189,7 +189,7 @@
     "type": "Азиатский индивидуальный тотал 2-го 4.75 Б",
     "coff": "2",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">40874. Хоккей Ice Cup</div> <div class=\"teams\">ЦСКА тим - Динамо тим</div> <div class=\"type\"><span class=\"type-name\">Азиатский индивидуальный тотал 2-го 4.75 Б</span> <span class=\"bet coef-change rc_lite\"><span>\n                    2\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": "P2__TOTALS__OVER(4.75)"
+    "test": "P2__TOTALS_RT__OVER(4.75)"
   },
   {
     "team1": "ЦСКА тим",
@@ -197,7 +197,7 @@
     "type": "Азиатский индивидуальный тотал 2-го 4.75 М",
     "coff": "1.785",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">40874. Хоккей Ice Cup</div> <div class=\"teams\">ЦСКА тим - Динамо тим</div> <div class=\"type\"><span class=\"type-name\">Азиатский индивидуальный тотал 2-го 4.75 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.785\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": "P2__TOTALS__UNDER(4.75)"
+    "test": "P2__TOTALS_RT__UNDER(4.75)"
   },
   {
     "team1": "ЦСКА тим",
@@ -205,7 +205,7 @@
     "type": "Азиатский индивидуальный тотал 2-го 5.25 Б",
     "coff": "2.65",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">40874. Хоккей Ice Cup</div> <div class=\"teams\">ЦСКА тим - Динамо тим</div> <div class=\"type\"><span class=\"type-name\">Азиатский индивидуальный тотал 2-го 5.25 Б</span> <span class=\"bet coef-change gc_lite\"><span>\n                    2.65\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": "P2__TOTALS__OVER(5.25)"
+    "test": "P2__TOTALS_RT__OVER(5.25)"
   },
   {
     "team1": "ЦСКА тим",
@@ -213,7 +213,7 @@
     "type": "Азиатский индивидуальный тотал 2-го 5.25 М",
     "coff": "1.408",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">40874. Хоккей Ice Cup</div> <div class=\"teams\">ЦСКА тим - Динамо тим</div> <div class=\"type\"><span class=\"type-name\">Азиатский индивидуальный тотал 2-го 5.25 М</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.408\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": "P2__TOTALS__UNDER(5.25)"
+    "test": "P2__TOTALS_RT__UNDER(5.25)"
   },
   {
     "team1": "ЦСКА тим",
@@ -477,7 +477,7 @@
     "type": "Двойной шанс 1Х",
     "coff": "1.575",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">40874. Хоккей Ice Cup</div> <div class=\"teams\">ЦСКА тим - Динамо тим</div> <div class=\"type\"><span class=\"type-name\">Двойной шанс 1Х</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.575\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": "WIN_OT__1X"
+    "test": "WIN_RT__1X"
   },
   {
     "team1": "ЦСКА тим",
@@ -485,7 +485,7 @@
     "type": "Двойной шанс 12",
     "coff": "1.12",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">40874. Хоккей Ice Cup</div> <div class=\"teams\">ЦСКА тим - Динамо тим</div> <div class=\"type\"><span class=\"type-name\">Двойной шанс 12</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.12\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": "WIN_OT__12"
+    "test": "WIN_RT__12"
   },
   {
     "team1": "ЦСКА тим",
@@ -493,7 +493,7 @@
     "type": "Двойной шанс 2Х",
     "coff": "1.575",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">40874. Хоккей Ice Cup</div> <div class=\"teams\">ЦСКА тим - Динамо тим</div> <div class=\"type\"><span class=\"type-name\">Двойной шанс 2Х</span> <span class=\"bet coef-change gc_lite\"><span>\n                    1.575\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": "WIN_OT__X2"
+    "test": "WIN_RT__X2"
   },
   {
     "team1": "ЦСКА тим",

@@ -5,7 +5,7 @@
     "type": "Ничья - Ставка недействительна - Динамо Москва",
     "coff": "2.10",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Динамо Москва</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.10</span></span><div class=\"qbs-NormalBetItem_Market \">Ничья - Ставка недействительна</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": ""
+    "test": "HANDICAP_RT__P1(0)"
   },
   {
     "team1": "Динамо Москва",
@@ -13,7 +13,7 @@
     "type": "Ничья - Ставка недействительна - Авангард Омск",
     "coff": "1.70",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Авангард Омск</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.70</span></span><div class=\"qbs-NormalBetItem_Market \">Ничья - Ставка недействительна</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": ""
+    "test": "HANDICAP_RT__P2(0)"
   },
   {
     "team1": "Динамо Москва",
@@ -21,7 +21,7 @@
     "type": "Азиатский гандикап - Динамо Москва (0.0,+0.5)",
     "coff": "1.850",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Динамо Москва<div class=\"qbs-NormalBetItem_Handicap \">0.0,+0.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.850</span></span><div class=\"qbs-NormalBetItem_Market \">Азиатский гандикап</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "HANDICAP__P1(0.25)"
+    "test": "HANDICAP_RT__P1(0.25)"
   },
   {
     "team1": "Динамо Москва",
@@ -29,7 +29,7 @@
     "type": "Азиатский гандикап - Авангард Омск (0.0,-0.5)",
     "coff": "1.850",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Авангард Омск<div class=\"qbs-NormalBetItem_Handicap \">0.0,-0.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.850</span></span><div class=\"qbs-NormalBetItem_Market \">Азиатский гандикап</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "HANDICAP__P2(-0.25)"
+    "test": "HANDICAP_RT__P2(-0.25)"
   },
   {
     "team1": "Динамо Москва",
@@ -37,7 +37,7 @@
     "type": "Азиатская линия голов - Больше (5.5)",
     "coff": "1.850",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше<div class=\"qbs-NormalBetItem_Handicap \">5.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.850</span></span><div class=\"qbs-NormalBetItem_Market \">Азиатская линия голов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "TOTALS__OVER(5.5)"
+    "test": "TOTALS_RT__OVER(5.5)"
   },
   {
     "team1": "Динамо Москва",
@@ -45,7 +45,7 @@
     "type": "Азиатская линия голов - Меньшe (5.5)",
     "coff": "1.850",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньшe<div class=\"qbs-NormalBetItem_Handicap \">5.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.850</span></span><div class=\"qbs-NormalBetItem_Market \">Азиатская линия голов</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "TOTALS__UNDER(5.5)"
+    "test": "TOTALS_RT__UNDER(5.5)"
   },
   {
     "team1": "Динамо Москва",
@@ -53,7 +53,7 @@
     "type": "Точный счёт - Динамо Москва  1-0",
     "coff": "45.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Динамо Москва  1-0</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>45.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(1:0)"
+    "test": "CORRECT_SCORE_RT(1:0)"
   },
   {
     "team1": "Динамо Москва",
@@ -61,7 +61,7 @@
     "type": "Точный счёт - Динамо Москва  2-0",
     "coff": "30.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Динамо Москва  2-0</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>30.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(2:0)"
+    "test": "CORRECT_SCORE_RT(2:0)"
   },
   {
     "team1": "Динамо Москва",
@@ -69,7 +69,7 @@
     "type": "Точный счёт - Динамо Москва  3-0",
     "coff": "25.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Динамо Москва  3-0</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>25.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(3:0)"
+    "test": "CORRECT_SCORE_RT(3:0)"
   },
   {
     "team1": "Динамо Москва",
@@ -77,7 +77,7 @@
     "type": "Точный счёт - Динамо Москва  4-0",
     "coff": "40.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Динамо Москва  4-0</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>40.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(4:0)"
+    "test": "CORRECT_SCORE_RT(4:0)"
   },
   {
     "team1": "Динамо Москва",
@@ -85,7 +85,7 @@
     "type": "Точный счёт - Динамо Москва  5-0",
     "coff": "50.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Динамо Москва  5-0</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>50.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(5:0)"
+    "test": "CORRECT_SCORE_RT(5:0)"
   },
   {
     "team1": "Динамо Москва",
@@ -93,7 +93,7 @@
     "type": "Точный счёт - Динамо Москва  6-0",
     "coff": "70.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Динамо Москва  6-0</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>70.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(6:0)"
+    "test": "CORRECT_SCORE_RT(6:0)"
   },
   {
     "team1": "Динамо Москва",
@@ -101,7 +101,7 @@
     "type": "Точный счёт - Динамо Москва  2-1",
     "coff": "16.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Динамо Москва  2-1</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>16.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(2:1)"
+    "test": "CORRECT_SCORE_RT(2:1)"
   },
   {
     "team1": "Динамо Москва",
@@ -109,7 +109,7 @@
     "type": "Точный счёт - Динамо Москва  3-1",
     "coff": "14.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Динамо Москва  3-1</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>14.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(3:1)"
+    "test": "CORRECT_SCORE_RT(3:1)"
   },
   {
     "team1": "Динамо Москва",
@@ -117,7 +117,7 @@
     "type": "Точный счёт - Динамо Москва  4-1",
     "coff": "16.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Динамо Москва  4-1</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>16.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(4:1)"
+    "test": "CORRECT_SCORE_RT(4:1)"
   },
   {
     "team1": "Динамо Москва",
@@ -125,7 +125,7 @@
     "type": "Точный счёт - Динамо Москва  5-1",
     "coff": "30.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Динамо Москва  5-1</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>30.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(5:1)"
+    "test": "CORRECT_SCORE_RT(5:1)"
   },
   {
     "team1": "Динамо Москва",
@@ -133,7 +133,7 @@
     "type": "Точный счёт - Динамо Москва  6-1",
     "coff": "45.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Динамо Москва  6-1</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>45.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(6:1)"
+    "test": "CORRECT_SCORE_RT(6:1)"
   },
   {
     "team1": "Динамо Москва",
@@ -141,7 +141,7 @@
     "type": "Точный счёт - Динамо Москва  3-2",
     "coff": "14.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Динамо Москва  3-2</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>14.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(3:2)"
+    "test": "CORRECT_SCORE_RT(3:2)"
   },
   {
     "team1": "Динамо Москва",
@@ -149,7 +149,7 @@
     "type": "Точный счёт - Динамо Москва  4-2",
     "coff": "14.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Динамо Москва  4-2</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>14.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(4:2)"
+    "test": "CORRECT_SCORE_RT(4:2)"
   },
   {
     "team1": "Динамо Москва",
@@ -157,7 +157,7 @@
     "type": "Точный счёт - Динамо Москва  5-2",
     "coff": "20.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Динамо Москва  5-2</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>20.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(5:2)"
+    "test": "CORRECT_SCORE_RT(5:2)"
   },
   {
     "team1": "Динамо Москва",
@@ -165,7 +165,7 @@
     "type": "Точный счёт - Динамо Москва  6-2",
     "coff": "40.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Динамо Москва  6-2</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>40.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(6:2)"
+    "test": "CORRECT_SCORE_RT(6:2)"
   },
   {
     "team1": "Динамо Москва",
@@ -173,7 +173,7 @@
     "type": "Точный счёт - Динамо Москва  4-3",
     "coff": "22.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Динамо Москва  4-3</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>22.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(4:3)"
+    "test": "CORRECT_SCORE_RT(4:3)"
   },
   {
     "team1": "Динамо Москва",
@@ -181,7 +181,7 @@
     "type": "Точный счёт - Динамо Москва  5-3",
     "coff": "22.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Динамо Москва  5-3</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>22.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(5:3)"
+    "test": "CORRECT_SCORE_RT(5:3)"
   },
   {
     "team1": "Динамо Москва",
@@ -189,7 +189,7 @@
     "type": "Точный счёт - Динамо Москва  6-3",
     "coff": "35.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Динамо Москва  6-3</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>35.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(6:3)"
+    "test": "CORRECT_SCORE_RT(6:3)"
   },
   {
     "team1": "Динамо Москва",
@@ -197,7 +197,7 @@
     "type": "Точный счёт - Динамо Москва  5-4",
     "coff": "40.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Динамо Москва  5-4</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>40.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(5:4)"
+    "test": "CORRECT_SCORE_RT(5:4)"
   },
   {
     "team1": "Динамо Москва",
@@ -205,7 +205,7 @@
     "type": "Точный счёт - Динамо Москва  6-4",
     "coff": "45.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Динамо Москва  6-4</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>45.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(6:4)"
+    "test": "CORRECT_SCORE_RT(6:4)"
   },
   {
     "team1": "Динамо Москва",
@@ -213,7 +213,7 @@
     "type": "Точный счёт - Динамо Москва  6-5",
     "coff": "90.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Динамо Москва  6-5</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>90.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(6:5)"
+    "test": "CORRECT_SCORE_RT(6:5)"
   },
   {
     "team1": "Динамо Москва",
@@ -221,7 +221,7 @@
     "type": "Точный счёт - Авангард Омск  1-0",
     "coff": "40.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Авангард Омск  1-0</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>40.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(0:1)"
+    "test": "CORRECT_SCORE_RT(0:1)"
   },
   {
     "team1": "Динамо Москва",
@@ -229,7 +229,7 @@
     "type": "Точный счёт - Авангард Омск  2-0",
     "coff": "25.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Авангард Омск  2-0</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>25.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(0:2)"
+    "test": "CORRECT_SCORE_RT(0:2)"
   },
   {
     "team1": "Динамо Москва",
@@ -237,7 +237,7 @@
     "type": "Точный счёт - Авангард Омск  3-0",
     "coff": "20.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Авангард Омск  3-0</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>20.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(0:3)"
+    "test": "CORRECT_SCORE_RT(0:3)"
   },
   {
     "team1": "Динамо Москва",
@@ -245,7 +245,7 @@
     "type": "Точный счёт - Авангард Омск  4-0",
     "coff": "30.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Авангард Омск  4-0</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>30.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(0:4)"
+    "test": "CORRECT_SCORE_RT(0:4)"
   },
   {
     "team1": "Динамо Москва",
@@ -253,7 +253,7 @@
     "type": "Точный счёт - Авангард Омск  5-0",
     "coff": "40.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Авангард Омск  5-0</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>40.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(0:5)"
+    "test": "CORRECT_SCORE_RT(0:5)"
   },
   {
     "team1": "Динамо Москва",
@@ -261,7 +261,7 @@
     "type": "Точный счёт - Авангард Омск  6-0",
     "coff": "50.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Авангард Омск  6-0</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>50.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(0:6)"
+    "test": "CORRECT_SCORE_RT(0:6)"
   },
   {
     "team1": "Динамо Москва",
@@ -269,7 +269,7 @@
     "type": "Точный счёт - Авангард Омск  2-1",
     "coff": "16.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Авангард Омск  2-1</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>16.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(1:2)"
+    "test": "CORRECT_SCORE_RT(1:2)"
   },
   {
     "team1": "Динамо Москва",
@@ -277,7 +277,7 @@
     "type": "Точный счёт - Авангард Омск  3-1",
     "coff": "13.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Авангард Омск  3-1</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>13.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(1:3)"
+    "test": "CORRECT_SCORE_RT(1:3)"
   },
   {
     "team1": "Динамо Москва",
@@ -285,7 +285,7 @@
     "type": "Точный счёт - Авангард Омск  4-1",
     "coff": "13.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Авангард Омск  4-1</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>13.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(1:4)"
+    "test": "CORRECT_SCORE_RT(1:4)"
   },
   {
     "team1": "Динамо Москва",
@@ -293,7 +293,7 @@
     "type": "Точный счёт - Авангард Омск  5-1",
     "coff": "22.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Авангард Омск  5-1</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>22.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(1:5)"
+    "test": "CORRECT_SCORE_RT(1:5)"
   },
   {
     "team1": "Динамо Москва",
@@ -301,7 +301,7 @@
     "type": "Точный счёт - Авангард Омск  6-1",
     "coff": "35.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Авангард Омск  6-1</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>35.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(1:6)"
+    "test": "CORRECT_SCORE_RT(1:6)"
   },
   {
     "team1": "Динамо Москва",
@@ -309,7 +309,7 @@
     "type": "Точный счёт - Авангард Омск  3-2",
     "coff": "13.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Авангард Омск  3-2</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>13.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(2:3)"
+    "test": "CORRECT_SCORE_RT(2:3)"
   },
   {
     "team1": "Динамо Москва",
@@ -317,7 +317,7 @@
     "type": "Точный счёт - Авангард Омск  4-2",
     "coff": "13.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Авангард Омск  4-2</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>13.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(2:4)"
+    "test": "CORRECT_SCORE_RT(2:4)"
   },
   {
     "team1": "Динамо Москва",
@@ -325,7 +325,7 @@
     "type": "Точный счёт - Авангард Омск  5-2",
     "coff": "16.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Авангард Омск  5-2</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>16.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(2:5)"
+    "test": "CORRECT_SCORE_RT(2:5)"
   },
   {
     "team1": "Динамо Москва",
@@ -333,7 +333,7 @@
     "type": "Точный счёт - Авангард Омск  6-2",
     "coff": "30.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Авангард Омск  6-2</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>30.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(2:6)"
+    "test": "CORRECT_SCORE_RT(2:6)"
   },
   {
     "team1": "Динамо Москва",
@@ -341,7 +341,7 @@
     "type": "Точный счёт - Авангард Омск  4-3",
     "coff": "20.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Авангард Омск  4-3</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>20.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(3:4)"
+    "test": "CORRECT_SCORE_RT(3:4)"
   },
   {
     "team1": "Динамо Москва",
@@ -349,7 +349,7 @@
     "type": "Точный счёт - Авангард Омск  5-3",
     "coff": "20.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Авангард Омск  5-3</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>20.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(3:5)"
+    "test": "CORRECT_SCORE_RT(3:5)"
   },
   {
     "team1": "Динамо Москва",
@@ -357,7 +357,7 @@
     "type": "Точный счёт - Авангард Омск  6-3",
     "coff": "30.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Авангард Омск  6-3</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>30.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(3:6)"
+    "test": "CORRECT_SCORE_RT(3:6)"
   },
   {
     "team1": "Динамо Москва",
@@ -365,7 +365,7 @@
     "type": "Точный счёт - Авангард Омск  5-4",
     "coff": "40.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Авангард Омск  5-4</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>40.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(4:5)"
+    "test": "CORRECT_SCORE_RT(4:5)"
   },
   {
     "team1": "Динамо Москва",
@@ -373,7 +373,7 @@
     "type": "Точный счёт - Авангард Омск  6-4",
     "coff": "45.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Авангард Омск  6-4</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>45.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(4:6)"
+    "test": "CORRECT_SCORE_RT(4:6)"
   },
   {
     "team1": "Динамо Москва",
@@ -381,7 +381,7 @@
     "type": "Точный счёт - Авангард Омск  6-5",
     "coff": "80.00",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Авангард Омск  6-5</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>80.00</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(5:6)"
+    "test": "CORRECT_SCORE_RT(5:6)"
   },
   {
     "team1": "Динамо Москва",
@@ -389,7 +389,7 @@
     "type": "Точный счёт - Любой другой счёт",
     "coff": "2.80",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Любой другой счёт</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>2.80</span></span><div class=\"qbs-NormalBetItem_Market \">Точный счёт</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "CORRECT_SCORE(ANY_OTHER)"
+    "test": "CORRECT_SCORE_RT(ANY_OTHER)"
   },
   {
     "team1": "Динамо Москва",
@@ -397,7 +397,7 @@
     "type": "Двойной шанс - Динамо Москва или Авангард Омск",
     "coff": "1.20",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Динамо Москва или Авангард Омск</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.20</span></span><div class=\"qbs-NormalBetItem_Market \">Двойной шанс</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "WIN_OT__12"
+    "test": "WIN_RT__12"
   },
   {
     "team1": "Динамо Москва",
@@ -405,7 +405,7 @@
     "type": "Двойной шанс - Динамо Москва или ничья",
     "coff": "1.70",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Динамо Москва или ничья</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.70</span></span><div class=\"qbs-NormalBetItem_Market \">Двойной шанс</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "WIN_OT__1X"
+    "test": "WIN_RT__1X"
   },
   {
     "team1": "Динамо Москва",
@@ -413,7 +413,7 @@
     "type": "Двойной шанс - Авангард Омск или ничья",
     "coff": "1.48",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Авангард Омск или ничья</div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.48</span></span><div class=\"qbs-NormalBetItem_Market \">Двойной шанс</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Динамо Москва v Авангард Омск</div></div>",
-    "test": "WIN_OT__X2"
+    "test": "WIN_RT__X2"
   },
   {
     "team1": "Динамо Москва",

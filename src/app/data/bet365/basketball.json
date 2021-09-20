@@ -13,7 +13,7 @@
     "type": "Тотал с 2 исходами - Больше (150.5)",
     "coff": "1.83",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше<div class=\"qbs-NormalBetItem_Handicap \">150.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал с 2 исходами</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">BKN Nets (Obsidian) Esports @ GS Warriors (Guardian) Esports</div></div>",
-    "test": "TOTALS__OVER(150.5)"
+    "test": "TOTALS_OT__OVER(150.5)"
   },
   {
     "team1": "BKN Nets (Obsidian) Esports",
@@ -29,7 +29,7 @@
     "type": "Тотал с 2 исходами - Меньшe (150.5)",
     "coff": "1.83",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньшe<div class=\"qbs-NormalBetItem_Handicap \">150.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал с 2 исходами</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">BKN Nets (Obsidian) Esports @ GS Warriors (Guardian) Esports</div></div>",
-    "test": "TOTALS__UNDER(150.5)"
+    "test": "TOTALS_OT__UNDER(150.5)"
   },
   {
     "team1": "BKN Nets (Obsidian) Esports",
@@ -61,7 +61,7 @@
     "type": "Тотал с 2 исходами - Больше (143.5)",
     "coff": "1.80",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Больше<div class=\"qbs-NormalBetItem_Handicap \">143.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.80</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал с 2 исходами</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">CHA Hornets (RAMZ) Esports @ WAS Wizards (TRAPSTAR) Esports</div></div>",
-    "test": "TOTALS__OVER(143.5)"
+    "test": "TOTALS_OT__OVER(143.5)"
   },
   {
     "team1": "CHA Hornets (RAMZ) Esports",
@@ -85,7 +85,7 @@
     "type": "Тотал с 2 исходами - Меньшe (143.5)",
     "coff": "1.86",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Меньшe<div class=\"qbs-NormalBetItem_Handicap \">143.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.86</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал с 2 исходами</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">CHA Hornets (RAMZ) Esports @ WAS Wizards (TRAPSTAR) Esports</div></div>",
-    "test": "TOTALS__UNDER(143.5)"
+    "test": "TOTALS_OT__UNDER(143.5)"
   },
   {
     "team1": "CHA Hornets (RAMZ) Esports",

@@ -2469,7 +2469,7 @@
     "type": "Азиатский тотал: Меньше (3.75)",
     "coff": "3.1",
     "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатский тотал: Меньше (3.75)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->3.1<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
-    "test": "TOTALS__UNDER(3.75)"
+    "test": "TOTALS_RT__UNDER(3.75)"
   },
   {
     "team1": "Тампа-Бэй Лайтнинг",
@@ -2477,7 +2477,7 @@
     "type": "Азиатский тотал: Больше (3.75)",
     "coff": "1.35",
     "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатский тотал: Больше (3.75)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.35<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
-    "test": "TOTALS__OVER(3.75)"
+    "test": "TOTALS_RT__OVER(3.75)"
   },
   {
     "team1": "Тампа-Бэй Лайтнинг",
@@ -2485,7 +2485,7 @@
     "type": "Азиатский тотал: Меньше (4.25)",
     "coff": "2.44",
     "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатский тотал: Меньше (4.25)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.44<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
-    "test": "TOTALS__UNDER(4.25)"
+    "test": "TOTALS_RT__UNDER(4.25)"
   },
   {
     "team1": "Тампа-Бэй Лайтнинг",
@@ -2493,7 +2493,7 @@
     "type": "Азиатский тотал: Больше (4.25)",
     "coff": "1.53",
     "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатский тотал: Больше (4.25)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.53<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
-    "test": "TOTALS__OVER(4.25)"
+    "test": "TOTALS_RT__OVER(4.25)"
   },
   {
     "team1": "Тампа-Бэй Лайтнинг",
@@ -2501,7 +2501,7 @@
     "type": "Азиатский тотал: Меньше (4.75)",
     "coff": "2",
     "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатский тотал: Меньше (4.75)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
-    "test": "TOTALS__UNDER(4.75)"
+    "test": "TOTALS_RT__UNDER(4.75)"
   },
   {
     "team1": "Тампа-Бэй Лайтнинг",
@@ -2509,7 +2509,7 @@
     "type": "Азиатский тотал: Больше (4.75)",
     "coff": "1.77",
     "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатский тотал: Больше (4.75)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.77<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
-    "test": "TOTALS__OVER(4.75)"
+    "test": "TOTALS_RT__OVER(4.75)"
   },
   {
     "team1": "Тампа-Бэй Лайтнинг",
@@ -2517,7 +2517,7 @@
     "type": "Азиатский тотал: Меньше (5.25)",
     "coff": "1.64",
     "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатский тотал: Меньше (5.25)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.64<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
-    "test": "TOTALS__UNDER(5.25)"
+    "test": "TOTALS_RT__UNDER(5.25)"
   },
   {
     "team1": "Тампа-Бэй Лайтнинг",
@@ -2525,7 +2525,7 @@
     "type": "Азиатский тотал: Больше (5.25)",
     "coff": "2.2",
     "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатский тотал: Больше (5.25)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.2<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
-    "test": "TOTALS__OVER(5.25)"
+    "test": "TOTALS_RT__OVER(5.25)"
   },
   {
     "team1": "Тампа-Бэй Лайтнинг",
@@ -2533,7 +2533,7 @@
     "type": "Азиатский тотал: Меньше (5.75)",
     "coff": "1.46",
     "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатский тотал: Меньше (5.75)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.46<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
-    "test": "TOTALS__UNDER(5.75)"
+    "test": "TOTALS_RT__UNDER(5.75)"
   },
   {
     "team1": "Тампа-Бэй Лайтнинг",
@@ -2541,7 +2541,7 @@
     "type": "Азиатский тотал: Больше (5.75)",
     "coff": "2.65",
     "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатский тотал: Больше (5.75)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.65<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
-    "test": "TOTALS__OVER(5.75)"
+    "test": "TOTALS_RT__OVER(5.75)"
   },
   {
     "team1": "Тампа-Бэй Лайтнинг",
@@ -2549,7 +2549,7 @@
     "type": "Азиатский тотал: Меньше (6.25)",
     "coff": "1.3",
     "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатский тотал: Меньше (6.25)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.3<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
-    "test": "TOTALS__UNDER(6.25)"
+    "test": "TOTALS_RT__UNDER(6.25)"
   },
   {
     "team1": "Тампа-Бэй Лайтнинг",
@@ -2557,7 +2557,7 @@
     "type": "Азиатский тотал: Больше (6.25)",
     "coff": "3.4",
     "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатский тотал: Больше (6.25)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->3.4<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
-    "test": "TOTALS__OVER(6.25)"
+    "test": "TOTALS_RT__OVER(6.25)"
   },
   {
     "team1": "Тампа-Бэй Лайтнинг",
@@ -2565,7 +2565,7 @@
     "type": "Азиатская фора:  1 (-2.25)",
     "coff": "3.7",
     "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатская фора:  1 (-2.25)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->3.7<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
-    "test": "HANDICAP__P1(-2.25)"
+    "test": "HANDICAP_RT__P1(-2.25)"
   },
   {
     "team1": "Тампа-Бэй Лайтнинг",
@@ -2573,7 +2573,7 @@
     "type": "Азиатская фора:  2 (+2.25)",
     "coff": "1.26",
     "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатская фора:  2 (+2.25)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.26<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
-    "test": "HANDICAP__P2(2.25)"
+    "test": "HANDICAP_RT__P2(2.25)"
   },
   {
     "team1": "Тампа-Бэй Лайтнинг",
@@ -2581,7 +2581,7 @@
     "type": "Азиатская фора:  1 (-1.75)",
     "coff": "2.8",
     "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатская фора:  1 (-1.75)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.8<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
-    "test": "HANDICAP__P1(-1.75)"
+    "test": "HANDICAP_RT__P1(-1.75)"
   },
   {
     "team1": "Тампа-Бэй Лайтнинг",
@@ -2589,7 +2589,7 @@
     "type": "Азиатская фора:  2 (+1.75)",
     "coff": "1.42",
     "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатская фора:  2 (+1.75)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.42<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
-    "test": "HANDICAP__P2(1.75)"
+    "test": "HANDICAP_RT__P2(1.75)"
   },
   {
     "team1": "Тампа-Бэй Лайтнинг",
@@ -2597,7 +2597,7 @@
     "type": "Азиатская фора:  1 (-1.25)",
     "coff": "2.33",
     "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатская фора:  1 (-1.25)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.33<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
-    "test": "HANDICAP__P1(-1.25)"
+    "test": "HANDICAP_RT__P1(-1.25)"
   },
   {
     "team1": "Тампа-Бэй Лайтнинг",
@@ -2605,7 +2605,7 @@
     "type": "Азиатская фора:  2 (+1.25)",
     "coff": "1.58",
     "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатская фора:  2 (+1.25)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.58<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
-    "test": "HANDICAP__P2(1.25)"
+    "test": "HANDICAP_RT__P2(1.25)"
   },
   {
     "team1": "Тампа-Бэй Лайтнинг",
@@ -2613,7 +2613,7 @@
     "type": "Азиатская фора:  1 (-0.75)",
     "coff": "2.05",
     "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатская фора:  1 (-0.75)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.05<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
-    "test": "HANDICAP__P1(-0.75)"
+    "test": "HANDICAP_RT__P1(-0.75)"
   },
   {
     "team1": "Тампа-Бэй Лайтнинг",
@@ -2621,7 +2621,7 @@
     "type": "Азиатская фора:  2 (+0.75)",
     "coff": "1.74",
     "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатская фора:  2 (+0.75)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.74<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
-    "test": "HANDICAP__P2(0.75)"
+    "test": "HANDICAP_RT__P2(0.75)"
   },
   {
     "team1": "Тампа-Бэй Лайтнинг",
@@ -2629,7 +2629,7 @@
     "type": "Азиатская фора:  2 (+0.25)",
     "coff": "2.15",
     "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатская фора:  2 (+0.25)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->2.15<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
-    "test": "HANDICAP__P2(0.25)"
+    "test": "HANDICAP_RT__P2(0.25)"
   },
   {
     "team1": "Тампа-Бэй Лайтнинг",
@@ -2637,7 +2637,7 @@
     "type": "Азиатская фора:  1 (+0.25)",
     "coff": "1.33",
     "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатская фора:  1 (+0.25)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->1.33<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
-    "test": "HANDICAP__P1(0.25)"
+    "test": "HANDICAP_RT__P1(0.25)"
   },
   {
     "team1": "Тампа-Бэй Лайтнинг",
@@ -2645,6 +2645,6 @@
     "type": "Азиатская фора:  2 (-0.25)",
     "coff": "3.2",
     "html": "<div class=\"eventName\">Тампа-Бэй Лайтнинг - Монреаль Канадиенс</div><div class=\"labels\"><div class=\"betName\">Азиатская фора:  2 (-0.25)</div><a class=\"delete\"></a><div class=\"betValue\"><!-- react-text: 6398 -->3.2<!-- /react-text --><!-- react-text: 6399 --> <!-- /react-text --></div></div>",
-    "test": "HANDICAP__P2(-0.25)"
+    "test": "HANDICAP_RT__P2(-0.25)"
   }
 ]

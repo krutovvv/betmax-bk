@@ -221,7 +221,7 @@
     "type": "Тотал очков следующей игры - Игра 5 - Больше (18.5)",
     "coff": "1.83",
     "html": "<div class=\"qbs-NormalBetItem_IndicationArea \"><div class=\"qbs-NormalBetItem_Indicator \"></div><span class=\"qbs-NormalBetItem_IndicationMessage \">Отменить</span></div><div class=\"qbs-NormalBetItem_TopSection\"><div class=\"qbs-NormalBetItem_TitleAndMarket\"><div class=\"qbs-NormalBetItem_Title \">Игра 5 - Больше<div class=\"qbs-NormalBetItem_Handicap \">18.5</div></div><span class=\"bsc-OddsDropdownLabel bs-OddsLabel bsc-OddsDropdownLabel-disabled \"><span>1.83</span></span><div class=\"qbs-NormalBetItem_Market \">Тотал очков следующей игры</div></div></div><div class=\"qbs-NormalBetItem_BottomSection\"><div class=\"qbs-NormalBetItem_FixtureDescription \">Андрей Хучок v Василий Кондратернко</div></div>",
-    "test": "SET_05__SETS_TOTALS__OVER(18.5)"
+    "test": "SET_05__TOTALS__OVER(18.5)"
   },
   {
     "team1": "Андрей Хучок",

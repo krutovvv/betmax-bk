@@ -197,7 +197,7 @@
     "type": "Кто забьет последний гол Команда 1",
     "coff": "9",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Кто забьет последний гол Команда 1</span> <span class=\"bet coef-change gc_lite\"><span>\n                    9\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": "LAST_TO_SCORE_3W__P1"
+    "test": "LAST_TO_SCORE__P1"
   },
   {
     "team1": "Портленд Тимберс",
@@ -205,7 +205,7 @@
     "type": "Кто забьет последний гол Команда 2",
     "coff": "1.04",
     "html": "<section class=\"\"><!----> <div class=\"rate\"><!----> <div class=\"liga\">26164. Футбол Чемпионат США. MLS</div> <div class=\"teams\">Портленд Тимберс - Лос-Анджелес</div> <div class=\"type\"><span class=\"type-name\">Кто забьет последний гол Команда 2</span> <span class=\"bet coef-change rc_lite\"><span>\n                    1.04\n                </span></span></div></div> <div title=\"Удалить ставку\" class=\"del-rate\"></div></section>",
-    "test": "LAST_TO_SCORE_3W__P2"
+    "test": "LAST_TO_SCORE__P2"
   },
   {
     "team1": "Портленд Тимберс",
